@@ -1,0 +1,6 @@
+nltk==3.5
+numpy==1.18.2
+pdftotext==2.1.4
+scikit-learn==0.22.2.post1
+gensim==3.8.2
+click==7.1.1

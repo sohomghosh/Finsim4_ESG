@@ -1,0 +1,1059 @@
+
+Advertising material
+Climate report 2020  
+Resilience and Responsibility
+  2
+Overview
+NAM's outlook on climate change      3
+What is TCFD?      4
+1. Climate governance      5
+2. Climate strategy and risk metrics       6
+3. Managing our climate risk exposure      13
+4. Climate targets      16
+Appendix      18
+Nordea
+Nordea is the largest financial services group in the Nordic region (approx. 9 million personal customers and 
+500,000 corporate customers) and one of the biggest banks in Europe. We want to make a real difference 
+– for our customers and for the communities in which we operate – by sharing our extensive expertise 
+based on 200 years in the banking business. 
+About Nordea Asset Management
+Nordea Asset Management (NAM) is part of the Nordea Group. We are an active asset manager with a 
+global business model, offering services to institutional clients in Europe, the Americas and Asia. We man-
+age investments across the full spectrum of asset classes. Our third-party distribution franchise services a 
+wide range of international fund distributors, including many of the leading global wealth managers. We 
+distribute our products through banks, asset managers, independent financial advisors, insurance compa-
+nies and family offices. Our client base is equally split between Nordea Group-related and external clients. 
+With EUR 254 bn (31 December 2020) in assets under management, we have been experiencing strong 
+growth over the past decade.
+N AM's outlook on climate change 3
+NAM’s outlook on climate change
+Continued efforts to align our portfolios with the Paris Agreement and address climate-related risk.
+Climate change presents long-term risks to both individual  To promote increased transparency and awareness around this 
+companies and industries, and to society at large. Our mission  topic, we have supported the Task-Force for Climate-related 
+is to deliver returns with responsibility and integrating climate  Financial Disclosures (TCFD) since 2017. TCFD has issued rec-
+risk into our investment decisions is therefore critical. Neglect- ommendations for enhancing the quality and usefulness of 
+ing these risks could have a negative impact on investment  climate-related reporting, which we see as crucial for enabling 
+performance through both unwanted risk exposures and  investors to properly manage climate risks and opportunities 
+missed opportunities as the world transitions to a low-carbon  within their portfolios. This report is structured based on these 
+economy. recommendations and will look at NAM’s climate governance, 
+strategy, risk management and targets.
+NAM’s strategy on climate change includes climate-focused 
+product development, climate-related divestment policies, and 
+the integration of climate risk management into the investment 
+process. Climate is a focus area for our engagement with the 
+companies in which we invest. We view this as both part of our 
+fiduciary duty and a means by which we can help meet the 
+goals of the Paris Agreement. 
+What is TCFD? 4
+What is TCFD?
+Task Force for Climate-related Financial Disclosures
+2017
+TCFD published a set of 
+recommendations for climate-
+related financial disclosures, 
+2015 across the areas of Governance, 
+Strategy, Risk Management, and 
+The Financial Stability Board 
+Metrics and Targets
+established the Task Force 
+with the objective of making  Nordea Asset Management 
+climate-related disclosures more  was one of the first companies 
+decision-useful and focused on  worldwide to commit to the 
+financial impacts TCFD recommendations
+Core elements of recommended climate-related financial disclosures
+Governance Governance
+The organisation's governance around climate-
+related risks and opportunities
+Strategy
+Strategy
+The actual and potential impacts of climate-related 
+risks and opportunities on the organisation's 
+Risk  
+Management  businesses, strategy and financial planning
+Risk Management 
+The processes used by the organisation to identify, 
+assess and manage climate-related risks
+Metrics  
+and Targets
+Metrics and Targets
+The metrics and targets used to assess and manage 
+relevant climate-related risks and opportunities
+Source: www.fsb-tcfd.org
+1 . Climate governance 5
+1. Climate governance
+At NAM, the commitment to climate-resilient investments comes from the top. The Board 
+oversees the strategic direction and reviews the development of our ESG and climate policies, 
+starting from the Responsible Investment Committee (RIC) charter and Chief Investment Officer 
+(CIO) instructions, through to the Responsible Investment policy and the Corporate Governance 
+policy. The Board has approved the Responsible Investment (RI) strategy and the climate 
+strategy, and is updated at least annually on their implementation. The entire Board has received 
+training in ESG, including climate topics.
+Board
+Senior Executive Management
+Group Sustainable Finance Responsible Investment Committee Risk & Performance
+•  Set strategic sustainability  •  Define, launch, implement and follow  •  Measure, analyse and 
+direction and focus areas up on RI strategy and climate targets report on ESG and climate 
+•  Support business areas in  •  Chaired by NAM CEO risk exposure
+implementation
+RI Team Heads of Investment 
+•  Present recommendations to  Boutiques
+the RIC •  Integration on ESG research 
+•  Implement RI policy and   and climate risk
+climate strategy •  Investment-led ESG 
+•  Provide ESG research engagements
+•  Report annually on RI progress •  Support specific RI initiatives
+Oversight of NAM's strategic delivery on the climate change  Executive Management (SEM) team, who are therefore well-
+commitments rests with the RIC, which was created in 2009  informed of the climate-related work that takes place through-
+and is chaired by the CEO of NAM and comprises senior man- out NAM. Climate-focused workshops for investment teams 
+agement representing various departments in the organisation.  and other functions are regularly conducted to increase knowl-
+The RIC is also keeping oversight of new initiatives and   edge and awareness of climate issues, and the analysis of cli-
+research to monitor and manage climate related risks and  mate-related investment risks and opportunities is an impor-
+opportunities.  tant part of the product development work. 
+The Heads of Investment Boutiques are responsible for inte- Since 2013, the RIC has made it a priority to identify companies 
+grating ESG risks, including risks arising from climate change,  with unmitigated climate-related financial risks. In 2015, a first 
+into the investment analysis and decisions. Various resources  analysis of coal mining companies was presented to the RIC, 
+are available for investment teams to monitor climate risks and  where a decision was taken to divest from coal mining, judged 
+opportunities in the portfolios, including a climate dashboard  to have excessive exposure to climate risk. In 2019, a similar  
+in regular risk reports. decision was taken on oil sands, and the next focus area is utili-
+ties with large exposure to coal power, with a view to initiate a 
+Climate is a focus area for the RI Team and the Head of RI  phase-out or engagement with such companies that lack plans 
+presents updates on a regular basis in both RIC and the Senior  to transition in line with the Paris Agreement.
+2. Climate strategy and risk metrics 
+2. Climate strategy and risk metrics
+In 2016, the 195 countries that signed the COP21 Paris Agree- ESG STARS funds, which have remained well below the carbon 
+ment staked out an ambition to strengthen the global response  footprints of our benchmarks. We have regularly developed 
+to the threat of climate change by limiting the increase in the  products with stricter exclusions on fossil fuels, and periodic 
+global average temperature to well below 2°C above pre-indus- reviews of our exposure to companies in high-emitting sectors 
+trial levels. The Paris Agreement also highlighted the role of in- like oil and gas has been part of the RIC’s standing agenda for 
+vestors, and stated that one of the key levers to enable the sus- a long time. 
+tainable transition was to make “finance flows consistent with a 
+pathway towards low greenhouse gas emissions and climate- In 2019, NAM publicly committed to aligning our investment 
+resilient development“ (COP21 Paris Agreement Article 2).  strategies with the objectives of the Paris Agreement. This 
+means that we have a long-term strategic objective to reduce 
+Climate change has been a strategic focus for NAM since we  the greenhouse gas emissions impact of our investments in 
+became a signatory to the UN-supported Principles for Re- line with the “well below 2°C” ambition, increase our invest-
+sponsible Investment (PRI) in 2007. In 2015, NAM implemented  ments based on climate-related opportunities, and ensure 
+our first climate-related divestment from coal mining, and  that our investment portfolios are resilient to climate- 
+started analysing and disclosing the carbon footprint of our  related risks.
+7
+5 pillars of our climate strategy
+Integration
+We make climate risk and opportunity analysis 
+part of company research and regular risk 
+monitoring
+Active ownership
+We engage and vote to achieve climate resilient 
+portfolios
+Divestment and mitigation
+We limit our exposure to highly carbon-
+intensive companies with inadequate transition 
+commitments
+Product development
+We focus on products that support the transition 
+to the low-carbon economy
+Policy support
+We support the TCFD recommendations and 
+other initiatives that promote alignment with the 
+Paris Agreement
+These priorities are reflected in the five pillars of the NAM  Founding member of  
+Climate Change Strategy, which was adopted by the RIC in 
+Net Zero Asset Managers
+2019. They are also part of NAM’s overall strategic direction to 
+continue delivering strong investment performance and to be 
+a leading ESG investor.1 Taking climate aspects into account 
+at every stage is therefore crucial, from the highest strategic  asset managers working for the achievement of net-zero green-
+level to the individual investment decisions. In practice, this is  house gas emissions by 2050, and adopted a historic set of cli-
+articulated through climate-focused engagement programs, in- mate targets to support this ambition. We also co-developed a 
+depth climate research and the incremental implementation of  Net Zero Investment Framework together with other mem-
+policies and strategies to fulfil our stated goal to align NAM’s  bers of the Institutional Investor Group on Climate Change 
+portfolios with the objectives of the Paris Agreement. (IIGCC). This framework is the first-ever practical blueprint for 
+investors to maximise the contribution they make in tackling  
+During 2020, NAM further cemented our commitment to the  climate change, and its emphasis on achieving real-world  
+Paris Agreement by becoming a founding member of the Net  emissions reductions in our investee companies is the founda-
+Zero Asset Managers (NZAM) initiative, a global coalition of  tion for our climate targets, which are explained in this report.
+1) There can be no warranty that an investment objective, targeted returns and results of an investment structure is achieved. The value of your investment can go up and down, and 
+you could lose some or all of your invested money.
+ 2. Climate strategy and risk metrics 
+Climate risks and opportunities
+Through our investments in corporate and sovereign issuers,  Physical risks, in contrast, are concentrated further into the fu-
+NAM is exposed to several types of climate-related risks and  ture. While we are already seeing extreme weather events and 
+opportunities. As is best practice, we categorise climate-related  wildfires throughout the world, the impacts of these are 
+risks into two types: dwarfed in comparison with what lies beyond the next decade. 
+Temperature changes in the near term are largely locked in by 
+1. Transition risks, which relate to the impacts associated with  past or already mostly-known emissions. Beyond this horizon, 
+the transition towards a less polluting and greener economy.  the risk of specific adverse physical events increases more than 
+Some sectors of the economy face big shifts in asset values or  proportionally with every degree centigrade of warming, and 
+higher costs of doing business as climate policies become  the effects of already locked-in warming are small compared 
+stricter. In addition to policy risks, transition risks include risks  to the effects of failing to reverse the trend from here.
+related to technological developments, as well as liability risks.
+2. Physical risks, which relate to impacts resulting from cli-
+mate change, can result from adverse extreme weather events 
+(acute risks) or long-term shifts in climate patterns (chronic 
+risks). Physical risks may have both direct financial implications 
+for organizations, due to damage to assets, and indirect im-
+pacts from supply chain disruptions and variations in resource 
+availability.
+Of these two risk types, transition risk is likely to have a more 
+imminent and abrupt impact on our investments. The climate 
+commitments that the signatories to the Paris Agreement have 
+so far made to address global warming are widely understood 
+to be insufficient for limiting temperature increases to below 
+2°C, and we expect that many countries will introduce stricter 
+climate regulations in the near term, exposing economies to 
+heightened transition risk. Recent increases in the climate am-
+bition levels by the EU and China will likely be followed by 
+similar moves also by other countries.
+However, as well as bringing risks, it is clear that the low-car-
+bon transition brings investment opportunities, and particu-
+larly technology-oriented opportunities for companies that pro-
+vide innovative products and services that will aid the transi-
+tion to a low-carbon and high-efficiency future. In addition to 
+measuring our climate risk exposure, we therefore also need to 
+measure our exposure to the ‘climate solutions’ that help drive 
+the transition, such as renewable energy, low-carbon buildings, 
+and energy efficiency technologies. Many of these opportuni-
+ties are materialising already today.
+9
+Risk horizons
+Risk/ Primary  Description Implications 
+Primary  
+opportunity  drivers for NAM
+time horizon
+category
+1–5 years Near-term transition  Policy: Higher carbon  These effects are largely a  •  We identify which 
+risks & opportunities pricing and other regulation  function of policy makers  companies stand to win 
+of high-emitting activities taking meaningful action  or lose from regulatory 
+to limit global warming by  evolutions (e.g. EU 
+Legal: Enhanced operating 
+displacing high-emitting  Taxonomy)
+and reporting obligations, 
+activities and technologies, 
+and exposure to climate  •  We focus engagements 
+and replacing them with 
+litigation on the most exposed 
+higher-efficiency and 
+companies
+lower-carbon solutions. 
+Reputation: Negative 
+The effects will primarily be  •  We integrate climate 
+stakeholder feedback and 
+known through impacts on  risk metrics in our risk 
+stigmatization
+profitability. reporting
+•  We manage investments 
+in a way that reinforces 
+confidence in our ability 
+to address climate risks
+5–10 years Mid- to long-term  Technology: Substitution  The sustained displacement  •  We assess which 
+transition risks &  of existing technologies  of technologies and  technologies will succeed 
+opportunities with lower-emitting options materials presents a  and at what rate
+long-term threat to sectors 
+Investments: Unsuccessful  •  We assess how new 
+and companies that are 
+investments in obsolete  technologies will impact 
+less prepared to re-align 
+assets and new  companies in our 
+or change their business 
+technologies portfolios
+models. The effects will 
+primarily be known through  •  We identify companies 
+Market: Changing 
+a replacement of business  with asset stranding risk
+consumer demand, 
+models and so-called asset 
+uncertain market signals, 
+stranding.
+and rising material costs
+>10 years Physical risks Acute: Increased severity  Acute physical risks, such  •  We identify which 
+and frequency of extreme  as extreme weather events,  sectors/companies are 
+weather events as well as chronic risks,  most exposed to the 
+such as sea-level rise, will  effects of climate change
+Chronic: Rising sea levels, 
+severely damage physical 
+mean temperatures and  •  We identify which 
+assets, and the profitability 
+weather pattern variability sectors/companies are 
+of underinsured companies 
+least able to adapt to, 
+will suffer.
+or insure against, these 
+effects
+ 2. Climate strategy and risk metrics 
+Climate scenario analysis
+It is clear that our exposure to the climate risks and opportuni- was to develop a scenario-based approach for investors to in-
+ties identified above is perceptible across all our investment  crease their understanding of climate-related risks and oppor-
+strategies and within our investment horizons. Given the higher  tunities, and encourage the wider investment community to 
+near-term materiality of transition risks, addressing the expo- promote a climate-resilient, low-carbon economy. The main 
+sure to transition risk is currently the primary focus for our cli- output from this pilot group was a Climate Value-at-Risk 
+mate efforts. To quantify their effects, however, it is necessary  (CVaR) model which estimates the financial impact on our in-
+to make use of scenario-based climate analysis. Undertaking  vestments if climate risks were to be priced by the market 
+scenario analysis to assess climate risk resilience is one of the  today. The pilot concluded with the publication of a compre-
+key recommendations made by the Task Force on Climate-re- hensive investor guide to the use of scenario-based methods 
+lated Financial Disclosures (TCFD).  for climate risk assessment (link), which included analysis that 
+NAM performed with the CVaR model.
+The measurement and management of climate risk is rapidly 
+being mainstreamed, supported by regulatory action, voluntary  Today, NAM is actively performing climate risk analysis using 
+investor initiatives and an increasing availability of data. Sce- the CVaR model, which is integrated into NAM’s regular inter-
+nario models are constantly being developed, and the evolu- nal risk reporting framework. We also use other scenario-
+tion of climate risk as a widely recognised and quantifiable risk  based tools and frameworks provided by, e.g. 2° Investing Ini-
+factor has allowed NAM to make progress towards including  tiative (2dii), Transition Pathway Initiative (TPI), Carbon Disclo-
+transition risk into its firm-wide risk management systems,  sure Project (CDP), and other organizations that integrate 
+methods and reporting.  scenario considerations in their analysis. Some of these are 
+more focused on high-risk sectors, climate governance, capex 
+In 2018, NAM joined a United Nations Environment Pro- plans, or measuring alignment with the Paris Agreement. Using 
+gramme Finance Initiative (UNEPFI) pilot group to support the  a range of providers gives us a more complete picture of 
+development of analytical tools and indicators to report on the  NAM's climate risk exposure and priority areas for our climate 
+risks and opportunities presented by climate change. The aim  risk management. 
+A climate scenario is a model of the future based on projecting several variables , such as greenhouse gas emissions, cost and 
+assimilation of technology, economic growth, demographics, etc.
+Climate scenarios are mainly used to estimate transition risk and physical risk.
+3 common use cases for scenario analysis
+1) Paris Alignment analysis 2) Stress-testing 3) Forecasting
+• Normative analysis based on one  • Exploratory analysis based on  • Predictive analysis based on one 
+scenario, defined as a desirable  multiple scenarios, defined as  or multiple scenarios, defined as 
+outcome (2°C or below) plausible outcomes (1.5°C – 6°C) probable outcomes (e.g. 3.2°C)
+• Used to assess how investment  • Used to asses risk and opportuni- • Used to predict investment im-
+strategies supports the realisation  ties in the scenarios, but without  pacts in a "base case" 
+of the scenario assigning probabilities
+• Example: "Based on our predic-
+• Example: "We only invest in elec- • Example: "In a 1.5°C scenario, our  tions, our investments are likely to 
+tricity utilities whose emissions are  infrastructure investments would  lose 3.2% of their value due to 
+consistent with a 2°C global warm- lose 9.8% of their value compared  near-term climate policies"
+ing outcome" to a 3°C scenario"
+11
+In 2020, we used the CVaR model to estimate three key climate  corresponds to 4°C of global warming. This limits our ability to 
+metrics across a number of possible scenarios for climate  aggregate the CVaR types for a 1.5-3°C scenarios. However, 
+change and climate policy outcomes across a 15-year time  since the expected difference in physical climate impacts be-
+horizon:  tween scenarios is relatively slight over the next 15 years, which 
+is the time horizon for the CVaR model, we have chosen to in-
+1. Policy Risk CVaR = % of investment value at risk due to  clude the available physical risk estimates in our outlook for 
+climate policy the 1.5-3°C scenarios. Yet, the difference in physical climate im-
+pacts between 1.5°C and 3°C can be substantially more signifi-
+2. Technology Opportunities CVaR = % of investment upside  cant the further into the future we get, and we therefore con-
+due to low-carbon technology revenues, which combined with  tinue to pursue additional physical risk scenario estimates.
+Policy Risk CVaR gives us Transition Risk CVaR
+It is clear that transition risks are higher in low-temperature 
+3. Physical Risk CVaR = % of investment value at risk due to  scenarios, where climate policy efforts are more stringent and 
+chronical and acute extreme weather events introduce greater restrictions on corporate activities, while 
+physical risks are higher in high-temperature scenarios, where 
+These three metrics can also be combined into an Aggregated  the effects of climate change are more damaging. Based on 
+CVaR, which takes into account both physical and transition  the latest modelling results, NAM’s aggregate exposure to cli-
+risk (a combination of policy risk and technology opportunities)  mate risk is highest in a 3°C scenario, which broadly corre-
+in a given scenario. This allows us to comprehensively analyse  sponds to a world where current climate policy commitments 
+potential business impacts in different global warming scenari- are complied with, but the objectives of the Paris Agreement 
+os. It must be noted, however, that the methodology and data  are not met.
+quality underlying climate modelling is still evolving and there 
+are areas that need to be improved, and this is true also for the  In general, we draw two key conclusions based on these re-
+CVaR model. NAM is engaging actively with scenario providers  sults. First, while our exposure to climate risk is lower than 
+to refine our approach. One area for further development is the  many other investment strategies and benchmarks have, it is 
+matching of scenarios for transition risks to those that estimate  nonetheless highly significant across all scenarios. Second, our 
+physical risks. Currently, the CVaR model estimates transition  exposure to climate risk is lowest in a future where the objec-
+risk in three global warming scenarios (1.5°C, 2°C and 3°C) but  tives of the Paris Agreement are met, which further underpins 
+only estimates physical risks in one scenario (RCP8.5) which  our strategic ambition to align with the Paris Agreement. The 
+ 2. Climate strategy and risk metrics 
+lower risk exposure that we see in a Paris-aligned scenario is a  mining companies, tend to face much more substantial transi-
+result of our persistent work to limit our investments in highly  tion risks, and an investment strategy that did not limit invest-
+carbon-intensive companies with inadequate transition com- ments in such companies would be at much higher risk in a 
+mitments. Highly carbon-intensive companies, such as coal  low-temperature scenario.
+Climate Value-at-Risk for NAM's corporate   Climate Value-at-Risk for NAM's equity  
+bond investments (%) investments (%)
+10 10
+9 9 8.70
+8 8
+7.34
+6.98
+7 7
+6 6
+5 5
+4 3.85 4 5.23 5.23 7.82
+0.45
+3 2.62 3
+0.45
+2 2
+3.40
+1.18
+1 2.17 0.73 1 1.75 2.11
+0.88
+0 0.45 0
+1.5°C 2°C 3°C 1.5°C 2°C 3°C
+Net transition risk Physical risk Net transition risk Physical risk
+The Physical Risk estimates for the 1.5°C and 2°C use the average cost probability estimates from the RCP4.5 scenario, while the estimates for the 3°C scenarios uses the 95th percentile 
+probability outcomes to represent more severe climate consequences. Certain information ©2021 MSCI ESG Research LLC. Reproduced by permission.
+While offering valuable insights into relevant climate risks  and a central focus for NAM's active ownership activities. We 
+through scenario-based risk assessment, the CVaR model does  have updated our analytical tools to better address these di-
+not exhaustively address all dimensions of climate risk. Cru- mensions of climate risk, but these updates have not been fully 
+cially, the version of the model for which results are presented  implemented in time for the publication of this report and are 
+in this report does not take into account companies' strategic  therefore not included here. Yet, the analysis for equities and 
+plans for reducing carbon emissions or diversifying away from  corporate bonds that is presented in this report enables us to 
+fossil fuel dependency, nor does it account for transition risks  set an approximate value on the transition to a low-carbon 
+associated with companies’ indirect emissions (scopes 2 and  economy and physical risks that we are exposed to.
+3), which are critical components of the low-carbon transition 
+3. Managing our climate risk exposure 13
+3. Managing our climate risk exposure
+Managing our exposure to climate-related risks is a necessity  Active ownership
+for delivering on our mission to deliver returns with responsibil-
+ity, and integrating climate risk together with other financial  Using our influence as active owners to improve the climate 
+and sustainability risks into our investment decisions is a way  performance of our investments is a core part of our climate 
+to enhance risk-adjusted returns. Our approach to climate risk  risk management efforts. NAM is part of the Climate Action 
+management has evolved over time, and it is now an integrat- 100+ (CA100+) investor engagement initiative, which address-
+ed part of our broader risk management framework. We recog- es climate change with the world’s largest corporate emitters 
+nize climate risk as a unique risk category for which distinctive  of greenhouse gases. Our key goals are for these companies 
+characteristics need to be captured, and for which specific ef- to reduce their emissions, improve their climate-related dis-
+forts need to be taken to balance our risk exposure.  closure, have clear Board accountability and oversight of the 
+climate-related matters and ultimately reconsider their capital 
+Unlike the climate risk profile of most corporates whose opera- expenditures plans from a climate perspective. NAM leads the 
+tions will be more directly impacted by climate change and cli- CA100+ engagements with Petrobras, TC Energy and Walmart, 
+mate regulation, the dominant source of climate risk exposure  and also actively participates in the engagements with Xcel 
+for NAM is our investments in companies which are them- Energy, Volvo and Fortum.
+selves exposed to climate risk. Managing our climate risk, 
+therefore, involves integrating climate risk into our investment 
+selection process, assessing the quality of climate risk manage- Petrobras engagement
+ment that we see from the companies we invest in, and using  Petrobras is a partly state-owned Brazilian petroleum 
+our influence to stimulate a strengthening of their risk man- company, and one of the largest oil and gas extraction 
+agement practices. In other words: climate risk management  companies in the world. A sound strategy for a transition to 
+for NAM is both about selecting the right investments and  low-carbon energy would allow Petrobras to play a key role in 
+managing those investments responsibly.  achieving the goals of the Paris Agreement. 
+It was with these objectives in mind that the NAM Climate  Representing the more than 500 investors in the Climate 
+Change Strategy was adopted in 2019. Its five pillars all con- Action 100+ (CA100+) coalition, NAM has led the engagement 
+tribute to the development of a more robust climate risk man- with Petrobras since 2017 to communicate what steps we 
+agement framework, and within each pillar, we are taking ac- believe they need to take going forward. As with all other 
+tive measures to responsibly manage our climate risk exposure. CA100+ engagements, the dialogue has been centred on 
+our expectation on Petrobras to take action to reduce their 
+Integration emissions in line with the Paris Agreement’s objectives, 
+strengthen their governance around climate risks and 
+Climate risk is part of NAM’s regular risk monitoring and is in- opportunities, and become more transparent in their climate 
+tegrated into the overall investment process. We quantify cli- reporting and risk management.
+mate risk exposure in financial terms using the CVaR model to, 
+building the CVaR modelling into our conventional risk assess- During 2020, we reached a milestone with the company 
+ment framework. We have integrated ESG and climate KPIs  when they significantly enhanced their climate reporting 
+into the portfolio performance reviews of our equities and fixed  and announced their support for the Task Force on Climate-
+income teams and make both proprietary and externally  Related Financial Disclosures (TCFD). This will enable 
+sourced climate risk analysis and data available to all invest- stakeholders to better assess the company’s commitment to 
+ment teams. All our portfolio managers regularly receive port- the clean energy transition. Going forward, our expectation 
+folio risk reports which include climate dashboards with key  on Petrobras is to work more actively to curb emissions. The 
+figures such as the transition risk exposure, physical risk expo- company set its first emissions-intensity targets in 2019, and 
+sure, and emissions intensity of the portfolio. All investment  following our feedback that these were not sufficiently aligned 
+teams also have access to our proprietary ESG data platform,  with the Paris Agreement, they introduced more ambitious 
+which integrates climate-related analyses into the investment  targets in November 2020. We still believe there is further 
+research process. room for improvement, and in our ongoing dialogue with the 
+company, we continue to recommend improvements to the 
+In addition, an important part of integration is to ensure that all  company’s target-setting, including using an approach that 
+portfolio managers and other investment professionals are  benchmarks their performance against the Paris Agreement 
+equipped with the adequate understanding of climate risks and  encompasses more of the company’s total emissions.
+their financial implications. For this reason, the Responsible In-
+vestment team developed an extensive climate risk workshop 
+concept which was used to educate investment teams, middle 
+and senior management, and the Board during 2020.
+ 3. Managing our climate risk exposure
+Xcel Energy engagement During 2020, we also joined collaborative engagement that is 
+Xcel Energy is a major electric power company that supplies  jointly run by Carbon Disclosure Project (CDP) and Science-
+electricity and natural gas to retail customers in the United  Based Targets Initiative (SBTi), to promote the adoption of sci-
+States. Before this engagement began, the company based  ence-based climate targets in the corporate sector. The cam-
+60% of their electricity generation on coal and other fossil  paign is directed at 1898 companies who have not yet set such 
+fuels. NAM is part of the CA100+ engagement with Xcel,  targets. We also participated in CDP’s annual Non-Disclosure 
+which started in 2018, to transition to clean energy and reduce  Campaign, which aims to drive further corporate transparency 
+its climate risk.  around climate change, deforestation and water security by 
+encouraging companies to respond to CDP’s disclosure 
+Nine months after the engagement started, Xcel became the  request.
+first US utility to commit to delivering 100% emissions-free 
+electricity by 2050. The company also committed to an 80%  In addition to these collaborative engagements, during 2019 
+reduction in emissions associated with electricity by 2030. Xcel  and 2020 NAM engaged independently with 33 companies 
+has included climate KPIs in its CEO’s remuneration for 2019- that are not part of the CA100+ engagement. Our focus was 
+2021 and published its inaugural TCFD report in 2020. the improvement of two central components of a climate-resil-
+ient business strategy: their climate reporting and climate risk 
+While the company does not yet have a detailed plan for  management. In dialogues with these companies, we have 
+achieving its targets beyond 2030, the 2050 targets are in  highlighted their most important shortfalls against the TCFD 
+place and have already begun driving its business planning  recommendations, especially the need for greater clarification 
+and strategies. The ongoing dialogue with the company is  of their exposure to climate risk scenarios and the associated 
+currently focused on the company’s efforts in the 2020-2030  financial impacts. Since these engagements started, 11 of the 
+period, and the concrete possibilities for realising earlier-than- 33 companies have committed to aligning their climate report-
+planned closures of coal-fired power plants and adding more  ing with the TCFD recommendations, and an additional 8 have 
+renewables capacity.  taken significant steps towards that commitment. The engage-
+ments continue in 2021.
+15
+Exercising voting rights in general meetings is another way  In September 2020, we also enhanced the climate risk profile 
+that we communicate our expectations to companies. During  for all of NAM’s RI strategies, by implementing a new approach 
+2021, NAM’s RI team and governance experts will be increas- to fossil fuel divestment which we call the Paris-Aligned Fossil 
+ing efforts to identify and vote on shareholder proposals that  Fuel (PAFF) policy. The PAFF policy prohibits investments in 
+can help drive the climate transition. fossil fuel companies that are not transitioning in line with the 
+climate objectives of the Paris Agreement, while still enabling 
+Divestment and mitigation investments in companies that are leading the transition out of 
+fossil fuels. Read more here.
+We are taking active measures to reduce our exposure to high-
+ly carbon-intensive sectors that do not have meaningful pros- We will continue our product development efforts in 2021, fo-
+pects for a sustainable transition. The RI team regularly con- cusing both on new RI strategies as well as the continued re-
+ducts analyses to highlight NAM’s exposure to sectors and  engineering of existing strategies to increasingly integrate cli-
+companies with high climate risk, and makes recommenda- mate risk considerations into our investments and increase our 
+tions to the RIC to divest from or engage with highly carbon- financing of climate solutions and opportunities.
+intensive companies that fail to show signs of transformation. 
+Since 2015, we have had strict exclusion criteria for coal mining  Policy support
+across all our portfolios, and this was expanded to cover oil 
+sands in 2019. The next topic in focus is the use of coal in the  Our clear commitment is to align our investment strategies 
+electricity sector, and the RI team has already shared research  with the Paris Agreement and reduce our exposure to climate 
+and action plans with the investment teams in order to initiate  risk. In practice, this commitment is underpinned by our sup-
+phase-out or engagement with utilities that lack plans to align  port for climate policy that help deliver on the Paris Agree-
+with the Paris agreement. Read more here. ment’s objectives, as well as our involvement in various indus-
+try initiatives that promote the same agenda.
+Additionally, non-fossil fuel companies with high climate risk 
+exposure and insufficient transition efforts are rated poorly in  In 2019, Nordea Group joined the Collective Commitment to 
+our internal ESG assessments, which effectively excludes many  Climate Action, scaling up our ambition to align all the Group’s 
+companies from our strategies with ESG rating thresholds, like  business strategies with the Paris Agreement. We have signed 
+our ESG STARS strategies. the Montreal Carbon Pledge, stating our commitment to mea-
+suring and publicly disclosing the carbon footprint of invest-
+Product development ment portfolios on an annual basis. Our carbon reporting is 
+aligned with the recommendations from TCFD and the Part-
+Devising new strategies to increase investment in climate solu- nership for Carbon Accounting Financials (PCAF). We have 
+tions and companies that undertake real-world decarboniza- supported the TCFD recommendations since their inception in 
+tion is a core part of our climate strategy. We launched the  2017, and have made TCFD implementation a core part of our 
+Nordea Global Climate and Environment strategy in 2008,  engagement strategy. 
+which focuses on investing in companies with products and 
+services that drive the sustainable transition.  NAM is part of the Institutional Investor Group on Climate 
+Change (IIGCC), which is a leading global investor member-
+Climate impact and risk management has long been a part of  ship body and the largest one focusing specifically on climate 
+our RI investment approach and included in our RI suite of  change. During 2020, we participated in IIGCC’s Paris Aligned 
+products. Our proprietary ESG analysis, which feeds into all our  Investment Initiative, which in September 2020 published a 
+products but most particularly our RI products such as the ESG  blueprint for how investors can set climate targets that support 
+STARS family, has included climate issues since its inception.  the Paris Agreement. With 29 other asset manager members of 
+Our RI strategies now represent almost one third of NAM’s as- IIGCC, we also co-founded the Net Zero Asset Managers initia-
+sets under management, and the ESG STARS range has now  tive. Our inaugural climate targets are anchored in the recom-
+grown to include 16 strategies with more under development.  mendations that these initiatives build on. Read more on the 
+During 2020, we co-launched a private equity impact strategy  Net Zero Asset Managers website.
+with strict climate-related criteria and objectives, and also de-
+veloped a green bond investment strategy that will promote  In 2020, NAM also became a supporter of the Transition Pathway 
+investments in climate-positive projects. Initiative (TPI) and committed to using their climate analysis in 
+our investment strategies. TPI use a scenario-based approach to 
+assess high-emitting companies’ climate targets and strategies.
+ 4. Climate targets
+4. Climate targets
+In line with our long-term strategic objective to align our port- ment, which will require a much less carbon-intensive econo-
+folios with the Paris Agreement, NAM adopted a set of climate  my. However, the average intensity metric itself does not cap-
+targets during 2020. Collectively, these targets embody our  ture developments in absolute emissions, nor the decarboniza-
+overall ambition to continue building climate resilience and  tion needs that are specific to companies, sectors or countries. 
+embracing the opportunities presented by the transition to a  For this reason, we strive to reach our intensity targets by con-
+low-carbon economy.  tinuing to link our investment processes as closely as possible 
+to real-world decarbonization.
+Our overarching long-term goal is to achieve net-zero emissions 
+for NAM’s operations and investments by 2050 (Target 1). To  To this end, we will also phase out all our investments in coal-
+support the fulfilment of this goal, we have also devised a set of  related companies1, since the reduction of coal use is one of the 
+short- and mid-term goals, illustrated in the figure below. Since  most critical levers for achieving the Paris goals (Target 3). Ad-
+the Paris Agreement effectively requires a halving of global  ditionally, we also set a target for companies in other sectors 
+emissions every decade, NAM has set a target to reduce the  critical to the climate transition, to engage with them to set 
+weighted average carbon intensity (WACI) of our investments  Paris-aligned transition plans by 2025, and phase out invest-
+by 50% before 2030, compared to a 2019 baseline (Target 2). ments in those who fail to present such plans (Target 4). Criti-
+cal sectors in this context are those sectors that must under-
+Achieving such substantial reductions in our carbon intensity  take the most decarbonization for the Paris targets to be 
+requires efforts across assets, sectors and portfolios. In prac- achieved. Our exact definition of which sectors fit this defini-
+tice, this will be achieved through three mechanisms, which in  tion may evolve over time, but as a minimum includes fossil fu-
+order of priority are: el-related sectors.
+•  Pushing current investee companies towards accelerated  In addition to the focus on reducing overall emissions, another 
+decarbonization key for achieving net-zero is to focus on climate solutions, 
+•  Investing in companies that facilitate real-world  which is why we have also included a target to increase such 
+decarbonization investments by 2030 (Target 5). The exact extent of this target 
+•  Shifting portfolio allocation away from high-emitting com- for climate solutions investments still remains to be defined, 
+panies and sectors and our work in this area is evolving in line with regulations 
+and industry standards for the identification of climate solu-
+Targeting a reduction in average carbon intensity is a big step  tions. We will issue more concrete communications around this 
+towards aligning investments strategies with the Paris Agree- target in future. 
+Long term goal for 2050
+1 Net-zero emissions
+Mid term goals for 2030
+50% reduction in carbon intensity
+2
+of investments (WACI)
+Increase investments in climate solutions 5
+Short term goals for 2025
+Paris-aligned decarbonization plans for selected sectors
+By 2025, phase out investments in coal-related companies  
+3
+without plans to achieve a full exit from coal globally by 2040
+Engage with companies in critical sectors, requiring Paris-aligned  
+4
+decarbonization plans by 2025
+Adopted climate targets Targets needing further definition
+1) We define coal-related companies as those that are involved in the mining for coal or use it for electricity generation. NAM already excludes companies with more than 10% of their rev-
+enues from coal production from all its portfolios, and applies our Paris-Aligned Fossil Fuel (PAFF) policy or even stricter exclusion criteria to all portfolios designated ESG (currently app. 30% 
+of NAM AuM). 
+17
+Carbon intensity of NAM’s investments Weighted Average Carbon Intensity 31.12.2020  
+(tCO2e/USD million)
+Since 2015, NAM has published the carbon footprints for our 
+180
+funds, to take the pulse on our emissions reduction efforts. 
+160 155.8
+Since 2019, we use a Weighted Average Carbon Intensity 
+140
+(WACI) methodology, which is in line with the recommenda-
+120
+tions in the EU’s Non-Financial Reporting Directive and TCFD.  103.4
+100
+WACI measures a portfolio’s exposure to carbon-intensive 
+80 74.5
+companies. Since companies with higher carbon intensity are 
+likely to face more exposure to carbon-related market and reg- 60 54.0 50.2
+ulatory risks, this metric can serve as a proxy for climate-relat- 40
+ed risks relative to other portfolios or relative to a benchmark.  20
+It does not, however, consider what efforts companies in our  0
+NAM NAM NAM  NAM  MSCI
+portfolios are taking to reduce their emissions, which is a key  aggregate equity corporate bonds* sovereign bonds  World
+consideration for achieving our targets. At the end of 2020, the  *Including covered and mortgage bonds.
+Note: Scope 1 & 2. Preliminary data as at 31.12.2020. For corporate investments, the 
+WACI of NAM’s investments was clearly below that of global  denominator is revenues. For sovereign bonds, it is GDP. The carbon footprint met-
+equity benchmarks such as MSCI World. This is primarily a re- ric relies on carbon data gathered by Nordea Investment Funds S.A., MSCI Inc. and 
+is based on the Swedish Fund Association’s recommendation. Further information 
+sult of NAM’s relatively low exposure to high-emitting compa- on the calculation approach is available here. Source: Nordea Investment Funds S.A., 
+©2021 MSCI ESG Research LLC. Reproduced by permission.
+nies in the energy and utilities sectors.
+Carbon intensity by sector Sector contributions to Weighted Average Carbon 
+Intensity
+By breaking down the aggregated carbon intensity across sec-
+tors, assets and portfolios, we can prioritise our risk manage-
+ment efforts, including our active ownership efforts. We focus 
+on the areas where we have the greatest exposure and influ-
+ence companies to reduce emissions in line with our net-zero 
+Basic
+objective.  Materials
+Consumer 
+Goods Other
+A key priority for reducing our carbon intensity over time is the 
+utilities sector, which makes up only 2% of NAM’s aggregated 
+portfolios, but contributes to 36% of our carbon intensity.  Gov.
+Utilities Industrial Energy Technology Bonds
+NAM’s portfolios generally have lower exposure to high-emit-
+ting sectors than their benchmarks, but addressing these sec- Utilities (36%) Industrial (15%) Basic Materials (12%) Energy (10%)
+Consumer Goods (9%) Other (8%) Technology (5%) Government Bonds (4%)
+tors is nonetheless key for the sustainable transition.
+Note: Scope 1 & 2. Preliminary data as at 31.12.2020. The carbon footprint metric relies on 
+carbon data gathered by Nordea Investment Funds S.A., MSCI Inc. and is based on the 
+Swedish Fund Association’s recommendation. Further information on the calculation 
+Green bonds approach is available here. Source: Nordea Investment Funds S.A., ©2021 MSCI ESG 
+Research LLC. Reproduced by permission.
+One of the many different ways that investors can actively al-
+locate capital to climate solutions is to invest in green bonds.  Total AuM in green bonds (EUR million)
+Green bonds are fixed income instruments that earmark the 
+4,500 4,127
+bond proceeds for projects that are explicitly linked to climate 
+4,000
+mitigation and adaptation purposes. As of 31 December 2020,  3,500 859
+NAM had 4.1 billion euros invested in green bonds, or 3.2% of  3,000
+879
+total AuM invested in bond instruments. Of this, 2.4 billion  2,500
+euros were invested in corporate green bonds, and the rest in  2,000
+green government and municipal bonds, covered bonds and  1,500
+2,389
+1,000
+mortgage bonds.
+500
+0
+Green bonds (EUR million)
+Covered and mortgage bonds Government and municipal bonds Corporate bonds
+Although Nordea Investment Fund S.A.'s information providers, including without limitation, MSCI ESG Research LLC and its affiliates (the “ESG Parties”), obtain information (the “Informa-
+tion”) from sources they consider reliable, none of the ESG Parties warrants or guarantees the originality, accuracy and/or completeness, of any data herein and expressly disclaim all express 
+or implied warranties, including those of merchantability and fitness for a particular purpose. The Information may only be used for your internal use, may not be reproduced or redissemi-
+nated in any form and may not be used as a basis for, or a component of, any financial instruments or products or indices. Further, none of the Information can in and of itself be used to 
+determine which securities to buy or sell or when to buy or sell them. None of the ESG Parties shall have any liability for any errors or omissions in connection with any data herein, or any 
+liability for any direct, indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of the possibility of such damages.
+ Appendix
+Appendix  
+Available fund-level Weighted Average Carbon
+Intensity (tCO2e/USD million) for 31.12.2020
+Equity funds Fund WACI Benchmark WACI Difference
+Institutionella Aktiefonden Stabil 29,5 – –
+Nordea Invest Engros Globale Stabile Aktier – Etisk Tilvalg 29,8 – –
+Institutionella Aktiefonden Sverige 34,9 39,0 –10%
+Nordea Innovation Stars Fund 37,1 111,6 –67%
+Nordea Swedish Ideas Equity Fund 37,2 41,1 –10%
+Nordea Discretionary Swedish Equity 38,0 41,1 –8%
+Nordea Indexfond Sverige 39,0 39,0 0%
+Nordea 2 – Swedish Enhanced Equity Fund 39,9 39,0 2%
+Nordea Olympiafond 40,5
+Nordea Alfa 41,4 41,1 1%
+Nordea 1 – Nordic Ideas Equity Fund 42,4 124,8 –66%
+Nordea Japan Fund 43,5 73,6 –41%
+Nordea Institutionell Aktieförvaltning 45,3 – –
+Nordea Swedish Stars 46,0 – –
+Nordea 1 – Emerging Wealth Equity Fund 46,2 251,8 –82%
+Nordea 1 – Nordic Equity Fund 46,8 124,8 –63%
+Institutionella Aktiefonden Världen 47,0 70,9 –34%
+Nordea Invest Engros Internationale aktier – Etisk tilvalg 47,1 70,9 –34%
+Nordea Nordic Fund 47,4 111,6 –57%
+Nordea 2 – North American Sustainable Enhanced Equity Fund 57,1 142,4 –60%
+Nordic Stars KL 61,1 – –
+Nordea 2 – Global Sustainable Enhanced Equity Fund 61,2 154,4 –60%
+Nordea Sustainable Equities Global Fund 61,3 154,4 –60%
+Nordea Invest Bæredygtige Aktier KL 61,7 154,4 –60%
+Nordea 1 – Nordic Stars Equity Fund 61,9 124,8 –50%
+Nordea Finland Fund 61,9 239,9 –74%
+Nordea 2 – Global Opportunity Equity Fund – NOK Hedged 63,2 154,4 –59%
+Nordea Invest Japan Enhanced 66,1 73,6 –10%
+Nordea Asian Stars Fund 66,2 196,5 –66%
+Nordea 1 – Asian Stars Equity Fund 66,9 196,5 –66%
+Nordea Invest Europa Small Cap KL 67,3 116,1 –42%
+Nordea 2 – Japanese Enhanced Equity Fund 68,3 73,6 –7%
+Nordea 1 – Global Opportunity Fund 69,8 154,4 –55%
+Nordea 1 – Emerging Markets Small Cap Fund 70,7 403,2 –82%
+Nordea 1 – Global Small Cap Fund 71,1 135,9 –48%
+Nordea Invest Global Small Cap KL 71,5 135,9 –47%
+Nordea 1 – European Small and Mid Cap Equity Fund 74,5 167,7 –56%
+Nordea 1 – Emerging Stars Equity Fund 77,3 251,8 –69%
+Nordea Global II 77,8 139,9 –44%
+Nordea Invest Emerging Stars KL 77,9 251,8 –69%
+Nordea Invest Engros Internationale Aktier 78,0 139,9 –44%
+Nordea Norwegian Stars Fund 79,3 – –
+Source: Nordea Investment Funds S.A. 
+19
+Equity funds Fund WACI Benchmark WACI Difference
+Nordea Aktieallokering 80,4 126,2 –36%
+Nordea Stabile Aksjer Global Etisk 81,8 – –
+Nordea Global 82,4 139,9 –41%
+Nordea 1 – North American Stars Equity Fund 82,5 136,2 –39%
+North American Stars KL 82,8 136,2 –39%
+Nordea Stabile Aksjer Global 83,0 – –
+Nordea World Fund 85,1 139,9 –39%
+Nordea 1 – Global Stable Equity Fund – Euro Hedged 85,2 – –
+Nordea Invest Stabile Aktier KL 85,7 – –
+Nordea 2 – European Sustainable Enhanced Equity Fund 85,7 145,2 –41%
+Nordea Invest Engros Globale Stabile Aktier 87,1 139,9 –38%
+Nordea Invest Stabile Aktier Akkumulerende KL 87,7 139,9 –37%
+Nordea 1 – Global Stable Equity Fund 87,8 – –
+Nordea 1 – Global Gender Diversity Fund 89,5 154,4 –42%
+Nordea China Fund 90,0 164,3 –45%
+Nordea 1 – Global Stars Equity Fund 90,6 154,4 –41%
+Nordea 1 – Chinese Equity Fund 90,7 164,3 –45%
+Nordea Invest Global Stars KL 91,2 154,4 –41%
+Nordea 1 – Global Real Estate Fund 92,2 – –
+Nordea Invest Emerging Markets og Asien 95,8 157,9 –39%
+Nordea 1 – Global Social Empowerment Fund 97,7 154,4 –37%
+Nordea Aksjer Verden 98,2 153,8 –36%
+Nordea Institutional Investment Fund – Global Equity Fund 100,1 – –
+NI Portefølje PM Globale Aktier Fokus KL 100,9 139,9 –28%
+Nordea 2 – Global Enhanced Small Cap Fund 101,7 135,9 –25%
+Nordea Invest Global Small Cap Enhanced KL 102,2 135,9 –25%
+Nordea 1 – Global Portfolio Fund 102,2 139,9 –27%
+Nordea Invest North America Enhanced 103,5 142,4 –27%
+Nordea North American Enhanced Fund 103,8 142,4 –27%
+Nordea Invest European Stars KL 106,2 145,2 –27%
+Nordea European Stars Fund 107,0 145,2 –26%
+Nordea 1 – European Stars Equity Fund 107,9 145,2 –26%
+Nordea Invest Aktier 107,9 157,0 –31%
+Nordea Discretionary Global Equity 108,0 156,6 –31%
+Nordea Invest Aktier II KL 108,4 157,0 –31%
+Nordea Invest Aktier KL 108,8 157,0 –31%
+NI Portefølje Globale Aktier Strategi KL 109,3 167,5 –35%
+Nordea Equity Core Fund 114,2 – –
+Nordea Equity Opportunities Fund 115,5 187,9 –39%
+Nordea 1 – North American Small Cap Fund 117,0 – –
+Nordea Invest Global Enhanced 117,4 139,9 –16%
+Nordea 2 – Global Enhanced Equity Fund 117,5 139,9 –16%
+Nordea 1 – Global Disruption Fund 117,6 154,4 –24%
+Nordea Global Enhanced Fund 118,0 139,9 –16%
+Nordea Invest Europe Enhanced 135,1 145,2 –7%
+Nordea 2 – European Enhanced Equity Fund 136,1 145,2 –6%
+Nordea 2 – Emerging Markets Sustainable Enhanced Equity 
+136,4 – –
+Fund
+Source: Nordea Investment Funds S.A. 1) With effect as of 25 February 2021 the sub-fund is renamed from Nordea 1 – Global Impact Fund to Nordea 1 – Global Social 
+Empowerment Fund.
+ Appendix
+Equity funds Fund WACI Benchmark WACI Difference
+Nordea European Equity Market Fund 138,0 132,7 4%
+Nordea Global Index Fund 138,1 139,9 –1%
+Nordea Invest Globale Aktier Indeks KL 139,6 139,9 0%
+Nordea US Equity Market Fund 140,7 135,7 4%
+Nordea Invest Globale UdbytteAktier KL 141,2 – –
+Nordea Global Dividend Fund 142,2 – –
+Nordea North American Dividend Fund 143,7 142,4 1%
+Nordea European Passive Fund 146,2 145,2 1%
+Nordea Invest Danmark KL 156,9 181,1 –13%
+Nordea Invest Danske Aktier Fokus KL 157,4 181,1 –13%
+Nordea Invest Klima og Miljø KL 193,7 139,9 38%
+Nordea 1 – Global Climate and Environment Fund 193,8 139,9 39%
+Nordea Norwegian Equity Market Fund 198,1 198,3 0%
+Nordea 1 – Asia ex Japan Equity Fund 210,4 196,5 7%
+Nordea Invest Emerging Markets Enhanced KL 217,3 251,8 –14%
+Nordea 2 – Emerging Markets Enhanced Equity Fund 218,0 251,8 –13%
+Nordea 1 – Latin American Equity Fund 224,2 261,9 –14%
+Nordea Finnish Passive Fund 239,0 239,9 0%
+Nordea 2 – Stable Emerging Markets Aksjer Etisk 242,5 – –
+Nordea Pro Finland Fund 242,7 239,9 1%
+Nordea 1 – Stable Emerging Markets Equity Fund 255,8 – –
+Nordea Invest Emerging Markets KL 256,4 251,8 2%
+Nordea Emerging Market Equities Fund 260,7 251,8 4%
+Nordea 1 – North American Value Fund 264,7 136,2 94%
+Nordea Private Banking Norsk Aksje Portefølje 331,9 198,3 67%
+Nordea Eastern Europe Fund 533,6 604,5 –12%
+Nordea Russia Fund 785,9 734,8 7%
+Nordea 1 – Global Listed Infrastructure Fund 1.376,0 – –
+Nordea India Fund 1.812,3 526,3 244%
+Nordea 1 – Indian Equity Fund 1.829,3 526,3 248%
+Source: Nordea Investment Funds S.A. 2) Please note that the Nordea 1 – Global Climate and Environment Fund is soft closed since 26 February 2021. 
+Fixed income funds Fund WACI Benchmark WACI Difference
+Nordea Institutional Investment Fund – Financial Debt IG 
+1,3 – –
+Fund
+Nordea Invest Korte Obligationer 1,9 20,6 –91%
+Nordea Invest Engros Korte obligationer 2,3 20,6 –89%
+Institutionella Räntefonden långa placeringar, SEK 2,4 4,1 –42%
+Nordea Invest Portefølje Korte Obligationer 2,7 20,6 –87%
+Danske Obligationer Bolig 0 – 3 KL 3,0 20,6 –86%
+Danske Obligationer Bolig 2 – 6 KL 3,0 10,7 –72%
+Nordea Invest Kommune I 3,1 20,6 –85%
+Nordea Invest Danske Obligationer 0–5 KL 3,4 20,6 –84%
+Danske Obligationer Bolig 0 – 5 KL 3,4 20,6 –83%
+Source: Nordea Investment Funds S.A.
+21
+Fixed income funds Fund WACI Benchmark WACI Difference
+Nordea Invest Korte obligationer Lagerbeskattet 3,9 20,6 –81%
+Nordea 2 – LCR Optimised Danish Covered Bond Fund – 
+4,0 6,7 –40%
+EUR Hedged
+Nordea Invest Bolig 4,2 20,6 –80%
+Nordea Invest Kommune II 4,4 20,6 –79%
+Nordea Invest Mellemlange obligationer 4,4 20,6 –79%
+Nordea Invest Lange Obligationer 4,4 20,6 –78%
+Nordea Invest, Engros, Nordea Invest Obligationer 5,2 14,6 –65%
+Nordea Invest European Covered bond 5,2 3,6 45%
+Nordea Institutional Investment Fund – Covered Bond Fund 5,2 – –
+Nordea Invest, Engros, Mellemlange obligationer 5,3 20,6 –74%
+Nordea Conservative Yield Fund 5,6 – –
+Nordea Invest Conservative Fixed Income KL 5,6 – –
+Nordea 1 – European Covered Bond Fund 6,0 3,6 68%
+Nordea Invest Fonde 6,2 – –
+Tjänstemannarörelsens Förvaltningsfond 7,1 17,7 –60%
+NI Portefølje Stats– og realkreditobligationer KL 7,5 10,7 –30%
+Nordea Obligasjon II 7,6 5,2 46%
+Nordea Invest Portefølje Lange Obligationer 9,4 20,6 –54%
+Nordea Bostadsobligationsfond 9,7 4,1 137%
+Nordea Statsobligasjon II 9,7 11,7 –17%
+Nordea SWE Inflation Linked Bond Fund 9,8 10,2 –4%
+Nordea Invest Stabil Balanceret 12,8 – –
+Nordea Swedish Institutional Short Duration Bond Fund 14,7 – –
+Nordea 1 – Swedish Bond Fund 16,0 10,7 50%
+Nordea Stabil 16,5 – –
+Nordea Moderate Yield Fund 16,5 – –
+Nordea 1 – Stable Return Fund 16,7 – –
+Nordea 1 – GBP Diversified Return Fund 17,1 – –
+Nordea 2 – Balanced Growth Target Date Fund 17,2 – –
+Nordea 2 – Global Asset Allocation Target Date Fund 1 17,4 – –
+Nordea 2 – VAG Optimised Stable Return Fund 17,9 – –
+Nordea Obligasjon NO 18,1 62,0 –71%
+Nordea Generationsfond Senior 18,8 39,9 –53%
+Nordea International Fund – Obligationsinvest Sub–Fund 19,3 10,7 81%
+Nordea Obligationsfond 21,5 10,7 102%
+Nordea International Fund – Nordea Obligationsfond Korta 
+21,9 8,2 168%
+Placeringar Sub–Fund
+Nordea International Fund – Nordea Obligationsfond Korta 
+23,8 8,2 190%
+Placeringar II Sub–Fund
+Nordea Euro Bond Fund 24,6 28,2 –13%
+Nordea 1 – European Inflation Linked Bond Fund 26,5 – –
+Nordea Pro Euro Bond Fund 26,6 28,2 –6%
+Nordea AAA Government Bond Fund 27,2 36,2 –25%
+Nordea Stratega 10 31,4 23,9 31%
+Nordea Euro Medium Term Bond Fund 31,5 28,3 11%
+Nordea Generationsfond 50–tal 32,2 74,0 –57%
+Nordea 1 – Balanced Income Fund 33,2 – –
+Nordea Donationsmedelsfond 38,3 44,9 –15%
+Source: Nordea Investment Funds S.A.
+ Appendix
+Fixed income funds Fund WACI Benchmark WACI Difference
+Målarnas KapitalFond för Avkastning 38,4 72,0 –47%
+Nordea International Fund – FRN Sub–Fund 38,5 – –
+Nordea 1 – Norwegian Short–Term Bond Fund 39,7 – –
+Institutionella Företagsobligationsfonden 43,8 151,3 –71%
+Nordea Stratega 30 44,4 46,9 –5%
+Nordea 1 – European Corporate Stars Bond Fund 46,0 151,3 –70%
+Nordea Global Statsobligasjon 47,9 55,9 –14%
+Nordea Invest Globale Obligationer 48,1 55,9 –14%
+Nordea Obligasjon Stars Fund 48,8 – –
+Nordea 1 – European Corporate Bond Fund 48,9 151,3 –68%
+Nordea 1 – European High Yield Stars Bond Fund 49,0 – –
+Nordea Corporate Bond Fund 49,6 151,3 –67%
+Nordea Private Banking Obligasjon Fund 49,8 62,0 –20%
+Nordea Invest Virksomhedsobligationer KL 50,5 151,3 –67%
+Nordea Europeisk Kredittobligasjon 50,7 151,3 –67%
+Nordea Obligasjon III 50,7 62,0 –18%
+Nordea Kreditt Stars Fund 50,8 – –
+Nordea 1 – Global Bond Fund 52,4 55,9 –6%
+Nordea Invest Engros Corporate Bonds 53,0 151,3 –65%
+Nordea 1 – European Corporate Bond Fund Plus 54,0 151,3 –64%
+Nordea Stratega Fixed Income 56,1 56,0 0%
+Nordea Generationsfond 60–tal 56,3 137,9 –59%
+Nordea Invest Basis 1 57,3 89,3 –36%
+Nordea Stratega 50 57,5 69,6 –17%
+Nordea Asset Allocation Fund – Futura Sub–Fund 57,6 88,4 –35%
+Nordea 1 – European High Yield Bond Fund 57,9 – –
+Nordea Generationsfond 80–tal 58,5 149,5 –61%
+Nordea Generationsfond 70–tal 58,5 149,5 –61%
+Nordea Generationsfond 90–tal 58,6 149,5 –61%
+Nordea Institutional Investment Fund – High Yield Bond Fund 62,0 – –
+Nordea Bærekraftige Obligasjoner Global Fund 62,4 – –
+Nordea Hållbarhetsfond Obligationer Global Fund 62,8 – –
+Nordea Asset Allocation Fund – Optima Sub–fund 63,2 93,9 –33%
+Nordea Sustainable Selection Moderate Fund NOK 63,8 – –
+Nordea Sustainable Selection Moderate Fund SEK 63,9 – –
+Nordea Sustainable Fixed Income Global Fund 64,5 – –
+Nordea Sustainable Selection Balanced Fund NOK 65,0 – –
+Nordea Sustainable Selection Balanced Fund SEK 65,4 – –
+Nordea Premium AM Global Moderate 65,4 – –
+Nordea Avtalspensionsfond Midi 66,4 98,4 –33%
+Nordea Premium AM Global Balanced 66,7 – –
+Nordea Sustainable Selection Growth Fund SEK 67,4 – –
+Nordea Sustainable Selection Growth Fund NOK 67,4 – –
+Nordea Premium AM Global Growth 68,7 – –
+Nordea Stratega 70 69,1 92,5 –25%
+Nordea European High Yield Fund 69,4 – –
+Nordea FRN Kreditt 69,7 24,8 181%
+Nordea Savings Fixed Income Fund 69,8 87,1 –20%
+Source: Nordea Investment Funds S.A.
+23
+Fixed income funds Fund WACI Benchmark WACI Difference
+Nordea Invest Basis 2 70,4 102,3 –31%
+Nordea Invest Bæredygtige Obligationer KL 73,5 – –
+Nordea 1 – European High Yield Credit Fund 74,9 – –
+Nordea Swedish Bond Stars 75,7 – –
+Nordea 1 – Emerging Markets Debt Total Return Fund 75,8 – –
+Nordea 1 – Swedish Short–Term Bond Fund 76,8 8,2 837%
+Nordea Pro Stable Return Fund 77,0 – –
+Nordea Stabil Avkastning 78,4 – –
+Nordea 1 – Emerging Stars Bond Fund 81,1 214,8 –62%
+Nordea Savings 10 Fund 82,6 – –
+Nordea Invest Basis 3 85,0 122,6 –31%
+Nordea 1 – Long Duration US Bond Fund 85,2 87,9 –3%
+Nordea Invest, Engros, Obligationer 87,3 – –
+Nordea 2 – Emerging Market Local Debt Enhanced Fund 88,3 93,3 –5%
+Nordea Savings 25 Fund 89,4 – –
+Nordea Navigo 89,8 – –
+Nordea Plan Konservativ NO 89,8 – –
+Nordea 1 – Emerging Stars Local Bond Fund 91,2 93,3 –2%
+Nordea Stable Return Fund 91,4 – –
+Nordea Private Banking Ränteportfölj 92,4 10,7 767%
+Nordea Defensive Fund 95,1 – –
+Nordea Invest Basis 4 97,1 134,5 –28%
+Nora Fund Two (NOK) 97,7 – –
+Nora Fund Two (SEK) 98,5 – –
+Nordea Savings 50 Fund 98,7 136,4 –28%
+Nordea Plan Offensiv 99,3 – –
+Nora Fund Two (EUR) 99,3 – –
+Nora Fund Two (DK) 100,1 – –
+Nora Fund Two Master 100,3 – –
+Nordea Plan Vekstorientert 105,9 – –
+Nordea Savings 75 Fund 107,6 146,3 –26%
+Nordea Plan Balansert 109,7 – –
+Nordea 2 – Euro Corporate Enhanced Bond Fund 110,7 151,3 –27%
+Nordea Plan Moderat 111,4 – –
+Nora Fund Three (NOK) 113,2 – –
+Nora Fund Three (SEK) 113,6 – –
+Nora Fund Three (DK) 113,9 – –
+Nordea 1 – Low Duration US High Yield Bond Fund 114,2 – –
+Nora Fund Three (EUR) 114,6 – –
+Nordea Premium Asset Management Moderate Fund 114,9 – –
+Nora Fund Three Master 115,7 – –
+Nordea Premium Asset Management Conservative Fund 116,0 – –
+Nordea Plan Rente 116,1 – –
+Nordea Premium Asset Management Balanced Fund 122,9 – –
+Nora Fund Four (NOK) 123,0 – –
+Nora Fund Four (SEK) 123,1 – –
+Nora Fund Four (DK) 123,8 – –
+Source: Nordea Investment Funds S.A.
+ Appendix
+Fixed income funds Fund WACI Benchmark WACI Difference
+Nora Fund Four (EUR) 123,9 – –
+Nora Fund Four Master 124,9 – –
+Nordea 2 – Emerging Market Hard Currency Enhanced Bond 
+125,8 214,8 –41%
+Fund
+Nordea Premium Asset Management Growth Fund 127,9 – –
+Nora Fund Five (EUR) 129,0 – –
+Nora Fund Five (SEK) 129,2 – –
+Nora Fund Five (DKK) 129,2 – –
+Nordea Dedicated Investment Fund – X–Credit Fund 129,9 – –
+Nordea Institutional Investment Fund – European Corporate 
+130,5 – –
+Bond Fund I
+Nora Fund Five Master 130,5 – –
+Nordea 2 – US Corporate ESG Bond Fund 134,0 241,4 –44%
+Nordea 1 – European Cross Credit Fund 135,6 – –
+NI Portefølje PM Kreditobligationer KL 136,1 214,9 –37%
+Nordea Invest Verdens Obligationsmarkeder KL 136,9 187,6 –27%
+Nordea Focus Fixed Income Fund 146,6 89,2 64%
+Nordea Invest Portefølje Verden Obligationsmarkeder 147,5 214,9 –31%
+Nordea 1 – Unconstrained Bond Fund – USD Hedged 170,3 – –
+Nordea 2 – US High Yield ESG Bond Fund 178,0 340,1 –48%
+Nordea 2 – European Cross Credit ESG Fund 179,2 – –
+Nordea Discretionary Corporate Credit 179,2 218,5 –18%
+Nordea Global High Yield 181,2 301,3 –40%
+Nordea 1 – US Corporate Bond Fund 187,6 241,4 –22%
+Nordea Invest Engros Global High Yield 188,4 301,3 –37%
+Nordea Fixed Income Credit Opportunities Fund 192,7 – –
+Nordea 1 – Global High Yield Bond Fund 195,8 301,3 –35%
+Nordea 1 – US High Yield Bond Fund 214,0 340,1 –37%
+Nordea Global High Yield Fund 221,6 358,1 –38%
+Nordea Dedicated Investment Fund – US High Yield Bond 
+226,6 – –
+Fund II
+Nordea 1 – International High Yield Bond Fund – USD 
+230,3 358,1 –36%
+Hedged
+Nordea 2 – US Corporate Enhanced Bond Fund 235,4 271,2 –13%
+Nordea Invest Virksomhedsobligationer Højrente 241,4 358,1 –33%
+Nordea 2 – Global High Yield Enhanced Bond Fund – USD 
+268,7 301,3 –11%
+Hedged
+Nordea 1 – North American High Yield Bond Fund 269,6 340,1 –21%
+Nordea 1 – Emerging Market Bond Opportunities Fund 384,6 150,9 155%
+Nordea 1 – Latin American Corporate Bond Fund 399,7 498,3 –20%
+Nordea Institutional Investment Fund –  US Corporate Bond 
+437,1 – –
+Fund
+Nordea Invest Højrentelande 502,8 214,8 134%
+Nordea Emerging Market Bond Fund 519,2 214,8 142%
+Nordea 1 – Emerging Market Bond Fund 550,9 214,8 156%
+Nordea Invest Engros Emerging Market Bonds 569,1 214,8 165%
+Source: Nordea Investment Funds S.A.
+25
+
+Publisher
+Nordea Asset Management 
+nordea.lu
+Cover image: ©zlikovec/Shutterstock | page 3: ©Nickolya/Shutterstock | page 4: ©Champ008/Shutterstock | page 6-7: ©drnadig/GettyImages | page 8: ©Joseffson-Westend61/Offset | 
+page 11: © PeopleImages/GettyImages | page 14: ©Andrew C Mace/GettyImages 
+Nordea Asset Management is the functional name of the asset management business conducted by the legal entities Nordea Investment Funds S.A. and Nordea Investment Management 
+AB (“the Legal Entities”) and their branches and subsidiaries. Additional information for Nordea 1, SICAV and Nordea 2, SICAV: Some of the sub-funds mentioned are part of Nordea 
+1, SICAV or Nordea 2, SICAV, both open-ended Luxembourg-based investment companies ("Société d'Investissement à Capital Variable"), validly formed and existing in accordance with 
+the laws of Luxembourg and with European Community Directive 2009/65/EC of 13 July 2009. This document is advertising material and does not disclose all relevant information 
+concerning the presented sub-funds. Any investment decision in the sub-funds should be made on the basis of the current prospectus and the Key Investor Information Document, which 
+are available, along with the current annual and semi-annual reports, electronically in English and in the local language of the market where the mentioned Fund is authorised for 
+distribution, without charge upon request from Nordea Investment Funds S.A., 562, rue de Neudorf, P.O. Box 782, L-2017 Luxembourg, from the local representatives or information agents, 
+or from our distributors. Nordea 1, SICAV is registered under the number B-31442 and Nordea 2, SICAV is registered under the number B-205880 at the Trade and Companies Register of 
+Luxembourg. Additional information for SICAV-SIF: Some of the sub-funds mentioned are part of Nordea Dedicated Investment Fund SICAV-FIS or Nordea Institutional Investment 
+Fund, SICAV-FIS, both “Specialised Investment Funds” under Luxembourg Law (the “Companies”). The Companies were incorporated in the Grand-Duchy of Luxembourg on 20 
+November 2009 on the basis of the law of 10 August 1915 on Commercial Companies, as modified (the “Law of 1915”). Each of the Companies qualifies as a “Société d’Investissement à 
+Capital variable” (“SICAV”) on the basis of the law of 13 February 2007 on Specialised Investment Funds, as may be amended from time to time (the “Law of 2007”). Each of the 
+Companies is an alternative investment fund (“AIF”) in the meaning of Directive 2011/61/EU (“AIFM Directive”) and therefore subject to the requirements of AIFM Directive as implemented 
+in Luxembourg by the law of 12 July 2013 on alternative investment fund managers as may be amended from time to time. Each of the Companies will raise capital without promoting 
+the sale of its Shares to the public within the European Union or any part of it, unless the relevant sub-fund has obtained the necessary legal authorisations to do so. Each of the 
+Companies is established for an indefinite period from the date of incorporation. Nordea Dedicated Investment Fund, SICAV-FIS is registered under the number B 150516 at the Register 
+of Commerce and Companies at the District Court of Luxembourg. Nordea Institutional Investment Fund, SICAV-FIS is registered under the number B 143 334 at the Trade and Companies 
+Register of Luxembourg. Nordea Asset Allocation Fund and Nordea International Fund (FCP): Some of the funds mentioned are part of Nordea Asset Allocation Fund and/or Nordea 
+International Fund, both open-ended unincorporated mutual investment funds qualifying as a fonds commun de placement (FCP). The FCP qualifies as an Undertaking for Collective 
+Investment in Transferable Securities (UCITS) under Part 1 of the 2010 Law and EU directive 2009/65 and is registered on the CSSF’s official list of collective investment undertakings. 
+Any investment decision in the funds should be made on the basis of the current prospectus and the Key Investor Information Document (KIID), which are available, along with the current 
+annual and semi-annual reports, electronically in English, without charge upon request from Nordea Investment Funds S.A., 562, rue de Neudorf, P.O. Box 782, L-2017 Luxembourg or from 
+the local selling agent. Further information can be obtained from your financial advisor. He/she can advise you independently of Nordea Investment Funds S.A. Please note that all funds 
+and unit classes might not be available in your country of jurisdiction. Nordea Asset Allocation Fund is registered under the number K1136 and Nordea International Fund is registered 
+under the number K28 at the Trade and Companies Register of Luxembourg. Some of the sub-funds mentioned belong to Nordea Funds Ltd. Nordea Funds Ltd is part of the Nordea 
+Group, for more information visit: https://www.nordea.fi/en/personal/our-services/savings-investments/funds/ Investments in derivative and foreign exchange related transactions may 
+be subject to significant fluctuations which may affect the value of an investment. Investments in Emerging Markets involve a higher element of risk. The value of the investment 
+can greatly fluctuate and cannot be ensured. Investments in equity and debt instruments issued by banks could bear the risk of being subject to the bail-in mechanism (meaning 
+that equity and debt instruments could be written down in order to ensure that most unsecured creditors of an institution bear appropriate losses) as foreseen in EU Directive 
+2014/59/EU. For further details of investment risks associated with these sub-funds, please refer to the relevant Key Investor Information Document, as applicable, available as 
+described above. Nordea Asset Management has decided to bear the cost for research, i.e. such cost is covered by existing fee arrangements (Management-/Administration-Fee). 
+Published and created by the Legal Entities adherent to Nordea Asset Management. The Legal Entities are licensed and supervised by the Financial Supervisory Authority in Sweden and 
+Luxembourg respectively. The Legal Entities’ branches, subsidiaries and representative offices are licensed as well as regulated by their local financial supervisory authority in their 
+respective country of domiciliation. Source (unless otherwise stated): Nordea Investment Funds, S.A. Unless otherwise stated, all views expressed are those of Nordea Investment Funds 
+S.A. This document may not be reproduced or circulated without prior permission. Reference to companies or other investments mentioned within this document should not be construed 
+as a recommendation to the investor to buy or sell the same but is included for the purpose of illustration. The level of tax benefits and liabilities will depend on individual circumstances 
+and may be subject to change in the future.
+Climate report 2020  
+Resilience and Responsibility

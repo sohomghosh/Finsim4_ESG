@@ -1,0 +1,1822 @@
+
+Sustainability 
+Report
+2021
+About us   Contents
+Norvestor is a private equity firm that has partnered with  Highlighting 2020   1
+Nordic businesses for more than three decades. We are  Introduction   2 
+passionate about supporting companies in their development  Portfolio-wide objectives  3
+and growth.The businesses we look for have ambitious and  EU climate action and the European Green Deal  4
+experienced management teams at the helm and aim to  ESG and investment returns   6
+become leaders in their markets.  Our ESG framework  7 
+UN Sustainable Development Goals  8
+We typically invest in companies providing services, often  UN Principles for Responsible Investment  9
+where digitalisation and available technology can be utilised  Environment   10
+to make sustainable efficiency gains and create real value  Social   13
+Governance   14
+for clients and society. Key to our approach is forging 
+a partnership with the managers and co-owners of the 
+businesses we invest in.  Portfolio company ESG performance 
+4Service  16 
+Norvestor funds invest in medium-sized Nordic companies, with  Avonova  17
+revenues in the range of €25–250 million. While we consider  EnFlow  18 
+opportunities in many different industries, we tend to focus on  First Camp  19 
+areas in which our team has experience and strong networks,  Foxway  20
+mainly business services. We aim to grow our portfolio  Future Production  21 
+companies substantially during the holding period, which  Hydrawell  22 
+normally spans three to six years. To drive this expansion,  iSURVEY  23
+we often help companies to enter new geographies, acquire  NetNordic  24
+complementary businesses and create digital strategies.  Permascand  25 
+Sustainability is a key aspect of Norvestor’s investment  PHM Group  26 
+philosophy. We are convinced that businesses that contribute  Preservation Holding  27
+READ Cased Hole   28
+positively to society and have sustainable business models 
+Roadworks  29 
+will build long-term value. Sustainable business practices are 
+SmartRetur  30
+crucial to the health and happiness of future generations.
+Sperre Compressors  31 
+As active investors, we are in a unique position to make an 
+The North Alliance  32
+impact. We want our contribution to be positive – not just  VENI Energy Group  33
+because we believe acting responsibly leads to superior  Wellit  34
+investment results and allows us to attract the best talent, but 
+  
+also because we are convinced it is the right thing to do.
+Highlighting  
+2020
+→	 Awarded the 2020 Best Sustainable Equity Investor  
+Nordics by CFI
+→  Fourth year supporting our portfolio companies producing 
+their own sustainability reports
+→   Increased the proportion of portfolio companies with one or 
+more women on their board of directors from 13% in 2017 to 
+83% in 2020 Key portfolio data (by end of 2020)
+→  Supported four of our portfolio companies in becoming 
+signatories to the UN Sustainable Ocean Principles
+→  Increased our rating from PRI in the section about Strategy 
+and Governance from an A to an A+ 23 1,934  10,600  83%
+→  Improved the ESG data gathering platform to better manage 
+portfolio   EUR million  employees  of companies with  
+sustainability information from portfolio companies
+companies revenue (FTE) one or more women  
+→  Incorporated sustainability risk, climate risk (TCFD) and  on their board  
+principle adverse impacts (SFDR) into ESG due diligence  of directors 
+processes related to potential new investments 
+→  Introduced mandatory cyber security audit and taxonomy 
+alignment assessment in due diligence for all potential 
+investments
+21% 14.6 16% 18%
+→		 Progressed our mapping of the Sustainable Developmment 
+Goals to further explain our portfolio companies’ contribution
+total women   Total CO2   reduction in total   reduction in  
+on our board   footprint   CO2 footprint   carbon intensity  
+of directors  (tonnes) since 2019 since 2019
+A+ A
+2020 PRI  
+ratings Strategy &   Private  
+Governance Equity
+Note: Carbon footprint data excludes Norvestor V (three remaining companies with a combined revenue EUR 40 million)
+1
+Fostering stewardship – Response to global challenges 
+To us, stewardship starts with an awareness of the various ways a company affects 
+society and the natural world. Its approach to business should go beyond just following 
+rules and regulations and it should encompass due attention to the health and wellbeing 
+of employees, diversity and respect for the environment. Stewardship is also a key tenet 
+of the Principles for Responsible Investment, to which we are a signatory.
+Introduction
+l
+a
+t
+n Innovative technologies developed by growth companies within areas such as energy, 
+The investment community will play a vital role in attracting and allocating the assets that will create a 
+e
+sustainable future. As asset managers, we are in a unique position to make an impact – both directly and  m logistics, manufacturing, agritechnology and aquaculture will play a key role in our 
+n transition to a carbon-neutral economy. We see plenty of investment opportunities within 
+indirectly – by being trusted stewards of our investors’ capital. o
+r these industries as well as in companies with innovative and resource-efficient solutions 
+i
+At Norvestor, we work with our portfolio companies to improve their impact on the living world and  v
+n to providing traditional services. By investing in a climate agenda and collaborating with 
+society. We support them in implementing comprehensive governance policies, working towards  E
+companies to realise this in practice and ensure climate change targets are met, we 
+sustainability targets, and reporting on their progress. In this 2021 sustainability report, we showcase the 
+believe that our investments will facilitate the transition to a carbon-neutral future.
+advances made by our portfolio companies. 
+Across the portfolio, we have observed good progress on the objectives set. This year, portfolio 
+companies’ action plans have been updated with actionable short- and long-term projects related to key 
+
+material ESG themes to help focus their efforts. Among other developments in our ESG methodology 
+this year, companies have initiated steps to quantify the impact of their product and services, become 
+carbon-neutral, promote (gender) diversity and implement governance policies and procedures.  l
+a Maintaining a social licence to operate is not merely about following rules and regulations, it is 
+i
+c
+We’re proud of the progress made by our portfolio companies in 2020. As well as doing the right  about being mindful of the many stakeholder impacts that a company has. Enduring success 
+o
+thing, investing responsibly is good business sense. We have seen that companies that are aligned to  S cannot come without due attention to the health and wellbeing of employees. Diversity is 
+sustainability goals are better prepared to meet future challenges, and perform better financially. another important driver of value, as highlighted by many studies. Not only is it an antidote to 
+groupthink, but we also believe that it spurs greater innovation and productivity.
+
+Governance starts with the ‘tone at the top’, and means setting an example of accountability 
+and transparency that is mirrored throughout the business. We like to see a code of conduct 
+e
+Over the past year, we have continued to make  c that all staff buy into, and a culture where people feel empowered to speak up and discuss 
+n
+progress on many fronts, including establishing  a their concerns openly. This means that problems are identified early and tackled before they 
+n
+r turn into big issues. 
+Norvestor Fund VIII as an ‘Article 8’ fund  e
+v
+under the new Sustainable Finance Disclosure  o Over the years, we have developed a comprehensive set of governance policies that our 
+G
+portfolio companies must adhere to. 
+Regulation (SDFR), introduced Taxonomy 
+mapping in ESG due diligence as well as 
+mandatory cyber cecurity audit.
+2
+Portfolio-wide objectives
+Reduce carbon emissions  Ensure a diverse and    Reduce non-compliance risk
+inclusive workforce
+We have seen a total reduction of 31% in CO2  Our aim is for all portfolio companies to have 
+intensity since 2018, and 18% since 2019. Our  well-defined and established compliance 
+We are committed to equal opportunities 
+ambition is to reduce carbon intensity further,  processes and practices. We will continue to 
+and to ensuring that employees’ needs and 
+l by establishing roadmaps to reach net-zero.  review and update policies and procedures 
+a perspectives are respected by their leaders. We 
+and go beyond compliance with the latest 
+t support companies in implementing policies, 
+e
+n regulations and standards.
+e Reduce climate-related risks  l practices and diverse cultures at all levels in the  c
+a organisation. n
+m
+and capture opportunities
+i a
+c
+n n Align with UN Sustainable 
+We strive to reduce climate risk by  o
+ro monitoring  climate-related risks and capturing  S Create safe and attractive  er Development Goals
+vi opportunities related to the energy transition.  workplaces v As part of our efforts to create a positive impact 
+o
+n
+on society at large, we continue to identify 
+We aim to ensure the health, safety and well- G
+E
+opportunities to positively contribute to, and 
+being of all employees, to create attractive 
+reduce negative impact on, the UN SDGs. We 
+workplaces where employees feel valued 
+encourage companies servicing the energy and 
+and where they can bring out the best in 
+marine industry to sign up to the UN Global 
+themselves. 
+Compact Sustainable Ocean Principles.
+We also help companies to foster a culture of 
+transparency and accountability, where they can 
+speak up and are empowered to act.
+3
+EU climate action and the 
+Sustainable Finance Disclosure Regulation 
+European Green Deal
+The Sustainable Finance Disclosure Regulation (SFDR) came into force on 10 March 
+2021. It places obligations on professional investors, trustees and financial advisers to 
+demonstrate that they have integrated sustainability risks into their investment processes. 
+As an alternative investment fund manager, Norvestor is required to provide investors with 
+information relating to how we:
+The government response to the COVID-19 pandemic has driven a desire to ‘build back better’, 
+and policy centred on care for the natural world and society are starting to emerge. The European 
+  
+Green Deal, agreed by policymakers in 2021, aims to restore biodiversity1 and drive the transition to a 
+decarbonised economy. The cornerstone of the deal is a goal to achieve carbon neutrality across EU 
+states by 2050, and to reduce carbon emissions by 55% by 2030. At the time of writing, the European 
+Climate Law2 (which enshrines the Green Deal proposals into Law) is passing through its final stages3.
+Integrate sustainability   Consider adverse   Promote environmental or  
+risks into decision-making sustainability impacts social characteristics, and 
+The Sustainable Finance Action Plan
+sustainable investment
+The European Commission’s Sustainable Finance Action Plan also took steps forward in 2021. The 
+plan has three main objectives:
+→ Reorient capital flows towards sustainable investment
+→ Mainstream sustainability into risk management
+→ Foster transparency and a long-term approach towards financial and economic activity 
+The two key legislative initiatives under the Sustainable Finance Action Plan are the Sustainable 
+Finance Disclosure Regulation (‘SFDR’) and the EU Taxonomy Regulation.  
+1 https://www.eea.europa.eu/policy-documents/eu-biodiversity-strategy-for-2030-1
+2 https://ec.europa.eu/commission/presscorner/detail/en/ip_21_1828
+3 https://www.reuters.com/business/environment/eu-parliament-committee-rubber-stamps-climate-change-law-2021-05-10/
+4
+Norvestor Fund VIII as an Article 8 Fund (‘ESG fund’)
+Asset managers are required to classify their funds in accordance with the SFDR articles. Norvestor 
+Fund VIII was launched as an Article 8 fund meaning that the fund promotes social and environmental 
+characteristics. A key investment theme in Norvestor Fund VIII is companies with innovative 
+solutions to global ESG-related challenges. All investment decisions are made in accordance with 
+the binding elements of our investment strategy, used to attain the listed environmental and social 
+characteristics listed below: 
+→ Investments with a good ESG performance are positively screened for
+→	Investments with a high potential to improve on ESG factors are positively screened for
+→ Principal adverse impact on sustainability factors are considered when making investment 
+decisions for Fund VIII 
+→ Investments that conflict with Norvestor’s exclusion policy (which outlines industries/activities 
+that have potentially negative environmental or social characteristics) are excluded
+→ Investments that are exposed to (unmanageable) sustainability risks are excluded 
+→ Investments that are exposed to (unmanageable) principal adverse impacts are excluded 
+→ A proprietary ESG framework is applied on a continuous basis for Fund VIII, supporting all 
+investments in improving their ESG performance 
+Our response to the SFDR →	A key investment theme in Norvestor Fund VIII is companies with innovative solutions to global 
+ESG-related challenges
+Norvestor sees the sustainability of risk considerations in the investment decision-making process 
+as an essential part of the risk-management process. Our first step is a pre-due diligence screen to 
+identify and avoid any investment that currently generates, or is likely do to so in future, a significant 
+share of its revenue from excluded industries or products involved in the following: 
+→ Production, trade and/or distribution of cluster munitions
+→ Production, trade and/or distribution of tobacco
+→ Activity of sex work or procuring of sex workers
+→ Production, distribution or sale of pornography
+→ Operating or marketing casinos or other gambling activities
+→ Thermal coal mining and extraction
+We will also reject any investment that is operationally or financially linked to a country, company  The Taxonomy Regulation
+or persons registered on relevant sanctions lists. Through this negative screening exercise, we aim 
+From 1 January 2022, fund managers like Norvestor must report on the proportion of 
+to filter out potential investments that are likely to have significant adverse impacts on sustainability 
+environmentally sustainable investments, as per the Taxonomy Regulation4. Norvestor will 
+factors. Besides negative screening, we also screen for companies with the potential to reduce their 
+assess all investments and present our findings in our Annual Report. For now, the regulation 
+impact on the environment or to contribute towards environmental betterment. Furthermore, we look 
+can only be used to identify environmentally friendly activities, more specifically, only activities 
+for evidence that companies are responsible employers that look after their employees, promoting 
+that contribute to climate change mitigation and adaptation (the technical screening criteria 
+diversity and taking an interest in their local communities. 
+for the remaining four environmental objectives are expected to be published in 2022, and will 
+enter into force in 2023.) 
+Besides assessing the substantial contribution to one of the six environmental objectives, 
+an assessment will be made of compliance with the technical screening criteria to avoid 
+significant harm to all other objectives. Furthermore, compliance with minimum safeguards, 
+meaning we have embedded the standards in the OECD Guidelines on Multinational 
+Enterprises (MNEs) and the UN Guiding Principles on Business and Human Rights, with 
+4 Regulation (EU) 2020/852
+5 Sustainability and protection of water and marine resources; transition to a circular economy; pollution prevention and control; and, 
+protection and restoration of biodiversity and ecosystemes. 
+5
+Culture critical to success environment, where all employees feel 
+valued and have opportunities to grow 
+We believe culture is a key driver of 
+their careers. In addition, we track 
+long-term performance and the result 
+data on absenteeism and employee 
+of many factors, including the ‘tone 
+turnover, which are good proxies for 
+at the top’, a compelling corporate 
+cultural health. We also encourage the 
+vision and sound HR policies. We 
+HR teams in our portfolio companies 
+want our portfolio companies to be 
+to share best practice, including at 
+employers of choice, which means 
+Norvestor conferences and through a 
+ESG and   creating an open and inclusive work 
+collaborative online platform.
+investment returns
+When ESG adds value
+There is a raft of academic and industry research showing how ESG factors affect company 
+performance. Although there is some debate around the measurement of materiality, few 
+As investors increasingly differentiate between companies on sustainability grounds, there 
+investors are now likely to cling to the notion of a trade-off between ESG and long-term 
+are good reasons to expect a valuation premium related to strong ESG performance. Indeed, 
+financial returns. Moreover, people have an increasing awareness of the downside risks of 
+we don’t think it is a coincidence that a growing share of a company’s market value is made 
+neglecting ESG issues. 
+up of intangible assets. Brand and reputation are now tightly intertwined with a company’s 
+sustainability credentials. The implication for asset managers is clear – as a driver of value 
+The effect of poor ESG practices
+creation, ESG cannot be viewed in isolation from fiduciary duty.
+Poor ESG practices represent a serious risk to the health and profitability of a company. For 
+From our perspective, ESG is key to building customer loyalty and pricing power. It is also 
+ESG-related incidents that destroy shareholder value, weak governance and a lack of ESG 
+a way to reduce costs, for example through more efficient use of energy or the adoption 
+transparency has often been a common denominator, underscoring the importance of having 
+of circular principles in the management of materials and waste. Green bonds, which are 
+the right people, policies and culture in place. As for the financial impacts, these can manifest 
+issued to fund specific climate-related and environmental projects, are another cost-efficient 
+themselves in many ways, including lost business, increased cost of capital and fines. It stands 
+option, as they are generally issued on more favourable terms. Then there is human capital, 
+to reason that a company generating negative impacts on stakeholders – whether employees, 
+the bedrock of any business. Companies with an authentic and stakeholder-sensitive vision 
+customers, suppliers or local communities – is unlikely to build durable long-term value. Many 
+stand a far better chance of attracting and retaining talent, as well as maintaining employee 
+of these impacts are not captured by traditional accounting methods, hence the increasing 
+productivity. 
+weight attached to non-financial information. To determine ESG risks, it is vital to look beyond a 
+company’s immediate operations and assess impacts across the whole value chain. 
+6
+When determining key ESG impacts and  Annual ESG review 
+themes, we take into account each of the 
+1 Determine key impacts  
+Our ESG framework considerations below:
+and themes
+Key ESG themes are 
+highlighted, taking a perspective 
+Environmental →	Climate & energy on the full value chain as well 
+as looking at the relevance 
+→	Material circularity
+of ESG for the industry that 
+ESG considerations are integrated into all stages of our investment process, from the initial  →	Ecosystem impact
+the company operates in – 
+deal sourcing and due diligence, throughout the ownership period. We place a major weight on 
+defining a long-term vision for a 
+measurement and disclosure and ensuring that the right yardsticks are used to gauge progress. Over 
+sustainable industry. 
+the years, we have developed a framework that is aligned with important market standards and it will 
+continuously be updated to always be up to date with latest recommendations and guidelines6. With  2 Assess company ESG 
+our methodology, we focus on materiality, meaning that we look at to which degree a particular ESG  performance
+Social →		Employee wellbeing
+theme can impact a company’s operational and financial performance. These material ESG themes are  How is the company managing 
+→	Customer impact
+assessed each year and are used as the basis for setting short-, medium- and long-term action plans,   the relevant ESG themes 
+defined through priority projects in each company’s sustainability report.  →	Corporate citizenship identified? How do they 
+perform on defined metrics/
+KPIs?
+The stages of our investment process
+3 Create action plan
+Opportunities are identified 
+Governance →	Corporate governance
+1 Pre-investment analysis 3 Monitoring (ESG review) 
+where ESG and value creation 
+A pre-investment due-diligence screening is  An annual ESG review is conducted for all  →	Supply chain management
+ coincide, formulated in 
+carried out on all potential investments. Through  investments in our funds8, using the key ESG  →	Business resilience and ESG
+actionable priority projects to 
+the use of an exclusion policy, an investment  themes as a baseline and assessing each 
+drive progress. 
+will be rejected if it is currently, or if it currently  company’s performance against their themes. 
+generates, or is likely do to so in future, a  Based on these assessments, Norvestor works  4 Engagement
+significant share of its revenue from excluded  together with the portfolio company and a  Findings and the action plans 
+industries or products. We also avoid industries  specialist ESG consultancy company to create  are discussed with company 
+that have questionable ethical foundations or  a roadmap, covering both short- and long-term  Most important ESG themes in our  management, the board 
+that are likely to struggle to shift to sustainable  goals. It is a time-tested formula: a clearly defined  portfolio: of directors and Norvestor 
+business models.  set of goals, combined with measurement and  representatives. 
+regular disclosure drives action. 
+2 ESG Due Diligence
+5 Company specific 
+Next, Norvestor conducts a comprehensive ESG  The roadmap is continuously monitored and 
+Sustainability Report
+due diligence to determine the sustainability  reported on in an annual portfolio company  Sustainability  Employee   Energy &  All findings are aggregated in a 
+proportion of the target business, taking into  sustainability report which is considered an  Principles  health &   Carbon   company specific sustainability 
+consideration the entire value chain of business  important tool to set ambitious targets and drive  safety footprint 
+report.
+activities. This involves assessing how the  progress.
+company’s industry is aligned with a sustainable     6 Portfolio report
+4 Exit
+future, what their key material ESG themes are,  We communicate our findings 
+Our aim is for our companies to grow substantially 
+and what the performance of the company on  in an annual portfolio report 
+during our holding period, which is typically between 
+those themes is. By assessing the material ESG  to our investors, portfolio 
+three and six years. We support companies 
+risks and opportunities, Norvestor gains a sense of  companies as well as on our 
+in various ways, including strengthening their 
+how they affect the growth prospect and financial  website to the public. The 
+management teams, entering new geographies, 
+performance of the company, and whether the  report highlights aggregated 
+acquiring complementary businesses and creating 
+risks are deemed manageable.  Material  Data security   Supply chain  risk exposure, portfolio 
+digital strategies. In addition, our focus on ESG 
+efficiency &  & privacy control company performance and the 
+An ESG due diligence also includes a Taxonomy  means that the businesses we’ve invested in will 
+waste progress made over time. 
+Screening and a mapping of how the company  be on a much stronger footing to make a positive 
+could contribute to the UN Sustainable  difference to the world.
+  
+Development Goals.7 
+6 Developed together with ESG consultants MJ Hudson and other advisors. It is in line with a number of principles and standards including the Global 
+Reporting Initiative (GRI), Principles for Responsible Investment (PRI), Sustainable Accounting Standards Boards (SASB) and the OECD Guidlines 
+for Multinational Enterprises. 
+7 Regulation (EU) 2020/852
+8 Excluding Norvestor Fund V (Apsis, Uptime, Sentech)
+7
+The UN Sustainable 
+Development Goals
+The United Nations SDGs represent a momentous call to action. Agreed in 2015 with 
+a deadline of 2030, their aim is to “end poverty, protect the planet, and ensure that by 
+Materiality map
+2030 all people enjoy peace and prosperity”.
+A qualitative indication of which Sustainable Develoment Goals each portfolio company is exposed to. 
+A huge mobilisation of public- and private-sector resources is needed to meet the 
+It is not an indication of the extent to which the companies support these goals. 
+17 goals, with the global investment community playing a very important role. We’ve 
+undertaken an extensive exercise to map our portfolio companies to the SDGs, so 
+we can monitor how they are driving change. Assessment of the relevant SDGs is 
+closely linked to our ESG materiality framework. If positive performance on the key 
+material theme contributes to one of the SDGs, we select – from the 17 SDGs and their  4Service    
+respective 169 targets – the targets that are most relevant for the company and specify  Avonova   
+their contribution. 
+EnFlow     
+First Camp     
+Foxway       
+Future      
+Production
+HydraWell   
+iSURVEY    
+NetNordic     
+Permascand      
+PHM Group   
+Promoting the UN Sustainable Ocean Principles Preservation       
+Holding
+The ocean is vital to the well-being and prosperity of humankind. There is a clear need to  READ    
+expand the use of the ocean for food production, energy, raw materials and transportation. 
+However, carrying out these activities in a sustainable manner is critical to maintaining  Roadworks    
+biodiversity and reducing global warming. SmartRetur    
+We believe responsible management of the ocean provides significant business  Sperre      
+opportunities and ultimately supports global economic growth. For this reason, we became 
+The North      
+a signatory to these principles in 2019. Since then, we have encouraged the portfolio  Alliance
+companies whose operations impact the ocean to become signatories. VENI     
+Four portfolio companies where the principles are deemed relevant became signatories  Wellit    
+in 2020 and have integrated the principals in their overall ESG approach. 
+ Material
+Source: Portfolio companies sustainbility reports 2021, MJ Hudson Assessment
+8
+The principles How Norvestor upholds them
+1 We will incorporate ESG  Conducting pre-due diligence screening for all 
+issues into investment  potential investments as well as a comprehensive 
+analysis and decision- ESG due diligence to determine the sustainability 
+making processes. proposition of the target business. Climate risk 
+considerations are explicitly part of this. Norvestor 
+has allocated formal oversight and accountability for 
+responsible investment and assigned responsibilities 
+for implementing responsible investment practices to 
+dedicated people within the organisation.
+2 We will be active owners and  We influence change in our portfolio companies 
+UN Principles for  incorporate ESG issues into  by conducting annual ESG reviews of all portfolio 
+our ownership policies and  companies. Together with company management, we 
+practices. identify opportunities where ESG and value creation 
+Responsible Investment coincide, formulate action plans with priority projects. 
+3 We will seek appropriate  We help create annual ESG reports for all 
+disclosure on ESG issues  companies, created by company management 
+by the entities in which we  together with the Norvestor investment team and 
+invest. ESG coordinator, supported by a third-party ESG 
+Norvestor has been a signatory to United Nations Principles for Responsible Investment (UN PRI)9 
+specialist. We consider the company reports and the 
+since September 2017. Moreover, we have embedded the principles into our business practices and 
+underlying process a key tool with which to provide 
+ensured that portfolio companies adhere to and comply with the principles in the UN Global Compact, 
+transparency, set ambitious targets and drive progress 
+the UN’s Universal Declaration of Human Rights and guidelines outlined in the Organisation for 
+towards goals. The reports seek to align to several 
+Economic Co-Operation and Development (OECD) for Multinational Enterprises.
+internationally recognised reporting frameworks such 
+As institutional investors, we have a duty to act in the best long-term interests of our beneficiaries.  as SASB, GRI, PRI, Task force on Climate Related 
+In this fiduciary role, we believe that environmental, social, and corporate governance (ESG)  Financial Disclosure (TCFD) and the Greenhouse gas 
+issues can affect the performance of investment portfolios (to varying degrees across companies,  emissions protocol. 
+sectors, regions, asset classes and through time). We also recognise that applying these principles 
+may better align investors with broader objectives of society. Therefore, where consistent with our  4 We will promote acceptance  Norvestor makes a formal commitment to its 
+fiduciary responsibilities, we commit to the following. and implementation of  stakeholders to invest responsibly, outlined in the 
+the principles within the  Norvestor Responsible Investment Policy.
+investment industry.
+Assessment score
+5 We will work together to  Norvestor continuously improves its methodology 
+enhance our effectiveness in  and approach towards ESG, supported by special 
+Strategy & governance Private equity
+implementing the principles. ESG consultants. We share our approach with 
+investors and contribute to sector ESG initiatives and 
+discussions.
+2018 2019 2020 2018 2019 2020
+6 We will each report on our  Norvestor provides transparency on activities and 
+B A A+ A A A activities and progress  progress by publishing an annual sustainability report 
+towards implementing the  on our website. 
+principles.
+9 Unpri.org
+9
+Environment
+TCFD and the assessment of climate risks 
+The Task Force on Climate-related Disclosure (TCFD) has produced a set of helpful 
+recommendations on how to report on climate-related risks. The recommendations 
+We are acutely aware of the huge, interconnected threats posed by issues such as climate change, 
+relate to transition, physical and liability risks. Transition risks span issues such 
+water pollution and deforestation, and are committed to continuously reducing our negative 
+as climate policy, carbon pricing, technological advances, and changing investor 
+environmental impact while we contribute to positive activities. All of our portfolio companies 
+and consumer sentiment. This risk features heavily in our climate-resilience work: 
+provide detailed information on their environmental footprint annually, covering areas such as waste 
+we assess every company’s carbon exposure by using a shadow carbon price 
+management, energy use and carbon emissions. Whether it is cutting air travel, promoting resource 
+to calculate the cost implications if this rises to a level deemed high enough to 
+efficiency or directing R&D budgets to address environmental challenges, we are determined to push 
+significantly accelerate the energy transition.
+the envelope of environmental performance.
+Physical risks refer to the damage and disruption that extreme weather and rising sea 
+levels can cause to a company’s operations, assets and supply chains. Such risks 
+can be characterised as event-driven (acute) or longer-term (chronic). Other physical 
+risks include the quality, availability and sourcing of water and food security. Nordic 
+The climate challenges
+countries tend to rank among the least vulnerable to physical climate impacts, but this 
+As a challenge of existential proportions, climate change necessarily features in a wide  is a risk that cannot be overlooked as the world continues to warm.
+range of business decisions, including risk management, product development and 
+Liability risks concern the possibility of a wave of climate-related litigation. This is 
+strategy. Our decarbonisation efforts are ultimately guided by the Paris Agreement, which 
+less relevant for the types of businesses we invest in.
+states that we need to limit the global temperature rise to well below 2°C above pre-
+industrial levels and aim to keep it under 1.5°C. To understand climate resilience, we have 
+Our approach 
+to determine the exact vulnerabilities and opportunities of each business. This is why we 
+monitor our portfolio companies’ exposure to climate risks (see below) and continuously  Recognising the potential impact that climate-related risks and opportunities can 
+seek to drive down emissions across our portfolios. It is also the reason we have invested  have on the risk profile and value of our investments, we consider this an important 
+in businesses that are helping to speed up the transition to a low-carbon world. topic. We have organised our approach around the four pillars used by the Task 
+Force on Climate-related Financial Disclosure (TCFD). 
+10
+The TCFD’s four pillars
+Governance Strategy Risk management Metrics and targets
+Our governance around climate-related  The actual and potential impacts of  Processes used to   Metrics and targets used to assess and 
+risks and opportunities. climate-related risks and opportunities  identify, assess and manage   manage relevant climate-related risks 
+we have on businesses, strategy and  climate-related risks. and opportunities.
+To us, governance means going above 
+financial planning.
+and beyond minimal requirements. Setting  An assessment of climate-related risks,  In our annual ESG review, Norvestor 
+the tone from the top, we have allocated  It’s worth noting that we invest mainly in  opportunities and measures is a fixed  monitors and reports on climate-related 
+board-level responsibility for ESG issues.  the Nordic region that are not historically  topic in our annual ESG review and when  metrics and targets and realised progress. 
+Risk-management measures are explored  or predicted to be significantly affected by  making investment decisions. We use  These metrics, such as carbon footprint, are 
+and agreed at the board level, then  physical climate-related risks. We have  leading climate-related assessment tools,  monitored and reported  at a board level, 
+executed by management. It’s important  identified some climate-related risks,  taking into consideration different climate  and used as a baseline for future objectives.
+that the business operates in a culture of  such as transition from carbon based to  scenarios. In our assessment of the likely 
+We require each of our portfolio 
+accountability and transparency. We aim to  renewable energy, but view these as an  impacts of climate-related risks on the 
+companies to assess, disclose and report 
+ensure the health, safety and well-being of  opportunity as much as a risk.  value of our investments, we implicitly 
+on their own physical and transitional 
+all employees to create attractive workplaces  incorporate scenario thinking. 
+We engage with our portfolio companies  climate-related risks as part of our annual 
+where employees feel valued and can bring 
+to identify climate-related risks and  sustainability reporting cycle. We also 
+out the best in themselves. 
+opportunities, aided by digital tools   examine our portfolio companies’ value 
+and research.  chains to identify risks and opportunities.
+Geographical risk Physical climate risk Carbon exposure
+Portfolio ESG geographical risk score vs. selected regions10 Total water risk score tCO2e x tCO2e price / EBITDA 
+India
+Brazil 0.4 -34%
+UK
+Singapore
+Germany
+LOW MEDIUM HIGH 0.7% 0.6%
+Finland 0.5%
+Denmark
+Sweden 2018 2019 2020
+Norvestor portfolio
+Norway
+0 1 2 3 4 5 6 7 8 9 10
+Geographical spread of Norvestor portfolio company HQ locations
+10 MSCI ESG Industry risk scores (low 0 - high 10), based on a company’s industry classification using the Global Industry Classification Standard 
+(GICS). Industry risk scores are exclusively based on the industry the company is operating in, and not based on the position in the supply chain or their ESG performance.
+11 Weighted average risk score based on revenue share in selected industries (Norvestor sector groups)
+12 tCO2e*tCO2e price carbon exposure assumes a NOK 550 carbon price per tonne CO2e. The carbon footprint estimate includes scope I, II emissions and scope III emissions to the extent possible (mostly travel-related), as described by the GHG protocol. Based on like-for-like analysis, excluding data from companies 
+and business units that did not disclose emission data in either years 2018-20 (PHM Group, NoA, Monti/Presservation Holding).
+Source: Portfolio companies sustainability report 2021, MJ Hudson assessment, WRI’s Aqueduct Water Risk Atlas, MSCI
+11
+Reducing our carbon footprint  Total Carbon footprint13
+It is important to stress that the service-oriented nature of many of our investments, combined  tCO2e
+with the large proportion of renewable energy in the Nordic power-generation mix, translates into 
+a relatively low carbon footprint for our portfolios. We know this by comparing our portfolio carbon  -14%
+exposure against other asset managers, as well as by benchmarking each company against 
+industry peers. Our estimated financial carbon exposure is 0.5%. In other words, if we had to pay  17.3
+16.9
+for our carbon emissions today, this would only impact 0.5% or less of total portfolio EBITDA, 
+14.6
+16% 17%
+which is considered low. In addition to this, our portfolio-level carbon intensity fell 18% since last 
+Scope 1
+year. Some portfolio companies provide support services for the energy industry, exposing them to  14%
+some transitional climate-related risks. However, our view is that there is a significant opportunity  34% 34% Fuel & gas consumption
+38%
+to diversify into emerging markets and industries that are aligned with the energy transition (e.g.  Scope 2
+offshore wind energy).  Electricity & district heating  
+51% 49% 49% (8% from non-renewable resources)
+Scope 3
+Business travel
+Carbon intensity13
+tCO2e / NOKm revenue
+1.3
+1.1
+0.9
+
+ 
+“The Nordic region is a leader in the 
+renewable energy revolution, with a major 
+share of hydro, wind and solar in the power 
+generation mix. More than 30,000 of VENI  2018 2019 2020
+Energy Group’s business clients have 
+already opted for certified green power, and 
+almost 100% of our customers in Sweden 
+and Norway procure renewable energy.”   Renewable energy13 Energy intensity13
+– VENI Energy Group MWh / NOKm revenue
++18% +18%
+87% 92% 3.5 3.3
+78% 2.8
+2018 2019 2020 2018 2019 2020
+13 Based on like-for-like analysis, excluding data from companies/business units that did not disclose emission data in either years 
+20182020 (PHM Group,The North Alliance, Preservation Holding).The carbon footprint estimates include scope I, II and III to the 
+extentpossible (mostly travel-related emissions). Following the EU Directive 2009/28/EC wherin a Guarantee of Orgin certificate is required 
+to prove the source of electricity.The renewable electricity (%) for 2018-2020 is respectively 32%, 52% and 67%.
+Source: Portfolio companies sustainability reports 2021, MJ Hudson assessment 
+12
+“For people and brands to flourish in the 
+Absenteeism rate15 Total accident rate16
+modern world, one perspective just isn’t 
+enough. You need a holistic outlook that  # accidents / 1000 FTE
+unites business understanding, digital 
+know-how and human insights into fresh  6.0% 
+new solutions.”  National 
+average
+– The North Alliance 
+10
+6 6
+2.2% 2.0%
+1.1%
+2018 2019 2020 2018 2019 2020
+Diversity within the board   Companies with both genders 
+of directors represented on the board
+Total % women
+100% 
+Norvestor 
+target
+Social
+19% 
+Industry 
+average17
+83%
+21%
+74%
+16%
+Maintaining a social license to operate isn’t merely about following rules and regulations, it’s 
+about being mindful of the many stakeholder impacts that a company has, both internally 
+and externally. The latter includes a range of aspects, such as labour conditions in the 
+3% 13%
+supply chain and improving opportunities for marginalised groups in society. Internationally, 
+the private equity industry has often been associated with aggressive cost cutting. 2018 2019 2020 2018 2019 2020
+In our view, a narrow ‘bean-counter’ approach to investing is a fool’s errand; our highly 
+growth-oriented strategy is focused on building world-class businesses, not tinkering with 
+Portfolio-wide gender diversity
+short-term margins. Enduring success cannot come without due attention to the health 
+and wellbeing of employees. Increases in staff turnover, or absenteeism, are red flags, and 
+we therefore encourage our companies to work proactively to understand and address any  Men
+concerns employees may have. Health & safety and recruitment & retention are common  Women
+material themes for our portfolio companies, all of which have very robust  
+QHSE-management systems in place.
+In 2020, the average absenteeism rate across our portfolios was 1.1%, which was well  43% 43% 44%
+below the national average at 6%15. Diversity is an important driver of value, as highlighted 
+by many studies. Not only is it an antidote to groupthink, but we also believe that it spurs 
+greater innovation and productivity. Among other things, we have made steady progress 
+57% 57% 56%
+on improving the gender balance in company boards. The proportion of companies with 
+one or more woman on their board of directors was 83% in 2020, compared to 13% in 
+2018. Our goal is to get this to 100%.
+2018 2019 2020
+15 Short-term absenteeism rate (<14 days). Based on like-for-like analysis, excluding data from companies and business units that did not disclose data in either years 2018-20 (PHM Group, NetNordic, READ, Presservation Holding). Benchmark based on Norwegian national average in 2020. Source: SSB 
+(absenteeism rate includes self & doctor certified).
+16 Based on like-for-like analysis, excluding data from companies and business units that did not disclose accident data in either years 2018-20 (PHM Group). 
+17 The ESG Status of Swedish Private Equity,  report by Swedish Privat Equity & Venture Capital Association (SVCA) and HUI (Link).
+Source: Portfolio company sustainability reports 2021, MJ Hudson Assessment. 
+13
+“For us, sustainability is not only an integral 
+part of our business model, but it also 
+plays a key role when making strategic 
+decisions. Our goal is to create a positive 
+impact for the society, our employees, 
+partners and customers.” 
+– Cegal
+Governance Over the years, we have developed a comprehensive set of governance policies that 
+all our portfolio companies must adhere to, including: 
+→ Anti-corruption policy
+→ Whistle-blowing policy 
+It is difficult to overstate the importance of good governance. To us, governance goes  → Code of conduct
+beyond meeting the minimum requirements – it’s about creating a culture of transparency 
+to reduce risk and improve operations. We insist that every company assigns responsibility  → Standard instructions for board of directors 
+for ESG to a senior manager and makes sure that relevant issues are part of the agenda at 
+board meetings. → ESG policy
+As we have already mentioned, our portfolio companies operate mainly in the Nordic region; 
+→ Anti-trust policy
+however, where there is exposure to industries and countries with a high incidence of 
+corruption, or that are under sanctions, extra resources are spent assessing the associated 
+→ Sanctions procedures
+risks. The annual sustainability reports that are produced for each portfolio company include 
+sections on material governance themes and third-party certification (such as ISO and  → Dawn-raid procedures
+various environmental-management certificates).
+→ Social-media policy
+→ Crisis-management policy
+→ Cyber-security incident plan
+→ Compliance programme
+14
+Portfolio company ESG performance
+4Service
+Acquisition date: January 2016
+Fund: Norvestor VII
+Country HQ: Norway Key metrics
+Industry: Business Services
+Headquartered in Oslo, 4Service is a Norwegian provider of contract catering, cleaning, front-desk 
+support, and other facility-management services. Its primary markets are commercial real estate, 
+2,092 2,243 1,365 95% 8
+onshore infrastructure camps, and offshore platforms. On a typical day, 4Service staff prepare and 
+serve more than 100,000 meals.
+NOK million   employees   carbon emission   locally sourced  NOK/guest in  
+revenue (FTE)  (tCO2e)  seafood served  food waste
+4Service is committed to sustainability in all facets of its operations. Due to the nature of its business – for 
+example, the sheer volume of meals prepared – the company’s potential to do good is vast. 4Service is 
+intent on making a positive impact at every touchpoint with society and the environment. The company’s 
+long-term targets include using 100% recyclable packaging, 
+as well as no carbon footprint in their vehicle fleet and 
+Key ESG themes and contribution to Sustainable Development Goals
+logistics. The company holds weekly meetings on how to 
+promote a more sustainable diet to their customers and how to 
+incorporate this into their offerings. In 2019, 4Service started  Energy & carbon Supply chain control  Resource waste & efficiency
+a collaboration with a famous Norwegian chef to make sure 
+  
+that the food served is locally sourced, in season, and creates 
+less food waste, all to decrease its and its customers’ footprint. 
+They also introduced a digital tool to further reduce their food 
+waste by letting users know how much food they are wasting 
+and the total carbon footprint it represents. Responsible food proposition Employee health & safety Sustainable principles 
+Sustainability is one of the most important topics for 4Service, 
+  
+and the company has many plans to ensure that they do  
+business most sustainably. For example:
+→ each division in the company has its own annual ESG 
+Operation Action Plan
+→ suppliers must meet their sustainability criteria and 
+ambitions
+→ using eco-friendly chemicals with limited environmental 
+implications
+8.8: Promoting safe working  12.3: Strategies in place for  13.2: Limiting their carbon  16.6 & 16.7: Promoting 
+environment for its employees food waste reduction. Launched  emissions of own operations and  sustainable developments 
+a pilot project with Unilever in  through their services throughout the supply chain with 
+2017 to monitor food waste in  ESG audits of suppliers
+Performance and priority ESG projects  production, preparation and 
+consumption 
+→ 4Service is working to become a carbon-neutral company with net-zero emissions.  
+→	The company has set ambitious targets in its supple chain reporting, by defining 
+the ESG criteria to which suppliers must adhere and performing regular audits to 
+ensure full compliance with those criteria.
+Climate-related risks and opportunities
+→  4Service is also working toward targets for resource waste and efficiency, and has 
+Physical risk Transitional risks and opportunities
+set criteria for the sustainable sourcing of chemicals used in its operations.
+→  The company is continuing to measure and limit food waste, an area in which 
+0.0 Key risk (policy & legal)
+4Service is already making a notable impact.
+Increased pricing of GHG emissions could lead to  
+higher operating costs.
+Key opportunity (resilience)
+LOW MEDIUM HIGH
+Showcase carbon impact in labelling of food products  
+(tCO2/kg) and actively reduce food waste. 
+Source: 4Service Sustainability Report 2021, MJ Hudson assessment
+16
+Avonova
+Acquisition date: January 2019
+Fund: Norvestor VI
+Country HQ: Norway & Sweden Key metrics
+Industry: Business Services 
+Avonova is the largest provider of occupational health services in the Nordics, with market-leading 
+positions in both Norway and Sweden. They offer occupational health services to more than 17000 
+1,356 968 561 50%
+corporate clients in over 130 health centers in Norway and Sweden. Their focus is on promoting a 
+safe, secure and sustainable working environment.
+NOK million  employees   carbon emission   women on the  
+revenue (FTE)  (tCO2e)  board of directors 
+The one thing that successful and profitable companies have in common is that they support their 
+employees, giving them the right skills to excel and the autonomy to act. Avonova designs and delivers a 
+range of training courses covering practical topics, such as health & safety and first aid, to more thoughtful 
+subjects, such as mental health. Poor mental health can affect a business acutely – it is estimated to cost 
+the global economy $1trillion per year. Notably, Avonova’s services focus on prevention rather than cure – 
+Key ESG themes and contribution to Sustainable Development Goals
+training staff on how to prevent and manage stress and recognise the signs that a co-worker is struggling. 
+As a leading provider of occupational health services in the Nordics, the company is well-versed in the 
+causes and contexts of sick leave. They provide rehabilitation to re-integrate staff back into the workplace,  Energy & carbon Employee health & safety
+based on tried-and-tested methodologies. Avonova’s methods aim to reduce absenteeism by tackling the 
+ 
+root causes – providing solutions that work in the real world. In addition, the group offers treatments for 
+muscular and skeletal disorders and lifestyle-related diseases from its private hospital. 
+The company has a genuine commitment to sustainability and continuous improvement. Each year, 
+an annual report on health and working life is produced, presenting lifestyle, workability and sick 
+leave findings, and tracking evolving workplace trends. In the longer term, Avonova’s business will be  Data security & privacy Impact of products & services Sustainability principles
+underpinned by the digitalisation of health services, coupled with closer cross-border cooperation.
+  
+Performance and priority ESG projects 
+→ Avonova quantifies and communicates the impact of preventative care and 
+occupational health care services. The company also communicates regularly on 
+ESG issues to its stakeholders.
+→  The company is on a net-zero trajectory. It aims to digitalise services, reduce 
+the number of health centres and initiate “hub projects” to improve geographical 
+3.8: Positive impact through  8.8: Positive contribution  13.2: Working towards becoming  16.6 & 16.7: Incorporating 
+coverage. their core business by enabling  by making sure employee  carbon neutral and exploring a  sustainable principles in their 
+qualitative and essential  satisfaction and diverse training  net-zero trajectory operations and strategies 
+→  Avonova also aims to use 100% renewable energy with a guarantee of origin,  healthcare  programmes to ensure transparency and 
+transition to an electrical fleet and offset the remaining direct emissions.  ensure responsive, inclusive, 
+participatory and representative 
+→  The company is targeting a 49% reduction in its total carbon footprint and a 50%  decision making at all levels 
+reduction in carbon intensity.18
+→  ESG criteria is now being considered in supplier audits, to promote transparency of 
+the supply chain.
+Climate-related risks and opportunities
+Physical risk Transitional risks and opportunities
+0.0 Key risk (policy & legal)
+Increased pricing of GHG emissions and exposure to litigation  
+can lead to increased costs.
+Key opportunity (resilience)
+LOW MEDIUM HIGH
+Embrace digitisation to capture growth opportunities and reduce 
+(travel and office related) climate footprint.
+18 tCO2e/NOKm
+Source: Avonova Sustainability Report 2021, MJ Hudson assessment
+17
+EnFlow
+Acquisition date: November 2014
+Fund: Norvestor VI 
+Country HQ: Norway Key metrics
+Sector: Energy & Marine 
+EnFlow is a holding company consisting of PG Flow Solutions, Calder, and Cflow Fish Handling. 
+Each of the businesses has distinct expertise in providing technology, systems and increasing 
+1,006 238 980 96% 0%
+product lifecycles within their respective markets in many industries. 
+NOK million   employees   carbon emission   steel efficiency   declassified  
+The ocean is vital to the well-being and prosperity of humankind. Preserving the ocean is central to revenue (FTE)  (tCO2e)  rate20 fish21
+the Sustainable Development Goal #14 – ‘Life under water’. Although we rely on the sea to produce 
+food, raw materials and transportation, we must use the sea respectfully and sustainably to reduce global 
+warming and prevent the degradation of its natural environment. 
+Ensuring the safety and reliability of products in aqua, marine and energy-related assets (e.g. live fish
+pumping systems, chemical plants, vessels and reactors) is critical to protect both human life and the Key ESG themes and contribution to Sustainable Development Goals
+marine environment. Consequently, aqua, flow and high-pressure solution providers are in high demand as
+they enable the safe and efficient use of aquatic resources using durable and high-quality components and
+Energy & carbon Sustainable product design Material efficiency & waste
+technologies (e.g. ballast water treatment systems, jetting water pumps).
+  
+Performance and priority ESG projects 
+Fish welfare  Employee health & safety  Sustainable principles
+→ The company is learning how to become a net-zero facility, based on different investment    
+scenarios. They are also investigating how components of existing products can be 
+tweaked to be repurposed. For example, PG Flow Solutions launched a floating dock to 
+clean marinas and harbours of ocean plastics, diesel film and other pollutants.19 
+→  The company is communicating the positive impacts of a circular economy to customers 
+and other stakeholders, and exploring how to further incorporate sustainability into 
+design specifications for customers.
+→  EnFlow is also identifying the root causes of material waste and implementing best 
+practices as well as setting targets to reduce waste. 
+→	An industry leader in fish welfare, the company is creating a roadmap showing how to 
+make more use of the cloud system and big data.  8.8: Promoting a safe  12.4 & 12.5: Using  13:2: Increasing the  14.2: Highest standard of  16.6 & 16.7: Incorporating 
+and secure working  sustainable materials and  positive impact by  fish welfare and providing  sustainable principles 
+environment for all  enabling sustainable end- providing energy- technologies which  in their operations and 
+employees of-life solutions efficient solutions which  enable the sustainable  strategies to ensure 
+support climate friendly  use of aquatic resources transparency and ensure 
+production methods  responsive, inclusive, 
+participatory, and 
+representative decision 
+making at all levels
+Climate-related risks and opportunities
+Physical risk Transitional risks and opportunities
+0.5 Key risk (technology)
+Transitioning to lower-emission technologies requires increased  
+focus within R&D, e.g. zero emission production facilities.
+Key opportunity (markets)
+LOW MEDIUM HIGH
+19 The Clean Sea PG Aqua Pod Continue to diversify activities into future-proof markets and capture 
+20 PG Flow Solutions operations growth opportunities related to sustainable aquaculture.
+21 Fish that are being harmed by mobile storage tanks 
+Source: PG Flow Solutions, Calder and Cflow’s Sustainability Report 2021, MJ Hudson assessment
+18
+First Camp
+Acquisition date: December 2016
+Fund: Norvestor VII 
+Country HQ: Sweden Key metrics
+Sector: Consumer Markets 
+First Camp is Scandinavia’s leading camping chain, allowing guests to spend their leisure time 
+at one of their 43 sites in Sweden and Denmark. These include thousands of camping plots and 
+390 43 104 93% 73% 0
+cabins that guarantee a fun stay, with access to adventure parks and beautiful nature areas. First 
+Camp also provides a range of family-oriented activities, such as mini-golf, swimming pools, kids’ 
+NOK million  camp sites  carbon emission   renewable  Green Key  guest injuries 
+clubs, saunas, boats, bike rental, restaurants, and small convenience stores.
+revenue (tCO2e)  energy   certified 
+campsites
+First Camp is deeply committed to making every one of its campsites as sustainable as possible so that 
+every visitor can enjoy an environmentally friendly holiday. ‘Green Key’ certificates22 are already in place for 
+73%23 of their campsites with targets to achieve this necessary certification for every site (100% operate 
+in accordance with the certification). Converting sites to renewable electricity, adding solar panels to the 
+Key ESG themes and contribution to Sustainable Development Goals
+lodges (where possible), setting up recycling schemes and water-usage efficiencies are ways that every 
+campsite will become more environmentally friendly. 
+Energy & carbon Customer safety Employee health & safety
+All campsites procure 100% renewable energy, and the policy of having visitors pay for their electricity and 
+water consumption means that they will be much more aware of usage. In the long term, the company has    
+an ambitious target of reaching a net-zero carbon footprint. 
+First Camp recognises that it is essential to have a good relationship with the local community around 
+every campsite, so impacts from the sites, such as littering and noise pollution, are closely monitored. 
+Another key goal for the company is to improve visitors’ satisfaction and make sure that health and safety,  Water & wastewater Environmental management Sustainability principles
+both for staff and guests at the campsites, is as good as it can be.
+  
+8.4: Reducing water  8.8: Practices and  13.2: Decreasing the  15.1: Contributing  16.6 & 16.7: Incorporating 
+Performance and priority ESG projects  consumption and  policies in place that  negative impact by  positively by actively  sustainable principles 
+increasing water  address employee rights  limiting their carbon  reducing the impact their  in their operations and 
+efficiency at all campsites  and well-being emissions at all camp  operations have on the  strategies to ensure 
+→ First Camp is working on a range of strategies to reduce its carbon footprint. Energy  sites  environment  transparency and ensure 
+efficiency initiatives are in place to lower the total carbon footprint, and 100%  responsive, inclusive, 
+participatory and 
+renewable energy usage is targeted.
+representative decision 
+making at all levels
+→	First Camp has also reduced its carbon intensity by 89% since 2017.
+→	Several of First Camp’s destinations are, or are in the process of being, awarded 
+the Green Key certification. This is a leading international environmental certification  Climate-related risks and opportunities
+body designed for the tourism industry, encompassing more than 2,600 certified 
+facilities in 56 countries across the world. First Camp wants 100% of its camps to  Physical risk Transitional risks and opportunities
+be Green Key certified.
+→  Finally, the company is strengthening customer well-being by developing new   0.3 Key risk (energy source)
+Relatively high energy intensity could lead to increased operating  
+health and wellbeing offerings.
+costs as a result of price increases for, e.g. renewable electricity. 
+Key opportunity (resilience)
+LOW MEDIUM HIGH
+100% Green Key certified to corroborate group-wide  
+commitment to climate and environmental objectives.
+22 https://www.greenkey.global/ 
+23 Additional 27% were acquired in 2020 and has not yet received rectification due to time
+Source: First Camp Sustainability Report 2021, MJ Hudson assessment
+19
+Foxway
+Acquisition date: January 2019
+Fund: Norvestor VI
+Country HQ: Sweden Key metrics
+Industry: Tech-enabled services
+Foxway is a leading Nordic provider of sustainable IT services to large corporations and schools 
+through their IT lifecycle management solutions. The core solution is the hardware-as-a-service 
+3,038 636 699 646,249 74,000
+offering, encompassing financing, refurbishment, re-development, and end-of-life solutions for 
+computers, tablets, phones, screens, printers and IT accessories. 
+NOK million   employees   carbon emission   repaired &   components 
+revenue (FTE)  (tCO2e)  rescued devices harvested  
+Did you know that over 1.7 tons of material are used to manufacture just one laptop? On average, the 
+manufacturing process also releases 20kg of chemicals into the natural environment while consuming 
+100,000 liters of water. With such a significant environmental footprint, it is important to ensure the 
+maximum use of laptops (and computers generally). If it can be disposed responsibly, it’s much better 
+for the environment as electronic waste is estimated to represent 2% of the world’s landfills and adds up 
+Key ESG themes and contribution to Sustainable Development Goals
+to some 70% of all hazardous waste. That’s where Foxway comes in. The company helps organisations 
+evaluate and plan their end-user needs as accurately as possible, to ensure efficient use of IT 
+equipment. Companies can track their employees’ use of devices easily, helping them with sustainable  Product life cycle Electronic waste Employee health & safety
+lifecycle management and thus limiting the environmental impact. In 2020, Foxway repaired and rescued 
+646,249 products and harvested 74,000 components 2020. Buying a refurbished laptop from Foxway    
+instead of a brand-new laptop means that a customer can avoid ~258 kg CO2-equivalent.
+The company’s ambition is to enable the circular economy within its industry, including providing metrics 
+to customers on the impact on climate from extending the life of end user IT equipment One initiative 
+Data security & privacy Talent management   Sustainability principles
+Foxway has introduced is the Green Zone perspective. Based on device-usage data, this initiative seeks 
+& retention
+to extend the useful life of existing hardware by up to 16 months, thereby lowering CO2 emissions. As   
+part of this, Foxway produces Green Grading Reports for its customers, outlining the benefits of lifecycle  
+management and tracking the customer’s CO2 impact. Foxway experience growing interest from its 
+clients to measure and improve their carbon footprint.
+Performance and priority ESG projects 
+→ By using Foxway’s services, customers can quantify and decrease their total 
+7.3: Targets to increase  10.2: Providing affordable  12.0 Providing practical  13.3: Targets to reduce  16.6 & 16.7: Incorporating 
+carbon footprint. Buying a refurbished laptop from Foxway instead of a new one 
+energy efficiency in their  IT solutions to simplify  solutions for sustainable  carbon footprint and  sustainable principles 
+equates to an estimated 6.65kg of CO2, saving an estimated 258kg of CO2. operations  access for all  (public) procurement of IT  enabling carbon footprint  in their operations and 
+hardware and preventing  reduction in the whole  strategies to ensure 
+→  In addition, Foxway’s customers save an estimated 13,769 tonnes of CO2 through  and reducing waste of  value chain  transparency and ensure 
+the refurbishment of laptops, while around 25,521 tonnes of CO2 are saved through  this hardware   responsive, inclusive, 
+participatory, and 
+the refurbishment of mobile phones.
+representative decision 
+making at all levels
+→  The company has achieved a 33% reduction in carbon intensity since 201824.
+→	Foxway aims to become carbon-neutral by 2023. 
+→	The company wants to become its clients’ key partner, helping to reduce their  Climate-related risks and opportunities
+carbon footprints by >30% by 2023. 
+Physical risk Transitional risks and opportunities
+0.6 Key risk (policy & legal)
+Increased pricing of GHG emissions could lead to  
+higher operating costs.
+Key opportunity (product & services)
+LOW MEDIUM HIGH
+To be a frontrunner in advancing circularity in the IT ecosystem  
+by offering products with lower emissions and material use.
+24 Carbon internsity = tCO2e/NOKm
+Source: Foxway Sustainability Report 2021, MJ Hudson assessment
+20
+Future Production
+Acquisition date: July 2013
+Fund: Norvestor VI 
+Country HQ: Norway Key metrics
+Sector: Energy & Marine 
+Future Production provides innovative solutions and equipment to the offshore rig industry where 
+the North Sea continental shelf is their primary market. Their products are known to significantly 
+83.8 33 90 0 0
+reduce the downtime of operations while at the same time minimising operational health risks.
+NOK million   employees   carbon emission   design faults accidents
+Future Production designs products for maximum longevity. As a result, their products have an average  revenue (FTE) (tCO2e) 
+lifetime of 20 years. In addition, they design products to be modular and easy to maintain. Consequently, 
+they enable their customers to replace components easily and continuously upgrade their operations to 
+be state-of-the-art. Ensuring product quality is vital for the business’s success; it plays an essential role in 
+preventing environmental spills and limiting accidents in customers’ operations. 
+Next to producing modular and long-lasting products, Future Production aims to be more sustainable by 
+Key ESG themes and contribution to Sustainable Development Goals
+reducing product-related materials and energy use. The company has developed a strategy to increase 
+material efficiency by designing lighter products, while electric motors power all products. Most equipment 
+is made up of steel, a material that can be fully recycled after use. Apart from steel, cylinders, pressure  Energy & carbon Product design
+filters, motor and gears, slew ball bearding and valves are used. Where possible, environmentally friendly 
+ 
+chemicals are used in production processes. 
+Employee health & safety Product quality & safety Sustainable principles
+  
+8.8: Integrating climate change  12.4: Decreasing the negative  13.2: Promoting a safe and  16.6 & 16.7: Incorporating 
+measures into their operations by  impact by improving material  secure working environment for  sustainable principles in their 
+Performance and priority ESG projects  encouraging videoconferencing  efficiency through product design  all by implementing sound HSE  operations and strategies 
+to reduce travel and by using environmentally  policies, following ISO 9001,  to ensure transparency 
+friendly chemicals anti-trust policy and sanctions  and responsive, inclusive, 
+→ Future Production has received the ISO9001 and ISO14001 certifications. ISO  checklist participatory and representative 
+certifications are a seal of approval from a third party, ensuring a company  decision making at all levels
+meets international quality and safety standards. 
+→  The company has achieved a 66% reduction in carbon intensity25 since 2017 
+→	Staff are exploring the potential to design more sustainable products, and 
+Climate-related risks and opportunities
+pursuing methods that qualify and quantify the time saved by operators. 
+→  Future Production acts as an ESG facilitator in the supply chain by  Physical risk Transitional risks and opportunities
+implementing ESG criteria in supplier evaluation forms. 
+→  The company is exploring the growth pockets in adjacent markets (e.g.  0.5 Key risk (market)
+Reduced demand for products & services delivered to the energy and 
+offshore wind, mineral mining) to evaluate the licence to grow from a 
+marine industry amidst a transition to a low carbon economy.
+sustainable perspective.
+Key opportunity (markets)
+LOW MEDIUM HIGH
+Diversify activities into future-proof markets and capture growth 
+opportunities related to e.g. the energy transition.
+25 tCO2e/NOKm
+Source: Future Production Sustainability Report 2021, MJ Hudson assessment
+21
+HydraWell
+Acquisition date: April 2016
+Fund: Norvestor VII
+Country HQ: Norway Key metrics
+Sector: Energy & Marine 
+HydraWell is a leading provider of well-integrity systems, providing safe, effective, and sustainable 
+zonal isolations for the plug and abandonment (P&A) of hydrocarbon wells worldwide. 
+94.5 30 121 0
+The company’s industry-leading technologies can save a significant amount of time and help reduce  NOK million  employees   carbon emission   environmental  
+the environmental impact of well abandonment operations globally. All oil wells eventually have to be  revenue (FTE)  (tCO2e)  spills 
+abandoned. The way this takes place is critical to ensure that the environment is permanently protected 
+from fluid or gas leaks. In the case of Norwegian environmental regulation, this means providing ‘eternal’ 
+protection. Historically, the costs of P&A combined with varying regulatory regimes across the world 
+have caused many oilfield operators to opt for temporary – and thus unsustainable – fixes. HydraWell 
+addresses this lingering problem by offering a unique set of well integrity solutions that enable clients to 
+Key ESG themes and contribution to Sustainable Development Goals
+seal their wells safely and quickly. On top of the financial costs, there is a significant environmental footprint 
+associated with traditional P&A methods due to a large number of people and pieces of equipment involved 
+in the plugging process. Time is a critical variable: traditional approaches typically take two to three weeks,  Energy & carbon Environmental management  
+whereas the company’s efficient Perforation, Wash and Cement (PWC) technology can plug a well in less 
+ 
+than 48 hours, translating into significantly lower energy consumption, and therefore a significant reduction 
+in associated CO2 emissions. 
+For example, when used on a floating offshore drilling unit, HydraWell’s approach can reduce associated 
+CO2 emissions by two-thirds – from 750 to 250 metric tonnes per plug, equivalent to taking more than 100 
+cars off the road for a year. The company’s solutions come with lower health and safety (H&S) risks than  Employee health & safety Sustainable principles  Supply chain control
+conventional techniques (e.g. section milling), which often entail handling large amounts of metal debris.  
+ 
+8.8: Promoting safe and secure  12.2: Reducing the amount of  14.1: Ensuring high levels of  16.6 & 16.7: Incorporating 
+working environment for all  waste used in their operations  product quality and safety. Their  sustainable principles in their 
+employees by having practices  services deliver a permanent  operations and strategies 
+and policies in place  positive benefit to marine  to ensure transparency and 
+resources ensure responsive, inclusive, 
+Performance and priority ESG projects 
+participatory and representative 
+decision making at all levels
+→	HydraWell has a record of zero accidents.
+→  The company has reduced its carbon footprint by 50% since 2018, and reduced 
+carbon intensity26 by 46% over the same period. 
+Climate-related risks and opportunities
+→  HydraWell has a 100% success rate of safely plugging hydrocarbon wells.
+→  90% of company waste is recycled. HydraWell is also establishing a robust process  Physical risk Transitional risks and opportunities
+to measure offshore waste reduction (estimated tonnes of CO2/operating time) to 
+further reduce their customers’ carbon footprints. 0.5 Key risk (market)
+Reduced demand for products & services delivered to the energy and 
+→  The company aims to reduce the need for rig-based operations in well 
+marine industry amidst a transition to a low carbon economy.
+abandonment, which would result in a 70% reduction in its carbon footprint.
+Key opportunity (products & services)
+LOW MEDIUM HIGH
+Expansion of permanent plugging services to minimise  
+environmental impacts.
+26 tCO2e/NOKm
+Source: HydraWell Sustainability Report 2021, MJ Hudson assessment
+22
+iSURVEY
+Acquisition date: May 2013
+Fund: Norvestor VI
+Country HQ: Norway  Key metrics
+Industry: Energy and Marine 
+iSURVEY’s objective is to deliver safe, effective, and reliable high-quality survey services to 
+diminish the environmental impact and improving the accuracy of oil & gas operations. Their 
+225 102 179 0
+services are organised into four distinct business areas: Marine constructions, offshore cable, rig 
+monitoring and seabed surveys.
+NOK million   employees   carbon emission   accidents
+revenue (FTE) (tCO2e) 
+Over the last decade, renewable energy projects have become an essential part of iSURVEY’s activity. 
+The use of Unmanned Surface Vehicles (USVs) to acquire high-quality data is a further step to reduce the 
+environmental impact of their services effectively. 
+Their services are organised into four distinct business lines:
+→ Marine construction – providing accurate and precise surface and subsea positioning solutions Key ESG themes and contribution to Sustainable Development Goals
+→ Offshore cable – providing support services for the entire cycle of an offshore cable
+→ Rig mooring – offering advanced and robust surface and subsea positioning solutions, including 3D Energy & carbon Product quality & safety
+  modeling, multi-vessel management and offshore monitoring  
+→ Seabed surveys – delivering geophysical and environmental survey solutions for site surveys, pipeline/
+cable route surveys, remotely operated vehicles, seabed mapping and pipeline inspection
+The industry has the potential to reach a future-proof state yet must explore ways to match the growing
+renewable energy demand. Energy consumption must be reduced to an absolute minimum Employee health & safety Sustainable principles 
+and implement/utilise low carbon technologies to comply with growing pressure to achieve climate-
+ 
+related agreements. The regulatory pressure for the industry is also increasing and driven mainly by the
+International Maritime Organization (IMO) and government bodies, for instance, the anticipation of stricter
+regulations regarding CO2 emissions and the EU GDPR.
+Regardless of the COVID-19 pandemic, iSURVEY was able to deliver a higher number of projects in 2020
+while still managing to reduce the energy consumption significantly (~35%) and its total carbon
+footprint – from 517 tons of CO2 in 2019 to 157 tons CO2 in 2020. The company has learned from this
+experience and is continuing this approach in the coming years.
+Performance and priority ESG projects  8.8: Creating the safest possible  13.2: Focusing on reducing their  16.6 & 16.7: Incorporating 
+work environment for their  own as well as clients’ carbon  sustainable principles in their 
+employees footprint operations and strategies 
+→ iSURVEY has received the ISO9001 and ISO14001 certifications. ISO 
+to ensure transparency and 
+certifications are a seal of approval from a third party, ensuring a company  ensure responsive, inclusive, 
+meets international quality and safety standards.  participatory and representative  
+decision making at all levels
+→	Renewable energy projects have become an essential part of iSURVEY’s 
+activities. They targeted <2 kg of CO2 emission per worked hour – a goal 
+achieved in 2018–2020.
+→  iSURVEY is pursuing a roadmap to net zero, which includes quantifying the  Climate-related risks and opportunities
+impact of remote rigs, and re-evaluating business its travel policy based on 
+findings from COVID-19.  Physical risk Transitional risks and opportunities
+→  The company has achieved a 25% reduction in conformance report from 2019. 
+None of the reports posed any danger to people or the environment.  0.0 Key risk (market)
+Reduced demand for products & services delivered to the energy  
+→  iSURVEY aims to strengthen the safety culture and procedures and identify  and marine industry amidst a transition to a low carbon economy.
+remaining gaps. By 2022, they plan to be using an ISO 45001 certified  Key opportunity (markets)
+LOW MEDIUM HIGH
+management system. Diversify activities into future-proof markets and capture growth 
+opportunities related to e.g. the energy transition.
+Source: iSURVEY Sustainability Report 2021, MJ Hudson assessment
+23
+NetNordic 
+Acquisition date: August 2017 
+Fund: Norvestor VII
+Country HQ: Norway Key metrics
+Industry: Business Services
+NetNordic is an independent systems integrator providing solutions and services for clients’ 
+networks, data centers, IT security, and corporate communications. Its clients include large and 
+1,811 459 491 0
+medium-sized enterprises, government agencies, municipalities and service providers in Norway, 
+Sweden, Denmark and Finland.
+NOK million  employees   carbon emission   data security  
+revenue (FTE)  (tCO2e)   breaches  
+Whether it is reducing business travel by using videoconferencing technology, increasing collaboration 
+via bespoke platforms, or protecting data, NetNordic can help clients optimise their IT systems while 
+bringing tangible improvements in sustainable performance. Internally, the company has made good 
+strides since our acquisition in 2017. Keen to streamline and benchmark progress, the company has 
+been working towards achieving the Eco-Lighthouse certification. This concrete and effective tool helps 
+Key ESG themes and contribution to Sustainable Development Goals
+companies make wise and profitable sustainable choices. 
+NetNordic places security and data privacy at the heart of its business, helping a range of clients, 
+Talent management & retention Impact of products & services
+including major Nordic hospitals, communicate, integrate and share information securely. The company 
+is aligning its data management system with ISO 27001 certificate to maintain data privacy for its   
+customers and other stakeholders. 
+The company conducted its first group-wide employee satisfaction survey in 2018 and received a score 
+of 74%. This number increased to 85% in 2019 and 91.5% in 2020. These are telling numbers, as 
+companies showing a responsible attitude to their staff and contractors are more likely to extend the 
+Data security & privacy Sustainability principles 
+same principles externally. 
+ 
+NetNordic has raised awareness of energy use throughout the business and is committed to continuous 
+efficiency improvements. They report annually on total energy consumption and the emissions of their 
+fleet. Both their total carbon footprint and carbon intensity has decreased since 2017.
+Performance and priority ESG projects 
+→ NetNordic has reduced its total carbon footprint by 24% since 2017, and reduced its 
+carbon intensity27 by 40% over the same period.
+3.8: A positive impact  7.1: Contributes positively  9.1: Their software  13.2: Investigating  16.6 & 16.7: 
+→	The turnover rate for staff decreased by 50% in 2020, which suggests the company 
+on society through their  with their solutions for  services have a positive  opportunities to reduce  Incorporating sustainable 
+has created a positive and supportive working environment. healthcare, networking,  energy power systems  impact on human   their carbon footprint  principles in their 
+and communication  which enable swift  well-being  operations and strategies 
+→	The ratio of basic salary and remuneration of women to men has increased from  software detection and servicing of  to ensure transparency 
+84% in 2019 to 91.5% in 2020.  system failures  and responsive, inclusive, 
+participatory, and 
+→  ESG criteria is now included when selecting suppliers, to ensure visibility of the  representative decision 
+making at all levels
+supply chain.
+Climate-related risks and opportunities
+Physical risk Transitional risks and opportunities
+0.3 Key risk (policy & legal)
+Increased pricing of GHG emissions may lead to higher  
+operational costs.
+Key opportunity (products & services)
+LOW MEDIUM HIGH
+Further develop services that contribute to the energy transition,  
+e.g. swift detection and servicing system failures for energy  
+power systems.
+27 tCO2e/NOKm
+Source: NetNordic Sustainability Report 2021, MJ Hudson assessment
+24
+Permascand
+Acquisition date: May 2015
+Fund: Norvestor VI 
+Country HQ: Sweden Key metrics
+Sector: Engineering & Industrials 
+Permascand is an engineering and manufacturing company situated in Ljungaverk, northern 
+Sweden. They have supplied electrodes with catalytic coatings to the electrochemical industry 
+409 111 338 100%
+for nearly 50 years. Their mission is to deliver innovative and competitive engineering and 
+manufacturing solutions to transition towards greener technologies. 
+SEK million  employees   carbon emission   taxonomy  
+revenue (FTE)  (tCO2e)   aligned29
+Permascand is a global company acting ‘local’ with high integrity and responsibility. They invest in 
+people, products, the environment, production methods, and workspaces for a more sustainable 
+world. The company’s products are designed for refurbishment/reuse and are returned for recoating 
+and reparation, enabling multiple lifecycles. They contribute to the Sustainable Development Goals 12 
+(responsible consumption and production) and 13 (climate action) by mitigating climate change via their 
+Key ESG themes and contribution to Sustainable Development Goals
+services. Their electrochemical coatings help decrease their customers’ energy consumption and ensure 
+resources are used efficiently. Their products are also used in the production of lithium and nickel for 
+energy storage and renewable power generation, and hydrogen water electrolysis. All these activities  Hazardous  Energy & carbon  Employee health   Waste  
+help the supply chain to reduce its carbon footprint. substances & safety & wastewater
+   
+Even though their impact on customers is far more critical than limiting their own carbon footprint, 
+Permascand have, since December 2019, phased out and replaced most of the heating oil used in prod<c 
+and introduced wood pellets. This has resulted in a significant decrease of the company’s total carbon 
+footprint with 76% (or 1,404 tons of CO2 in 2019 to 338 tons of CO2 (estimated) in 2020). It also resulted in 
+Impact of product   Supply chain control Sustainable  
+a 75% reduction of carbon intensity28.
+& services principles 
+
+ 
+Performance and priority ESG projects  8.8: Ensuring  9.0: Producing  12.4 & 12.5:  13.2: Their product  14.1: Their water  16.6 & 16.7: Incorporating 
+compliance of strict  technologies which  Decreasing world  is vital for the right  treatment solution  sustainable principles 
+health and safety.  support the transition  energy consumption  energy storage and  helps keep the oceans  in their operations and 
+→ Permaskand has achieved the ISO14001, ISO9001, ISO45001 and ISO3834-2  Targeting an accident  to cleaner energy  and improve the  renewable power  clean, preventing  strategies to ensure 
+rate of 0 and transportation  efficient use of  generation the spread of foreign  transparency and 
+certifications. ISO certifications are a seal of approval from a third party, ensuring a 
+solutions resources through  species and reducing  responsive, inclusive, 
+company meets international quality and safety standards. their products  marine pollution participatory, and 
+representative decision 
+→	Total waste volumes were reduced by 17%, and carbon intensity has reduced by  making at all levels
+75% since 201929.  
+→	The company initiated the process of becoming a signatory to the UN Sustainable 
+Climate-related risks and opportunities
+Ocean Principles, and is ensuring compliance with the new EU Sustainable 
+Finance regulation. 
+Physical risk Transitional risks and opportunities
+→	In its supply chain, the company is strengthening its system to ensure full ESG 
+compliance. It will also be reporting on positive interactions with suppliers. 0.0 Key risk (policy & legal)
+ Stricter climate-related environmental permits and emission  
+standards increasing costs of operations.
+Key opportunity (resilience)
+LOW MEDIUM HIGH
+Position as a key enabler for the energy transition  
+28 ESG consultants MJ Hudson have good reason to believe that the underlying activity is aligned, but full compliance has not been demonstrated 
+(e.g. the hydrogen economy).
+since not all technical screening criteria could be verified. The technical screening assessment is available upon request. 
+29 tCO2e/SEKm
+Source: Permascand Sustainability Report 2021, MJ Hudson assessment
+25
+PHM Group
+Acquisition date: April 2020
+Fund: Norvestor VIII
+Country HQ: Finland Key metrics
+Sector: Business Services
+PHM Group (PHM) is a provider of residential property maintenance services in the Nordics, caring 
+for the homes of around one million people in Finland and Sweden. Key service areas include 
+2,805 3,700 4,111 30%
+property maintenance, cleaning, landscaping, outdoor maintenance, transportation services, and 
+emission-free property management solutions. 
+NOK million  employees   carbon emission   women  
+revenue (FTE)  (tCO2e)  employees 
+Residential property owners seek high-quality maintenance services to ensure buildings are functioning 
+fully and extend the operational lifetime of their properties. Sustainable solutions, such as environmentally 
+friendly cleaning products and energy-efficient lighting and heating systems, have the potential to optimise 
+property functioning, improving its sustainable performance while at the same time lowering operational 
+costs. To reach a future-proof state and align with climate objectives and regulations (e.g. the Paris 
+Key ESG themes and contribution to Sustainable Development Goals
+Agreement), property managers, and ultimately property owners, will need to reduce CO2 emissions by 
+looking at emissions-free transportation and maintenance solutions.  
+Employee health & safety Fair labour conditions
+In PHMs pipeline, their CO2 emissions is an important topic. They are investigating how to become net-
+zero by creating a concrete carbon-reduction roadmap. They are exploring emissions-free solutions for   
+their different service segments and exploring partnerships to ensure that this is possible. The health and 
+safety of their employees also stand at the core of their ESG efforts, and plans are in place to ensure the 
+best health and safety routines are followed.
+Water & wastewater Material efficiency & waste Sustainability principles
+  
+8.8: Increasing positive  12.4 & 12.5: Using  13.2: Decreasing the negative  16.6 & 16.7: Incorporating 
+contribution by implementing  environmentally friendly  impact by optimising their  sustainable principles in their 
+sound H&S polices and  chemicals and long-lasting  fleet efficiency and investing  operations and strategies 
+increasing diversity amongst  products  in low-carbon equipment and  to ensure transparency and 
+employees  machinery ensure responsive, inclusive, 
+Performance and priority ESG projects 
+participatory, and representative 
+decision making at all levels
+→ The company is optimising its fleet and investing in low-emissions equipment 
+and machinery to limit carbon emissions.
+→  An action plan is in place to aggregate energy and carbon footprint data from 
+all entities.  Climate-related risks and opportunities
+→	PHM Group is following a carbon-reduction roadmap and investigating how to 
+Physical risk Transitional risks and opportunities
+become net-zero. 
+→	Emissions-free solutions are being explored for the different service  0.1 Key risk (policy & legal)
+segments (e.g. optimised heating in residential building; how to remove snow  Stricter climate regulations in the EU increasing operating 
+costs (e.g. higher compliance costs).
+responsibly; opportunities to recycle sand used in de-icing). 
+Key opportunity (product & services)
+→  PHM Group is developing a sustainability service proposition. LOW MEDIUM HIGH
+Development of offerings contributing to the energy transition,  
+such as building insulation.
+Source: PHM Group Sustainability Report 2021, MJ Hudson assessment
+26
+Preservation Holding
+Acquisition date: November 2016
+Fund: Norvestor VI 
+Country HQ: Norway/Germany  Key metrics
+Sector: Energy & Marine
+Preservation Holding consists of Presserv and Monti Power. Presserv is a leading specialist in 
+preservation and corrosion protection. Monti Power is a globally renowned manufacturer of rotary 
+331 95 131 294 0
+bristle blasting technology and special surface preparation equipment. Their products prolong the 
+use of assets in sectors such as transportation, oil and gas, windmill, pipeline, public infrastructure 
+NOK million   employees   carbon emission   tCO2e have   accident  
+and heavy equipment. 
+revenue (FTE)  (tCO2e)  been offset   rate
+Ensuring the safety and longevity of physical assets is critical from a sustainability perspective. 
+Replacement isn’t just undesirable financially – it also comes at a high environmental cost due to the 
+materials and energy needed in production.30 Many traditional preservation methods are harmful to the 
+environment, mainly due to the use of hazardous chemicals. 
+Key ESG themes and contribution to Sustainable Development Goals
+Presserv offers a range of green preservation and corrosion-protection solutions, helping customers 
+extend their assets’ life while limiting the environmental impact. Sandblasting is a crucial case in point. This 
+Energy & carbon Material use Employee health & safety
+commonly used surface preparation technique is very polluting, with dust and debris – such as paint and 
+other adhesives – quickly escaping into the environment. It also poses obvious health risks for the operator.    
+Presserv offers alternative methods to conventional blasting, including a sponge-based technology, which 
+captures contaminants, and mechanical grit-blasting tools with a vacuum function. Both ways significantly 
+reduce fugitive emissions. Importantly, although Presserv has historically been heavily focused on the oil 
+and gas industry, it now offers bespoke solutions for greener industries, such as offshore wind-power plants. 
+Supply chain control Impact of products & services Sustainability principles
+Monti Power’s patented technologies and innovative solutions are used to fabricate protective coatings 
+  
+and sealants without the need for abrasive materials and waste media. Their power tool enables high-
+performance surface preparation technologies that maximise the long-term protection of assets.
+Performance and priority ESG projects 
+→ Presserv has received the ISO9001, ISO14001, and ISO17025 certifications. 
+ISO certifications are a seal of approval from a third party, ensuring a company 
+meets international quality and safety standards. Monti Power also holds a 
+range of ISO certifications. 
+8.8: Practices and  9.4: Increasing the  12.4 & 12.5: Using  13.2: Taking energy  14.1: Offering green  16.6 & 16.7: 
+→  Presserv boasts 100% renewable energy usage and is targeting a net-zero  policies in place  resource efficiency  recycled materials  saving measures  preservation and  Incorporating sustainable 
+status. 69% of the company’s carbon footprint has been offset.  to protect labour  of offshore structures  or bioplastics  and working towards  corrosion-protection  principles in their 
+rights and promote  when possible. A  becoming carbon  solutions operations and strategies 
+→  Presserv is focusing on quantifying the positive impact of its products (e.g.  safety of all workers  circularity program  neutral to ensure transparency 
+(e.g. dust control,  for recycling to limit  and ensure responsive, 
+reduced CO2e per m2). Presserv is also expanding its share of revenue from 
+vibration- and sound  the environmental  inclusive, participatory 
+renewable sectors (e.g. wind turbines) to 15% by 2023. control) impact from waste and representative 
+decision making at all 
+→	Monti Power has an impressive record of zero recalls.
+levels
+→  Monti Power became carbon-neutral in 2021. They installed solar panels and 
+offset any remaining indirect emissions. A circularity programme is being rolled  Climate-related risks and opportunities
+out to customers by 2022, quantifying the impact of their products.
+Physical risk Transitional risks and opportunities
+0.5 Key risk (policy & legal)
+Increased pricing of GHG emissions could lead to  
+higher operating costs.
+Key opportunity (products & services)
+LOW MEDIUM HIGH
+Developing products that support clients to reduce their  
+carbon emissions (e.g. STOPAQ).
+30 Iron and steel production are very carbon intensive, and a major contributor to global greenhouse gas emissions. Prolonging the useful life of 
+existing steel structures, whether ships, infrastructure, or buildings, is thus critical from a climate-change perspective.
+Source: Presserv & Monti Sustainability Report 2021, MJ Hudson assessment
+27
+READ Cased Hole
+Acquisition date: December 2016
+Fund: Norvestor VII
+Country HQ: United Kingdom Key metrics
+Industry: Energy & Marine
+READ Cased Hole (‘READ’) provides production logging and well integrity services to the oil and 
+gas industry. The company offers a suite of high-tech solutions that help oilfield operators manage 
+70.5 38 238 0
+risk, extend operating life and optimise management of their downhole assets. Since its founding 
+in 1990, READ has built an impressive customer base across the world.
+NOK million  employees   carbon emission   tool drops
+revenue (FTE)  (tCO2e) 
+Maintaining the integrity of an oil well is paramount 
+from an environmental and safety perspective. Leaks 
+can go undetected until they reach a critical volume, 
+at which point it may be too late to prevent significant 
+damage. READ has developed a comprehensive suite 
+Key ESG themes and contribution to Sustainable Development Goals
+of tools and data analytics, which give its clients a 
+very granular picture of their wells, helping to identify 
+and quantify damage and deformation, holes, leaks,  Energy & carbon Employee health & safety
+corrosion, and build-up. Armed with this knowledge, 
+ 
+operators can take preventative measures and limit 
+remedial costs. Extending the life of an existing asset 
+also reduces the need to drill for new wells, thus 
+avoiding the attendant environmental impacts. 
+READ is working proactively to shrink the  Data security & privacy Service quality Sustainability principles
+environmental footprint of its operations. The    
+company has reduced its total carbon footprint 
+by 27% since 2017 and a 15% carbon intensity 
+decrease.31 Reducing air travel is a priority, as this 
+accounts for a large share of the company’s greenhouse gas emissions. They are looking to offset these 
+emissions and become a carbon-neutral company. 
+As a knowledge business with a highly skilled workforce, READ places a significant emphasis on attracting 
+and retaining talent, with structured in-house development programs and annual employee satisfaction 
+surveys. They have initiated a pipeline to attract young, bright individuals to join the company by 
+collaborating with universities, especially with their new focus on AI (‘artificial intelligence) and data analytics.
+8.8: Increasing the positive  13.2: Decreasing negative  16.6 & 16.7: Incorporating 
+impact by having practices and  impact by making their energy  sustainable principles in their 
+policies in place to protect labor  consumption more efficient and  operations and strategies 
+Performance and priority ESG projects  rights and ensure safety for all  offsetting what is left  to ensure transparency and 
+workers  ensure responsive, inclusive, 
+participatory and representative 
+→ READ has received the ISO9001 and ISO45001 certifications. ISO 
+decision making at all levels
+certifications are a seal of approval from a third party, ensuring a company 
+meets international quality and safety standards.
+→	READ has put in place strategies to reduce the environmental impact of direct 
+and indirect emissions. 
+Climate-related risks and opportunities
+→	The company has reduced its total carbon footprint by 27% since 2017, and 
+Physical risk Transitional risks and opportunities
+reduced its carbon intensity by 15% over the same period.
+→  They are diversifying their product range by increasing the share of revenue 
+1.0 Key risk (market)
+from renewables, and other sustainable ‘growth’ areas.
+Reduced demand for products & services delivered to the energy and 
+marine industry amidst a transition to a low carbon economy.
+→	ESG criteria is included in the purchasing policy for suppliers, agents and 
+partners, to promote transparency of the supply chain.   Key opportunity (markets)
+LOW MEDIUM HIGH
+Diversify activities into future-proof markets and capture growth 
+opportunities related to e.g. the energy transition.
+31 tCO2e/NOKm
+Source: READ Cased Hole Sustainability Report 2021, MJ Hudson assessment
+28
+Roadworks
+Acquisition date: May 2015
+Fund: Norvestor VI 
+Country HQ: Norway Key metrics
+Sector: Business Services
+Roadworks helps to maintain Norway’s infrastructure including a large share of public work. 
+The company aims to have a positive impact on the environment and public safety through 
+2,140 724 5,655 93% 4.1
+its operations. They help secure access to electrical power, improve road safety, and ensure 
+that infrastructure is well maintained. Their quality assurance extends the lifespan of critical 
+NOK million   employees   carbon emission   from renewable  accident  
+infrastructure.
+revenue (FTE)  (tCO2e)   sources rate
+Governmental and commercial customers are focusing on the increasing electrification of Norway with 
+related demands on the transmission infrastructure. They are continuing to explore new and more 
+sustainable road infrastructure solutions, such as charging stations for electric vehicles and solar-powered 
+lighting. Roadworks helps to meet these demands by providing safe, durable, and fit for purpose solutions. 
+Key ESG themes and contribution to Sustainable Development Goals
+Companies like Roadworks need circular operators for a range of resources, including transmission 
+lines, transformers, asphalt, railings, and lighting fixtures are fully recycled to reach a future-proof state. 
+Construction sites should also be aligned with ‘zero emissions’ market expectations. Roadworks are trying 
+Energy & carbon Supply chain control 
+to limit their environmental impact by continuously improving their fleet with electrical and more fuel-
+efficient vehicles (e.g. Euro-6), assessing alternatives for electrical vehicles, hydrogen powered vans and   
+heavy vehicles. Most of their operating companies procure renewable energy where 93% of total energy 
+consumption is certified.  
+Employee health & safety Product quality & safety Sustainable principles
+  
+7.1: Building, improving,  8.8: Improving the  9.1: Contributing  13.2: Focusing on  16.6 & 16.7: Incorporating 
+and maintaining the  working environment by  through their core  reducing their carbon  sustainable principles 
+electrical power grid,  monitoring in accordance  business offering  footprint in their operations and 
+wind power facilities,  with their HSE plans, risk  aimed at promoting  strategies to ensure 
+charging stations for  assessment and health  quality, reliability, and  transparency and ensure 
+Performance and priority ESG projects 
+cars and vessels.  examinations  sustainability in the  responsive, inclusive, 
+Increasing charging and  maintenance of public  participatory, and 
+→ Roadworks has achieved the ISO9001, ISO14001, and ISO45001 certifications.  transmission capacity infrastructure  representative decision 
+making at all levels
+ISO certifications are a seal of approval from a third party, ensuring a company 
+meets international quality and safety standards.
+→	The company is reducing its carbon footprint by focusing on optimising routes.  Climate-related risks and opportunities
+Roadworks has already reduced its carbon footprint by 11% since 2018. 
+Physical risk Transitional risks and opportunities
+→  Roadworks’ accident rate decreased by 50% from 2019. Moreover, the company 
+scored 4.5/5.0 on safety culture in its annual employee survey. 
+0.0 Key risk (market)
+→	Since 2018, carbon intensity has fallen by 12%32.  Growing demand for climate-related solutions requires  
+adaptation of services and capabilities.
+Key opportunity (resource efficiency)
+LOW MEDIUM HIGH
+More circular, efficient production and transportation methods  
+provide advantage in tendering processes.
+32 tCO2e/NOKm 
+Source: Roadworks Sustainability Report 2021, MJ Hudson assessment
+29
+SmartRetur
+Acquisition date: September 2020
+Fund: Norvestor VIII
+Country HQ: Norway Key metrics
+Sector: Business Services
+SmartRetur is a Nordic market leader within reverse logistics of reusable packaging. They provide 
+physical handling and digital inventory management of mainly wooden pallets for B2B clients, 
+449 101 1,041 90%
+including pick up/delivery, reparation, storage, trading, and end-of-life recycling for their clients in 
+Sweden, Norway, and Denmark. 
+NOK million  employees   carbon emission   reusable  
+revenue (FTE)  (tCO2e)  wood pallets
+SmartRetur handles around 10 million pallets and serves close to 500 customers annually. Most wooden 
+pallets have a lifespan of 14–24 months and are reused multiples times. SmartRetur’s service offering 
+uses warehouse infrastructure and a digital platform to enable clients’ real-time overview and control of the 
+inventory and flows, optimizing efficiency. SmartRetur promotes a circular economy, helping customers 
+save costs while reducing the environmental footprint of logistics. The nature of SmartRetur’s operations 
+Key ESG themes and contribution to Sustainable Development Goals
+is built on reducing the amount of waste to an absolute minimum. Furthermore, 97% of the waste that was 
+generated in 2020 was recyclable, while there is no hazardous waste. SmartRetur is also a frontrunner 
+when it comes to introducing more environmentally friendly alternatives to wooden pallets in the Nordic  Employee health & safety Logistical efficiency
+market, like pallets made of recyclable plastic which can be reused up to 15-20 years.
+ 
+Material efficiency & waste Supply chain control Sustainability principles
+  
+8.8: Practices and  12.4 & 12.5: Maximising  13.2: Minimising the  15.1: Sourcing certified  16.6 & 16.7: Incorporating 
+policies in place  the use of recycled waste  carbon emissions in their  wood that comes from  sustainable principles 
+addressing employee  and reuse of materials operations  sustainably managed  in their operations and 
+health and safety   forests  strategies to ensure 
+Performance and priority ESG projects  transparency and ensure 
+responsive, inclusive, 
+participatory, and 
+→ SmartRetur communicates positive impacts to stakeholders and pushes ESG 
+representative decision 
+standards in the industry. making at all levels
+→		The company plans to increase truck load optimisation and report on it.
+→		SmartRetur is updating ESG requirements in supplier contracts and strengthening  Climate-related risks and opportunities
+its supply chain control by auditing suppliers on responsible sourcing. 
+Physical risk Transitional risks and opportunities
+→		The company aims to achieve at least 20% gender and minority diversity in 
+management and board level positions within the next three years.
+0.4 Key risk (policy & legal)
+Regulations on sustainable wood sourcing leading to supply chain 
+interruptions and increased reporting requirements.
+Key opportunity (resilience)
+LOW MEDIUM HIGH
+Increasing transparency throughout the supply chain through  
+adequate monitoring and reporting systems and sustainable sourcing.
+Source: SmartRetur Sustainability Report 2021, MJ Hudson assessment
+30
+Sperre Compressors
+Acquisition date: March 2018 
+Fund: Norvestor VII
+Country HQ: Norway Key metrics
+Industry: Energy & Marine 
+Sperre is a world-leading provider of compressed air system solutions for a broad range of 
+mission-critical applications across the marine transportation industry. It is taking a leading role in 
+384 102 1,574 0
+the transition of the shipping industry. 
+NOK million  employees   carbon emission   accident  
+With a history spanning 80 years and more than 35,000 operative systems, Sperre is a trusted partner  revenue (FTE)  (tCO2e)   rate 
+with compressors installed on one-fifth of the world’s ships. Sperre acts as a service partner providing 
+all necessary parts, data, and planning to ensure stellar performance through the equipment lifecycle. 
+Ensuring the safety and reliability of every vessel is critical to protect both human life and the marine 
+environment. The global shipping industry is undergoing a tectonic shift, with stricter regulations and 
+growing pressure to reduce greenhouse gas emissions driving a switch to cleaner fuels. 
+Key ESG themes and contribution to Sustainable Development Goals
+Sperre is working closely with its customers and regulators to support this critical transition. At the same 
+time, it is also making significant progress in reducing its own environmental footprint. Sperre’s primary 
+Energy & carbon Product life cycle  Employee health & safety
+source of CO2 emissions comes from business travel by air. It has made considerable efforts to reduce 
+emissions by setting up sales and service offices in its most important business locations. The company 
+  
+is aiming to procure 100% renewable energy and a solar panel project is ongoing. Smart meters were 
+installed in 2020 to provide a better understanding and control of high-energy consumption equipment. 
+There is a continuing focus to phase out oil fuel used in its heating systems in operations. Sperre’s total 
+carbon footprint has been reduced by 7% since 2018, and carbon intensity33 has been reduced by 2% 
+since 2018. The company is also discussing how best to offset the emissions that can’t be prevented.  Material use Product quality & safety Sustainability principles
+Significantly, it has also reduced reliance on its own engineers by designing ease of service into its 
+  
+products and developing tools – including the use of virtual reality – to help customers and service 
+operators carry out maintenance.
+Performance and priority ESG projects 
+→ Sperre continuously investigates freight and supply procedures to identify efficiency 
+gains that would minimise environmental impacts.
+→	The company put initiatives in place to reduce the carbon footprint in its operations.  5.5: Positive contribution  8.8: Crating a safe  9.4: Focusing on  12.4 & 12.5: Initiatives  13.2: Reducing their 
+by empowering women  working environment and  partnerships with their  to remove hazardous  carbon footprint. Aiming 
+It is managing energy consumption by optimising its energy use and transitioning to 
+throughout all levels in  providing employment  customers to develop  materials, conducting  for >90% reduction of 
+renewables. the organisation opportunities more sustainable  LCS of products and  Scope 1 emissions by 
+applications  cooperating with industry  end of 2021
+→	Sperre has reduced its carbon footprint by 7% since 2018. The company is  leading waste processing 
+positioning itself as an environmentally sustainable company aligned with the EU  companies to limit their 
+waste 
+taxonomy regulation34.
+→	Employee absenteeism is down 26% from 2019, suggesting the company has 
+created a positive working environment.
+Climate-related risks and opportunities
+Physical risk Transitional risks and opportunities
+1.0 Key risk (policy & legal)
+Regulatory bodies prioritising emission reduction, increasing  
+compliance costs and research into more sustainable shipping  
+propulsion systems (e.g. hydrogen).
+LOW MEDIUM HIGH Key opportunity (products & services)
+Development and expansion of low-emission  
+33 tCO2e/NOKm  products and services. 
+34 Sustainable finance taxonomy – Regulation (EU) 2020/852
+Source: Sperre Sustainability Report 2021, MJ Hudson assessment
+31
+The North Alliance 
+Acquisition date: July 2018
+Fund: Norvestor VI
+Country HQ: Norway Key metrics
+Industry: Business Services
+The North Alliance (NoA) is Scandinavia’s leading agency network encompassing design, 
+communication, and technology, helping businesses create sustainable growth. Founded in 2014, 
+1,575 773 487 45% 25%
+NoA has over 800 employees across offices in Norway, Denmark, Sweden and Poland. 
+NOK million   employees   carbon emission   of shares owned   women on the  
+Effective communication plays an essential role in tackling many of the world’s challenges. Companies  revenue (FTE)  (tCO2e)  by employees  Board of Directors 
+and brands increasingly seek to demonstrate their ESG credentials and position themselves as part of 
+the solution by embedding sustainability into their value proposition. NoA’s expert teams can help clients 
+ensure that purpose and authenticity underpin their messaging and broader communication efforts. Since 
+being acquired by Norvestor in 2018, NoA has been developing and implementing its ESG policy, including 
+apparent managerial oversight of its sustainability efforts. Specifically, NoA’s operations manager has been 
+Key ESG themes and contribution to Sustainable Development Goals
+made responsible for ESG-related matters. NoA is being acknowledged externally by being at the forefront 
+of issues such as gender equality. Indeed, NoA’s Digital Products and Services business unit recently won 
+the prestigious Norwegian She Index 2020, an award that focuses on promoting equality and diversity in  Energy & carbon Talent management & retention
+the workplace. 
+ 
+As a digital service provider, NoA’s direct environmental impact is limited. It mainly relates to the energy 
+used by servers and the emissions resulting from business travel. Energy consumption is carefully 
+monitored in every office, while all parts of the business increasingly use videoconferencing to minimise the 
+need to travel. It already procures a large share of renewable energy but intends to lift this to 100%.
+Data security & privacy Impact of products & services Sustainability principles
+  
+5.5: Empowering and creating a  10.4: Actively incorporating  13.2: Decreasing the   16.6 & 16.7: Incorporating 
+gender diverse workforce  diversity in recruitment and office  negative impact by reducing   sustainable principles in their 
+practices as well as engaging  their carbon footprint  operations and strategies 
+with industry on the topic (e.g.  to ensure transparency and 
+Performance and priority ESG projects  SHE Community) ensure responsive, inclusive, 
+participatory, and representative 
+decision making at all levels
+→ As a communications agency, The North Alliance’s skillset offers a great opportunity 
+to articulate and define ESG issues for its stakeholders. Recognising that, the 
+company is targeting projects that create positive ESG impact for its clients. 
+→  The North Alliance has defined its sustainability offering and communicated it 
+Climate-related risks and opportunities
+throughout the group. Moreover, it wants to work with the right kind of clients. It 
+will not undertake projects for client involved in excluded industries (including but 
+Physical risk Transitional risks and opportunities
+not limited to weapons, the sex industry and political parties).
+→  The North Alliance is targeting a 58% reduction in its total carbon footprint.  0.3 Key risk (policy & legal)
+Increased pricing of GHG emissions could lead to  
+→  Carbon intensity is also being scrutinised – the company is aiming for a 50% 
+higher operating costs.
+reduction35.
+Key opportunity (products & services)
+LOW MEDIUM HIGH
+Further develop the service offering to support companies with 
+sustainability strategies as part of the Green Shift.
+35 tCO2e/NOKm
+Source: The North Alliance Sustainability Report 2021, MJ Hudson assessment
+32
+VENI Energy Group
+Acquisition date: August 2016
+Country HQ: Norway
+Industry: Business Services Key metrics
+VENI Energy Group is a leading provider of environmentally conscious energy services in Norway, 
+Sweden and Finland, actively helping over 40 000 small and medium-sized businesses transition to 
+739 247 226 67%
+renewable power sources. 
+NOK million  employees   carbon emission   clients procure  
+Decarbonisation of the power sector is critical if the world is to avoid catastrophic climate change. VENI  revenue (FTE)   (tCO2e)  renewable energy 
+Energy plays a direct role in tackling this monumental challenge by making it easy for businesses to shift 
+to sustainable energy sources. The Nordics are in the vanguard of the renewable-energy revolution, with a 
+significant share of hydro, wind and solar in the power generation mix. 
+According to the World Business Council for Sustainable 
+Development, the year 2050 is when the basic needs of the  Key ESG themes and contribution to Sustainable Development Goals
+world population should be met, including access to energy 
+for all, while decreasing global CO2 levels. Electricity will be 
+Energy & carbon Data security & privacy
+the primary energy type consumed in industrial production 
+processes, offices, and residential buildings by this time.   
+Over 18,000 of VENI Energy’s business clients have already 
+opted for certified green power, and 99% of their customers in 
+Sweden and Norway procure renewable energy. They target 
+100% renewable energy for all clients by 2030 and 90% by 
+Employee health & safety Sustainability principles 
+2025, contributing to the UN Sustainable Development Goals 
+7 and 12. The company also has a smart-metering system,   
+helping clients monitor, manage, and reduce their power 
+consumption. It can also motivate clients to switch suppliers to 
+achieve a better and greener deal. Additionally, it offers auditing 
+services to allow customers to enhance their energy efficiency.
+7.2: Increasing the share  8.8: Practices and polices  12.2: Sustainable and  13.2: Limiting the amount  16.6 & 16.7: Incorporating 
+of supplied renewable  in place to address  efficient use of natural  of carbon emissions of  sustainable principles 
+energy employee health and  resources by promoting  their own operations as  in their operations and 
+well-being energy-efficient  well as their clients  strategies to ensure 
+Performance and priority ESG projects  operations for their clients  transparency and ensure 
+responsive, inclusive, 
+participatory and 
+→ 67% of VENI Energy Group’s customers procure certified renewable energy. 
+representative decision 
+In addition, approximately 80% of new contracts (clients) in Finland related to  making at all levels
+renewable energy.
+→  The company has reduced its total carbon footprint by 69% since 2018 and 
+Climate-related risks and opportunities
+reduced its carbon intensity by 67% over the same period.
+→  VENI Energy Group is aiming for >1 TWh of energy consumption is to be made  Physical risk Transitional risks and opportunities
+green by the end of 2021 (a terawatt-hour is a unit of energy equal to outputting 
+one trillion watts for one hour).  0.0 Key risk (n/a)
+No material risks identified.
+→  The company is establishing a roadmap to become carbon-neutral.
+Key opportunity (products & services)
+→	VENI Energy is embedding ESG focus across the whole group, for both new and 
+Supporting clients in their carbon reduction trajectories  
+existing employees and companies. LOW MEDIUM HIGH by offering renewable electricity. 
+Source: VENI Energy Group Sustainability Report 2021, MJ Hudson assessment
+33
+Wellit
+Acquisition date: January 2019
+Fund: Norvestor VI
+Country HQ: Norway Key metrics
+Industry: Energy & Marine
+Wellit is a disruptive software company with international customers in the oil and gas sector – 
+including all oilfield operators operating on the Norwegian continental shelf. Through their cloud-
+94 34 47 20%
+based business model, use of big data and AI (‘artificial intelligence), Wellit gives operators the 
+insight to use their resources as efficiently as possible. 
+NOK million  employees   carbon emission   women on  
+revenue (FTE)  (tCO2e)    Board of Directors 
+Wellit’s solutions have a material positive impact by directly reducing the wasteful use of resources. Through 
+its cloud-based business model, Wellit gives oil and gas operators precise information and complete visibility 
+of where all of their vessels are and what they’re carrying. This allows the operator to plan more cost-
+efficient routes and optimise the load that is put on every ship. Crucially, Wellit’s solution cuts the number 
+of platform supply vessels (PSV) in use, directly reducing operators’ costs. That is very significant from an 
+Key ESG themes and contribution to Sustainable Development Goals
+environmental perspective, as the operation of these vessels generates large amounts of greenhouse gas 
+emissions. Wellit’s solutions can cut up to 30% of transportation movements and optimise load carrying, 
+which leads to a significant reduction in greenhouse gas emissions. Reducing an equivalent of three to four  Energy & carbon Logistical efficiency  Data security & privacy
+offshore support vessels would represent a material environmental impact, equivalent to:
+  
+→ CO2 emissions from 40,000 vehicles 
+→ Nitrogen oxides (NOx) from 3 million vehicles  
+→ Sulphur oxides (SOx) from 8 million vehicles
+Service quality Talent management   Sustainability  
+They have a plan to quantify further efficiency gains and emissions avoided through their software, which  & retention principles
+can be used in communication with stakeholders through their annual sustainability report. Its operations  
+ 
+have no less ambitious targets, procuring 100% renewable energy with a carbon intensity36 of 0.3 in 2020, 
+down 50% from 2017. 
+Performance and priority ESG projects 
+→ As well as the material environmental impacts detailed above, Wellit is working on a 
+roadmap to become carbon-neutral.
+→	To improve the transparency of its supply chain, Wellit now includes ESG criteria in  4.4: Providing training on  13.2: Positive impact at product- 16.6 & 16.7: Incorporating  Ocean Principles 2 & 3: 
+its contract policy and supplier checklist. technical skills within an  level helping carbon-intensive  sustainable principles in their  Reducing the number of offshore 
+industry in need of sustainable  industries reduce their emissions  operations and strategies  transport movements through 
+→	Wellit helps its customers to reduce emissions by optimising logistics efficiency and  development   by optimising logistical efficiency  to ensure transparency and  increased operational efficiency 
+ensure responsive, inclusive,  for a more sustainable ocean
+using its software to explore how to quantify emissions avoided. 
+participatory, and representative 
+decision making at all levels
+→	The company has reported zero data security issues, and received its ISO 27001 
+certification in 2020.
+Climate-related risks and opportunities
+Physical risk Transitional risks and opportunities
+1.3 Key risk (market)
+Reduced demand for products & services delivered to the energy and 
+marine industry amidst a transition to a low carbon economy.
+Key opportunity (markets)
+LOW MEDIUM HIGH
+Diversify activities into future-proof markets and capture growth 
+opportunities related to e.g. the energy transition.
+36 tCO2e/NOKm
+Source: Wellit Sustainability Report 2021, MJ Hudson assessment  
+34
+Contact us
+For further information, please contact: 
+Angelina J. Gajic´  I  ESG Coordinator  Inge Larsen  I  Partner & CFO
+angelina.gajic@norvestor.com inge.larsen@norvestor.com
+DISCLAIMER
+This Sustainability Report is intended to provide non-exhaustive, general information and has not been independently 
+verified. The Report may contain or incorporate by reference information not separately reviewed, approved or endorsed 
+by Norvestor and its portfolio companies and accordingly, no representation, warranty or undertaking, express or implied, 
+is made as to the accuracy or completeness of any information contained herein and thus, no responsibility or liability is 
+accepted by Norvestor or its portfolio companies in this regard. 
+This Report may contain forward-looking statements about future events and expectations which are based upon various 
+assumptions. Although Norvestor believes that these assumptions were reasonable when made, these assumptions 
+are inherently subject to significant known and unknown risks, uncertainties, contingencies and other important factors 
+which are difficult or impossible to predict and are beyond the control of Norvestor and its portfolio companies. Thus, no 
+representation, warranty or undertaking, express or implied, is made that any of these forward-looking statements will 
+come to pass or that any forecasted result will be achieved, and no responsibility or liability is accepted by Norvestor or its 
+portfolio companies in this regard. 
+Norvestor has and undertakes no obligation to update or modify the information in the Report. 

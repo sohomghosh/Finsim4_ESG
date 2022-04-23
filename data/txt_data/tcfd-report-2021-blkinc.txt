@@ -1,0 +1,2624 @@
+
+2021
+TCFD report
+BlackRock’s climate-related 
+disclosures 
+Contents
+Executive summary 05
+Governance 11
+Strategy 14
+Risk management 33
+Metrics & targets 34
+Cover photo: The KeoSeimaWildlife Sanctuary (“KSWS”) is  Photo courtesy of KSWS and Wildlife Conservation Society. 
+home to a rich diversity of wildlife, forest types, landscapes,  Pictured is a black-shanked douc langur. KSWS is home to the 
+and Indigenous communities. Pictured here is a part of the  largest population in the world of this critically endangered 
+tree canopy in the KSWS, an area that includes evergreen,  monkey, and to the highest number of species recorded in any 
+semi-evergreen, deciduous, and bamboo forests.BlackRock  protected area in Cambodia. 
+has supported KSWS through its carbon credits strategy. 
+Photo courtesy of KSWS and Wildlife Conservation Society.
+To our stakeholders
+BlackRock is pleased to provide our second report aligned to the recommendations of the Task Force 
+on Climate-Related Financial Disclosures (“TCFD”). This report serves our commitment to providing 
+meaningful transparency on our approach to managing climate-related risks and opportunities across 
+our business.
+It is our continued belief that robust and thoughtful disclosure can impact how companies are 
+managed for the benefit of all stakeholders. BlackRock was an early advocate of the TCFD 
+Recommendations and we continue to encourage adoption of the TCFD as a disclosure framework. We 
+Dalia Blass are encouraged by the year-over-year increase in the number of companies who are reporting against 
+Global Head of  the TCFD recommendations and more recent developments to encourage further standardization of 
+External Affairs global sustainability disclosures. 
+As advocates for transparency, we recognize the importance of BlackRock meeting the same 
+standards of disclosure that we ask of the companies our clients are invested in. TCFD is a key 
+mechanism through which BlackRock can provide transparency to stakeholders on how we are 
+managing climate risk and addressing the global transition to net zero within our business. But it’s 
+also an important mechanism through which we can contribute to the evolving global dialogue on 
+what informative and decision-useful climate-related disclosure looks like to investors.
+This year, BlackRock announced a series of commitments in support of clients as they prepare their 
+Alexis  portfolios for a net zero economy. Getting to net zero requires measuring where we are today. That’s 
+Rosenblum, CFA why a critical component of our commitment is focused on enhancing transparency at the fund and 
+Chief Corporate  firm level. This year’s TCFD report marks the first time that BlackRock is reporting preliminary 
+Sustainability  estimates reflecting the emissions associated with BlackRock’s clients’ investments in corporate 
+Officer securities and real estate (where reliable data is available). 
+We all have some way to go, but this is a milestone on our journey as we work towards a more 
+equitable and resilient future for our stakeholders. We look forward to your feedback on how we can 
+continue to strengthen our efforts and further advance the global dialogue around climate-related 
+disclosures. 
+BlackRock 2021 TCFD Report 3
+About this report
+BlackRock’s 2021 Task Force on Climate-Related Financial Disclosures (“TCFD”) Report is being provided for BlackRock, 
+Inc. (together, with its subsidiaries, unless the context otherwise indicates, “BlackRock” or the “Company” or the “firm”). The 
+report is aligned to the TCFD Recommendations.1 All data in this report is as of September 30, 2021 unless otherwise noted.  
+The policies and practices referred to in this report, unless otherwise noted, are adopted by BlackRock on a group-wide 
+basis and applied in relevant jurisdictions in which BlackRock operates. All references to figures in dollars ($) are in USD.
+TCFD Recommendations
+The TCFD Recommendations, first launched in 2017, are designed to encourage consistent and comparable reporting on 
+climate-related risks and opportunities by companies to their stakeholders. The TCFD Recommendations are structured 
+around four content pillars: (i) Governance; (ii) Strategy; (iii) Risk Management; and (iv) Metrics & Targets; and eleven 
+recommendations to support effective disclosure under each pillar. Throughout this report, BlackRock has sought to 
+provide information on all four pillars and eleven recommendations.
+Perspectives included in this report
+BlackRock is a leading publicly traded investment management firm with $9.46 trillion of assets under management 
+(“AUM”). With approximately 18,000 employees in more than 30 countries who serve clients in over 100 countries across 
+the globe, BlackRock provides a broad range of investment management and technology services to institutional and retail 
+clients worldwide. As an asset manager, BlackRock invests assets that belong to its clients, on its clients’ behalf. BlackRock 
+also offers the investment and risk management platform, Aladdin®, which combines comprehensive portfolio 
+management, trading, and risk reporting tools with sophisticated risk analytics on a single platform.  
+BlackRock, therefore, approaches climate-related risks2and opportunities from two main perspectives, which are captured 
+across this report:
+1. As an asset manager striving to help our clients benefit from investment opportunities arising from the global transition 
+to net zero, and with a responsibility to manage material risks to our clients’ portfolios, including climate-related risks, 
+within the bounds of our clients’ guidelines and objectives; and
+2. As a corporate entity whose business is affected by climate-related risks and opportunities and whose operations have 
+both direct and indirect impacts on the climate.  
+Reporting on Other Sustainability-Related Topics
+While this report is focused on climate-related risks and opportunities, BlackRock has also published corporate 
+sustainability disclosure on other environmental, social, and governance (“ESG”) topics in its 2020 Sustainability 
+Disclosure.
+Constant Evolution
+As the sustainability landscape evolves with new information and greater standardization, BlackRock will continue to refine 
+and expand its disclosures to provide meaningful information for stakeholders. We look forward to feedback and encourage 
+our stakeholders to provide feedback by emailing invrel@blackrock.com.
+BlackRock 2021 TCFD Report 4
+Executive summary
+BlackRock is a publicly traded investment management firm that provides 
+investment management and technology services to institutional and 
+$434 bn
+retail clients worldwide. The assets BlackRock manages –BlackRock’s 
+AUM –belong to BlackRock’s clients who rely on us to act in their best 
+interests. BlackRock clients range from pension funds serving nurses, 
+teachers, and factory workers, to individuals planning to buy a home or  AUM in dedicated 
+pay for their children’s education. BlackRock invests its clients’ money in 
+sustainable investment 
+companies of all types and sizes, in every region of the world, helping 
+strategies1
+those companies grow and operate. 
+As BlackRock’s CEO, Larry Fink, has said: “There is no company whose 
+business model won’t be profoundly affected by the transition to a net  $64 bn
+zero economy.”2 This statement holds just as true for BlackRock as it does 
+for any other company. As long-term investors, clients expect BlackRock 
+to monitor and act on long-term risks and opportunities that affect their 
+net inflows into sustainable 
+investments. Clients of all types are asking how to prepare their portfolios 
+investment strategies
+for the physical effects of climate change and the transition to a net zero 
+economy. BlackRock is evolving its business strategy, governance, and 
+risk-management processes to account for climate-related impacts to its 
+business and clients.
+$36 bn
+Supporting the transition to net zero
+In 2020, BlackRock announced a commitment to making Sustainability  invested in green bonds on 
+Our Standard for Investing. Building upon the progress made in 2020, 
+behalf of clients
+BlackRock announced a series of commitments in January 2021 focused 
+on the global transition to net zero. The commitments focus on three 
+themes: (i) measurement and transparency; (ii) investment management; 
+350
+and (iii) investment stewardship. In 2021, BlackRock joined the Net Zero 
+Asset Managers initiative (“NZAM”) and the Glasgow Financial Alliance for 
+Net Zero (“GFANZ”). GFANZ brings together financial sector net zero 
+wind, solar, & electric vehicle 
+initiatives for the common goal of decarbonizing the economy. BlackRock 
+infrastructure projects 
+has made significant progress towards its goals and commitments that 
+were set forth earlier this year. funded by Real Assets Team
+Investment opportunities for clients
+60
+The climate transition will create historic investment opportunities for 
+BlackRock’s clients. As the world moves toward net zero, BlackRock can 
+best serve its clients by providing investment solutions to help them  new sustainable ETFs and 
+navigate the transition. In 2021, BlackRock increased the number and  index mutual funds launched 
+breadth of investment solutions available to our clients. BlackRock 
+in 2021
+launched nine new funds and repurposed seven equity and fixed income 
+funds with clearly articulated ESG criteria embedded in their investment 
+mandates and objectives. BlackRock also launched active sustainable  Figures above as of September 30, 2021
+exchange-traded funds (“ETFs”) focused on investing in companies that 
+are positioned to benefit from the transition to a low carbon economy. 
+Additionally, BlackRock enhanced existing ESG product suites by adding 
+climate considerations and launched an ETF range that tracks Paris 
+Aligned Benchmarks.3
+BlackRock 2021 TCFD Report 5
+“
+Sustainable investing is one of the leading topics on every client’s 
+mind, because sustainability risk is investment risk – and 
+opportunity. The rise of sustainable investing is the biggest shift 
+in global investing since the rise of securitization and indexing in 
+the 1980s and even with record growth over the last few years, it’s 
+still in early innings. 
+Mark Wiedman, Head of International and Corporate Strategy, 2021
+In addition, BlackRock announced a partnership with Temasek to focus on 
+investments that advance decarbonization solutions through late-stage 
+200+
+venture capital and early growth private equity investment funds.4Blackrock 
+has also raised $673 million for the Climate Finance Partnership (“CFP”), a 
+public-private finance vehicle focused on investing in climate infrastructure  Sustainable Index 
+across emerging markets.  Offerings globally
+Engaging on climate risk & opportunities
+BlackRock is a long-term investor on behalf of clients. As climate risks and 
+1,645
+opportunities are likely to impact long-term returns, BlackRock’s Investment 
+Stewardship team (“BIS”) engages on climate risk with investee companies. 
+This engagement stems from BlackRock’s conviction that companies that 
+engagements on 
+act early to anticipate climate-related risks will be better positioned to 
+mitigate such risks and/or capture opportunities at a time of historic  environmental topics in 
+transition. BIS understands that climate change can be very challenging for  2021
+many companies and aims to be a supportive long-term investor on behalf of 
+its clients.In 2021, BIS amplified climate and natural capital-related 
+discussions with investee companies. During the 2020-2021 proxy year, BIS 
+took voting action with 255 directors and 319 companies for climate-related  319
+concerns that in BIS’ view could negatively affect shareholder value. BIS also 
+expanded its Climate Focus Universe in 2021 to include over 1,000 public 
+companies with which 
+companies. BIS reviews and engages with the companies in the Climate 
+Focus Universe on their climate action plans and disclosures. In 2021, BIS  voting action was taken for 
+explicitly encouraged these companies to articulate how their business  climate-related concerns in 
+model is aligned to a scenario in which global warming is limited to well 
+2020 – 2021 proxy year
+below 2°C, consistent with moving towards global net zero emissions by 
+2050.5
+Technology to measure climate risk >1000
+Aladdin® is BlackRock’s end-to-end investment management and operations 
+platform. Aladdin combines sophisticated risk analytics with portfolio  companies in BIS Climate 
+management, trading, and operations tools on a single, unified platform. In 
+Focus Universe
+2020, BlackRock launched Aladdin Climate to meet the urgent need among 
+financial institutions and investors to quantify climate risk in their portfolios. 
+Aladdin Climate translates climate risks and opportunities into investment 
+terms so that investors can understand their exposure to the financial risks  Figures above as of September 30, 2021, unless                
+associated with climate change.  otherwise specified
+BlackRock 2021 TCFD Report 6
+“
+As the world transitions to a net zero economy, it’s critical that 
+investors understand the impact of their investment decisions 
+through a climate risk-adjusted lens.
+Sudhir Nair, Global Head of Aladdin, 2021
+Aladdin Climate offers investors measures of physical and transition risk 
+100%
+with climate-adjusted security and portfolio-level financial risk metrics. To 
+support the buildout of these capabilities, BlackRock has developed 
+partnerships with leading researchers, energy system experts, climate 
+renewable electricity 
+scientists, and data providers, including Rhodium Group and Baringa 
+Partners. In 2021, Aladdin Climate released a set of models and analytics  goal in operations 
+covering both physical and transition risks. These tools were leveraged as  achieved
+part of the climate scenario analysis discussed in this report.
+Managing BlackRock’s operations sustainably
+$2.8 tn
+In 2020, BlackRock achieved carbon neutrality in its operations6 by 
+employing energy-efficiency strategies, achieving its 100% renewable 
+electricity goal,7and compensating for the emissions BlackRock could not 
+AUM in funds for which 
+otherwise eliminate by purchasing carbon credits.8 During 2021, BlackRock 
+climate metrics are 
+worked to advance its environmental sustainability strategy which is 
+underpinned by setting science-aligned emissions reduction targets. To  reported publicly 10
+achieve these targets, BlackRock’s focus will continue to be on increasing 
+energy efficiency, maintaining its 100% renewable electricity goal, and 
+151
+supporting the development of new technologies that can help reduce 
+emissions such as sustainable aviation fuel (“SAF”).
+Philanthropy & Breakthrough active sustainable 
+offerings
+Philanthropy is one lever, among many, that BlackRock uses to drive the 
+firm’s priorities. This year, BlackRock took steps to further align its 
+philanthropic commitments with BlackRock’s leading role at the intersection 
+of sustainability and technology. In 2021, The BlackRock Foundation 
+committed $100 million, its largest grant ever, to Breakthrough Energy’s  8,000+
+Catalyst Program (“Catalyst”), to help accelerate the development of the 
+climate solutions necessary to achieve net zero emissions by 2050. This 
+philanthropic capital will support cutting the “Green Premium”9 on clean  ESG metrics within 
+energy technology including SAF, green hydrogen, direct air capture, and  Aladdin platform
+long-duration energy storage.
+Figures above as of September 30, 2021, 
+unless otherwise specified
+BlackRock 2021 TCFD Report 7
+Our commitment to transparency are increasingly reporting their GHG emissions through 
+voluntary and regulatory initiatives; (ii) BlackRock’s 
+Getting to net zero starts with measuring where we stand  commitment to put sustainability at the center of Aladdin® 
+today and providing transparency to stakeholders on where  has led to greater incorporation of climate-related metrics 
+we’re going. BlackRock asks this of the companies in which  and data into BlackRock’s analytics; and (iii) a series of 
+we invest on behalf of our clients, and we recognize the  industry efforts are facilitating the development of 
+importance of leading by example in our own disclosure.  methodologies for calculating climate-related and portfolio 
+That is why a critical component of BlackRock’s net zero  alignment metrics and setting net zero-aligned targets.
+commitment is focused on enhancing transparency at the 
+At the fund level, BlackRock publishes climate and other 
+fund and firm level. 
+Sustainability Characteristics, including weighted-average 
+This TCFD report marks the first time that BlackRock is  carbon intensity (“WACI”) and implied temperature rise 
+reporting preliminary estimates reflecting the greenhouse  (“ITR”), on product pages of BlackRock’s website for ETFs 
+gas (“GHG”) emissions associated with BlackRock’s AUM.  and index mutual funds where sufficient data on the 
+These figures represent the emissions associated with the  underlying fund holdings and satisfactory methodologies 
+corporate securities and real estate BlackRock invests in on  are available. One or more climate-related metrics is 
+behalf of its clients. Several advancements allow BlackRock  publicly available on product pages for $2.8 trillion in AUM 
+to compile and report these estimates: (i) corporate issuers managed by BlackRock. 10
+BlackRock’s Net Zero Commitments
+Stewardship  Corporate Initiatives
+Engaging with the companies our clients are invested in  Reporting aggregate emissions attributable to 
+to understand how they are mitigating climate risk and  investment portfolios managed on behalf of BlackRock’s 
+considering the opportunities presented by the net zero  clients, where data permits
+transition
+Continuing to advocate for public policies that help 
+Asking companies to disclose a business plan aligned  make the financial system more resilient, sustainable, 
+with the goal of limiting global warming to well below  and equitable, including advancing the goal of net zero
+2ºC, consistent with achieving net zero global emissions 
+by 2050
+Increasing the role of votes on shareholder proposals in 
+our stewardship efforts around sustainability
+Investment management Measurement and transparency
+Incorporating the impacts of climate change into capital  Publishing a temperature alignment metric for ETFs 
+market assumptions, the cornerstone for portfolio  and mutual funds for markets with sufficiently reliable 
+construction at BlackRock data
+Implementing a framework for managing securities that  Publishing the proportion of our AUM that are 
+pose significant climate risk in active portfolios  currently aligned to net zero, and announcing an 
+interim target on the proportion of our AUM that will be 
+Helping clients benefit from opportunities created by the 
+aligned to net zero in 2030, for markets with 
+energy transition
+sufficiently reliable data
+Launching investment products with explicit 
+Through Aladdin Climate, helping more investors 
+temperature alignment goals, including products aligned 
+manage and meet their climate objectives by tracking 
+to a net zero pathway
+investment portfolios’ trajectories toward net zero, and 
+helping to catalyse increasingly robust and 
+standardized climate data and metrics to better serve 
+the industry
+BlackRock 2021 TCFD Report 8
+B Key Points in Response to TCFD Recommendations
+al
+c
+k
+R
+o Pillar / Recommendation Key Points
+c
+k
+ 
+2
+0 Governance: Disclose the organization’s governance around climate-related risks and opportunities
+2
+1
+T  Oversight of near-and long-term business strategy (including sustainability) by BlackRock's Board of Directors 
+C (the “Board”)
+F
+D
+  Board Nominating, Governance & Sustainability Committee of BlackRock’s Board of Directors oversees 
+R Describe the board’s oversight of climate-related risks and 
+e investment stewardship, public policy, corporate sustainability, and social impact
+p opportunities
+o
+r Board Risk Committee assists the Board in overseeing, identifying, and reviewing enterprise, fiduciary, and other 
+t risks, including those related to climate and other sustainability risks, that could have a material impact on the 
+firm’s performance
+Global Executive Committee(“GEC”) sets the strategic vision and priorities of the firm and drives accountability, 
+Describe management’s role in assessing and managing climate- including related to BlackRock’s sustainability strategy
+related risks and opportunities
+GEC Investment Sub-Committee oversees the firm’s investment processes, including ESG integration
+Strategy: Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy,and financial planning 
+where such information is material
+Opportunities: increased demand for sustainable investment products and Aladdin, operating efficiencies
+Describe the climate-related risks and opportunities the 
+organization has identified over the short, medium, and long term
+Risks: market, regulatory, and reputational risks, as well as physical risks
+Describe the impact of climate-related risks and opportunities on  Management of climate-related risks and opportunities is embedded across investment processes, business 
+the organization’s businesses, strategy, and financial planning strategy, and operations
+Describe the resilience of the organization’s strategy, taking into  BlackRock conducted a climate-related scenario analysis exercise, leveraging Aladdin Climate analytics, to 
+consideration different climate-related scenarios, including a 2°C  understand the potential implications of climate-related physical and transition risk scenarios to BlackRock’s 
+or lower scenario business strategy over the short-, medium-, and long-term
+The primary means by which BlackRock incorporates climate-related risks and opportunities into investment 
+processes is through ESG integration and investment stewardship. BlackRock portfolio managers are 
+Describe how risks and opportunities are factored into relevant  accountable for identifying material climate-and other sustainability-related risks and opportunities in their 
+products or investment strategies and describe related transition  portfolios. Please refer to BlackRock’s 2020 Sustainability Disclosure(Item FN-AC-410a.2) for additional 
+impact* information on ESG Integration at BlackRock. Please seeBlackRock’s 2020 Sustainability Disclosure(Item FN-
+AC-410a.3) and the BIS 2020 Investment Stewardship Annual Reportfor an overview of investment stewardship 
+at BlackRock.
+*Reflects recommendations that are included in the Supplemental Guidance for Asset Managers, which incorporates updates to the guidance for the financial sector released by the TCFD in 2021 
+(https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf) 
+9
+B Pillar / Recommendation Key Points
+al
+c
+k Risk Management: Disclose how the organization identifies, assesses, and manages climate-related risks
+R
+o
+c Describe the organization’s processes for identifying and assessing  For risks in client portfolios, investment teams are the primary risk owners, or first line of defense. BlackRock’s risk 
+k
+  climate-related risk management team, Risk & Quantitative Analysis (“RQA”), serves as a key part of the second line of defense. RQA 
+2
+0 evaluates material ESG risks, including climate risk, during its regular reviews with portfolio managers to provide 
+2 Describe the organization’s processes for managing climate-related  oversight of portfolio managers’ consideration of these risks in their investment processes. This helps to ensure 
+1 risks
+T  that such risks are understood, deliberate, and consistent with client objectives. BlackRock Sustainable Investing 
+C Describe how processes for identifying, assessing, and managing  (“BSI”) partners with RQA to monitor and review ESG risk exposure at the portfolio level, providing rigor and 
+F
+D climate-related risks are integrated into the organization’s overall  consistency across our diverse investment platform, while seeking to ensure that risk taking is deliberate, 
+R  risk management diversified, scaled, and in line with the clients’ objectives. ESG risks are evaluated in operational processes, 
+pe including considering ESG risks in risk and control self-assessments, product development, and incident 
+o Describe how material climate-related risks are identified, assessed  management. Risks associated with ESG investment and operational processes are represented in risk profiles 
+tr and managed for each product or investment strategy.*  shared with risk oversight committees.
+BIS has engaged with companies for several years on TCFD-aligned reporting. In 2021, BIS expanded the Climate 
+Focus Universe to over 1,000 carbon-intensive companies. For companies in the Climate Focus Universe, BIS 
+Describe engagement activity with investee companies to encourage 
+assesses their climate action plans and risk disclosures voting against management when BIS believes accelerated 
+better disclosure and practices related to climate-related risks in 
+progress is necessary. Between July 1, 2020 and June 30, 2021 (the “2020-2021 proxy year”), BIS had over 1,300 
+order to improve data availability and asset managers’ ability to 
+engagements with nearly 670 of the companies in the 2021 Climate Focus Universe. BIS voted against 255 
+assess climate-related risks*
+directors and 319 companies for climate-related concerns that in BIS’ view could negatively affect shareholder 
+value during the 2020-2021 proxy year. 
+Metrics & Targets: Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material
+Disclose the metrics used by the organization to assess climate-
+Categories of metrics: Business Indicators, Corporate GHG Emissions, Firm-Level Climate Metrics for BlackRock’s 
+related risks and opportunities in line with its strategy and risk 
+AUM, Product-Level Sustainability Characteristics
+management process
+Varies by investment strategy. Investment teams develop views on materiality of specific sustainability-related 
+Describe metrics used to assess climate-related risks and  topics by considering BlackRock’s proprietary ESG research, as well as research from a variety of external sources. 
+opportunities in each product or investment strategy* BlackRock has developed proprietary measurement tools to deepen portfolio manager understanding of material 
+ESG risks including climate risks. 
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse 
+See Exhibit M.3. BlackRock reports Scope 1, 2, and all relevant categories of Scope 3 emissions. 
+gas (GHG) emissions, and the related risks
+Asset managers should disclose GHG emissions for their AUM and 
+WACI for each product or investment strategy, where data and  See Exhibit M.6. This TCFD report marks the first time that BlackRock is reporting preliminary estimates reflecting 
+methodologies allow. Asset managers should consider providing  the absolute emissions and the carbon footprint  associated with BlackRock’s AUM in corporate securities and real 
+other carbon footprinting metrics they believe are useful for  estate. 
+decision-making.*
+Asset managers should describe the extent to which their assets  BlackRock publishes weighted-average carbon intensity (“WACI”) and implied temperature rise (“ITR”), on product 
+under management and products and investment strategies, where  pages of our website for ETFs and mutual funds where reliable data are available. As of December 2021, one or 
+relevant, are aligned with a well below more climate-related metrics are publicly available on product pages for $2.8 trillion in AUM managed by BlackRock 
+2°C scenario, using whichever approach or metrics best suit their  (note holdings values as of September 30, 2021).
+organizational context  or capabilities.*
+In January 2021, BlackRock announced a series of commitments focused on supporting clients in the global 
+Describe the targets used by the organization to manage climate-
+transition to net zero, around three themes: (i) measurement and transparency; (ii) investment management; and 
+related risks and opportunities and performance against targets
+(iii) investment stewardship. Also see Exhibit M.2 for progress towards environmental targets for operations.
+1
+0 *Reflects recommendations that are included in the TCFD Supplemental Guidance for Asset Managers, which incorporates updates to the guidance for the financial sector released by the TCFD in 2021 
+(https://assets.bbhub.io/company/sites/60/2021/07/2021-TCFD-Implementing_Guidance.pdf) 
+Governance
+Disclose the organization’s governance around climate-related 
+risks and opportunities. 
+Effective corporate governance is critical to executing on  sustainability, and social impact. The NGSCperiodically 
+BlackRock’s strategy, fulfilling its responsibilities to clients,  reviews corporate and investment stewardship-related 
+and delivering for stakeholders. BlackRock’s commitment  policies and programs, as well as significant publications 
+to good corporate governance with respect to climate and  relating to environmental (including climate change), 
+sustainability-related1 matters reflects BlackRock’s  social, and other sustainability matters. As appropriate, the 
+commitment to strong leadership and effective oversight by  NGSCmay make recommendations on these matters to be 
+BlackRock’s senior management and Board of Directors.  reviewed by the full Board. The NGSCalso periodically 
+BlackRock’s Governance Overview and Corporate  reviews public policy and advocacy activities, including 
+Governance Guidelinesprovide more information on  lobbying priorities, political contributions, and 
+BlackRock’s Corporate Governance framework, including  memberships in trade associations, as well as the 
+the role and responsibilities of the Board of Directors. philanthropic programs of the firm and related strategies.
+Board Oversight In 2021, the NGSCdiscussed BIS’ updated engagement 
+priorities, which included asking companies to disclose a 
+BlackRock’s Board of Directors (“Board”) engages with  plan for how their business models will be compatible with 
+senior leaders on near-and long-term business strategy  a low-carbon economy, an increased focus on natural 
+and reviews management’s performance in delivering on  capital risks, and BIS’ approach to voting on environmental 
+BlackRock’s framework for long-term value creation.  and social shareholder proposals. Additionally, BlackRock’s 
+Sustainability, including climate-related issues –from the  Global Public Policy Group (“GPPG”) and Corporate 
+integration of ESG factors into the firm’s investment  Sustainability teams presented to the NGSCon governance 
+processes, to sustainable investment strategies and  enhancements with respect to the firm’s external activities, 
+investment stewardship priorities –is a critical component  including a review of the alignment of trade association 
+of the firm’s overall business strategy and the objectives of  positions on material and strategic public policy issues, 
+senior management over which the Board has oversight.  including climate policy and sustainability disclosure 
+regulations. Finally, the NGSCreviewed and discussed the 
+The Board holds six regularly scheduled meetings per year 
+Corporate Sustainability team’s priorities and progress in 
+during which the Board’s committees also meet. In 2021, 
+2021, including on advancing BlackRock’s environmental 
+the full Board reviewed and discussed aspects of 
+sustainability strategy and corporate sustainability 
+BlackRock’s climate and sustainability-related strategy 
+disclosures.
+during five out of the six meetings. These reviews and 
+discussions covered elements of the firm’s commitment to  BlackRock’s Board has responsibility for oversight of risk 
+supporting the global goal of net zero emissions by 2050 or  management activities. The Risk Committee of the Board of 
+sooner, including steps BlackRock is taking to help clients  Directors (“Risk Committee”) assists the Board in 
+prepare their portfolios for a net zero world, as well as  overseeing, identifying, and reviewing enterprise, fiduciary, 
+BlackRock’s approach to expanding sustainable investment  and other risks, including those related to climate and other 
+solutions, ongoing ESG integration efforts, and the  sustainability risks, that could have a material impact on 
+investment stewardship team’s engagement on  the firm’s performance. In 2021, the Risk Committee 
+environmental and social issues. reviewed and discussed the incorporation of ESG
+considerations into the firm’s risk management processes, 
+The Nominating, Governance & Sustainability Committee of 
+a framework for active investment portfolios, ESG risks 
+BlackRock’s Board of Directors ("NGSC”) oversees 
+associated with new business activities and new products, 
+investment stewardship, public policy, corporate
+and regulatory risk relating to sustainability. 
+BlackRock 2021 TCFD Report 11
+Management Oversight 
+BlackRock’s senior management oversees progress towards BlackRock’s strategic objectives, including climate- and 
+sustainability-related objectives. Exhibit G.1 provides an overview of the management committees that share responsibility 
+for management of various climate and other sustainability-related risks and opportunities.  
+Exhibit G.1: Sustainability-Related Management Committees
+Management 
+Sustainability-RelatedResponsibilities
+Committee
+• Led by the CEO, the GEC sets the strategic vision and priorities of the firm and drives accountability at all levels. 
+Global 
+• In 2021, the GEC sent a letter to clients outlining steps BlackRock is taking to help investors prepare their 
+Executive 
+portfolio for a net zeroworld. 
+Committee 
+• Actively involved in the development of, and receives regular updates on, BlackRock’s sustainability strategy, 
+(“GEC”)
+including progress towards delivering upon the firm’s net zero commitments. 
+Investment  • Oversees investment process consistency across the firm’s investment groups. 
+Sub-Committee  • Members include the Chief Risk Officer and global heads or sponsors of all major investment divisions
+of the GEC • Oversees ESG integration in BlackRock’s investment processes.
+Functional Groups
+In practice, sustainability is integrated into different business units across the firm. Several teams focus on sustainability, 
+while others integrate sustainability into their broader functional responsibilities.
+Exhibit G.2: Functional Groups Involved in Climate & Sustainability-Related Matters
+Management 
+Team Sustainability-Related  Responsibilities
+Reporting Line
+Sustainability-Focused Teams
+BlackRock  • Engagement and proxy voting with investee companies on behalf of clients Global Head of BIS is a GEC 
+Investment  • Promotes sound corporate governance and sustainable business models  member 
+Stewardship (“BIS”) that can help drive long-term financial returns
+BlackRock  • Partners with investment teams to deliver sustainable investment products Global Head of BSI reports to a 
+Sustainable  • Works cross-functionally to advance ESG research and ESG integration Vice Chairman (GEC member)
+Investing (“BSI”)
+Corporate  • Oversees efforts to manage environmental sustainability of corporate  Chief Corporate Sustainability 
+Sustainability operations including setting environmental targets for operations Officer reports to Global Head 
+• Implements corporate sustainability disclosures of External Affairs (GEC 
+member)
+Sustainability Integrated into Broader Functional Responsibilities
+Investment  • Accountable for ESG integration into investment processes  Heads of investment divisions 
+Divisions • Often have sustainability-focused units, (i.e., BlackRock Alternative  are members of GEC and GEC 
+Investment Sustainability team, Fixed Income ESG Investment team) Investment Sub-Committee
+Risk & Quantitative  • BlackRock’s risk management function Chief Risk Officer is a member 
+Analysis Group  • Discuss material ESG risks (including climate) during reviews with active  of GEC and GEC Investment 
+(“RQA”) strategy portfolio managers to provide oversight of ESG Integration Sub-Committee
+Aladdin • Integrates climate and ESG data, as well as physical and transition risk  Global Head of Aladdin is a 
+analytics into investors’ workflows delivered through Aladdin member of GEC
+Enterprise Services  • Health & Safety monitors adherence to local environmental regulations Global Head of ES reports to 
+(“ES”)  • Real Estate and Facilities teams implement sustainability efforts in offices Global Head of Technology & 
+• Business Continuity Management manages disaster recovery planning,  Operations (GEC member)
+strategy, and crisis management activities
+BlackRock 2021 TCFD Report 12
+Exhibit G.3: Governance Structure, Sustainability
+BlackRock  • The Board oversees long-term strategy in which BlackRock’s sustainability and 
+climate-related strategies are integral components
+Board of 
+• Risk Committee aids Board in overseeing risk (including ESG risks) 
+Directors
+• NGSC oversees Investment Stewardship, Public Policy, Corporate 
+Sustainability, and Social Impact
+Global 
+Oversees sustainability strategy; Investment sub-committee oversees 
+Executive 
+investment process consistency including ESG integration
+Committee
+Sustainability-Focused Teams
+BlackRock Investment Stewardship
+Engages with companies in client portfolios on sustainability and governance matters, 
+casts proxy votes
+BlackRock Sustainable Investing
+ESG integration Sustainable Solutions Research & Insights Data & Analytics
+Works closely with RQAto drive high-quality ESG integration across investment teams
+Corporate Sustainability 
+Develops and oversees environmental sustainability strategy for operations, collects and 
+reports corporate GHGemissions data; develops climate-related disclosures
+Sustainability Integrated into Broader Functional Responsibilities
+Investment Divisions Risk and Quantitative Analysis
+ETFs and Index Investments, Portfolio  Oversight of investment, counterparty, and 
+Management Group, Global Trading &  enterprise risks including ESG risks
+Transition Management, and BlackRock 
+Alternative Investors
+Aladdin Enterprise Services 
+Delivers ESG and climate data, analytics,  Business Continuity Management team 
+models, and tools into investors’ daily  manages business continuity risks, Corporate 
+workflows Real Estate and Facilities teams implement 
+environmental sustainability initiatives in 
+coordination with Corporate Sustainability, 
+Health and Safety team monitors local 
+environmental regulations
+BlackRock 2021 TCFD Report 13
+Strategy
+Disclose the actual and potential impacts of climate-related risks and 
+opportunities on the organization’s businesses, strategy, and 
+financial planning, where such information is material 
+Asset owners and asset managers alike have heightened  transition and worked over the course of the year to 
+their commitments to support the global transition to net  implement those commitments (progress shown on page 
+zero. To put this in perspective, GFANZ now represents over  8).
+450 financial firms responsible for assets of roughly $130 
+BlackRock also recognizes that different clients have 
+trillion committed to accelerating the decarbonization of the 
+different investment preferences and objectives. We 
+economy.1 In addition, over 3,000 companies and investors 
+continue to believe strongly in the power of providing choice 
+have committed to net zero through the Race to Zero, a 
+to clients. This includes offering a wide range of investment 
+global coalition for climate action as of November 2021.
+products to help clients meet their investment goals, 
+BlackRock recognizes the critical importance of adapting its  including those that incorporate climate change and other 
+business to reflect this intensified global focus on net zero  ESG considerations in different ways and to different 
+by its clients, as well as governments and policy makers  degrees. BlackRock believes that it is this commitment to 
+around the world. Additionally, BlackRock must consider all  providing choice that supports the firm’s resilience to 
+matters that are material to its clients’ long-term financial  different climate scenarios. 
+returns, consistent with their investment objectives, 
+This section discusses how climate-related risks and 
+including climate-related risks and opportunities. That is 
+opportunities are managed by BlackRock with an emphasis 
+why in January 2021, BlackRock announced commitments 
+on new developments in 2021. Exhibit S.1 provides an 
+to help investors prepare their portfolios for a net zero world, 
+overview. 
+including capturing opportunities created by the net zero 
+Exhibit S.1: Overview of Strategy to Address Climate-Related Risks & Opportunities
+As an ASSET MANAGER As a COMPANY
+Sustainable Investment Solutions Corporate Operations
+Expanding offerings of sustainable investment products Reducing the environmental footprint of our operations
+Investment Stewardship Vendor Sustainability
+Engagement & proxy voting on material climate and  Encouraging vendors to set science-aligned emissions 
+natural capital issues reduction targets
+ESG Integration & Insights Public Policy & Industry Engagement
+Incorporating material climate considerations into active  Encouraging standards and regulations for climate 
+investment decisions & ESG Research disclosures
+Aladdin The BlackRock Foundation
+Putting sustainability at the heart of Aladdin and  Supporting critical climate technologies through 
+developing Aladdin Climate philanthropy
+COMMITMENT TO TRANSPARENCY at firm and fund level
+BlackRock 2021 TCFD Report 14
+ESG Integration
+The primary means by which BlackRock incorporates  disclose material sustainability risks. Please refer to 
+climate-related risks and opportunities into investment  BlackRock’s SASB-aligned 2020 Sustainability Disclosure
+processes are through ESG integration and investment  (Item FN-AC-410a.2) for additional information on ESG 
+stewardship. BlackRock portfolio managers are accountable  Integration at BlackRock.
+for identifying material sustainability-related risks and 
+As an advancement to its existing ESG integration efforts, in 
+opportunities –including climate-related considerations–in 
+2021, BlackRock established a framework to monitor 
+their portfolios. Investment teams develop views on the 
+exposures to issuers that may present significant climate 
+materiality of specific sustainability-related topics by 
+risk in active portfolios. While many issuers are effectively 
+considering BlackRock’s proprietary ESG research, as well 
+preparing for the global transition towards a net zero 
+as research from a variety of external sources. In addition,  economy, others that are not adequately preparing may 
+BlackRock has developed proprietary measurement tools to  present a risk to BlackRock’s clients’ portfolios, which 
+deepen portfolio manager understanding of material ESG  BlackRock monitors closely. Conversely, companies that 
+risks including climate risks. In BlackRock’s index  distinguish themselves in terms of their transition 
+investments business, the firm works with index providers to  preparedness and governance may represent investment 
+expand and improve the universe of sustainable indexes,  and/or alpha opportunities for BlackRock’s clients.
+and our investment stewardship processes encourage the 
+companies in which our clients are invested to manage and 
+Investment Stewardship
+As a long-term investor on behalf of our clients, BlackRock’s  BIS’ Engagement Priorities reflected a continuing emphasis 
+conviction is that sustainability risk –and climate risk in  on board effectiveness alongside the impact of 
+particular –is investment risk, and that every company will  sustainability-related factors on a company’s ability to 
+be affected by the transition to a net zero economy. BIS  generate long-term financial returns. “Climate and Natural 
+encourages sound corporate governance and sustainable  Capital” is one of BIS’ engagement priorities. In 2021, BIS 
+business models that can help drive the long-term financial  sought to understand how companies are mitigating 
+returns that enable BlackRock’s clients to meet their  climate-related risks  and implementing plans to transition 
+investing goals. BIS does this by engaging with investee  to a low-carbon economy. BIS also encouraged companies 
+companies and proxy voting on BlackRock’s clients’ behalf.  to consider their impact and dependence on natural capital2
+BIS’ approach on these issues is summarized in Exhibit S.2. 
+Exhibit S.2: BIS’ approach to Climate Risk and Natural Capital 
+Climate Risk Natural Capital
+In 2021, BIS asked companies to articulate how their  In 2021, BIS released a commentary on its approach 
+business model is aligned to a scenario in which  to natural capital, encouraging companies to disclose 
+global warming is limited to well below 2°C,  how their business models are consistent with the 
+consistent with a global aspiration to reach net zero  sustainable use and management of natural capital, 
+emissions by 2050. BIS also encouraged companies  including natural resources such as air, water, land, 
+to provide disclosure aligned with the TCFD, including  minerals, and forests. BIS also sought to understand 
+Scope 1 and Scope 2 emissions. Companies in  how companies promote biodiversity and ecosystem 
+carbon-intensive industries were also encouraged  health and the responsible use of energy, as well their 
+disclose Scope 3 emissions. impact on communities in which they operate. 
+BlackRock 2021 TCFD Report 15
+Climate Focus Universe. In 2020, BIS focused on a  should be noted that BIS supported some shareholder 
+universe of 440 carbon intensive companies. BIS identified  proposals where a company was on track but the team 
+244 companies within this universe that did not meet BIS’  wanted to encourage accelerated progress on either 
+standards of managing climate-related risks or adequately  actions or reporting. Other votes reflected BIS’ view that 
+addressing exposure to such risks.3In 2021, BIS expanded  management could have better managed climate-
+the Climate Focus Universe to over 1,000 carbon-intensive  related risks and/or reported on one or more of the 
+following factors:
+public companies.4For companies in the Climate Focus 
+• Disclosures that address all four pillars of the TCFD 
+Universe,BIS reviews their climate action plans and 
+framework
+disclosures –voting against management when BIS 
+believes that accelerated progress towards climate risk  • Reporting on Scope 1 & 2 GHG emissions data
+mitigation is necessary to drive sustainable, long-term  • Setting short-, medium-, and long-term GHG 
+financial returns for clients. Between July 1, 2020 and June  emissions reduction targets
+30, 2021 (the “2020-2021 proxy year”), BIS had over 1,300 
+BIS’ climate-related votes on behalf of clients in the 
+engagements with nearly 670 of the companies in the 2021 
+2020-2021 proxy year reflect a focus on sectors where 
+Climate Focus Universe. 
+climate change and other sustainability factors pose the 
+Climate-related voting on behalf of clients. Voting is how  greatest risk to those companies’ business operations 
+BIS signals support for or raises concerns with a company  and performance. When BIS voted against management 
+to achieve an outcome that BIS believes is most aligned  to signal its concern that further progress on climate-
+with BlackRock’s clients’ long-term economic interests.  related issues is needed, it did so in the long-term 
+Where BIS identifies concerns, the team may vote against  economic interests of BlackRock’s clients. BIS will 
+directors or other management proposals, or in support of a  continue to engage all companies, with a particular 
+shareholder proposal. Votes on director elections are a  focus on those in the Climate Focus Universe, to 
+globally available mechanism for signaling concern and  encourage further action and enhanced disclosures to 
+one that BIS employs more frequently than votes on  assess these companies’ preparedness to navigate the 
+shareholder proposals. transition to net zero. Exhibit S.3 highlights 
+engagement and voting statistics for climate-related 
+Over the 2020-2021 proxy year, votes cast against directors 
+concerns across investee companies for the 2020-2021 
+or in support of climate-related shareholder proposals 
+proxy year.
+generally reflected concerns that companies had not 
+adequately addressed climate-related risks. Though it 
+Exhibit S.3: Engagement and Voting for climate-related concerns
+2,330 107 2% 255 319
+Engagements on climate  Votes against companies  Votes against  Votes against director  Unique companies voted 
+and natural capital for inadequate  management on climate  elections for climate- against for climate -
+sustainability reporting risk concerns at  related concernsa related concernsb
+approximately 2% of the 
+13,190 companies BIS 
+voted at on behalf of 
+BlackRock’s clients.
+Source: BlackRock and Institutional Shareholder Services (“ISS”). ISS classifications used. Sourced on July 8, 2021, reflecting data from July 1, 2020 through June 30, 2021. For more 
+information refer to BIS’ 2021 Voting Spotlight “Pursuing long-term value for our clients” Available at: https://www.blackrock.com/corporate/literature/publication/2021-voting-
+spotlight-full-report.pdf.   aAbstentions are included   bAbstentions are included. Votes against unique companies on climate include: i) votes against or abstain on director elections and 
+director-related proposals, and ii) votes in support or abstain on climate-related shareholder proposals
+BlackRock 2021 TCFD Report 16
+Investment Strategies
+An estimated $50 trillion to $100 trillion in capital  1. The launch in April 2021 of two active sustainable ETFs 
+investment is required to reach net zero by mid-century, a  focused on investing in companies that BlackRock 
+massive shift that will affect the long-term profitability of  believes are better positioned to benefit from the 
+companies, industries, and whole economic sectors.5 transition to a low carbon economy.8
+Investment solutions that can help BlackRock’s clients 
+2. The launch of a range of  Paris Aligned Benchmark 
+better manage climate-related risks to their portfolios and 
+products in Europe in April 2021. 
+benefit from or contribute to the energy transition are, 
+therefore, amongst the greatest climate-related  3. The application of Climate Transition Benchmarks to 
+opportunities for BlackRock. BlackRock’s ESG enhanced suite in Europe in 
+November 2021.9
+BlackRock’s capital markets assumptions (“CMAs”) are 
+long-run estimates of risk and return that can be used as  Further, BlackRock’s ETFs & Index Investments team (“EII”) 
+building blocks for portfolio construction. In 2021,  works to promote greater standardization and transparency 
+BlackRock enhanced its CMAs to incorporate climate  of sustainability benchmark methodologies. Several of 
+considerations. Underpinning our new CMAs is the view that  BlackRock’s sustainable ETFs are the result of engagement  
+avoiding climate change damages will help drive economic  with major index providers to develop sustainable versions 
+growth and offer investors better returns over the long-term.  of flagship indexes.10These products differ from more 
+Climate change and the transition to net zero are expected  traditional index solutions in that they provide investors 
+to be persistent drivers of asset returns, and consequently  access to major benchmark exposures while helping them 
+fundamental to making strategic investment decisions. 6 incorporate climate considerations into their portfolios.11
+Additionally, EIIhas published temperature alignment 
+Over the past few years, BlackRock has significantly 
+metrics for ETFs and IMFs where data is sufficient (see page 
+expanded the number of sustainable investment strategies 
+46 for more detail).
+available to clients. For example, in 2021 BlackRock 
+launched nine new funds and repurposed seven equity and 
+Active Investment Strategies12
+fixed income funds with clearly articulated ESGcriteria 
+embedded in their investment mandates and objectives. As 
+As the world transitions to a low carbon economy, 
+of September 30, 2021, BlackRock managed $434 billion in 
+sustainability-oriented data and climate-related insights 
+dedicated sustainable investment strategies7 on behalf of 
+are increasingly important to help uncover the catalysts 
+its clients. 
+that could drive asset values over the long-term. BlackRock 
+In the first three quarters of 2021, BlackRock saw nearly $64  manages active investment strategies across a range of 
+billion of net inflows into sustainable investment strategies,  asset classes including: (i) equities; (ii) fixed income; and   
+representing 27% of total long-term net inflows over the  (iii) multi-asset strategies. In 2021, BlackRock expanded its 
+same time period.These solutions include a variety of  active investment lineup to incorporate a greater range of 
+products and strategies that support the transition to a low- sustainable investment strategies. Below are some 
+carbon economy.  examples of the active investment strategies that 
+incorporate climate-related considerations:
+ETFs & Index Investments 
+Fundamental Equity.In fundamental active equities (“FE”), 
+BlackRock’s approach to sustainable investing is an 
+Sustainable ETFs remain one of the fastest growing 
+inclusive one, anchored on the recognition that a diverse 
+segments within the ETF market. In 2021, iShares® 
+range of investment strategies are necessary to tackle the 
+launched 60 sustainable ETFs and index mutual funds 
+significant sustainability issues that we face globally. FE 
+(“IMFs”) across the US, Europe, Asia-Pacific, and Canada –
+uses fundamental expert insights and employs an 
+well exceeding BlackRock’s goal of doubling sustainable 
+interdisciplinary toolkit to construct portfolios addressing 
+ETF offerings to 150 in total for the year. As of September 
+clients’ needs and helping them achieve their sustainable 
+30, 2021, iShares® had over 200 sustainable index offerings 
+goals. The FE platform manages three main types of 
+globally. Some examples of advancements made to the 
+sustainable investment strategies:
+sustainable ETFs landscape include:
+BlackRock 2021 TCFD Report 17
+• Core. Core Fundamental Sustainable Equityinvests  (“LEED”) certifications17often demonstrate greater 
+across the market in companies that FE believes can  operational efficiency and subsequently exhibit better 
+lead in a more sustainable world. In 2021, BlackRock  financial outcomes. The LEED buildings themselves result 
+launched eight funds within its Core Fundamental  in better environmental outcomes for the communities in 
+Sustainable Equity range, which aims to deliver long- which they operate. These types of sustainable alpha 
+term outperformance with measurable sustainable  signals—which aim to deliver returns while also improving 
+outcomes, specifically better ESG scores and lower  environmental and social outcomes—are a key focus of 
+carbon emissions versus benchmarks. The funds invest  BSYS sustainable research.
+in three types of companies: (i) Leaders: “best-in-class” 
+Sustainable Research Framework. BlackRock developed a 
+companies that effectively manage ESG factors;               
+sustainable research framework to measure the 
+(ii) Improvers: companies showing demonstrable 
+sustainability (including climate) characteristics of 
+progress in their ESG journey; and (iii) Enablers: 
+companies through an investment materiality lens. This 
+companies advancing the transition and/or innovating 
+framework aims to deliver exposure to sustainability 
+towards sustainable solutions, which may have revenues 
+attributes that are material to enterprise value creation by 
+aligned to the United Nations (“UN”) Sustainable 
+aggregating a collection of sustainability-related key 
+Development Goals (“SDGs”).
+performance indicators,18selected for their financial 
+• Thematic. The FE Thematics & Sector team invests  materiality, into a normalized score to compare companies 
+around specific sustainability themes including  based on such attributes. The framework is rooted in 
+measuring the alignment of investments to the UN  BlackRock’s investment conviction that sustainable 
+SDGs. For example, in October 2019, the Thematics &  business practices can lead to higher risk-adjusted 
+Sector team launched a circular economy investment  performance over the long term. The analytics powered by 
+strategy in partnership with the Ellen MacArthur  this framework have been deployed in Aladdin, which 
+Foundation (“EMF”)13 to complement its existing range  alongside other internal analytics and third-party datasets, 
+of sustainable, fundamental, thematic funds. EMF is a  equip BlackRock’s investment teams with sustainable 
+global thought leader that works to accelerate the  research inputs and investment decision-useful tools. This 
+transition to a Circular Economy.14At its core, the  sustainable research framework can also help position 
+Circular Economy strategy helps BlackRock’s clients put  portfolios to seek outperformance through sustainable 
+their money to work in support of the transition to a  insights by targeting relevant datasets and providing a 
+circular economy, as well as in businesses that are  framework to prioritize material environmental, including 
+evolving to a more sustainable way of operating.  climate, and social issues in different sectors.
+• Impact. BlackRock’s FE Impact team seeks to invest in 
+Active Fixed Income. The need for sustainable fixed 
+companies whose core products and services address 
+income solutions is pressing. Many large investors, such as 
+social and environmental challenges as identified by the 
+insurers and pension funds, hold the bulk of their assets in 
+UN SDGs. The team manages US, International, and 
+fixed income. Fixed income encompasses many different 
+Global Impact strategies. In May 2021, the FE Impact 
+asset classes, with varying degrees of sustainability 
+team published its inaugural Global Impact Report, 
+information available for each asset class. BlackRock’s 
+which describes the team’s innovative approach to 
+Fixed Income ESG Team works with sector teams within 
+impact investing in public equities. Climate-related 
+BlackRock’s Fixed Income team (“FI”) to identify relevant 
+highlights from this report include the generation of over 
+ESG characteristics and to develop tools to aid this process. 
+102,000 GWh of renewable energy by companies in 
+The FI platform has developed a proprietary sustainability 
+which the Global Impact strategy invested.15
+categorization that focuses on positive and negative 
+Systematic Strategies. The BlackRock Systematic team  externalities across fixed income asset classes. This 
+(“BSYS”) manages sustainable strategies across three main  framework drives several dedicated active ESG strategies, 
+categories: (i) core equity and fixed income ESG strategies,  including four new public fund offerings launched in 2021. 
+(ii) multi-asset strategies, and (iii) liquid alternative ESG 
+Further, the FI team has developed approaches within 
+strategies. In 2021, BSYS launched a long-short equity 
+certain pools of assets to identify fixed income impact 
+product based on a sustainable universe with sustainable 
+opportunities. This currently includes strategies in US 
+alpha signals. In systematic sustainable funds, BSYS does 
+municipal bonds and mortgages, as well as green and 
+not divest from specific sectors, rather the team tilts to 
+social bonds across developed market and emerging 
+more sustainable companies within each sector.
+markets. The Fixed Income ESG team has developed a 
+BSYS also produces research on a variety of topics  proprietary shading taxonomy for green and social bonds, 
+including climate-related insights. In research published in  which is utilized by active teams to understand the degree 
+2021,16BSYS found that companies operating buildings  of impact inherent in a use of proceeds structure. FI has 
+with Leadership in Energy and Environmental Design  been producing quantifiable Green Bond impact reports on 
+green bond funds since 2018.
+BlackRock 2021 TCFD Report 18
+Spotlight on Green Bonds
+The green and social bond market is steadily growing, helping raise funds for projects that have positive 
+environmental or social impact. More than $3 trillion in sustainable bonds have been issued since these 
+securities first emerged in 2007, according to research company BloombergNEF.19BlackRock is heavily 
+involved in and supportive of the green bond market. As of September 30, 2021, BlackRock managed over 
+$36 billion, on behalf of clients, in green bonds across dedicated portfolios and as a component of 
+broader fixed income mandates. These bonds support numerous renewables and low-carbon projects. 
+BlackRock’s Head of Fixed Income ESG Investing sits on the Executive Committee of the Green Bond 
+Principles and the firm is a partner of the Climate Bonds Initiative. A green bond is a fixed income 
+instrument dedicated to new or existing projects deemed environmentally beneficial.20Green bonds’ 
+proceeds are ring-fenced on the issuer’s balance sheet to finance these green projects. Since green 
+bonds trade like ordinary bonds and have secondary market liquidity, they serve as a valuable tool that 
+enables investors to fund green projects without taking on the more limited liquidity or credit risk that 
+comes with directly investing in infrastructure projects. 
+Investors want to know that green bonds deliver their intended environmental benefits. They want to 
+measure how their investments contribute to their environmental objectives and/or report the 
+environmental benefits to their end-investors, plan participants, or customers. BlackRock has developed 
+portfolio-level impact reporting for a green bond strategy –an illustrative example of which is shown in 
+Exhibit S.4. The reporting includes carbon emissions avoided, renewable capacity installed, and energy 
+savings attributable to green bond investments in the portfolio.
+Exhibit S.4: Impact Report for Green Bond Strategy
+Example Impact Report for Green Bond Strategy (Environmental Impact per USD 1 million invested) 
+1,843 tCO /yearof avoided emissions 1,073 MWh/year of renewable energy generated
+2
+Equivalent to taking 398 cars off the road Equivalent to annual electricity use of 87.5 homes
+441 m3 / year of water savings
+253 MWh/year of energy savings
+Equivalent to 1/6 of an Olympic-sized 
+swimming pool Equivalent to 6,796 light bulbs switched to LEDs
+38 hectares of land area re/afforested 6,350 m3/year of water or waste collected and disposed
+or preserved or treated
+Equivalent to 54.3 football fields Equivalent to 3.2 Olympic-sized swimming pools
+169 people benefitting from forest, 
+9,835 new passengers/year on public transit
+agriculture, water or waste projects
+214 minutes saveddue to better public transit
+5 jobs created across all categories
+Sources: BlackRock analysis of publicly available environmental impact reports as communicated by issuers as of 18 May 2020. The above results are shown for informational purposes 
+only, to illustrate the positive environmental impact of a green bond portfolio. They are not meant to be a prediction or projection.  Not every issuer reports on every metric, hence no linear 
+extrapolation should be performed. BlackRock is not held responsible for inaccuracies in issuers’ reporting; methodology available upon request.  US EPA’s Greenhouse Gas Equivalencies 
+Calculator for CO2 and energy measures. Other assumptions: 1 Olympic pool = 2,500 m3 of water; 1 football = 7,000 m
+BBllaacckkRRoocckk  22002211  TTCCFFDD  RReeppoorrtt 19
+Private Market Alternatives Renewable Power Infrastructure. BlackRock believes the 
+strategies managed by BlackRock’s Global Infrastructure 
+Private market investments, such as infrastructure, real  Equity teams, which are part of the broader Real Assets 
+estate, private credit, and private equity, benefit not only  team, are well positioned to support the global energy 
+our clients, but can also directly drive positive impacts on  transition, as the world moves from a power generation 
+the local communities where such investments are  sector historically dominated by fossil fuels, to one that is 
+situated, as well as the individuals who work on the  expected to comprise over 60% renewables by 2050.21
+development, operation, and management of such  BlackRock views this opportunity as the largest, single 
+investments. structural shift taking place in infrastructure globally, and 
+one that has the potential to create $10 trillion of 
+BlackRock’s Real Assets platform has established 
+investment opportunities in the next 3 years. 
+investment strategies that address the global market 
+opportunities presented by the energy transition. As an 
+Beyond BlackRock’s dedicated global renewable power 
+early mover in renewable power investing, BlackRock  strategies, BlackRock’s wider infrastructure investment 
+manages one of the largest renewable power platforms in  strategies continue to recognize the investment 
+the world. BlackRock’s Real Assets investment team 
+opportunities emerging from the global energy transition. 
+manages approximately $13.7 billion of invested and 
+This includes natural gas, which the team believes has a 
+committed capital supporting over 350 wind, solar, and 
+role as a transition and peaking fuel, as well as the 
+electric vehicles infrastructure projects globally. 
+opportunities generated by emerging decarbonization 
+infrastructure, such as carbon capture and storage, battery 
+storage, energy efficiency, hydrogen, and electrified 
+transportation. Exhibit S.5 provides an example of impact 
+data for a sample Global Renewable Power portfolio.
+Exhibit S.5: Sample Global Renewable Power Portfolio 
+Dollarized  Impact 
+Impact Metrics Projected over Time Horizon of Portfolioa
+Impact (US$) Multiple b
+6 Clean water and 
+Water savings from renewable power generation
+sanitation $650m c 0.24x
+216,061,834m3water reduced
+7 Affordable and clean  Homes powered with clean energy
+energy 49,247,813 (lifetime)
+1,834,094 (annual)
+$ 3,487m d 1.26x
+13 Climate action
+Greenhouse gas emissions avoided
+68,387,699 tons of CO emissions avoided
+2
+8 Decent work and  Jobs supported
+$1,219m e 0.44x
+economic growth 25,224 jobs
+Portfolio Total $ 5,357m 1.94x
+Source: BlackRock, September 30, 2021. 
+a. Global Impact Investing Network (“GIIN”)’s Impact Reporting and Investment Standards (“IRIS”) metrics were leveraged to measure impact. For full set of SDG-aligned IRIS metrics, 
+see: https://iris.thegiin.org/document/iris-and-u.n.-sustainable-development-goals/.
+b. Impact Multiple for each metric = Dollarized Impact (USD) / total capital invested (USD) 
+c. Dollarized water saved (USD) = Cost of water (USD/m3) * Total water saved over time horizon (m3). 
+d. Dollarized CO2 emissions avoided (USD) = social cost of carbon (USD/metric ton) * total CO2 emissions avoided over time horizon (metric tons CO2). Social Cost of Carbon based on 
+estimates from US Interagency Working Group on Social Cost of Greenhouse Gases, United States Government. Assuming 3% discount rate, adjusting 2007 dollars for inflation to 
+obtain 2019 dollars. See https://19january2017snapshot.epa.gov/sites/production/files/2016-12/documents/sc_co2_tsd_august_2016.pdf 
+e. Dollarized jobs created (USD) = Employee annual wages (USD) * time horizon (years) 
+BlackRock 2021 TCFD Report 20
+Climate Finance Partnership (“CFP”). In 2021, BlackRock  Cash Management
+raised $673 million for the CFP bringing together 
+governments, philanthropies, and institutional investors to  In 2019, BlackRock introduced a new fund series that seeks 
+accelerate the flow of capital into climate infrastructure in  to offer the stability, liquidity, and yield potential of a money 
+emerging markets. BlackRock and the founding catalytic  market fund while considering environmental criteria. Since 
+launch, there has been significant global momentum 
+partners designed a fund structure that seeks to bring their 
+behind this series of environmental thematic cash 
+collective skills and capabilities together to help mobilize 
+management funds and, these strategies comprise over 
+private investment into emerging markets through a de-
+$19 billion in AUM. Available in USD, GBP, EUR, and CAD 
+risking of the investment set for institutional investors. The 
+currencies, the new fund series considers select 
+structure seeks to provide a narrower standard deviation of 
+environmental criteria in addition to BlackRock’s standard 
+outcomes for institutional investors alongside access to the 
+credit risk assessment process for liquidity management 
+fastest growing infrastructure segment, and markets, of the 
+portfolios. Since launching this series, BlackRock’s Cash 
+next 30 years. CFP investments will be targeted in Asia, 
+Management team has used a portion of its net 
+Latin America, and Africa with a focus on the climate 
+management fees from the fund in support of renewable 
+infrastructure sector including: (i) grid connected and/or 
+energy projects through the purchase of carbon credits. 
+distributed renewable power generation; (ii) energy 
+efficiency in residential, commercial, and/or industrial  Growing the field of sustainable cash offerings is not simply 
+sectors; (iii) transmission or energy storage solutions; and  a function of new product offerings. BlackRock also actively 
+(iv) ultra-low emission or electrified transportation and  engages with issuers of short-term bonds to develop 
+mobility services. money market fund-eligible “green” securities. In late 2020, 
+BlackRock’s Cash Management team invested on behalf of 
+Partnership with Temasek on Decarbonization. In 2021, 
+clients over $585 million in short-term green asset-backed 
+BlackRock announced a partnership with Temasek to 
+commercial paper developed by Credit Suisse to fund solar 
+establish Decarbonization Partners, which plans to focus 
+energy in the United States.23Opportunities such as this, 
+on investments that advance decarbonization solutions 
+via BlackRock’s global cash management funds, provide a 
+through late-stage venture capital and early growth private 
+source of short-term financing for sustainable projects –a 
+equity investment funds.22The partnership will seek to 
+crucial development towards advancing the sustainable 
+make investments in early-stage growth companies 
+cash management ecosystem and clearing the path for 
+targeting proven, next generation renewable and mobility 
+further environmentally-focused client investment 
+technology including emerging fuel sources, grid solutions, 
+opportunities.
+battery storage, and electric and autonomous vehicle 
+technologies, as well as in building and manufacturing 
+sectors to drive decarbonization resource efficiencies, and 
+material and process innovation. Together, BlackRock and 
+Temasek have committed $600 million to invest in 
+companies and proven technologies that could reduce and 
+potentially eliminate carbon emissions.
+BlackRock 2021 TCFD Report 21
+Sustainability in Aladdin
+Aladdin® is BlackRock’s end-to-end investment  Transition riskanalytics quantify risks and opportunities 
+management and operations platform. The Aladdin platform  arising from exposure to the transition to a lower-carbon 
+combines sophisticated risk analytics with portfolio  economy through policy changes, new technologies, and 
+management, trading, and operations tools in a single,  market changes. This is complex to forecast because there 
+unified environment.  are many potential transition paths the world could take. 
+BlackRock acquired the Climate Change Scenario Model 
+In 2020, BlackRock launched an initiative to build new 
+from Baringa Partners in June 2021, which in combination 
+sustainability-focused capabilities within Aladdin, with a 
+with Aladdin financial models, enables Aladdin Climate to 
+vision to power the shift to sustainable investing by 
+deliver analytics on the effects of various transition 
+integrating sustainability data, analytics, and functionalities 
+pathways across different sectors. This allows Aladdin to 
+into investors’ daily workflows to drive more informed 
+develop more granular modeling of the impact of a 
+investment and risk management.
+transition to a net zero economy on specific investments. 
+In 2021, BlackRock followed up by creating the Aladdin  Both physical and transition risk capabilities are now 
+Sustainability Lab and accelerating the build out of Aladdin  available through Aladdin Climate.
+Climate, a technology solution that seeks to translate 
+Ultimately, Aladdin is seeking to fully support investment 
+climate risks and opportunities into investment terms so 
+professionals in their integration of sustainability data and 
+that investors can understand their exposure to climate-
+analytics into their daily workflows. 
+related risks and opportunities and take action in their 
+portfolios. Aladdin Climate offers investors measures of 
+both the physical and transition risks of climate change with 
+climate-adjusted security and portfolio risk metrics. As a 
+demonstration of innovative work in building Aladdin 
+Climate, in 2021, BlackRock earned a Best Buy Side Tech 
+Award.24
+Physical riskanalytics quantify the impacts associated with 
+extreme weather events and longer-term changes in the 
+climate on investments. Through the data and quantitative 
+analytics BlackRock acquired in September 2021 from 
+Rhodium Group,25BlackRock has access to granular 
+physical risk data –like temperature change and rising sea 
+levels -at a hyper-localized level, as well as economic 
+impact –for example, related to changes in energy and 
+labor costs. Aladdin Climate is able to connect these climate 
+hazards and their associated economic impact to the risk 
+profile of a security.
+BlackRock 2021 TCFD Report 22
+Risks, opportunities & 
+scenario analysis
+BlackRock recognizes the importance of effective institutional investors and wealth management 
+identification, monitoring, and management of climate- intermediaries. Revenue fortheseservices may bebased 
+related risks and opportunities across its global business. on several criteria including value of positions, number of 
+Before discussing the climate-relatedrisks and  users,or accomplishment ofspecificdeliverables.
+opportunities that BlackRock has identified,it is importantto 
+Although BlackRock’s global offices could be impacted by 
+revisit BlackRock’s business model forcontext. BlackRock’s 
+adverse physical climate events, the direct financial impact 
+exposure to climate-related risk is primarily indirect, with 
+to BlackRock is limited, as BlackRock leases most of its 
+such risk primarily having the potential to affect future 
+facilities and sites are evaluated for physical risks during 
+revenues and expenses, as opposed to assets and liabilities. 
+the selection process. Further, BlackRock maintains 
+This is because the assets that BlackRock manages belong  insurance, which helps to mitigate the potential financial 
+to BlackRock’s clients, not BlackRock. BlackRock typically impact of physical climate risks. Additionally, BlackRock 
+earns investmentmanagement feesasapercentage of  maintains business continuity plans to facilitate the 
+AUM.BlackRock also earnsperformance fees on certain  continuity of business in the event of a business disruption, 
+portfolios relative to an agreed-upon benchmarkor return which can include disruptions related to physical climate 
+hurdle. Forsome products, BlackRock also may earn risks. Further discussion of business continuity 
+securities lendingrevenue.  management is included on page 33.
+In addition, BlackRock offers its proprietary Aladdin Exhibits S.6a and S.6b provide an overview of climate-
+investment system as well as risk management, related risks and opportunities that BlackRock has 
+outsourcing, advisory, and other technology services, to identified.
+Exhibit S.6a: Summary of Key Climate-Related Opportunities
+Primary 
+Anticipated 
+Opportunity Description
+Financial 
+Impact*
+BlackRock’s $434 billion dedicated sustainable investment platform is well-positioned to meet 
+Products& increased demand as more clients focus on the impact of climate change on their portfolios. 
+Services BlackRock’s iShares® Sustainable ETF range is one of the largest in theindustry, both in terms  Increased 
+Investment of AUM and the numberof investment options provided to investors. BlackRock manages oneof  revenues
+Solutions the largest renewable power infrastructure investment platforms in the world and is one of the 
+largest investors ingreenbondsonbehalfof clients.
+There is increasing demand from Aladdin clients to understand their exposure to climate-related 
+risks in their portfolios. Building on BlackRock’s strength in risk management through the 
+Products&
+Services Aladdin®platform, BlackRock launched Aladdin Climate to address this need. Aladdin Climate  Increased 
+translates climate risks and opportunities into investment terms so that investors can  revenues
+Aladdin understand their exposure to the financial risks associated with climate change and take action 
+in their portfolios.
+Resource In its operations, BlackRock’s sustainability strategy seeks to decouple company growth from 
+Efficiency its impact on the environment, while increasing the efficiency and resiliency of its operations.  Reduced 
+Finding innovative ways to run its operations with renewable energy, lower emissions, and  Expenses
+Operations reduce waste, among other efforts, reduces BlackRock’s environmental impact.
+* There is no guarantee that the primary anticipated financial impact referenced above will be achieved.
+BlackRock 2021 TCFD Report 23
+Exhibit S.6b: Summary of Climate-related Risks* 
+Primary 
+Anticipated 
+Risk Description
+Financial 
+Impact
+Climate-related risks could impact the value of BlackRock’s AUM and reduce investment 
+management revenue. BlackRock may be unable to develop new products and services and the 
+development of new products and services may expose BlackRock to reputational harm, additional 
+Reduced 
+Market costs, or operational risk. Unsuccessful efforts to develop products to suit clients’ climate-related 
+Revenues
+needs could expose BlackRock to additional costs and/or cause revenue and earnings to decline. 
+Changes in client preferences and/or changes to regulation to which its clients are subject could 
+reduce demand for certain investment products offered by BlackRock.
+Stakeholder concern and/or associated activism related to the impact of BlackRock’s client 
+portfolio holdings on the climate as well as BlackRock’s stated views on climate-related matters  Reduced 
+Reputation
+could create reputational risk, reduce client and employee loyalty, or lead to shareholder  revenues
+divestment.1
+New environmental and sustainability-related disclosure requirements, or regulations or taxes that 
+apply to BlackRock’s investment products or other aspects of BlackRock’s operations could increase  Increased 
+compliance costs or make BlackRock’s products less desirable to clients. New laws or regulations  expenses or 
+Regulatory
+could restrict or discourage the use of BlackRock’s investment products and/or services by clients  reduced 
+due to authorities’ views on BlackRock’s actions related to climate-and other sustainability-related  revenues
+matters.
+BlackRock’s global offices could be impacted by adverse climate events; however, the direct financial 
+impact is limited, as BlackRock leases most of its facilities2 and sites are evaluated for physical risks 
+during the selection process. Further, BlackRock maintains insurance, which helps to mitigate the  Increased 
+Physical
+potential financial impact of physical climate risks. Additionally, BlackRock maintains business  expenses
+continuity plans to facilitate the continuity of business in the event of a business disruption, which 
+can include disruptions related to physical climate risks.
+* The inclusion of climate-related risks in Exhibit S.6b should not be construed as a characterization regarding materiality or financial impact of these risks. For a discussion of risks that
+BlackRock has determined could be financially material, please see Item 1A. Risk Factors in our Annual Report on Form 10-K, as well as our subsequent Form 10-Q filings.
+Climate Scenario Analysis
+The TCFD recommends that companies “consider how  BlackRock conducted its first climate-related scenario 
+climate-related risks and opportunities may evolve and  analysis in 2020, which was published in BlackRock’s 2020 
+their potential business implications under different  TCFD Report. In 2021, BlackRock sought to build on this 
+conditions.”3Scenario analysis is a technique used to  foundational work by integrating Aladdin Climate4
+inform assessments of the resilience of an organization’s  analytics, as well as incorporating physical risk scenarios 
+business or strategy to disruptions and/or the  and additional transition risk scenarios into its analysis.
+organization’s ability to adapt to changes or uncertainties 
+The analysis combined quantitative analytics from Aladdin 
+that might affect its performance. In the case of climate 
+Climate with qualitative assumptions about potential client 
+change, scenario analysis allows an organization to develop 
+reactions to each scenario to derive conclusions about
+insight into how the physical and transition risks and 
+potential impacts to BlackRock’s business. Below is a 
+opportunities arising from climate change might impact its 
+description of the process through which BlackRock 
+business over time. While climate scenario analysis is not 
+developed its 2021 climate scenario analysis.
+meant to predict the future, BlackRock believes it is a 
+helpful tool to hone its understanding of climate-related 
+Analysis Overview
+risks and opportunities. Climate scenarios allow 
+organizations to explore possible outcomes, the  BlackRock’s 2021 enterprise-level climate scenario analysis 
+assumptions they depend upon, and the possible courses  entailed the key steps outlined in Exhibit S.7.
+of action the organization can take to address climate-
+related risks and opportunities that may arise.
+BlackRock 2021 TCFD Report 24
+Exhibit S.7: Steps of BlackRock’s Enterprise-level Climate Scenario Analysis
+Risk identification
+Identified key climate-related risks to BlackRock
+Scenario Selection
+Selected two climate transition scenarios and two physical climate scenarios
+to represent a range of potential future outcomes
+Scenario Implementation
+• Identified required data inputs and analytical specifications
+• Utilized Aladdin Climate to assess asset-level climate-related impacts through climate-
+adjusted security and portfolio risk metrics
+• Conducted internal workshops to discuss the implications of the scenarios for 
+BlackRock’s business and developed assumptions around client behavior and product 
+flows not included in pre-specified scenarios
+• Updated analytical specifications based on internal workshops to produce final output
+Risk Identification As mentioned previously, climate scenario analysis is 
+not meant to predict the future, but rather to guide 
+BlackRock evaluated climate-related risks relevant to 
+companies’ understanding of how these risks might 
+BlackRock’s business referencing guidance provided by the 
+affect their businesses over time. All the aforementioned 
+TCFD. Four key climate-related risks were identified, as 
+facets of climate-related market risk could be influenced 
+shown in Exhibit S.6b. Importantly, as discussed on pages 
+by both transition and physical climate risks to markets.
+23-24, BlackRock’s exposure to climate-related risk is 
+primarily indirect, affecting potential future revenue and 
+Scenario Selection
+expenses, rather than the assets and liabilities on 
+BlackRock’s balance sheet. As such, BlackRock’s enterprise- For the 2021 climate scenario analysis, BlackRock 
+level climate scenario analysis focused on assessing  sought to include a range of physical and transition risk 
+climate-related impacts to the valuation of AUM and the  scenarios in its analysis. Exhibit S.8 provides an 
+associated management fees generated by that AUM. The  overview of the selected scenarios.
+analysis also sought to evaluate potential client reactions to 
+Transition Risk. Climate-related transition risks arise 
+the different scenarios. 
+from exposure to the transition to a lower-carbon 
+As highlighted in Exhibit S.6b, market-related climate risk is  economy through policy, legal, technology, and market 
+one of the key risks to which BlackRock’s future profitability  changes. Depending on the nature, speed, and focus of 
+may be exposed. More specifically, fluctuations in asset  these changes, the global climate transition will create 
+values due to climate-related risks could lead to a reduction  meaningful shifts within sectors and across the entire 
+in BlackRock’s investment management revenues as a  economy.
+result of: (i) a decline in the value of AUM; (ii) the withdrawal 
+Transition risk scenarios assess different forward-
+of funds from BlackRock’s products; or (iii) the rebalancing 
+looking economic, policy, and technology pathways, 
+or reallocating of assets into different BlackRock products. 
+resulting in projected values for energy supply and 
+As such, the primary focus of BlackRock’s climate scenario 
+demand, GHG emissions, and energy prices and costs. 
+analysis was on the potential impact that physical and 
+Each scenario takes a different shape depending on 
+transition risks may have on the firm’s revenue under 
+assumptions made on the pace of technology adoption 
+different climate scenarios. Key drivers of outcomes under 
+and when climate policy changes are made. 
+the various scenarios were expected client investment flows 
+into and out of BlackRock investment products as well as  A key unknown within the context of the global climate 
+expected capital market returns under each scenario.  transition is the degree of orderliness and the timing 
+under which the transition will unfold. As such, 
+BlackRock sought to understand the potential 
+implications of a disorderly and delayed unfolding of the
+BlackRock 2021 TCFD Report 25
+transition relative to a more gradual and coordinated  Scenario Implementation
+outcome. To represent this distinction, BlackRock selected 
+For each scenario, BlackRock developed analytical 
+two climate transition scenarios developed by the Network 
+specifications to consider the potential impact to 
+for Greening the Financial System (“NGFS”): (1) Orderly –
+BlackRock’s AUM and profit margin. As BlackRock derives 
+Net Zero 2050; and (2) Disorderly –Delayed Transition. 
+These transition pathways use three detailed integrated  revenues from management fees earned on AUM, key 
+assessment models (“IAMs”)5 given the range of climate  elements of the specification included: 
+sensitivities. BlackRock elected to utilize the NGFS 
+• BlackRock’s AUM broken down by asset class and 
+scenarios for transition risk given the increasing adoption 
+investment style;
+by global regulators and the granularity of data provided 
+across a range of plausible scenarios. • Management fees, establishing the management fee 
+level for each analyzed asset class, investment style, and 
+Physical Risk. Physical risks of climate change arise from 
+sector-level exposure;
+the direct impacts of a changing climate in the short-and 
+long-term. Such risks can include the risks of extreme  • Aladdin Climate analytics to assess asset-level climate-
+weather events and rising global temperatures impacting  related impacts to BlackRock’s AUM through climate-
+operations, leading to impairment of infrastructure and  adjusted security and portfolio risk metrics;
+facilities, as well as disrupting supply chains.6With respect 
+• Market return assumptions based on BlackRock 
+to physical climate risk, uncertainty surrounds the degree 
+Investment Institute Capital Market Assumptions; and
+of warming that may occur and the associated implications 
+for the planet’s climate over the long term. As such,  • Assumptions around client behavior in response to the 
+respective scenario derived from internal workshops with 
+BlackRock sought to review physical risk scenarios with a 
+various subject-matter experts across the firm
+range of temperature outcomes. Two scenarios developed 
+by the Integrated Assessment Modeling Consortium 
+A key advancement to BlackRock’s 2021 enterprise-level 
+(“IAMC”)7 and used in the Intergovernmental Panel on 
+climate scenario analysis was the use of Aladdin Climate to 
+Climate Change (“IPCC”)’s Fifth Assessment Report were 
+assess asset-level climate-related impacts. As such, 
+selected for the analysis: (1) RCP 4.5 –some climate action; 
+following is a discussion of the Aladdin Climate analytics 
+and (2) RCP 8.5 –no climate action. RCP 4.5 represents an 
+that were utilized for this analysis.Exhibit S.9 provides an 
+intermediate scenario in which emissions peak around 
+overview of Aladdin Climate’s approach to quantifying 
+2040 then decline, and global mean surface temperature 
+transition and physical climate risks.
+change likely exceeds 2.4°C. RCP 8.5 represents a very high 
+emissions pathway where global emissions continue to 
+grow through the rest of the century and is considered a 
+worst-case scenario for the physical effects of climate 
+change.8
+Exhibit S.8: New Climate Scenarios in 2021 Analysis
+Disorderly –Delayed  RCP 4.5 –Some  RCP 8.5 –No Climate 
+Orderly –Net Zero 2050
+Transition Climate Action Action
+Description Stringent climate policies  Climate policies are  Emissions peak around  Global emissions grow 
+and innovation, reaching  delayed, which forces a very  2040 then decline through the rest of the 
+global net zero CO aggressive policy response  century
+2
+emissions around 2050 starting in 2030
+Expected  2.4°C ** 4.3°C 
+1.5°C 1.8°C
+Temperature Rise * (1.7°C to 3.2°C) (3.2°C to 5.4°C)
+Transition or
+Transition Transition Physical Physical
+Physical
+Source NGFS NGFS IPCC IPCC
+* * Expected temperature rise by 2081-2100 relative to 1850-1900. Numbers in parenthesis correspond to the likely range
+** The physical risk models in Aladdin Climate were developed utilizing the Fifth Assessment Report of the IPCC 
+Sources: IPCC, 2014: Climate Change 2014. Chapter 2. Available at: https://www.ipcc.ch/report/ar5/syr/ Network for the Greening of Financial Services (“NGFS”). “NGFS Scenarios 
+Portal”. Available at: https://www.ngfs.net/ngfs-scenarios-portal/explore/. 
+BlackRock 2021 TCFD Report 26
+Exhibit S.9: Aladdin Climate Approach to Modelling Climate Risk
+01 02 03 04
+Select a Climate  Assess the sector  Map to Company  Translate into 
+Scenario & Economic  & Asset  Financial Terms
+Assess expected risks  Impact Information Translate into financial 
+under forward-looking  risks and temperature 
+Convert climate  Map sector impacts and 
+climate scenarios metrics at security and 
+projections into forecasts  geolocations to individual 
+portfolio level
+of sector & economic  companies and assets
+impact
+Source: BlackRock, October 2021. Notes: Produced using BlackRock’s Aladdin Climate approach for modeling climate risk for individual securities and portfolios.
+Conclusions
+The results of the analysis indicate that, despite a lack of  The Orderly –Net Zero 2050 scenario is most likely to affect 
+direct exposure to climate-related risks, BlackRock’s AUM  BlackRock in the short-to medium- term, as decisive policy 
+and associated revenues and profit margin could be  actions will need to be effectuated in the very near-term to 
+affected by different climate scenarios. Every scenario  remain on this trajectory. The Disorderly –Delayed 
+reviewed highlighted plausible challenges that BlackRock  Transition scenario could also affect BlackRock with a key 
+and its clients may face over time. The wide range of  challenge presented through the need to adapt to a 
+scenarios also reflect the range of potential outcomes with  potentially uncoordinated or disjointed regulatory 
+respect to climate change and the vast amount of  environment across jurisdictions. Under this scenario, 
+uncertainty with which businesses, like BlackRock’s, need  BlackRock would need to be mindful that disparate 
+to contend.  regulations across jurisdictions could affect client demand 
+for different products in different jurisdictions. 
+While these challenges are profound on many levels, the 
+range of possibilities in our view suggests that BlackRock’s  We believe that both physical risk scenarios would create 
+diversified platform and commitment to providing choice to  significant risks for BlackRock over the long-term. The 
+its clients creates flexibility in its business model that is  magnitude of the physical effects may not only reduce 
+likely to support the firm’s resilience as it adapts to the  asset values and therefore BlackRock’s AUM and revenue, 
+impacts of both physical and transition climate risks.  but it could also potentially reduce capital markets 
+investment by BlackRock’s clients who would likely need to 
+Over the long-term, we would expect both transition 
+divert their capital to address losses to physical property 
+scenarios to lead to better outcomes for BlackRock and its 
+and other challenges created by very significant negative 
+clients, than either physical risk scenario, where global 
+physical climate outcomes.
+warming is not limited to well below 2 degrees Celsius. This 
+is because in our analysis, we assume that if a significant 
+low carbon transition occurs, this will reduce the potential 
+magnitude of physical climate risks over the long-term. 
+This in turn is beneficial to economic growth and stability. 
+However, in the short-and medium-term, the transition 
+scenarios create risks that must be managed including 
+through continued efforts to adapt BlackRock’s business to 
+account for the global transition to a low carbon economy.
+BlackRock 2021 TCFD Report 27
+Limitations Further, assumptions about client responses to each 
+scenario are a significant driver of outcomes in this 
+Scenario analysis is a dynamic exercise and iterative 
+process that is meant to help envision potential future  analysis but are also inherently difficult to predict with 
+outcomes, rather than predict the future. This climate  any certainty. The assumptions regarding client 
+scenario analysis exercise provided a structured way to  responses to the scenarios were developed based on the 
+qualitative judgement of subject-matter experts across 
+evaluate climate-related risks and opportunities –both in a 
+the firm. As such, there is no guarantee that clients will 
+quantitative and qualitative manner, and it opened a wider 
+respond in the manner assumed. This introduces 
+discussion as to how physical and transition risks could 
+inherent uncertainty into the results established by the 
+affect BlackRock’s business. As with any scenario analysis, 
+analysis. 
+there are limiting factors worth highlighting. 
+As such, we reiterate that this discussion is intended to 
+First, predicting climate change and quantifying its impacts 
+highlight the tools and analytical specifications 
+on the economy is inherently complex –in how the impacts 
+BlackRock established to refine its understanding of 
+of climate change will impact asset values, how companies 
+potential climate-related risks and opportunities; it is 
+will react to regulatory and market pressures, as well as how 
+not meant to predict the future. 
+BlackRock’s clients will react and adapt to these impacts.
+BlackRock 2021 TCFD Report 28
+Operations
+In its operations, BlackRock pursues a sustainability  Exhibit S.10: Revenue and Headcount Growth 
+strategy that seeks to decouple company growth from the  vs. Greenhouse Gas Emissions
+firm’s impact on the environment, while increasing the 
+efficiency and resiliency of BlackRock’s operations. Finding  bn)
+$ 18  35,000
+innovative ways to power BlackRock’s business with clean  (
+e  M
+energy, lower the firm’s emissions, and reduce waste, among  u e
+n t
+oBptrlhiamecrka Rreioflyfco kfr’otssc ,eu rnsevediduro conenms r Beendlatucackl iRnsoguc sektm’asii nseasnbivoiilnriotsyn.  msInter 2ant0tea2gl0 yi, m isp act.  nds), Reve 16  30,000 ric Tons of
+BlackRock reached carbon neutrality in its operations.1 usa 14  CO
+BlackRock reached this milestone by employing energy  ho 2e
+eefiflrefmicc ticreioncuictlyyd   sgntoroaattl ,oe2tgahineesdrw,  caisocemh iepelevimninsigna atiittnseg  1t h0for0or% uthg rohes ntehe eewm apbiuslrseci honasse t hoef   dcount (t 12  25,000  (tCO2e)
+a
+carbon credits.  e
+H 10  20,000
+2014 2015 2016 2017 2018 2019 2020
+Progress to Date  Revenue ($bn)  
+ Headcount (thousands)
+Exhibit S.10 shows the relationship between BlackRock’s   Scope 1 & 2 Emissions Location-Based (tCO2e)
+revenue, headcount, and Scope 1 and 2 (location-based) 
+Source: BlackRock as of December 31, 2020.
+emissions as an illustration of BlackRock’s progress towards 
+decoupling its emissions from its growth.
+BlackRock is committed to achieving its science-aligned 
+As of year-end 2020, BlackRock had reduced Scope 1 and 2  emissions reduction targets and strives to operate as 
+(location-based) emissions by 32%3from a 2014 baseline  efficiently as possible and by leveraging less carbon 
+despite a 47% increase in headcount and a 37% increase in  intensive energies, such as renewable electricity and 
+square footage over the same period. By achieving our  sustainable aviation fuel (“SAF”). Below is a discussion of 
+100% renewable electricity goal, BlackRock has also  some of the larger sources of emissions from BlackRock’s 
+reduced Scope 2 (market-based) emissions related to  operations and the efforts BlackRock is undertaking to 
+electricity to zero. Several Scope 3 categories declined  reduce those emissions.
+significantly in 2020, most notably, business travel. 
+However, the steepness of these declines is primarily 
+Business Travel
+attributable to changes to our operating model arising from 
+the COVID-19 pandemic.  When the world is not experiencing a global pandemic, 
+business travel by employees is a significant source of 
+Evolving to Science-Aligned  emissions within BlackRock’s operations. BlackRock 
+recognizes the environmental impact of travel, but also 
+Emissions Reduction Targets
+believes that its culture and connections with clients and 
+Building on the progress made in reducing our emissions to  other stakeholders can be enhanced by the personal 
+date, BlackRock has established new science-aligned  connections that come from face-to-face meetings. At the 
+emissions reduction targets using a 2019 baseline, as  same time, the pandemic has taught employees that many 
+shown below: meetings can happen effectively in a virtual environment. As 
+BlackRock has invested in these virtual capabilities, which 
+• 67% reduction of Scope 1 and 2 emissions by 2030
+were central to its resilience during the pandemic,4 
+• 40% reduction in Scope 3 business travel emissions by  BlackRock encourages use of audio-visual capabilities to 
+2030 reduce travel. In addition, BlackRock is working to 
+incorporate SAF, the leading decarbonization technology in 
+• Have suppliers representing 67% of our emissions 
+aviation, into its emissions reduction strategy to both help 
+(estimated based on spend) set science-aligned targets 
+scale SAF’s adoption more broadly and to reduce its own 
+by 2025
+GHG emissions.
+BlackRock 2021 TCFD Report 29
+Electricity Carbon Credits
+Since BlackRock began tracking electricity use in 2014, the  As part of BlackRock’s efforts to mitigate its environmental 
+square footage of its operations has expanded by 37% and  impact while on the journey to net zero, BlackRock 
+its headcount has increased by 47%, yet BlackRock’s  purchases carbon credits to compensate for the emissions 
+electricity usage has not exceeded 2014 levels in either  from its operations that cannot currently be eliminated. 
+20195or 2020.  This is a near-term mitigation strategy until BlackRock can 
+further eliminate emissions or there is a more permanent 
+BlackRock accomplished this through the consolidation of 
+nature-based or engineered technology solution. While 
+its data centers, retrofitting for LED lighting, redesigning its 
+BlackRock does not rely on carbon credits to reach its 
+office space use, and adjusting its heat, ventilation, and air 
+emissions reduction targets, carbon credits are a key 
+conditioning systems to correlate to occupancy more 
+supplemental and transitional strategy. Exhibit S.11 
+closely. BlackRock has also worked to make its data centers 
+provides a description of the carbon credits projects 
+among the most efficient in the industry by designing, 
+BlackRock supported to compensate for its 2020 
+building, and operating them to maximize efficient use of 
+operational emissions.
+energy, water, and materials.6 
+To further enhance BlackRock’s carbon credits strategy, 
+BlackRock has made it a priority to not only become more 
+BlackRock joined the LEAF Coalition, a public-private 
+energy efficient, but also to ensure that the energy we 
+initiative designed to help reverse the trend of 
+purchase comes from clean sources, wherever possible. 
+deforestation, one of the leading contributors to climate 
+BlackRock’s operations leverage renewable electricity, a 
+change, and to accelerate climate action by providing 
+zero-carbon energy, which reduces electricity-related 
+results-based finance to countries committed to protecting 
+emissions. In June 2020, BlackRock achieved its 100% 
+their tropical forests and the billions of people depending 
+renewable electricity goal to match the same amount of 
+on them and to support sustainable development. Large-
+renewable electricity as the electricity that BlackRock’s 
+scale, jurisdictional tropical forest protection provides an 
+global operations consume annually. This goal is achieved 
+opportunity to slow and ultimately halt climate change. 
+by contracting directly for renewable electricity, wherever 
+BlackRock joins this initiative alongside the governments of 
+possible (approximately 50%), and purchasing 
+Norway, the United Kingdom, the United States, and a 
+environmental attribute certificates (“EACs”)7when 
+group of private sector participants, which helps to diversify 
+BlackRock does not have operational control to procure its 
+the initiative across sector and geography. 
+own electricity or where renewable electricity is not 
+available.
+Exhibit S.11: Carbon Credits Projects for 2020 Offsets
+Projects Description
+• Located in Cambodia 
+• A leader in safeguarding biodiversity and supporting the cultural diversity of the 
+indigenous Bunong community, helping them to secure the first Indigenous Community 
+Keo Seima, 
+Land Title in Cambodia while also serving as the national REDD+8 model for Cambodia
+Arbor Day Foundation
+• Supports sustainable development by helping indigenous communities secure tenure; 
+providing agriculture training; supporting alternative sustainable livelihoods, such as 
+ecotourism; and supporting education
+• BlackRock supported TIST projects in India, Kenya, and Uganda
+• A combined reforestation and sustainable development program carried out by 
+subsistence farmers with the goals of combatting poverty, deforestation, and climate 
+change by improving their farms and planting trees
+The International Small 
+• Farmers utilize an innovative, community led approach to tree planting, developing tools 
+Group and Tree 
+to responsibly care for their local environment, local biodiversity, the global climate, and 
+Planting (“TIST”) 
+the well-being of their families and communities
+Program
+• Farmers plant trees on their land and retain ownership of the trees and their products, 
+while receiving training from TIST and a share of the carbon revenues
+• Carbon credit sales generate participant income and provide project funding to address 
+agriculture, HIV/AIDS, and nutritional and fuel challenges
+BlackRock 2021 TCFD Report 30
+Green Team Network
+The Green Team Network (“GTN”) is BlackRock’s community  Examples of GTN initiatives in 2020 and 2021 include:
+of conservation-minded employees who steward  • The “Do One Thing” campaign focused on actions 
+sustainability initiatives in our offices, homes, and 
+employees can take to reduce their impact on the 
+communities. GTN members are critical to bringing about a 
+environment, including adjusting thermostat and water 
+more sustainable culture at BlackRock. 48 BlackRock 
+heater settings, unplugging unused electronics, getting 
+offices host GTN chapters with participation from  educated on environmental issues, and reducing meat 
+approximately 3,000 employees. GTN initiatives include 
+consumption. 
+efforts to reduce single-use plastic, reduce paper use and 
+• GTN championed an educational campaign highlighting 
+waste, plant trees, and support biodiversity in communities. 
+ways employees can reduce their plastic use. 
+GTN is also focused on educating employees about 
+sustainability topics. • The “Net Zero Challenge” encouraged employees to 
+measure their own emissions and commit to actions to 
+reduce them. 
+Social Impact
+Social Impact is the firm’s charitable arm that seeks to  • Generation. In February 2021, the Foundation 
+advance equitable and sustainable economies and  committed to support an equitable economic recovery 
+communities. Through The BlackRock Foundation (the  from Covid-19 through a $13 million grant to Generation, 
+“Foundation”), BlackRock funds and partners with  a nonprofit that supports jobseekers across fourteen 
+organizations globally that help people, beyond the reach of  countries with the skills to access sustainable 
+the firm’s core business, to build financial security and  employment. BlackRock is funding and partnering with 
+participate in the transition to a low-carbon future. Distinct  Generation’s country operations in the US, UK, France, 
+from the Foundation’s grantmaking portfolios, BlackRock  Italy, Spain, and India to help them scale their programs 
+also runs employee engagement programs to equip  and place many more people into growth sectors that are 
+employees with the tools and opportunities to be drivers of  compatible with a sustainable, low-carbon economy, 
+local impact in their communities. Please see BlackRock's  including green jobs opportunities. These jobs, identified 
+2020 Sustainability Disclosure for an overview of  by Generation, will help program graduates launch stable 
+BlackRock’s Social Impact program.  careers and ultimately support their communities in the 
+transition to a green net zero economy.
+Below are examples of the Foundation’s climate-related 
+philanthropic commitments and programs: • Echoing Green. BlackRock partners with social impact 
+accelerator Echoing Green to create opportunities for 
+• Breakthrough Energy Catalyst. In September 2021, the 
+BlackRock employees to lend their skills and brainpower 
+Foundation committed $100 million to Breakthrough 
+to Echoing Green’s social entrepreneur fellows focused 
+Energy Catalyst, a program within the larger Breakthrough 
+on renewable energy access, sustainable agriculture, and 
+Energy network founded by Bill Gates. Catalyst is a new 
+other climate solutions. In 2021, BlackRock engaged in 
+model for how businesses, governments, and private 
+both long-term (7-week) and short-term (90-minute) 
+philanthropy can help build the foundation of the net zero 
+projects where employees are paired with a climate-
+economy.9Catalyst identifies technologies at critical 
+focused Echoing Green Fellow and work in teams to 
+junctures where investments and blended financing can 
+tackle a strategic challenge the organization is facing. 
+reduce the “green premium” –the difference in cost 
+Echoing Green has invested over $8.1 million in climate 
+between a carbon emitting technology and its cleaner 
+change solutions that reach more than 40 countries. 
+alternative. Catalyst’s initial focus will be to help speed the 
+Their Fellows have launched over 100 organizations that 
+development and commercialization of four clean energy 
+help global communities mitigate and adapt to climate 
+technologies: direct air capture, green hydrogen, 
+change.10
+sustainable aviation fuel, and long-duration energy 
+storage. BlackRock will also help Catalyst convene 
+additional partners and provide its investment expertise as 
+the program deploys its blended financing around the 
+world.
+BlackRock 2021 TCFD Report 31
+Industry Engagement & 
+Public Policy
+BlackRock supports the creation of regulatory regimes that  trillion dollars in assets to help transform the global 
+increase financial market transparency, protect investors,  financial system to accelerate and finance the investment in 
+and facilitate responsible growth of capital markets, while  a net zero economy. BlackRock co-leads the GFANZ Sectoral 
+preserving consumer choice and properly balancing  Pathways workstream with a network of UN and COP 
+benefits versus implementation costs. BlackRock’s Global  advisers, expert climate NGOs, and firms across the GFANZ 
+Public Policy Group (“GPPG”) coordinates and engages on  member base with the goal of helping to mobilize and 
+important policy and regulatory dialogue. BlackRock’s  accelerate platforms being developed in hard-to-abate 
+approach to public policy engagement, political activities,  sectors focusing on aviation, steel, and oil & gas. BlackRock 
+and trade associations is described in BlackRock’s 2020  also joined NZAMI in 2021, which is an international group 
+Sustainability Disclosure.  of asset managers committed to supporting investing 
+aligned with net zero emissions by 2050 or sooner.
+As it relates to climate and sustainability-related policy 
+matters, BlackRock strives to engage constructively in the 
+Public Policy
+global dialogue through participation in collaborative 
+industry initiatives as well as through engagement with 
+BlackRock is a proponent of TCFD-aligned reporting, 
+regulators around the world. 
+supplemented by industry-specific metrics, in addition to 
+supporting convergence of the private sector reporting 
+Collaborative Initiatives
+frameworks and standards to establish a globally consistent 
+approach to climate and sustainability reporting more 
+BlackRock and its employees participate in collaborative 
+broadly under a common governance framework.
+initiatives, examples of which are listed in Exhibit S.12, to 
+share technical expertise and investment research  BlackRock advocates for consistent reporting standards for 
+regarding climate-related risks and the transition to a net  corporate issuers on climate and other sustainability-
+zero economy, as well as to support the development of  related disclosures. In 2021, BlackRock provided comments 
+consistent industry standards and approaches to climate- in support of several policy efforts to encourage climate-
+related disclosures and net zero portfolio alignment.  related reporting globally, including in comments 
+submitted to the Hong Kong Securities and Futures 
+In 2021, BlackRock joined GFANZ, an organization that 
+Commission (“SFC”) and the US Securities and Exchange 
+brings together over 450 financial firms across 45 
+Commission (“SEC”).11
+countries, collectively responsible for more than $130 
+BlackRock has long supported international efforts toward a 
+Exhibit S.12: Select Examples of Climate- single, globally consistent set of baseline sustainability 
+reporting standards upon which different jurisdictions can 
+Related Collaborative Initiatives
+build.12Last year, BlackRock publicly stated its view that the 
+optimal outcome and the one most likely to succeed is the 
+• Climate Bonds Initiative
+one proposed by the International Financial Reporting 
+• Energy Transitions Commission
+Standards (“IFRS”) Foundation13that would establish a 
+• Glasgow Financial Alliance for Net Zero sustainability standards board working with the existing 
+• Green Bond Principles initiatives and building upon their efforts. We were pleased 
+that the IFRS Foundation announced in November 2021 the 
+• Institutional Investors Group on Climate Change
+formation of a new International Sustainability Standards 
+• Net Zero Asset Managers Initiative
+Board (“ISSB”) to develop a comprehensive global baseline 
+• Partnership for Carbon Accounting Financials of high-quality sustainability disclosure standards to meet 
+• Portfolio Alignment Team investors’ needs.14BlackRock supports the formation of the 
+• Taskforce on Climate-related Financial Disclosures ISSB and believes this will help drive progress toward the 
+convergence needed to improve the quality of information 
+• Taskforce on Nature-related Financial Disclosures
+available to investors and other stakeholders, while 
+• Taskforce on Scaling Voluntary Carbon Markets
+reducing the reporting burden on companies.
+Note the above list is not exhaustive and is provided for informational purposes.
+BlackRock 2021 TCFD Report 32
+Risk Management
+Disclose how the organization identifies, assesses, and manages 
+climate-related risks. 
+An integral part of BlackRock’s identity is the core belief that  with investment leadership to create ESG risk dashboards 
+rigorous risk management is critical to the delivery of high- and standard reporting practices, leveraging the capabilities 
+quality asset management services.  of the Aladdin platform. 
+BlackRock employs a three-lines of defense approach to  The third line of defense, BlackRock’s Internal Audit 
+managing risks in client portfolios. BlackRock’s investment  function, operates as an assurance function. The mandate 
+teams and business management are the primary risk  of Internal Audit is to objectively assess the adequacy and 
+owners, or first line of defense. Portfolio managers and  effectiveness of BlackRock’s internal control environment to 
+research analysts are responsible for evaluating the material  improve risk management, control, and governance 
+environmental (as well as social and governance) risks and  processes.
+opportunities for an industry or company just as they 
+consider other potential economic issues related to their  Business Continuity Risk 
+investments. Examples of climate-related risks taken into 
+Management
+account include: risks from regulatory change or litigation 
+and exposure to physical impacts such as flooding or other 
+BlackRock is committed to providing high-quality, resilient 
+extreme weather events or changes in temperature. In 
+services to its clients. Significant resources and effort are 
+addition, BlackRock has developed a framework to monitor 
+dedicated to the Business Continuity Management (“BCM”) 
+exposure to carbon intensive assets to support the  
+and technology Disaster Recovery programs, which are 
+understanding and management of potential climate-
+designed to meet or exceed legal and regulatory obligations 
+related risks.
+in the locations in which BlackRock operates. 
+BlackRock’s risk management function, RQA, serves as a key 
+BlackRock maintains business continuity plans to facilitate 
+part of the second line of defense in BlackRock’s risk 
+the continuity of business in the event of a business 
+management framework. RQA partners with portfolio teams 
+disruption. BlackRock’s executive management provides 
+and business management to help them understand, 
+oversight and governance to the firm’s BCM program, 
+monitor, manage, and report risks, including climate and 
+supported by the BCM team, which manages the program.
+other ESG-related risks. In addition to producing 
+quantitative analysis to support BlackRock in managing its  BlackRock’s Enterprise Resilience Team conducts 
+fiduciary and enterprise risks, RQA works with portfolio  assessments of physical locations to create individual site 
+managers to help ensure that portfolio risks are consistent  risk models and plans for BlackRock offices and data 
+across mandates, reflect current investment themes within  centers that are then incorporated into BlackRock’s risk 
+particular strategies, and are consistent with clients’  management framework and reported on a monthly basis to 
+reasonable expectations. RQA evaluates material ESG risks,  the firm’s risk management committees. These risk models 
+including climate risk, during its regular reviews with  consider acute climate-related risks, including severe 
+portfolio managers to provide oversight of portfolio  weather, wildfires, and flooding, as well as long-term risks 
+managers’ consideration of these risks in their investment  such as climate change. 
+processes. This helps to ensure that such risks are 
+BlackRock uses predictive weather modeling to assess risks 
+understood, deliberate, diversified, and scaled, and are 
+from natural disasters across multiple phases, including site 
+consistent with client objectives.
+selection, facility design processes, and routine facility 
+BSI partners with RQA to review and monitor ESG risk  management operations. Evaluation criteria include scale 
+exposure at the investment group level, providing rigor and  and type of energy use, GHG emissions, local climate, facility 
+consistency across our diverse investment platform. RQA,  type, location, occupancy status, and potential financial 
+BSI and BlackRock Solutions Portfolio Analytics Group work  impact.
+BlackRock 2021 TCFD Report 33
+Metrics & Targets
+Disclose the metrics and targets used to assess and manage 
+relevant climate-related risks and opportunities where such 
+information is material.
+Getting to net zero starts with measuring where we are  • Firm-Level Climate Metrics for BlackRock’s AUM. This 
+today. We expect this of the companies in which we invest  TCFD report marks the first time that BlackRock is 
+on behalf of our clients, and we recognize the importance of  reporting preliminary estimates reflecting the absolute 
+leading by example in our own disclosure. That is why a  emissions and the carbon footprint2 associated with 
+critical component of BlackRock’s net zero commitment is  BlackRock’s AUM in corporate securities and real estate. 
+focused on enhancing transparency at the fund and firm  Preliminary estimates of these metrics are provided in 
+level.  Exhibit M.6.
+BlackRock utilizes four main categories of climate-related  • Product-Level Sustainability Characteristics. 
+metrics, as follows: BlackRock manages thousands of portfolios, each with 
+their own investment strategy, guidelines, and 
+• Business Indicators. Exhibit M.1 provides business 
+constraints. As an asset manager, one of the most 
+indicator metrics across sustainable investing, ESG 
+important components of the transparency BlackRock 
+integration, and investment stewardship.
+provides is with respect to the Sustainability 
+• Corporate GHG Emissions. BlackRock reports Scope 1,  Characteristics of investment products offered to clients. 
+Scope 2, and relevant categories of Scope 3 emissions. 
+Sustainability Characteristics provide investors with 
+BlackRock obtains third-party verification for its Scopes 
+specific non-traditional metrics. Alongside other metrics 
+1 and 2 emissions, as well as for most Scope 3 
+and information, these enable investors to evaluate funds 
+categories.1Exhibit M.2 provides progress towards 
+on certain ESG characteristics. Sustainability 
+BlackRock’s 2014-2020 environmental sustainability 
+Characteristics do not provide an indication of current or 
+goals. Exhibit M.3 provides BlackRock’s corporate GHG 
+future performance nor do they represent the potential 
+emissions, in addition to select intensity and energy 
+risk and reward profile of a fund. They are provided for 
+metrics. As discussed below, BlackRock believes that 
+transparency and for information purposes only. 
+Scope 3 (Investments) should refer to emissions from 
+Sustainability Characteristics should not be considered 
+investments made with assets that are owned by the 
+solely or in isolation, but instead are one type of 
+company, rather than those managed by an asset 
+information that investors may wish to consider when 
+manager on behalf of external asset owners. As such, the 
+assessing a fund. 
+Scope 3 (Investments) figure reported in Exhibit M.3 
+represents emissions from BlackRock’s seed and co- BlackRock makes Sustainability Characteristics publicly 
+investment portfolios (where data is available), which  available for publicly-offered funds that it manages, 
+reflect investment of BlackRock’s own capital. Emissions  including ETFs and mutual funds (where reliable data is 
+associated with BlackRock’s AUM in corporate and real  available). As of December 2021, one or more climate-
+estate securities are reported separately as described in  related metrics are publicly available for funds totaling 
+the following bullet. approximately $2.8 trillion in AUM(note holdings value 
+as of September 30, 2021).
+BlackRock 2021 TCFD Report 34
+Business Indicators
+Exhibit M.1: Business Indicators
+Business Indicators 2018 2019 2020  Q3 2021
+Sustainable Investing AUM ($ billions) a $52 b $107 b $199 $434
+Flows into Sustainable Products ($ billions) - $34 $68 $64
+Investment Stewardship Team Size 36 45 50 67
+Total Investment Stewardship Engagements c d 2,049 2,050 3,501 2,689
+Total Investment Stewardship Engagements on 
+301 316 1,939  1,645
+Environment-Related Issues (# of engagements) c d
+a. The dedicated sustainable investment platform includes: 1) strategies with an explicit ESG objective which may include a targeted quantifiable ESG outcome (“Broad ESG”); 2) 
+strategies that capitalize on long-term transformative industry or societal trends through pursuit of specific E, S, or G themes(“Thematic”); 3) strategies where investments are made 
+with the intention to generate positive measurable social and environmental impact alongside financial return (“Impact”) and;4)screened strategies that incorporate BlackRock’s 
+baseline screens (“Dedicated Screened”). BlackRock’s definition of impact investments is in line with the International Finance Corporation’s Operating Principles for Impact 
+Management.
+b. 2018 and 2019 figures do not include Dedicated Screened strategies.
+c. BlackRock counts only direct interaction as an engagement. BIS also write letters to raise companies’ awareness of thematic issues on which BIS are focused or changes in policy, but 
+this outreach is considered distinct from engagement as it is difficult to monitor the effectiveness of letter writing without direct interaction and therefore not included in the figures 
+shown in this row. See BIS’s 2020 Annual Calendar Year report. Available at: https://www.blackrock.com/corporate/literature/publication/blk-annual-stewardship-report-2020-
+calendar-year.pdf
+d. In 2020, BlackRock Investment Stewardship switched their reporting to calendar year reporting from proxy year reporting. Notethat the Investment Stewardship Engagement data 
+for 2018 and 2019 is for the respective proxy year (July 1 2017 –June 30 2018, and July 1 2018 –June 30 2019). Investment Stewardship Engagement data for 2020 and 
+2021 is for the respective calendar year (January 1 2020 –December 31 2020, and January 1 2021 –September 30 2021).
+BlackRock 2021 TCFD Report 35
+Corporate GHG 
+Emissions & Targets
+Exhibit M.2 provides BlackRock’s progress towards select environmental sustainability goals. Exhibit M.3 provides 
+BlackRock’s corporate GHG emissions covering Scope 1, Scope 2, and relevant categories of Scope 3.  For a discussion of 
+BlackRock’s strategy to achieve these goals, please see Operations on pages 29 and 30. Note that data provided in this 
+section is for the year-ended 2020. 
+Exhibit M.2: Progress on 2020 Environmental Targets for Corporate Operations
+2019 2020 2020
+Category Goals
+Progress a Progress b Goal c
+Reduce facility location-based GHG emissions 
+Emissions (electricity, stationary combustion, and  44% 54% 45%
+refrigerants) per full-time employee
+Match same amount of renewable electricity (in 
+Renewable Energy MWh) as the electricity that our global operations,  100% 100% 100%
+including data centers consume annually
+Electricity Reduce absolute global electricity consumption 1% 11%d 18%
+Air Travel Emissions Reduce air travel emissions per employee 21% 88%e 20%
+Paper Reduce global office paper consumption 44% 78%f 25%g
+Waste Increase global waste diversion from landfill 48% 7%f 75%g
+a. As of December 31, 2019 unless otherwise noted.
+b. As of December 31, 2020 unless otherwise noted. Note that results in 2020 were affected by changes to BlackRock’s operating model as a result of the COVID-19 pandemic.
+c. 2020 goals use a 2014 baseline unless otherwise noted.
+d. This goal was not achieved, in part, due to a significant increase in square footage from our initial baseline. It is worth noting that electricity use per square foot declined by 34% from 
+2014 to 2020.
+e. This figure is not representative of travel in a typical year, as results were largely due to the lack of employee travel duringthe COVID-19 pandemic.
+f. Paper reduction and waste diversion metrics were significantly impacted by low occupancy of offices during the COVID-19 pandemicas employees primarily worked from home.
+g. Uses a 2017 baseline 
+Note on 2020 Data and COVID-19
+Like most companies, the COVID-19 pandemic had a significant impact on BlackRock’s operating model in 2020, with the majority ofemployees working from home for three-
+quarters of the year. Although BlackRock’s global offices remained fully open and operational throughout the pandemic, employee travel and other normal in-office activity levels were 
+curtailed. As a result, 2020 data and emissions reductions are not necessarily representative of improvements in the management of our carbon footprint. 
+BlackRock 2021 TCFD Report 36
+Exhibit M.3: Corporate GHG Emissions
+% 
+(in metric tons of CO e 2014 2019 2020
+2 change a
+Scope 1 and 2 
+Scope 1   5,756  5,589 3,278 (43%)
+Scope 2 (Location-Based)b 27,409 23,126 c 19,363 (29%)
+Scope 2 (Market-Based)dElectricity 27,409 0 0 (100%)
+Scope 2 (Market-Based) Purchased Heat - 2,757 e 1,011 (63%) f
+Total Scope 1 and Scope 2 (Location-Based) 33,165 28,715 22,641 (32%)
+Total Scope 1 and Scope 2 (Market-Based) 33,165 8,346 c 4,289 (87%)
+Scope 3
+(in metric tons of CO e) 2017 2019 2020 % change g
+2
+1. Purchased Goods & Services h - 249,356 i 214,957 (14%) f
+2. Capital Goods  - 8,015 i 2,337 (71%) f
+3. Fuel-and Energy-Related Activities (Location-Based) j 5,809 7,865 6,825 17%
+m 3. Fuel-and Energy-Related Activities (Market-Based)j 2,718 3,093 2,465 (9%)
+a
+re 4. Transportation & Distribution (“T&D”) k - 1,709 973 (43%) f
+st
+p
+U 5. Waste Generated in Operations l 818 1,162 379 (54%)
+6. Business Travel m 39,238 39,116 6,606 (83%)
+7. Employee Commuting (employee shuttles in India) n 611 1,161 26 (96%)
+8. Leased Assets (Location-Based) o 596 777 928 56%
+8. Leased Assets (Market-Based) o - 0 0 -
+9. Transportation & Distribution  Not Relevant
+10. Processing of Sold Products Not Relevant
+m
+a 11. Use of Sold Products Not Relevant
+e
+r
+st 12. End-of-Life Treatment of Sold Products Not Relevant
+n
+w
+o 13. Leased Assets  Not Relevant
+D
+14. Franchises Not Relevant
+15. Investments p
+- - 121,372 -
+(BlackRock balance sheet only –see Exhibit M.6 for AUM-related metrics)
+Emissions Intensity Metrics
+Carbon Intensity (Scope 1 & Scope 2 tCO2e / $1 million revenue) - 2.0 1.4 -
+Facilities tCO e per Employee q - 1.8 1.3 -
+2
+Scope 3 Business Travel per Employee r 2.8 2.4 0.4 (86%)
+Electricity
+Total Electricity Consumed (MWh) 66,097 70,605 64,225 (3%)
+Percent Renewable Electricity s 86% 100% 100% 16%
+BlackRock 2021 TCFD Report 37
+Footnotes to Exhibits M.3
+a. Percentage change versus 2014 baseline unless otherwise specified. Calculations are using exact figures, so percentage changecalculations using rounded figures may 
+not tie exactly.
+b. As defined by the GHG Protocol: “A location-based method reflects the average emissions intensity of grids on which energy consumption occurs.” 
+c. Scope 2 figures includes both electricity and purchased heat beginning in 2019. Please also note that the purchased heat component of emissions reported for 2019 was 
+not subject to the LRQA limited assurance review. 
+d. As defined by the GHG Protocol: “A market-based method reflects emissions from electricity that companies have purposefully chosen. It derives emission factors from 
+contractual instruments, which include any type of contract between two parties for the sale and purchase of energy bundled withattributes about the energy generation, 
+or for unbundled attribute claims.” 
+e. Purchased heat emissions were not subject to LRQA’s limited assurance review in 2019.
+f. Percent change versus 2019 baseline. Calculations are using exact figures, so percentage change calculations using the rounded figures above may not tie exactly.
+g. Percentage change versus 2017 baseline unless otherwise specified. Calculations are using exact figures, so percentage changecalculations using the rounded figures 
+above may not tie exactly.
+h. Calculations are estimated based on spend for each supplier unless sufficient data is available.
+i. Restated from 2020 TCFD due to the adoption of the Environmental Protection Agency’s (“EPA’s”) methodology. More information available at: 
+https://www.epa.gov/ghgreporting. Figures were not subject to LRQA’s limited assurance review in 2019. 
+j. Fuel and energy-related activities that are not included in Scope 1 & 2.
+k. T&D figures are included in Fuel-and Energy-Related Activities (Location-Based) for 2017. T&D 2019 figure was not subject to LRQA’s limited assurance review in 2019. 
+l. This figure is estimated. To calculate this figure, BlackRock collected waste data from representative sites. Total emissionsare then extrapolated based on the total 
+headcount of the company.
+m.Business travel includes air travel, car rentals, car service, and rail. Travel was significantly curtailed in 2020 due to the COVID-19 pandemic.
+n. Employee commuting emissions are calculated from shuttles transporting employees from their home to work at our India offices. This is not a comprehensive measure of 
+emissions from employee commuting in locations outside of India.
+o. Upstream leased assets emissions are for unmanned data centers and serviced office suites. 
+p. This is not a comprehensive measure of Scope 3, Category 15 (“S3C15”). Reported emissions for S3C15 is limited to corporate securities (listed equities, corporate bonds, 
+and associated derivatives) in BlackRock’s seed portfolios and co-investments. Data coverage represents approximately 61% of BlackRock’s seed and co-investment 
+portfolios. Excludes strategic investments, hedge investments, carried interest, and seed and co-investment portfolio investments in non-corporate fixed income, 
+commodities, derivatives not linked to corporate issuers, and alternatives.  BlackRock will seek to incorporate additional assetclasses as data and methodologies become 
+available. PCAF Data Quality Score is between 2 and 3. Methodology and Limitations are discussed on pages 42 -45.
+q. Facilities tCO2e refers to Scope 1 and 2 Location-Based emissions. Denominator includes full time employees and contingent workers. Since setting the similar 2020 
+target referenced (p age  36) which included only electricity, stationary combustion, and refrigerants in Facilities tCO2e, BlackRock has since expanded reporting this 
+metric to include natural gas, diesel fuel, stationary combustion, refrigerants, location-based electricity and purchased heat in this progress metric.
+r. Denominator includes full time employees and contingent workers.
+s. Figures include BlackRock’s use of EACs. 
+BlackRock 2021 TCFD Report 38
+Scope 3 (Investments) BlackRock encourages the development of a level playing 
+field for S3C15 reporting across financial institutions 
+Category 15 of Scope 3, “Investments” (hereafter, “Scope 3  operating in the same lines of business, regardless of 
+Investments” or “S3C15”), is an important category of  corporate structure, and by reflecting within that framework 
+emissions that should be considered by financial  the unique nature of different types of financial activities.4
+institutions. A key question that arises for asset managers,  In BlackRock’s view, S3C15 should be limited to on balance 
+like BlackRock, is the treatment of investments that are  sheet loans and owned investments. GHG emissions 
+managed on behalf of external clients, who are the asset  associated with asset management on behalf of external 
+owners. The Corporate GHG Protocol (“GHGP”)  clients should be reported separately. 
+distinguishes asset owners from asset managers under 
+This view has been reflected within the reporting provided 
+S3C15 in that it requires asset owners to report emissions 
+in this document. As such, S3C15 in Exhibit M.3, which 
+associated with their investments, whereas asset managers 
+covers BlackRock’s corporate GHG emissions, reflects 
+are not required to report emissions associated with the 
+emissions associated with BlackRock’s seed investments
+assets they manage for external clients under S3C15 
+and co-investments portfolios,5 which are made with 
+(though they may optionally do so).3
+BlackRock’s own capital. Note that the emissions reported 
+While the GHGP draws this distinction between asset  reflect emissions only for a subset of BlackRock’s seed and 
+owners and asset managers, it does not fully address  co-investments portfolios that are invested in listed equity, 
+reporting under S3C15 by asset managers. Moreover, were  corporate fixed income, and associated derivatives.6
+asset managers to optionally report emissions associated  Reported S3C15 excludes emissions from strategic 
+with investments managed on behalf of their external  investments, hedge investments, carried interest, and seed 
+clients under S3C15, there would be 100% double  and co-investment portfolio investments in non-corporate 
+counting with their clients’ (the asset owners’) S3C15.  securities, commodities, derivatives not linked to corporate 
+BlackRock believes this is a problematic outcome that  issuers, and alternatives. These assets have been excluded 
+would lead to confusion and reduce the comparability and  from this year’s reporting due to insufficient data and 
+usability of S3C15 data across financial institutions.  methodologies available to report this information. 
+BlackRock intends to incorporate additional asset classes 
+The lack of clarity in the existing GHGP guidance is also 
+as data and methodologies become available over time.
+likely to lead to underreporting of emissions associated 
+with asset management, particularly in instances where  As discussed in the following section, preliminary estimates 
+financial institutions manage investments of their own  of emissions associated with BlackRock AUM in corporate 
+capital in addition to investments on behalf of other asset  securities and real estate are provided in Exhibit M.6. The 
+owners. following section provides a detailed description of the 
+analysis performed to develop preliminary estimates of 
+emissions associated with BlackRock’s AUM (where 
+sufficient data and methodologies were available). The 
+same methodologies were applied to calculate S3C15 for 
+BlackRock’s seed and co-investment portfolios.
+BlackRock 2021 TCFD Report 39
+Firm-Level Climate Metrics for 
+BlackRock’s AUM
+BlackRock is an asset manager. Asset managers act as  Metrics Selection
+agents investing assets that belong to their clients on their 
+clients’ behalf. This TCFD report marks the first time that  There is currently little consensus on how to measure 
+BlackRock is reporting preliminary estimates reflecting the  portfolio alignment to net zero and/or exposure to the 
+absolute emissions and the carbon footprint7 associated  climate transition.9BlackRock undertook an exercise in 
+with the investments BlackRock makes on behalf of its  2021 to evaluate existing climate-related and portfolio 
+clients in corporate securities and real estate (where data is  alignment metrics and methodologies, with the goal of 
+available). Several advancements have enabled BlackRock’s  reporting aggregate statistics (where sufficient data and 
+ability to produce these estimates, namely:  methodologies exist) for BlackRock’s AUM. The objective 
+was not only to provide information to stakeholders, but 
+(i) Corporate issuers are increasingly reporting their GHG 
+also to advance the dialogue within the asset management 
+emissions through voluntary and regulatory initiatives; 
+industry regarding the uses and limitations of existing 
+(ii) BlackRock’s commitment to put sustainability at the  approaches. One conclusion from the exercise was that 
+center of the Aladdin platform has resulted in the  there is no single metric that provides full insight into a 
+incorporation of a breadth of climate-related metrics  portfolio’s trajectory or exposure as it relates to the global 
+and data into BlackRock’s analytical systems; and transition to net zero. Moreover, some metrics are more 
+appropriate for disclosure at the portfolio or fund level, and 
+(iii) Industry efforts have formed to facilitate the 
+others are more appropriately reported at a firm or 
+development of methodologies for calculating climate-
+institution level. Exhibit M.4 shows a summary of key 
+related and portfolio alignment metrics and setting net 
+climate-related and portfolio alignment metrics. Each of 
+zero-aligned targets.
+these metrics comes with its own uses and limitations, as 
+Following is a discussion of the methodology, results, and  shown in Exhibit M.4. 
+limitations of an analysis performed in 2021 to compute 
+For BlackRock’s TCFD firm-level reporting, absolute 
+preliminary estimates of the absolute emissions and carbon 
+emissions and carbon footprint were selected. Absolute 
+footprint associated with BlackRock’s AUM in corporate 
+emissions in this context refers to proportionate exposure to 
+securities (listed equities, corporate bonds, and associated 
+an investee company’s or asset’s emissions (based on % 
+derivatives),8and real estate. These asset classes were 
+ownership). While the absolute emissions metric has the 
+included in the analysis because there is consensus around 
+benefit of intellectual consistency with other GHG 
+the methodologies for attributing emissions to investors 
+emissions metrics reported at the corporate level,10a 
+and sufficient reported or estimated data were available. As 
+drawback of absolute emissions is that it does not account 
+of year-end 2020, collectively, investments in the assets 
+for the size of the investor. In other words, absolute 
+included in this analysis represent more than 65% of 
+emissions are likely to grow if the portfolio or AUM grows 
+BlackRock’s AUM. As consensus around methodologies  
+and vice versa if the portfolio shrinks. To account for this 
+and available data for additional asset classes builds, 
+limitation, carbon footprint, which refers to absolute 
+BlackRock will seek to incorporate those asset classes into 
+emissions divided by AUM (rounded to the millions), was 
+future TCFD reports.
+also estimated. Carbon footprint normalizes emissions for 
+the size of the portfolio. Global consistency in entity level 
+reporting was also a factor in the selection of these metrics, 
+as both absolute emissions and carbon footprint are 
+metrics that will be required to be reported by asset 
+management entities based in the European Union under 
+the SFDR.11
+Further discussion of metrics utilized for fund-level 
+reporting is provided on page 46.
+BlackRock 2021 TCFD Report 40
+ExhibitM.4: Pros & Cons of Key Climate-Related and Portfolio Alignment Metrics & 
+Incorporation into BlackRock Reporting
+Backward-looking Exposure Forward-looking Metrics
+Implied 
+Portfolio 
+Green Exposure Absolute Emissions Emissions Intensity Temperature 
+Coverage
+Rise
+Unit $ or %  tCO2e tCO2e per unit  Degrees Celsius %
+Proportionate  Proportionate  Emissions exposure  Temperature rise  Portion of AUM in 
+exposure to  exposure to investee  per unit of output or  implied by  investees 
+What it  “green” assets or  GHG emissions investment (i.e.,  holdings  meeting criteria, 
+measures revenues revenue, AUM,  e.g. having 
+MWh) science-based 
+targets
+• Captures  • Standard data  • Standard data  • Intuitive  • Clearly defined
+importance of  inputs inputs connection to  • Simple to track / 
+financing the  • Direct connection  • Normalizes for  net zero goals communicate
+Pros
+solutions that  to net zero goals size, allowing  • Industry 
+support the  • Industry standard  comparability standard (SBTi)
+transition
+(PCAF)
+• Lack of  • Doesn’t account  • Market  • Complex,  • Target data not 
+consensus on  for size movements can  requires  yet 
+definition of  • Market movement  create noise multiple  standardized
+Cons “green” can create noise • Incomplete data /  assumptions  • No guarantee 
+• Limited data  • Incomplete data /  asset class  • Methodologies  investees 
+availability asset class  coverage vary achieve targets
+coverage
+Current  - Firm-level:Absolute  Firm-Level:Carbon  Fund-level:  -
+BlackRock Use  Emissions of AUM  Footprint of AUM  Implied 
+of Metrics (corporates, real  (tC02e / $ million  Temperature Rise 
+estate) AUM) (“ITR”)*
+Fund-level 
+weighted average 
+carbon intensity 
+(“WACI”)*
+*Note that WACI and ITR are not reported for all BlackRock funds. The metrics that are reported vary by asset class and strategyin addition to available data and methodologies. 
+For examples of these disclosures on BlackRock index mutual funds and ETFs, please visit www.ishares.comand www.blackrock.com. 
+BlackRock 2021 TCFD Report 41
+Methodology Another consideration was the treatment of emissions 
+associated with green bonds. Green bonds are bonds 
+PCAF is a consortium of financial institutions working to  whose funding is provided exclusively to projects that are 
+develop an open source GHG emissions accounting  aligned with the International Capital Markets Association 
+standard to establish a harmonized approach to assessing  (“ICMA”) Green Bond Principles.14BlackRock believes that 
+and reporting GHG emissions associated with lending and  investors should be incentivized to include green bond 
+investment activities.12PCAF published the Global GHG  investment in their portfolios and, therefore, qualifying 
+Accounting & Reporting Standard for the Financial Industry  green bonds should have the benefit of not carrying the 
+(“PCAF Standard”), which BlackRock referenced as a  emissions of the issuer when calculating portfolio 
+starting point for estimating absolute emissions associated  emissions. As such, green bond holdings were excluded 
+with BlackRock’s AUM.13However, the PCAF Standard does  when calculating exposure to each issuer. However, all 
+not address all asset classes and has a number of  other exposures to those issuers were included.15
+methodological issues still to be explored. Further, the 
+Another key challenge to estimating absolute emissions 
+PCAF Standard was developed primarily for use by banks 
+was obtaining emissions data that is contemporaneous 
+and, therefore, has not yet fully addressed the asset 
+with holdings data. This issue arises because companies 
+management and portfolio context. As such, BlackRock 
+typically report their emissions for a given year well after 
+made several methodological decisions that are not 
+year-end. In addition, there is typically a lag between the 
+included in the PCAF Standard, which are discussed below. 
+date when emissions data is reported and the date when 
+Exhibit M.5 highlights key methodological choices. 
+that data is incorporated into the MSCI dataset. As such, 
+Corporates. For corporate securities (listed equity,  holdings values measured at year-end will not be 
+corporate bonds, and associated derivatives), emissions  contemporaneous with emissions data that is available at 
+were apportioned based on the proportion of the company’s  that time. To mitigate the impact of this timing mismatch to 
+enterprise value including cash (“EVIC”) represented by  the extent possible, this analysis utilizes different dates for: 
+BlackRock’s investments on behalf of its clients. Issuer- (i) the date at which exposure to each issuer is measured 
+level Scope 1 and 2 emissions data were obtained from  (“holdings value analysis date”); and (ii) the date on which 
+MSCI, as were issuer-level EVIC data. MSCI utilizes reported  the latest available emissions data is provisioned by a 
+data from companies where emissions are disclosed. Where  third-party data provider (“emissions effective date”). 
+companies do not disclose their emissions, MSCI applies   Whereas the holdings analysis date is December 31 of each 
+proprietary methods to estimate emissions.  reporting year; the emissions effective date is September 
+30 of the following year. As discussed in the limitations
+Treatment of derivatives and short positions when 
+calculating exposure to each issuer was an important 
+Exhibit M.5: GHG Emissions from AUM & 
+consideration for a subset of portfolios in the analysis. 
+Neither derivatives nor short positions are addressed by the  Carbon Footprint -Methodological 
+PCAF Standard. Further, there are different views within the  Highlights 
+industry as to the application of short positions and 
+derivatives in the emissions context. On the one hand, long  Emissions 
+Scope 1 & 2
+Included
+exposures through physical securities are the most direct 
+representation of engagement rights with companies. On 
+Emissions 
+the other hand, omitting derivatives and short positions  Excluded Scope 3*
+could misrepresent the economic exposure of the portfolio 
+to a given issuer. After reviewing the pros and cons of each  • Corporates (listed equities, corporate bonds, 
+Asset Classes 
+and associated derivatives)
+approach, we concluded that metrics that best approximate  Included
+• Physical real estate
+economic exposure are most appropriate because they 
+align more closely to how financial metrics are reported. As 
+• Non-corporate fixed income
+such, the preliminary estimates reported herein reflect net  Asset Classes  • Commodities
+exposure to each corporate issuer including exposure  Excluded • Alternatives other than real estate
+obtained through derivatives. These methodological  • Derivatives not linked to corporate issuers
+choices had a minimal impact on absolute emissions and 
+carbon footprint estimates for the firm given that the  Data Sources MSCI (corporates)
+majority of BlackRock’s AUM is held in long-only index
+portfolios where short positions and derivatives are not a  Standards  PCAF (with certain adjustments)
+Referenced
+significant component of the investment strategy. For 
+individual portfolios with more significant use of derivatives  *PCAF calls for Scope 3 emissions of certain sectors to be reported beginning 
+or short positions, it may be appropriate to report long and  in 2021. This analysis is for 2019 and 2020 data.  Further consideration 
+short positions separately. must be given to double counting implications of including Scope 3 emissions.
+BlackRock 2021 TCFD Report 42
+section below, while this approach is unlikely to address all  securities and real estate (where data was available), 
+instances of lagged emissions data, it increases the  representing approximately $5.7 trillion of BlackRock’s 
+likelihood that emissions and holdings are measured as of  AUM (over 65% of BlackRock’s total AUM as of December 
+the same or similar time periods. Additionally, this lag in the  31, 2020), which equates to just over 1% of global financial 
+availability of emissions data is also the reason why the  assets.16The absolute emissions estimates shown in 
+figures in Exhibit M.6 are reported as of year-end 2020 as  Exhibit M.6 that are associated with that AUM represent 
+opposed to a more recent date. just under 1% of total annual global emissions.17
+Real Estate. For directly invested, physical real estate,  These results comport with our intuition about our 
+BlackRock has long-established data programs to collate,  business given that the majority of the investments 
+measure, and report key sustainability metrics, including  BlackRock makes on behalf of its clients are held in index 
+GHG emissions, at the individual property-level and  funds. Index funds provide numerous benefits to millions of 
+aggregated portfolio-level. Operational Scope 1 and 2  people around the world by democratizing access to 
+emissions for each property were apportioned to BlackRock  diversified and professionally managed portfolios. However, 
+based on the proportionate investments in each property  index funds, by their very nature, are meant to reflect the 
+represented by BlackRock’s clients’ assets.  underlying markets in which they invest, which would 
+suggest that the magnitude of emissions from BlackRock’s 
+Results & Discussion investments on behalf of clients would be consistent with 
+global aggregate emissions across the markets in which 
+Exhibit M.6 provides preliminary estimates of absolute 
+BlackRock invests on behalf of clients. 
+emissions and carbon footprint for BlackRock’s AUM in 
+Another key finding from the analysis, which is shown in 
+corporate securities and real estate (where data was 
+Exhibit M.7, is that the companies identified in BIS’ Climate 
+available). Estimated absolute emissions were 330.7 
+Focus Universe comprised 86% of total absolute emissions 
+million tons CO e in 2020, down from 344.3 million tons 
+2
+in 2020 and 90% in 2019, despite representing 
+CO e in the prior year. The carbon footprint in 2020 was 58 
+2
+approximately 40% of the assets included in this emissions 
+tons of CO e per million dollars of AUM, down from 73 tons 
+2
+analysis and only approximately 25% of BlackRock’s total 
+per million dollars of AUM in 2019. The limitations of the 
+AUM in both years. As previously discussed, BIS’ Climate 
+estimates should be reviewed carefully (discussed in 
+Focus Universe represents over 1,000 carbon-intensive 
+following section). 
+public companies with which BIS is focusing its 
+The analysis indicates that the emissions associated with 
+engagement and voting on climate-related issues. For 
+the investments that BlackRock makes on behalf of its  companies in the Climate Focus Universe, BIS reviews their 
+clients are generally aligned with the state of global  climate action plans and disclosures –voting against 
+emissions. The scope of the analysis was corporate  management when BIS believes that accelerated progress 
+towards climate risk mitigation is necessary to drive 
+Exhibit M.6: GHG Emissions Associated with  sustainable, long-term financial returns for clients. 
+BlackRock’s Assets Under Management a
+Exhibit M.7: BlackRock 2021 Climate Focus 
+2019b 2020c Universe Proportion of Absolute Emissions
+Absolute Emissions
+344.3 330.7
+(million tCO2e)  344.3  330.7 
+s
+C(taCrOb2oen  /F $o omtipllrioinnt AUM) 73 58 missions CO2e)
+En
+Dfigatuar easb orevfel ercetp creosveenratgs eu nofa ouvdeirte 6d5, p%re olifm AiUnMar.y T ehsetirme aartee ss. eNvoetr aclo lmimpitraethioennssi ve – olute millio 90% 86%
+alismsiotacitaiotneds  sweitchti othne psreo fviigduerde so.n P lpeaagsee  4re4v.i ew results in conjunction with the  Abs(in 
+a) Includes corporate securities (listed equity, corporate bonds, associated derivatives,) and 
+physical real estate (where data was available). Excludes all other AUM. 2019 2020
+b)Holdings value analysis date is as of December 31, 2019. The emissions effective date, on  Other holdings 2021 Climate Focus Universe
+which emissions and EVIC data is reported and provisioned by third party data providers is 
+September 30, 2020. Data above represents unaudited, preliminary estimates. Not comprehensive –figures 
+reflect coverage of over 65% of AUM. There are several limitations associated with 
+c) Holdings value analysis date is as of December 31, 2020. The emissions effective date, 
+these figures. Please review results in conjunction with the limitations section provided 
+on which emissions and EVIC data is reported and provisioned by third party data 
+on page 44.
+providers is September 30, 2021
+BlackRock 2021 TCFD Report 43
+Limitations As discussed in the methodology section, BlackRock 
+leveraged MSCI data for emissions and EVICfor the 
+Given the emerging nature of methodologies and data used  corporate securities included in the analysis. In the case 
+to estimate absolute emissions and carbon footprint, there  that companies in MSCI’s dataset have not reported their 
+are significant limitations to consider as discussed below.   emissions, MSCI uses proprietary methods to estimate the 
+company’s emissions. 
+Data Quality
+Accurate computation of climate-related metrics in  To derive a PCAFData Quality Score, PCAFrecommends 
+investment portfolios requires high quality security-level  calculating an average of data scores for individual 
+data including GHG emissions data for underlying investee  securities weighted by assets invested in each security. 
+companies. Many companies are measuring and publicly  BlackRock sought to estimate a PCAFData Quality Score 
+reporting their emissions, which facilitates the type of high- for this analysis by mapping fields provided by MSCI that 
+quality data that investors need to effectively calculate  reflect the methodology used for producing emissions data 
+climate-related portfolio metrics. However, many  as well as mapping our own data on physical real estate to 
+companies have not yet begun their emissions reporting  the PCAFcategories. Based on this approach, the PCAF
+journey. Recognizing that deferring measurement and  Data Quality Score is between 2 and 3. This means that a 
+reporting until 100% reported data is available would  significant portion of the underlying data used in the 
+impede the progress BlackRock could make in the near- analysis is reported, but a portion is estimated. Increasing 
+term in providing transparency to stakeholders, estimates  regulatory and voluntary climate-related reporting by 
+are used, when necessary. However, using estimated data  companies will likely increase the availability of reported 
+reduces the reliability of the metrics since estimated  data over time, which should improve data quality. 
+emissions may not accurately reflect the actual emissions 
+Lagged Data
+of any given company. 
+ESGdata reporting by companies is often produced on a 
+The PCAF Standard recognizes that data availability is a  lag relative to financial data –as most ESG data disclosure 
+challenge for GHG emissions reporting by financial  and reporting takes place on an annual basis and requires 
+institutions and provides a methodology for computing a  significant time to produce. In addition, there may be a lag 
+Data Quality Score (ranging from “1” –highest quality to  between the time when data is disclosed by companies and 
+“5” –lowest quality). The PCAF Data Quality Score is  when it is incorporated into the dataset produced by MSCI. 
+designed to provide insight on the level of estimation  While BlackRock sought to mitigate the impact of lagged 
+involved with disclosure of financed emissions. An overview  data on the estimates by varying the holdings analysis date 
+of the PCAF Data Quality score is provided in Exhibit M.8. and the emissions effective date, emissions data included 
+in the analysis for a given holding each year may reflect 
+GHGemissions from prior year(s) for at least a subset of 
+holdings included in the analysis.
+Exhibit M.8: PCAFData Quality Scores Overview
+CERTAIN Reported  EVIC is 
+Score 1
+Emissions known
+Score 2
+Emissions 
+estimated based 
+on physical intensities
+Score 3
+Score 4 Emissions estimated 
+based on economic 
+intensities
+Score 5 EVIC is 
+not known
+UNCERTAIN
+Note that the above figure is oversimplified for illustrative purposes. Please refer to PCAF Standard for additional detail.
+BlackRock 2021 TCFD Report 44
+Backward-Looking exclusively, due to changes in EVIC from one period to the 
+While BlackRock believes that absolute emissions and  next. In other words, as financial institutions use the 
+carbon footprint are an appropriate starting point for its  metrics defined by PCAF to demonstrate progress towards 
+decarbonization of their portfolios, market volatility can 
+firm-level reporting of climate-related and portfolio 
+introduce noise that reduces comparability from one year to 
+alignment metrics, it is worth noting that these metrics are 
+backward-looking in that that they only consider past  the next. Other factors that drive changes in absolute 
+emissions of investees. They do not provide an assessment  emissions are: (i) changes to emissions of the underlying 
+investee companies, and (ii) changes to asset allocation. 
+of how those investees may evolve their businesses to 
+Sensitivity to market volatility can obscure which of these 
+reduce their emissions in the future based on transition 
+plans, emissions reduction targets, and goals. Other  factors is driving the changes in the metric year-over-year. 
+As such, the figures provided for 2019 and 2020 are not 
+metrics, such as ITR and Portfolio Coverage, are better 
+directly comparable. Users should proceed with caution 
+placed to incorporate this forward-looking component. 
+While these metrics have not been included in BlackRock’s  when drawing conclusions based on changes from one year 
+2021 TCFD reporting, they may be incorporated into future  to the next. 
+TCFD reports. 
+It is highly likely that a significant portion of the decline in 
+AUM Coverage absolute emissions and carbon footprint observed in 
+Exhibit M.6 from 2019 versus 2020 is due to changes to 
+As discussed in the methodology section, several asset 
+EVIC. A preliminary analysis of the changes in carbon 
+classes in which BlackRock makes investments on behalf of 
+footprint for major indices saw 45%-60% of the decline 
+its clients are not included in the preliminary estimates in 
+between 2019 and 2020 attributable to changes in EVIC. In 
+this TCFD report –either because insufficient data was 
+other words, it is likely that a significant portion of the 
+available or because methodologies to compute GHG 
+reduction in carbon footprint and absolute emissions 
+emissions associated with an asset class have not yet been 
+observed between 2019 and 2020 is due to changes in 
+established. Due to this, the figures provided in Exhibit M.6 
+EVIC rather than other factors that have a greater 
+represent roughly 65% of BlackRock’s 2020 AUM which 
+relationship to actions taken on the part of investee 
+excludes nearly 35% of BlackRock’s AUM from the analysis. 
+companies, BlackRock’s clients, or BlackRock’s portfolio 
+BlackRock will seek to incorporate additional asset classes 
+managers.
+into its TCFD reporting over time, which will naturally 
+increase the amount of reported absolute emissions.   BlackRock is developing a methodology to isolate the 
+sources of changes to absolute emissions and carbon 
+COVID-19
+footprint as well as to adjust the metrics to reduce the 
+Global GHG emissions were curtailed during 2020 due to 
+impact of market volatility. In addition, BlackRock is 
+the COVID-19 pandemic. According to the International 
+working with industry partners to establish industry 
+Energy Agency, global emissions dropped by nearly 2 
+consensus on how to address this limitation. BlackRock 
+billion metric tons in 2020 as a result of the pandemic.18As 
+intends to incorporate this work into future TCFD reporting.
+such, emissions incorporated into the preliminary 
+Next Steps
+estimates for 2020 may reflect anomalous reductions in 
+emissions that are unrelated to operating efficiencies and,  While the estimates included herein reflect a significant 
+therefore, may not be sustained as the world returns to  step forward in BlackRock’s journey to provide greater 
+normalcy post-COVID.  transparency to its stakeholders, the firm recognizes the 
+importance of continuing to refine this analysis –in 
+Sensitivity to Market Volatility
+particular working to improve data quality, increase data 
+The PCAF Standard has been very helpful in setting a 
+coverage, and to establish methodologies for asset classes 
+foundation for reporting absolute emissions and by default, 
+where methodologies do not exist today.  
+carbon footprint, which measures absolute emissions per 
+unit of AUM. However, as a relatively new and incomplete  In addition, BlackRock will continue to work on refinements 
+standard, the metrics defined by PCAF have limitations that  to the metrics, such as those to address the sensitivity of 
+have yet to be addressed. One of those limitations is the  both metrics to market volatility. 
+sensitivity of absolute emissions and carbon footprint to 
+With these necessary refinements and expansions in mind, 
+fluctuations in asset values –particularly, though not
+we fully expect that the metrics will be updated through 
+time.
+BlackRock 2021 TCFD Report 45
+Sustainability Characteristics for 
+Client Reporting 
+BlackRock provides publicly available data on Sustainability  Sustainability Characteristics provide investors with specific 
+Characteristics of investment products offered to clients. At  non-traditional metrics. Alongside other metrics and 
+the fund level, BlackRock publishes climate-related metrics  information, these enable investors to evaluate funds on 
+including WACI and ITR, on product websites for ETFs and  certain ESG characteristics. Sustainability Characteristics 
+mutual funds where reliable data are available.  do not provide an indication of current or future 
+performance nor do they represent the potential risk and 
+WACI measures a portfolio’s exposure to carbon intensive 
+reward profile of a fund. They are provided for transparency 
+companies by representing the estimated GHG emissions 
+and for information purposes only. Sustainability 
+per $1 million in sales across the fund’s holdings. WACI is 
+Characteristics should not be considered solely or in 
+one of the metrics recommended for client reporting in the 
+isolation, but instead are one type of information that 
+TCFD Supplemental Guidance for Asset Managers.19
+investors may wish to consider when assessing a fund. 
+Investors can use WACI as a comparable and standardized 
+metric to assess the average emissions output associated  As of December 2021, one or more climate-related metrics 
+with a specific portfolio.  are publicly available for funds totaling approximately $2.8 
+trillion in AUM.20For more information, please see 
+In December 2021, BlackRock began publishing ITR on 
+www.ishares.com.
+product websites for ETFs and index mutual funds (where 
+reliable data are available). The ITR metric incorporates both  A large portion of the assets that BlackRock manages are 
+current emissions intensity and forward-looking  held in index portfolios. These products provide numerous 
+assessments of projected emissions to produce a  benefits to our clients by democratizing access to 
+temperature indication, expressed in half-degree Celsius  diversified and professionally managed portfolios for 
+bands. ITR can help shed light on whether indexes and  millions of investors around the world. Index funds, by their 
+portfolios are progressing toward the temperature goal of  very nature, are meant to reflect the underlying markets in 
+the Paris Agreement, which calls for countries to limit global  which they invest. As such, the WACI and ITR of index funds 
+warming to well below 2°C, and ideally 1.5°C. For further  reflect the underlying markets in which those funds invest. 
+information, please see Lighting the path to a low-carbon  For illustrative purposes, Exhibit M.9 provides examples of 
+economy | iShares –BlackRock. the WACI and ITR of several representative index portfolios. 
+Exhibit M.9: Illustrative Examples of WACI and ITR for Representative Index Portfolios
+WACI  ITR
+Index Portfolio Description
+(tCO e/US $ million sales)  (degrees Celsius)
+2
+US Equities -Large Cap 134.1 2.5-3 ºC
+(99.05%) (99.03%)
+European Equities -Large/Mid Cap 128.8 2.5-3 ºC
+(99.02%) (98.58%)
+Global Equities -Large/Mid Cap 152.9 2.5-3 ºC
+(99.13%) (98.95%)
+Emerging Markets -Large/Mid Cap 331.7 >3 ºC
+(98.55%) (98.11%)
+US Equities -Large/Mid Cap Growth 32.7 2-2.5 ºC
+(98.70%) (98.65%)
+US Equities -High Dividend 238.5 2-2.5 ºC
+(98.58%) (98.54%)
+US Equities -Quality 96.8 2-2.5 ºC
+(99.74%) (99.74%)
+Numbers in parentheses represent data coverage for each representative portfolio.
+For disclosures of WACI and ITR for additional funds managed by BlackRock, please visit www.iShares.com. The WACI and ITR measures used for these portfolios are attributable to 
+MSCI. Percentage figures represent data coverage. iShares anticipates that the numbers seen here will change over time. Updates will be reflected on www.ishares.com.
+BlackRock 2021 TCFD Report 46
+Endnotes
+About this Report
+1. See the TCFD Recommendations: https://assets.bbhub.io/company/sites/60/2021/10/FINAL-2017-TCFD-Report.pdf
+2. The inclusion of information contained in this report should not be construed as a characterization regarding the materialityorfinancial impact of that information. Please 
+also see our Annual Report on Form 10-K filed on February 25, 2021 (“2020 Annual Report on Form 10-K”) and other publicly filed documents available at 
+https://ir.blackrock.com/.
+Executive Summary
+1. The dedicated sustainable investment platform includes: 1) strategies with an explicit ESG objective which may include a targeted quantifiable ESG outcome (“Broad ESG”); 2) 
+strategies that capitalize on long-term transformative industry or societal trends through pursuit of specific E, S, or G themes(“Thematic”); 3) strategies where investments are 
+made with the intention to generate positive measurable social and environmental impact alongside financial return (“Impact”)and; 4) screened strategies that incorporate 
+BlackRock’s baseline screens (“Dedicated Screened”). BlackRock’s definition of impact investments is in line with the International Finance Corporation’s Operating Principles 
+for Impact Management.
+2. Source: Larry Fink’s 2021 Letter to CEOs: https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter.
+3. A Climate Transition Benchmark is a benchmark where the underlying assets in the benchmark are selected, weighted, or excluded in such a manner that the resulting 
+benchmark portfolio is on a decarbonization trajectory. Paris-aligned Benchmark is a benchmark where the underlying assets are selected in such a manner that the resulting 
+benchmark portfolio's GHG emissions are aligned with the long-term global warming target of the Paris Climate Agreement. Definitions provided by the EU Technical Expert 
+Group on Sustainable Finance. See: https://ec.europa.eu/info/sites/default/files/business_economy_euro/events/documents/finance-events-190624-presentation-
+climate-benchmarks_en.pdf
+4. See “Temasek and BlackRock Launch Decarbonization Investment Partnership” (April 12, 2021).
+5. See “Climate risk and the transition to a low-carbon economy” (February 2021). Available at: https://www.blackrock.com/corporate/literature/publication/blk-commentary-
+climate-risk-and-energy-transition.pdf.
+6. BlackRock achieved and maintains carbon neutrality in its Scope 1, Scope 2, and select Scope 3 categories including Business Travel, Employee Commuting (company 
+provided shuttles in India only), Fuel & Energy-Related Activities (“FERA”), Upstream Leased Assets, Upstream Transportation & Distribution, and Waste.
+7. BlackRock achieved its 100% renewable electricity goal to match the same amount of renewable electricity as the electricity thatour global operations (including data 
+centers) consume annually. We contract directly for renewable electricity wherever possible (approximately 50%). Where we do nothave operational control to procure our 
+own, or where renewable electricity is not available, we purchase environmental attribute certificates as a means of achieving our 100% renewable electricity goal.
+8. BlackRock’s support for this initiative was made via grants recommended to and paid by the BlackRock Charitable Trust, a donor-advised fund.
+9. As defined by Breakthrough Energy: The Green Premium is the additional cost of choosing a clean technology over one that emits agreater amount of greenhouse gases. 
+Available at: https://www.breakthroughenergy.org/our-challenge/the-green-premium.
+10. Holdings values as of 9/30/21. Includes funds for which Implied Temperature Rise (“ITR”) was first published in December 2021.
+Governance
+1. Sustainability matters, for the purposes of this TCFD report, include: the integration of ESG factors into investment processes,sustainable investment strategies, investment 
+stewardship engagement on climate-related matters, corporate sustainability strategy and disclosures, and public policy and philanthropic activities related to climate change.
+Strategy (ESG Integration, Investment Stewardship, Investment Strategies, Aladdin)
+1. More information available at: https://www.gfanzero.com/about/GFANZ sub-sectoral net zero initiatives including: Net-Zero Banking Alliance (“NZBA”), Net Zero Asset 
+Managers Initiative (“NZAMI”), Net-Zero Asset Owner Alliance (“NZAOA”), Institutional Investor Group on Climate Change’s Paris Aligned Investment Initiative (“PAII”) and Net-
+Zero Insurance Alliance (“NZIA”). Information as of November 2021. BlackRock applauds the development of these initiatives and is participating in several of them
+2. See BlackRock Investment Stewardship’s approach to engagement on climate risk and natural capital. (February 2021). Available at: 
+https://www.blackrock.com/corporate/literature/publication/blk-commentary-climate-risk-and-energy-transition.pdfand 
+https://www.blackrock.com/corporate/literature/publication/blk-commentary-engagement-on-natural-capital.pdf.
+3. See the BlackRock Investment Stewardship special report “Our approach to sustainability,” that outlines the team’s engagement approach and voting on climate risk and other 
+sustainability topics (July 2020). Available at: https://www.blackrock.com/corporate/literature/publication/our-commitment-to-sustainability-full-report.pdf
+4. The climate focus universe was created objectively based on GHG emissions provided by MSCI, it does not reflect a BIS assessmentof the climate strategies of companies. In 
+fact, many of the companies are leaders in their sectors that have articulated climate adaptation strategies, committed to rigorous GHG reduction targets, and are creating the 
+technologies and solutions that are vital for a low-carbon transition. Others on the list, however, are at an earlier stage in their energy transition strategy 
+development/integration.
+5. Intergovernmental Panel on Climate Change (2018), “Mitigation Pathways Compatible with 1.5°C in the Context of Sustainable Development,” in An IPCC Special Report on 
+the impacts of global warming. Available at: https://www.ipcc.ch/site/assets/uploads/sites/2/2019/05/SR15_Chapter2_Low_Res.pdf
+6. BlackRock (February 2021). BlackRock’s “Launching climate-aware asset class return expectations”.
+BlackRock 2021 TCFD Report 4477
+7. The dedicated sustainable investment platform includes: 1) strategies with an explicit ESG objective which may include a targeted quantifiable ESG outcome (“Broad ESG”); 2) 
+strategies that capitalize on long-term transformative industry or societal trends through pursuit of specific E, S, or G themes(“Thematic”); 3) strategies where investments are 
+made with the intention to generate positive measurable social and environmental impact alongside financial return (“Impact”)and; 4) screened strategies that incorporate 
+BlackRock’s baseline screens (“Dedicated Screened”). BlackRock’s definition of impact investments is in line with the International Finance Corporation’s Operating Principles 
+for Impact Management.
+8. See “BlackRock Launches Two New Carbon Transition ETFs Underpinned by Proprietary Climate Analytics” (April 9, 2021). 
+9. A Climate Transition Benchmark is a benchmark where the underlying assets in the benchmark are selected, weighted, or excluded in such a manner that the resulting 
+benchmark portfolio is on a decarbonization trajectory. Paris-aligned Benchmark is a benchmark where the underlying assets are selected in such a manner that the resulting 
+benchmark portfolio's GHG emissions are aligned with the long-term global warming target of the Paris Climate Agreement. Definitions provided by the EU Technical Expert 
+Group on Sustainable Finance. See: https://ec.europa.eu/info/sites/default/files/business_economy_euro/events/documents/finance-events-190624-presentation-
+climate-benchmarks_en.pdf
+10. Equity ETF Channel, Brenton Garen. (September 24, 2020). “iShares Launcher New Suite  of ESG Screened ETFs”. 
+11. For more information, please see www.iShares.com.
+12. Note that the term “Active” is used to refer to investment strategies that seek to achieve returns that are greater than a benchmark return, as well as absolute return strategies. 
+This is terminology is meant to distinguish this subset of products from index investment strategies, which seek to track an index.
+13. The Ellen MacArthur Foundationworks to inspire a generation to re-think, re-design and build a positive future circular economy. Additional information available at: 
+https://www.ellenmacarthurfoundation.org/.
+14. As defined by EMF, a circular economy is a systems solution framework that tackles global challenges like climate change, biodiversity loss, waste, and pollution. It is based on 
+three principles, driven by design:(i)eliminate waste and pollution, (ii) circulate products and materials (at their highest value), and (iii) regenerate nature. Additional 
+information available at: https://emf.thirdlight.com/link/vj6i9k5yax0n-1fkyvu/@/preview/1?o.
+15. From BlackRock’sFundamental Equities Impact team based on analysis of company data and reports. More information available at: 
+https://www.blackrock.com/ca/institutional/en/literature/whitepaper/global-impact-annual-report.pdf.
+16. See Kazdin, J., K. Schwaiger, V.-S. Wendt, and A. Ang, 2021, Climate Alpha with Predictors also Improving Firm Efficiency, forthcoming Journal of Impact andESG Investing.
+17. LEED is the most widely used green building rating system in the world. More information available at: https://www.usgbc.org/help/what-leed.
+18. These KPIs are normalized to ensure comparable scoring, at scale, across E, S and G sectors.
+19. See “Sustainable Debt Issuance Hits $3 Trillion Threshold” (June 10, 2021). 
+20. See 2018 Green Bond Principals (most recently updated, June 2018) Available at: https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/Green-
+BondsPrinciples-June-2018-270520.pdf
+21. Data sourced from IEA, Bloomberg New Energy Finance, New Energy Outlook 2019. Refers to expected investment in renewables up to 2050. Available at: 
+https://about.bnef.com/new-energy-outlook-2019/.
+22. See more at “Decarbonization Partners” (BlackRock 2021). Available at: https://www.blackrock.com/corporate/sustainability/blackrock-temasek
+23. See “BlackRock invests $1.2bn in Credit Suisse-sponsored vehicle for solar energy” (February 2021).
+24. Waters technology, 2021. BST Awards 2021: Best buy-side risk management initiative over the last 12 months—BlackRock. Available at: 
+https://www.waterstechnology.com/awards-rankings/7894016/bst-awards-2021-best-buy-side-risk-management-initiative-over-the-last-12-months-blackrock
+25. BlackRock’s partnership with Rhodium began in April 2019. BlackRock deepened this partnership by acquiring Rhodium’s climate risk models related to the physical risks of 
+climate change in September 2021.
+Strategy (Risks, opportunities & scenario analysis)
+1. This refers to the sale of BlackRock, Inc. securities by those who hold shares of BlackRock, Inc. stock.
+2. As of December 2020, BlackRock owned an 84,500 square foot office building in Wilmington (Delaware) and a 43,000 square foot data center in Amherst (New York). 
+However, BlackRock otherwise primarily leases office space, including in New York City (New York), and throughout the world, including Atlanta (Georgia), Belgrade (Serbia), 
+Boston (Massachusetts), Budapest (Hungary), Edinburgh (UK), Mumbai (India), Gurgaon (India), Hong Kong, London (UK), Melbourne (Australia), Mexico City (Mexico), 
+Munich (Germany), Princeton (New Jersey), San Francisco (California), Seattle (Washington), Frankfurt (Germany), Santa Monica(California), Singapore (Singapore), Sydney 
+(Australia), Taipei (Taiwan) and Tokyo (Japan).
+3. See Recommendations of the Task Force on Climate-related Financial Disclosures, page 25 (June 2017). Available at: 
+https://assets.bbhub.io/company/sites/60/2020/10/FINAL-2017-TCFD-Report-11052018.pdf.
+4. Please see page 22 for an overview of Aladdin Climate.
+5. Integrated assessment models are primarily used to conduct cost-benefit analysis of emission reduction strategies at the global level (Mastrandreaet al. 2010).
+BlackRock 2021 TCFD Report 4488
+6. The Intergovernmental Panel on Climate Change (“IPCC”) defines physical risk as risk to facilities and infrastructure, impactonoperations, water and raw material availability 
+and supply chain disruptions. See more in the concept of risk in the IPCC Sixth Assessment Report: a summary of cross WorkingGroup discussions (September 2020). 
+Available at: https://www.ipcc.ch/site/assets/uploads/2021/02/Risk-guidance-FINAL_15Feb2021.pdf .
+7. The Integrated Assessment Modeling Consortium is an organization of scientific research institutions that pursues scientific understanding of issues associated with 
+integrated assessment modeling and analysis. See more at https://www.iamconsortium.org/. 
+8. IPCC, 2014. Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate 
+Change. Available at: https://www.ipcc.ch/assessment-report/ar5/.
+Strategy (Operations, Social Impact, Industry Engagement & Public Policy)
+1. BlackRock achieved and maintains carbon neutrality in its Scope 1, Scope 2, and select Scope 3 categories including Business Travel, Employee Commuting (company 
+provided shuttles in India only), Fuel & Energy-Related Activities (“FERA”), Upstream Leased Assets, Upstream Transportation & Distribution, and Waste. 
+2. BlackRock achieved its 100% renewable electricity goal to match the same amount of renewable electricity as the electricity thatBlackRock’s global operations (including 
+data centers) consume annually. BlackRock contracts directly for renewable electricity wherever possible (approximately 50%).Where BlackRock does not have operational 
+control to procure its own electricity, or where renewable electricity is not available, BlackRock purchases environmental attribute certificates as a means of achieving its 
+100% renewable electricity goal. 
+3. Note that the COVID-19 pandemic impacted our operating model, leading to declines in emissions that may not persist over time. Between 2014 and 2019, BlackRock 
+reduced Scope 1 and 2 (location-based) emissions by 22% as compared to a 32% reduction between 2014 and 2020.
+4. See Sustaining BlackRock through COVID-19. Available at: https://www.blackrock.com/corporate/literature/publication/sustaining-blk-through-covid-19.pdf.
+5. BlackRock’s most recent normal operating year. In 2019, BlackRock had a 15% expansion in square footage and a 40% increase inheadcount.
+6. Our data centers consume 75% less energy than the typical enterprise data center does for cooling and electrical support. Ourenterprise data centers operate at a PUE of 1.1 
+and 1.2; the industry average data center PUE is 1.8.
+7. Environmental attribute certificates (“EACs”), also known as renewable energy certificates (“RECs”) in the US, are tradeable instruments that represent the legal rights to the 
+environmental attributes of one megawatt-hour (“MWh”) of renewable electricity generation. EACs and RECs are issued when one MWhof electricity is generated and 
+delivered to the electricity grid from a renewable energy resource.
+8. REDD+ refers to countries' efforts to  reduce emissions from deforestation and forest degradation, and foster conservation, sustainable management of forests, and 
+enhancement of forest carbon stocks.
+9. You can read more about this announcement and the Catalyst Program on BlackRock’s Social Impact website. Available at: https://www.blackrock.com/corporate/about-
+us/social-impact/breakthrough-energy.  
+10. Echoing Green’s approach and portfolio statistics are available at https://echoinggreen.org/issues/climate-change/.
+11. See BlackRock’s response to the SFC on their Consultation Paper on the Management and Disclosure of Climate-related Risks by Fund Managers (2021) Available at: 
+https://www.blackrock.com/corporate/literature/publication/sfc-consultation-on-climate-risk-011521.pdf. BlackRock’s response to the SEC’s Request for Input on Climate 
+Change disclosure is available at: https://www.blackrock.com/corporate/literature/publication/sec-rfi-climate-change-disclosures-061121.pdf. 
+12. See “Sustainability Reporting: Convergence to Accelerate Progress” (October 2020). Available at: https://www.blackrock.com/corporate/literature/publication/blk-
+commentary-sustainability-reporting-convergence.pdf.
+13. See IFRS Consultation paper on Sustainability reporting (September 2020). Available at: https://cdn.ifrs.org/-/media/project/sustainability-reporting/consultation-paper-
+on-sustainability-reporting.pdf. See here for more information on IFRS Sustainability Reporting project. Available at: https://www.ifrs.org/projects/work-plan/sustainability-
+reporting/#current-stage. See here for BlackRock’s response to IFRS Consultation paper on Sustainability report. Available at: 
+https://www.blackrock.com/corporate/literature/publication/blk-response-to-ifrsf-on-sustainability-reporting-standards.pdf. 
+14. See “IFRS Foundation announces International Sustainability Standards Board, consolidation with CDSB and VRF, and publicationof prototype disclosure requirements” 
+(November 2021).  Available at: https:/www.ifrs.org/news-and-events/news/2021/11/ifrs-foundation-announces-issb-consolidation-with-cdsb-vrf-publication-of-
+prototypes/. 
+Metrics and Targets
+1. Please see LRQA Independent Assurance Statement Relating to BlackRock, Inc. GHG Inventory. Available at: https://www.blackrock.com/corporate/literature/continuous-
+disclosure-and-important-information/lqra-assurance-statement-2020-ghgemissions.pdfail -2020-ghgemissions.pdf.  
+2. The term “carbon footprint” in this report refers to absolute emissions financed by BlackRock’s clients’ investments divided by BlackRock’s AUM (rounded to $ millions) in 
+those securities. This aligns with the terminology used in the European Union’s Sustainable Financed Disclosure Regulation (“SFDR”). 
+3. World Resources Institute and World Business Council for Sustainable Development (2020). Technical Guidance for Calculating Scope 3 Emissions. Chapter 15, Category 
+15: Investments. See for e.g., page 141 (“Whether an organization is required to report on equity investments depends on whose capital is being invested. Asset owners are 
+investing their own capital, so they are required to report emissions from equity investments (although they may establish a threshold, as described in table 15.1).Asset 
+managers investing clients’ capital may optionally report on emissions from equity investments managed on behalf of clients (e.g., mutual funds). Emissions from these types 
+of equity investments can be calculated using the methods described in this section, however it should be noted that mutual funds and other funds managed on behalf of 
+clients are not the primary audience for the calculation methods described here and some of their specific issues have not been addressed, including the business goals 
+relevant to a fund manager and the appropriate use of inventory results.”)Available at https://ghgprotocol.org/sites/default/files/standards_supporting/Chapter15.pdf. 
+4. This is one of the reasons why BlackRock joined the Partnership for Carbon Accounting Financials (“PCAF”) in 2021 to support thedevelopment of financial industry 
+standards for reporting emissions associated with financial activities. 
+BlackRock 2021 TCFD Report 4499
+5. BlackRock primarily holds seed and co-investments in sponsored investment products that invest in a variety of asset classes. Investments generally are made for co-
+investment purposes, to establish a performance track record, or for regulatory purposes. BlackRock does not engage in proprietary trading activities that could conflict with 
+the interests of its clients. GHG emissions associated with BlackRock’s AUM are reported separately in Exhibit M.6.
+6. In-scope derivatives are derivatives with corporate issuer underlier and include equity warrants and options, convertible debt and equity, total return swaps, and credit default 
+swaps. The following derivative types are out of scope: equity index options, currency options, options on commodities and volatility index, CDX, swaps (other than CDS and 
+total return), and synthetics.
+7. The term “carbon footprint” in this report refers to absolute emissions financed by BlackRock’s clients’ investments in corporate securities and real estate divided by 
+BlackRock’s AUM (rounded to $ millions) in those investments. This aligns with the terminology used in the European Union’s Sustainable Financed Disclosure Regulation 
+(“SFDR”)..
+8. In-scope derivatives are derivatives with corporate issuer underliers and include equity warrants and options, convertible debt and equity, total return swaps, and credit default 
+swaps. The following derivative types are out of scope: equity index options, currency options, options on commodities and volatility index, CDX, swaps (other than CDS and 
+total return), and synthetics.
+9. BlackRock was represented on the TCFD’s Portfolio Alignment Team in the publication of a report titled “Measuring Portfolio Alignment: Assessing the Position of Companies 
+and Portfolios on the Path to Net Zero” which provided an assessment of the options available to measure the alignment of financial portfolios with climate goals.
+10. While absolute emissions for AUM is intellectually consistent with other emissions metrics reported at the corporate level, it is worth noting that a significant majority of the 
+investments BlackRock makes on behalf of its clients are in publicly traded equity and debt securities. Unlike emissions associated with real economy activities, the buying and 
+holding of equity or fixed income securities does not cause the release of GHG emissions into the atmosphere. In that sense, GHGemissions for AUM are decidedly different 
+than Scope 1 and 2 emissions (as well as many categories of Scope 3 emissions) reported by companies, where the metric reflects activities that directly result in the release of 
+emissions into the atmosphere.
+11. Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures in the financial services sector. 
+Although BlackRock, Inc. is not in scope of the SFDR, individual subsidiary entities of BlackRock, Inc. are subject to this regulation.
+12. About | PCAF. PCAF (2021). Available at: https://carbonaccountingfinancials.com/about. BlackRock joined PCAF in 2021.
+13. We also consulted the Corporate GHG Protocol, and the EU SFDR Regulatory Technical Standards.
+14. International Capital Markets Association (2021). The Green Bond Principles. Available at: https://www.icmagroup.org/assets/documents/Sustainable-finance/2021-
+updates/Green-Bond-Principles-June-2021-140621.pdf
+15. PCAF is consulting on methodologies for green bonds. The methodology utilized by BlackRock differs from the green bonds methodology currently being proposed by PCAF. 
+Note: green bonds reflect only 0.3% of BlackRock’s AUM as of December 31, 2020.
+16. Global financial assets totaled $431 trillion in 2020, according to Global Wealth 2021: When Clients Take the Lead, a report by Boston Consulting Group (June 2021). 
+Available at: https://web-assets.bcg.com/d4/47/64895c544486a7411b06ba4099f2/bcg-global-wealth-2021-jun-2021.pdf
+17. UN Environment Programme(2021). Emissions Gap Report. Available at: https://www.unep.org/resources/emissions-gap-report-2021
+18. IEA (2020). “After steep drop in early 2020, global carbon dioxide emissions have rebounded strongly”. Available at: https://www.iea.org/news/after-steep-drop-in-early-
+2020-global-carbon-dioxide-emissions-have-rebounded-strongly
+19. Please see TCFD Supplemental Guidance for Asset Managers on pages 38-43 of Implementing the Recommendations of the TCFD. Available at: 
+https://assets.bbhub.io/company/sites/60/2020/10/FINAL-TCFD-Annex-Amended-121517.pdf 
+20. Holdings values as of 9/30/21. ITR was first published on funds in December 2021.
+BlackRock 2021 TCFD Report 5500
+Additional Resources
+For further information on our sustainability efforts, please see:
+2020 Sustainability Commitments & Progress
+• BlackRock’s 2020 Sustainability Actions
+• 2021 Net Zero Commitments, Letter to Clients
+Investment Stewardship
+• 2022 Global Principles
+• 2021 Engagement Priorities
+• 2021 Stewardship Expectations
+• 2021 Voting Spotlight 
+• 2020 Calendar Year Annual Report
+• BlackRock Investment Stewardship 2020 Annual Report
+• BlackRock Investment Stewardship Sustainability Report
+ESG Integration
+• BlackRock's approach to integrating sustainability-related factors into portfolio 
+management
+• 2020 PRI Report
+• ESG Integration Statement
+BlackRock Investment Institute Research
+• Troubled Waters: Financial Risks of Water Scarcity
+• Getting Physical 
+• Sustainability: the bond that endures 
+• Sustainability: the future of investing
+Corporate Sustainability
+• Where We Stand: On the journey to prosperity for more and more people
+• 2020 BlackRock Annual Report
+• 2020 Sustainability Disclosure
+Disclosures
+This report contains information about BlackRock and may contain forward-looking statements within the meaning of the Private 
+Securities Litigation Reform Act. All statements, other than statements of historical facts, may be forward-looking statements, including 
+statements related to BlackRock’s climate and other sustainability-related strategies, plans, developments, targets, goals, and 
+expectations. 
+BlackRock cautions that forward-looking statements are subject to numerous assumptions, risks, and uncertainties, which change over 
+time. Forward-looking statements speak only as of the date they are made, and BlackRock assumes no duty to and does not undertake to 
+update forward-looking statements. Actual results could differ materially from those anticipated in forward-looking statements and future 
+results could differ materially from historical performance. 
+Factors that can cause results to differ, as well as additional factors that can affect forward-looking statements, are discussed in 
+BlackRock’s Annual Report on Form 10-K and Quarterly Reports on Form 10-Q, accessible on the SEC’s website at www.sec.gov and on
+BlackRock’s website at www.blackrock.com.
+The information provided herein is based in part on information from third-party sources that BlackRock believes to be reliable,but which 
+has not been independently verified by BlackRock, and BlackRock does not represent that the information is accurate or complete.The 
+inclusion of information contained in this report should not be construed as a characterization regarding the materiality or financial 
+impact of that information. 
+Important Notes: This document includes non-financial metrics that are subject to measurement uncertainties resulting from limitations 
+inherent in the nature and the methods used for determining such data. The selection of different but acceptable measurement techniques 
+can result in materially different measurements. The precision of different measurement techniques may also vary. The information set 
+forth herein is expressed as of December 2021 and BlackRock reserves the right to update its measurement techniques and methodologies 
+in the future.
+© 2021 BlackRock, Inc. All Rights Reserved. BlackRock®, iShares® and Aladdin® are trademarks of BlackRock, Inc., or its subsidiaries in the 
+United States and elsewhere.

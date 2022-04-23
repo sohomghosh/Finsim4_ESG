@@ -1,0 +1,186 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BlackRock ESG Integration 
+Statement 
+ 
+Effective Date: 27 July 2018 
+Revised: 19 May 2021 
+ 
+1 | BlackRock ESG Integration Statement 
+ 
+BSIH0621U/M-1662132-1/5 
+ 
+Introduction
+As long-term investors on behalf of our clients, accounting for environmental, social, and 
+governance (ESG) risks and opportunities helps us provide sustainable value to our clients. 
+In his 2021 letter to CEOs, Chairman and CEO Larry Fink refers to the historic investment 
+opportunity presented to our clients by the climate transition and how we are at the 
+beginning of a long but accelerating transition, in which sustainability has become a 
+critical factor in determining companies’ long-term value.  
+ 
+This document details our firm-wide commitment to integrate ESG information into our 
+investment processes, and outlines the foundation, ownership, and oversight mechanisms 
+which underpin our approach.  ESG integration is the practice of incorporating material 
+ESG information into investment decisions with the objective of improving the long-
+term  financial  outcomes of  our  clients’  portfolios, consistent  with  our  clients’ 
+objectives. We are doing this across all our active portfolios in both public and private 
+markets seeking to enhance risk-adjusted returns. In index portfolios, we engage with 
+companies on ESG issues to enhance long-term value for our clients. 
+ 
+This Statement applies to all of BlackRock’s investment divisions and investment teams 
+and is reviewed at least annually to reflect changes within our business. Given the breadth 
+of  our investment platform, this  statement is  written to  cover  the full spectrum of 
+investment styles and asset classes at BlackRock.  To supplement this Statement, each 
+investment team has its own ESG integration approach. Tailored descriptions of team 
+practices are available upon request.  
+ 
+As a large asset manager, we recognize our responsibility to contribute to a resilient 
+financial market  system. We aspire to be an industry leader in how we incorporate 
+sustainability into our investment research and management, our stewardship of clients’ 
+assets, our sustainable investment solutions, and the operations of our own business. 
+More  detailed  information  about  these  efforts  is  included  in  our  approach  to 
+sustainability on blackrock.com. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 | BlackRock ESG Integration Statement 
+ 
+BSIH0621U/M-1662132-2/5 
+         
+ 
+BlackRock’s approach to ESG integration 
+ 
+At BlackRock, we have always focused on helping our clients try to reach their long-term investment goals 
+by providing resilient and well-constructed portfolios. Our investment conviction is that sustainability- 
+and climate-integrated portfolios can provide better risk-adjusted returns to investors over the long-term, 
+and that sustainability-related data provides an increasingly important set of tools to identify unpriced 
+risks and opportunities within portfolios. BlackRock’s active investors are responsible for integrating 
+material sustainability-related insights, consistent with their existing investment process,  with the 
+objective of improving long-term risk-adjusted returns. BlackRock’s firm-wide investment process is 
+structured to identify ESG risks and opportunities alongside traditional measures within our active 
+investment processes.  
+ 
+ESG integration is part of  both our active investment process and index investment processes and 
+oversight. BlackRock has a consistent framework for ESG integration that also permits a diversity of 
+approaches across different investment teams and strategies. ESG considerations that are material will 
+vary by client objectives, investment style, sector, and market trends. Sustainability measures help inform 
+the due diligence, portfolio construction, and monitoring processes of our  active and alternatives 
+platforms, as well as our approach to risk management. In our index investments business, we work with 
+index providers to  expand and improve the universe of  sustainable indexes, and our  investment 
+stewardship processes encourage the companies in which our clients are invested to manage and 
+disclose material sustainability risks effectively.  
+ 
+We structure our ESG integration efforts around three main themes: investment processes, material 
+insights, and transparency: these pillars drive ESG integration at BlackRock, and we support them by 
+equipping our employees with useful ESG data, tools, and education.
+Investment processes
+ESG integration is a  core part of the investment  process, ii) portfolio managers are accountable for 
+process, and as with all other components of the  managing exposure to material ESG risks, and iii) 
+investment process, is  the  responsibility  of  our  investment teams are able to provide evidence of how 
+investment teams. In 2020, BlackRock raised the bar  ESG considerations inform investment decisions in 
+for how investment teams will accomplish this. All  each  portfolio. BlackRock’s Risk and  Quantitative 
+active funds and advisory strategies are expected to  Analysis team  (RQA) reviews ESG risk  alongside 
+fully integrate ESG, meaning that: i) each strategy has  traditional investment  risks with  the  investment 
+a  description of how ESG fits into its investment  teams in regular portfolio reviews.
+Material insights
+For our public market strategies, we are continuously  investors’ understanding of material ESG risks. For 
+expanding access to high quality ESG data sources  example, our Carbon Beta tool allows us to stress test 
+through Aladdin, our  core risk management and  equity issuers and  portfolios for different carbon 
+investment technology platform. Today, BlackRock’s  pricing scenarios. Our proprietary materiality-based 
+investors have access to two broad third party data  ESG assessment capability leverages a  research-
+sets across core Aladdin tools and over 10 unique  based  quantitative/qualitative  methodology  to 
+ESG data  providers across different parts of  our  provide  a  backward-  and  forward-looking 
+research environment. This data ranges from broad  assessment  of  material  ESG  key  performance 
+ESG scores and rankings to indicators of physical  indicators. We built these for Aladdin, to allow all 
+climate risk, reputational risk or employee sentiment.  portfolio managers at BlackRock to use in their ESG 
+investment analyses. 
+In addition to third party data, we have developed 
+proprietary  measurement  tools  to  deepen  our 
+3 | BlackRock ESG Integration Statement 
+ 
+ 
+BSIH0621U/M-1662132-3/5 
+         
+For our private market strategies, we continue to  the combined experience of our investment teams to 
+develop and  evolve proprietary tools to underpin  efficiently  and  effectively  identify  investment 
+investment team ESG due diligence so that they  opportunities and  investment risks. We  use  our 
+remain robust.  These tools are tailored by asset class  history as a firm founded on the principle of thorough 
+and by industry.  and thoughtful risk management and our Aladdin 
+platform  to  achieve  an  integrated  ESG  risk 
+The goal of our ESG integration process is to make  management system.  
+our investors the most informed investors in the 
+industry.  We leverage material ESG data as well as 
+Transparency  
+Investors  at  BlackRock  believe  well-managed  With  respect  to  transparency  in  all  BlackRock 
+companies balance business-relevant ESG issues  products, we want investors to be able to access clear 
+alongside traditional financial objectives. Consistent  information on the  sustainability risks associated 
+with this expectation, we strive to provide market- with their investments. For example, we provide data 
+leading transparency for how we incorporate ESG in  on our website for all iShares funds, displaying ESG 
+our investment products.   scores  and  carbon  footprints,  among  other 
+measurements, where available. In 2021  we have 
+We  disclose  ESG  integration  practices  in  fund  extended this practice to BlackRock mutual funds, 
+documentation  and disclose our firm’s approach to  including  adding  disclosures  on  exposure  to 
+ESG  integration  through  comparable  industry  sustainability characteristics.  We  will  make  this 
+relevant reporting frameworks, such as the Principles  information available to all our clients in order to help 
+for  Responsible  Investment  (PRI).  For  greatest  investors choose the best investment option for their 
+transparency, these reports are publicly available on  portfolio.
+our website.  
+Oversight and governance 
+ 
+The Investment Sub-Committee of BlackRock’s Global Executive Committee (GEC) oversees investment 
+process consistency across the firm’s investment groups. Members of the Sub-Committee include the 
+global heads or sponsors of all of BlackRock’s major investment verticals: ETFs and Index Investments, 
+Active Equities, Multi-Asset Strategies, Global Fixed Income, BlackRock Alternative Investors, Trading & 
+Liquidity Strategies (Cash Management), and Client Portfolio Solutions.  
+ 
+In partnership with the GEC Investment Sub-Committee, the Sustainable Investing Team sets standards 
+and procedures to drive a consistent approach across the firm. The Sustainable Investing Team, in 
+partnership with investment platform leadership, coordinates the firm-wide approach to incorporating 
+ESG into all investment processes, developing the firm’s sustainable investment procedures, and seeking 
+to ensure consistency and quality in the firm’s sustainable investment products and solutions. BlackRock 
+Sustainable Investing reports on ESG integration progress to the GEC Investment Sub-Committee at least 
+annually. 
+  
+Investment platform leadership, including heads of  sustainable and  responsible  investing within 
+BlackRock’s seven investment divisions, oversees ESG integration into the investment processes for each 
+business, including determining appropriate methodologies for underlying investment teams. RQA is 
+responsible for developing a framework for evaluating investment, counterparty, and operational risk and 
+conducts regular reviews with portfolio managers using that framework to ensure that ESG risks are 
+considered relative to the potential investment and expected rewards. 
+ 
+4 | BlackRock ESG Integration Statement 
+ 
+ 
+BSIH0621U/M-1662132-4/5 
+ 
+BlackRock Sustainable Investing, RQA, the BlackRock Investment Stewardship team, and individuals 
+across BlackRock’s technology and analytics platform work together to advance ESG research and tools 
+to support ESG integration efforts.
+ 
+Further information 
+•  BlackRock Investment Institute, April 2019. “Getting physical: Scenario analysis for assessing climate-related risks.” 
+https://www.blackrock.com/us/individual/literature/whitepaper/bii-physical-climate-risks-april-2019.pdf 
+•  BlackRock Investment Institute, May 2018. “Sustainable investing: a ‘why not’ moment.”  
+https://www.blackrock.com/corporate/literature/whitepaper/bii-sustainable-investing-may-2018-
+international.pdf 
+•  BlackRock Global Executive Committee, January 2021. “Net zero: a fiduciary approach (2021 Client Letter).” 
+https://www.blackrock.com/corporate/investor-relations/blackrock-client-letter   
+5 | BlackRock ESG Integration Statement 
+ 
+BSIH0621U/M-1662132-5/5 

@@ -1,0 +1,2171 @@
+
+Sustainable Investing
+E SG
+2020 ANNUAL REPORT  
+Environment, Social, and Governance (ESG) Annual Report.  
+Issued May 2021.
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Embedding ESG and sustainability 
+principles throughout our investment 
+process, as well as our business 
+more broadly, is central to achieving 
+T. Rowe Price’s core aim of being 
+admirable stewards of client and 
+stockholder capital. Indeed, the 
+desire to act responsibly and bring 
+about change should drive every 
+organization, just as it does ours.
+Bill Stromberg,   
+CEO, T. Rowe Price
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+03  Foreword
+04  2020 in Review  
+  Responsible Investing
+  Governance 
+06  Our ESG Investing Approach
+  ESG Integration
+  Aligning to Global ESG Frameworks
+  Principles for Responsible Investment
+  ESG Accountability
+1  4  ESG Integration in Action 
+  ESG Integration in Action—Research Examples
+  ESG Integration in Action—Portfolio Management  
+24  Focus Themes 
+  Why 2021 Could Be an Epic Year for Climate Regulation 
+  Evaluating ESG-Labeled Bonds 
+  Diversity, Equity, and Inclusion in the Spotlight 
+  ESG and Public Policy—Navigating Interlinked Crises
+32  Corporate Engagement 
+  2020 Engagement Activity
+  A Step-Change in Corporate Attitudes to Disclosure
+36  Proxy Voting 
+  2020 Proxy Voting Activity 
+  Shareholder Proposals in Focus
+40  Collaborations 
+  Collaborative Engagement and Industry Leadership  
+42  Resources 
+  ESG Team 
+  ESG Committee
+   
+| 01
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+OUR ESG 
+JOURNEY
+2021 Impact Strategy 
+T. Rowe Price launches its first 
+impact strategy
+United Nations Global Compact 
+T. Rowe Price becomes a signatory
+RIIM Municipal Bonds   2020
+RIIM Securitized Bonds 
+Rollout of proprietary ESG rating 
+system for municipal bonds and 
+securitized bonds
+Socially Responsible Strategies 
+2019 RIIM Sovereigns
+The firm launches its first socially 
+The firm rolls out proprietary 
+responsible strategies in Europe
+ESG rating system for sovereigns
+ESG Reporting
+Implemented portfolio level  
+ESG reporting
+2018 RIIM Corporates
+TCFD Sponsor Proprietary ESG rating system 
+Commenced sponsorship of the  for equity and credit rolled out
+Task Force on Climate-related 
+Financial Disclosures
+2017 Responsible Investing
+Established in-house responsible 
+investing research capabilities 
+(environmental and social)
+Sustainalytics 2014
+Sustainalytics ESG ratings  
+are embedded in company  
+note templates 
+2013 “E” and “S” Research
+Sustainalytics appointed as 
+specialized ESG data and 
+research provider
+CSR Report 2012
+First Corporate Social 
+Responsibility Report issued
+2010 PRI1
+T. Rowe Price becomes 
+signatory to the Principles  
+for Responsible Investment
+Corporate Responsibility 2008
+Investment policy on corporate 
+responsibility established
+2007 Governance
+Established in-house governance 
+research capabilities
+RIIM = Responsible Investing Indicator Model
+1 Principles for Responsible Investment. The PRI is an 
+independent investor initiative supported by, but not 
+   
+part of, the United Nations. | 02
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Foreword
+The year 2020 was another dynamic one on the environmental, social, and governance 
+(ESG) front for T. Rowe Price. Continued expansion of our ESG investment 
+capabilities and a focus on improving ESG data integrity were principal objectives.
+We expanded the teams dedicated to ESG analysis and the technology team that 
+supports them. These investments support the entire research platform, allowing 
+our portfolio managers and analysts to more easily integrate ESG factors to enhance 
+investment decisions. They also facilitated the launch of new products that carry 
+ESG objectives—in January 2020, we launched our socially responsible product 
+range for European clients, which excludes certain types of investments, and we 
+launched our first impact strategy in March 2021.
+ROB SHARPS
+Head of Investments and 
+The rapid rise in the adoption of ESG—to try to enhance performance, pursue 
+Group Chief Investment 
+sustainable objectives, or both—has added to confusion in the industry on a number  Officer
+of fronts. It has contributed to greenwashing, or misleading communications, by 
+some corporates in their ESG disclosures and by some asset managers in their 
+product offerings. To help address this, T. Rowe Price is an active participant in 
+efforts with regulators around the world to help develop useful ESG disclosure 
+guidance for the industry. We are also committed to providing clarity on our own 
+strategies’ investment objectives and their ESG characteristics.
+In 2020, regulators stepped in to help fill the ESG disclosure void in the industry. We 
+welcome more comprehensive and clearer ESG regulation; however, we are concerned 
+about a lack of global alignment. If each country takes a unique approach to ESG 
+regulation, ESG disclosure requirements for asset managers can become misaligned 
+with those required of the underlying securities in their portfolios. Uneven disclosure 
+levels can ultimately distort the picture of a portfolio’s ESG characteristics for clients.
+As the industry has moved faster than disclosure regulations, companies have 
+struggled with what and how to disclose. Our message to investee companies is clear:
+§ Report annually on ESG factors that have the most material impacts on the health 
+of the business; ideally report alongside financial data, explaining the impacts.
+§ For reporting standards, use the Sustainability Accounting Standards Board (SASB)  
+and Task Force on Climate-related Financial Disclosures (TCFD).
+§ Report data on diversity of the employee population and greenhouse gas 
+emissions (including material scope 3 emissions).
+Inadequate ESG disclosure does not automatically disqualify a company from  
+our investment universe, but it makes it difficult to assess how they are positioned  
+to handle environmental and social pressures—which are more financially material  
+as the world grapples with the challenges of climate change and inequality.  
+We remain committed to working with our investee companies to improve the 
+quality and quantity of ESG data for our research and analysis, helping to pursue 
+better long-term investment decision-making for our clients.
+   
+| 03
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+2020 IN REVIEW
+Responsible Investing
+Last year, I wrote my annual report letter working from home, practicing social 
+distancing—a year later, I am sitting in the same place, but the global ESG 
+landscape feels radically different. The coronavirus pandemic has been a high-impact 
+event that has compelled world leaders and society in general to understand how 
+intertwined economic outcomes are with the prosperity of the planet and the 
+people on it. In many areas, the pandemic has served to accelerate existing 
+environmental and social trends. It has moved consumers online at a rapid pace, 
+forced companies to reexamine their supply chains, prompted government  
+stimulus programs in green infrastructure, and exposed the depth of social inequality  
+in the world today. 
+MARIA ELENA DREW
+ESG investing has had a remarkable rise over the past decade. Its critics have often  
+Director of Research, 
+placed it at odds with financial objectives, so it is interesting that the onset of one   Responsible Investing
+of the most economically disruptive events in recent history has acted as a new  
+catalyst for considering environmental, social and governance factors in the 
+investment process.
+While ESG investing has been around for a long time, the datasets that underpin it 
+remain relatively nascent. We have seen a dramatic improvement in ESG disclosure 
+levels from corporations (albeit from low levels), but the investment industry is 
+introducing new analytical tools and product offerings at a quick pace. Disclosure 
+standards need to keep up. A deficit of good ESG data has meant that our 
+engagement program has featured a substantial focus on pushing companies to 
+improve their disclosure. Thankfully, the tone of these engagements changed in 
+2020; we discuss this further on page 34 of this report. 
+The confusion corporations have around ESG disclosure is slowing the pace  The pandemic 
+of improvements in this area. It also hampers the ability to advance onto next- 
+has compelled 
+generation analytical tools such as those that measure the implied temperature rise  
+world leaders and 
+of portfolios (due to the activities of underlying holdings) or climate scenario analysis.  
+society in general 
+In 2020, we made further progress on improving our ESG research platform. We 
+to understand 
+created frameworks within our proprietary Responsible Investing Indicator Model 
+(RIIM) that cover municipal and securitized bond issuers. These complement our  how intertwined 
+existing RIIM frameworks for corporate and sovereign issuers. Additionally, we  economic outcomes 
+developed an impact investment framework, which supports our first impact strategy 
+are with the 
+launched in March 2021, and created a framework for analyzing green, social, and 
+prosperity of the 
+sustainability-linked bonds. Lastly, we continued to bolster the number of investment 
+professionals and technology resources dedicated to ESG.  planet.
+As we progress into 2021, we believe these enhancements can help our investment 
+professionals address the ESG risks and opportunities in their portfolios that the 
+pandemic has propelled into the spotlight more than ever before.
+   
+| 04
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Governance
+One year ago, as we were composing our 2019 ESG Annual Report, we were in the 
+midst of global market upheaval caused by the coronavirus pandemic. At that time, 
+we predicted:  
+Companies’ previous statements about their management of human capital,  
+health and safety, community involvement, and the overall importance of 
+stakeholders to their businesses will be assessed in a whole new context  
+by investors and other stakeholders, and we predict these topics will quickly 
+become central to the engagement that takes place between investors  
+and corporations. 
+Looking back now, it is precisely these themes that emerged as some of the most  DONNA ANDERSON
+Head of Corporate 
+significant in our portfolios, albeit with one very important addition: diversity, equity, 
+Governance
+and inclusion (DEI).  
+Our long-standing focus on DEI was amplified following the global wave of 
+protests and activism against systemic racial inequality. For many companies in our 
+portfolios, it was a moment when diversity and inclusion suddenly rose to the top 
+of managements’ priority lists due to a strong mandate from their employees to 
+accelerate the pace of progress. Other companies already had strong DEI programs 
+in place, but felt it was important to focus externally at that moment and address 
+Our long-standing 
+economic inequality in their communities. We observed a continuum of corporate 
+focus on DEI was 
+responses to the social outcry, and a deeper discussion of these is included in this 
+report on page 28.  amplified following 
+the global wave  
+Resilience was the core concept underlying most of our engagement discussions  
+in 2020. The global pandemic affected all companies, but in very different ways.   of protests and 
+For some, it had a devastating effect on their revenues for that fiscal year and beyond.  
+activism against 
+Others discovered their business models were highly adaptable to the challenges 
+systemic racial 
+before them. A select few even found that their businesses benefited from the 
+sudden upheaval, such as companies that facilitate remote working, learning, or  inequality.
+shopping. Most companies, however, found themselves somewhere in between—
+struggling during the transition in the second quarter of last year, but showing 
+remarkable recoveries as the second half of 2020 wore on.  
+As investment professionals, we found ourselves consistently impressed by the 
+flexibility and resourcefulness displayed by many companies over the past year, 
+their concern for the welfare of their employees, and their resolve to balance the 
+interests of multiple stakeholders—executives, employees, investors, customers,  
+and communities— during both the crisis and recovery periods. This intense, and 
+insight-rich, period of engagement was our team’s top priority in 2020.
+   
+| 05
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+OUR ESG INVESTING APPROACH
+ESG Integration
+Environmental, social, and governance (ESG) analysis is one of many building blocks  
+that make up our global investment research platform. We have invested in people  
+and technology to develop a comprehensive, systematic, and proactive process for  
+evaluating and integrating ESG factors across a range of asset classes. Our ESG  
+integration philosophy is based on the following principles: 
+INTEGRATION COLLABORATION MATERIALITY
+            
+We have embedded environmental,  To support our investment  We focus on the ESG factors we 
+social, and governance analysis into  professionals’ capacity to  consider most likely to have a 
+the investment process, meaning   incorporate ESG factors into  material impact on the performance 
+the responsibility for integrating ESG  their decision-making, we have  of the investments in our clients’ 
+factors into investment decisions  ESG and public policy research  portfolios.
+lies with our analysts and portfolio  specialists within our investment 
+managers. teams. These specialists create 
+and maintain proprietary ESG tools 
+as well as provide security-specific 
+and thematic research. Our ESG 
+specialists also work closely with 
+our analysts and portfolio managers 
+to delve into situations where ESG 
+issues are particularly significant.
+ESG Specialist Teams A Proprietary Model for ESG Analysis
+We have a team of 17 investment professionals1  Environmental, social, and governance factors are  
+dedicated to environmental, social, and governance  not as straightforward to integrate into the investment 
+research who support our analysts and portfolio  process as financial data, given their often qualitative 
+managers. These ESG specialists are spread across  nature. Environmental and social data present an 
+three teams—governance, regulatory research, and  additional challenge due to the under-developed 
+responsible investing (RI). Together, they help our  nature of the dataset. 
+analysts and portfolio managers identify, analyze,  
+In order to address these issues, we have developed 
+and integrate the ESG factors most likely to have  
+our own proprietary framework to help our portfolio 
+a material impact on an investment’s performance.
+managers and analysts more easily integrate ESG 
+Our ESG specialist teams are further supported by an  factors into their investment process. The framework 
+operations team focused on proxy voting execution and  has been built so that it can easily evolve to incorporate 
+a technology team focused on ESG data integration.     improvements in ESG datasets.
+1 As of April 30, 2021
+   
+| 06
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Our framework is called the Responsible Investing  We have developed RIIM frameworks across asset 
+Indicator Model (RIIM). It offers two key advantages   classes covering equities and corporate bonds, 
+in that it: sovereign bonds, municipal bonds, and securitized 
+bonds. 
+1. Proactively searches large universes of ESG data 
+and presents an easy-to-digest profile of a specific  The RIIM frameworks are unique for each asset class 
+security, portfolio, or benchmark; and as the level and type of data available vary across asset 
+classes.
+2. Gives us a systematic framework for measuring  
+and comparing the ESG characteristics of individual 
+securities as well as portfolios.
+ESG Factors—Part of the Investment Mosaic
+Corporations are a part of the fabric of society—what impacts society 
+impacts corporations. Identifying how a company or issuer is  
+positioned to navigate speciﬁc ESG issues will often help inform
+Sovereign 
+their prospects for future success.
+Credit Rating 
+Stakeholder
+Risk
+Relations  
+Income 
+Macro Duration Innovation Governance
+Inequality
+Management  Product 
+Credit Spread Geopolitics Social Diversity
+Quality Sustainability
+Exposure 
+Employee 
+to Energy  Environment
+Safety 
+Transition
+Carbon  
+Footprint
+For illustrative
+purposes only.
+   
+| 07
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+RIIM Analysis Across Asset Classes
+For equities, corporate bonds and sovereign bonds,  fundamental analysis on a narrower universe of 
+we leverage ESG datasets and feed those directly  securities. The output of our quantitative analysis is also 
+into our RIIM framework. This allows us to generate  instrumental in informing our engagement program.
+a quantitative RIIM profile for approximately 15,000 
+The ESG data universe for municipal and securitized 
+companies and approximately 200 sovereign issuers.1
+issuers is developing, but datasets are not yet identified 
+This quantitative set of scores is an important starting  that reliably integrate directly into our investment 
+point in our ESG evaluation process as it helps us   process. Instead, we use third-party ESG research 
+quickly identify any outliers, both positive and negative.   alongside our own fundamental research to develop  
+It creates a baseline of understanding of our investment  a RIIM profile for each issuer.
+universe from which we delve deeper using 
+1 2 3
+IDENTIFICATION ANALYSIS INTEGRATION
+RIIM creates a  Securities flagged in our  Analysts and portfolio 
+Responsible Investing (RI)  RIIM and governance  managers incorporate 
+Equities and  
+profile for approximately  analysis are subject to  ESG factors (as 
+Corporate Bonds 
+15,000 companies using  further review, including  appropriate to their 
+third-party ESG datasets,  engagement and, for  strategy) into:
+company reported data  equities, proxy voting 
+and datasets created  recommendations. § Investment theses
+internally.
+§ Company ratings
+§ Price targets
+RIIM creates an ESG 
+profile for approximately  § Credit ratings
+200 sovereign 
+issuers, leveraging  § Engagements
+Sovereign Bonds
+datasets created by 
+§ Position sizing
+non-governmental 
+organizations (NGOs)  § Proxy voting decisions
+and third-parties as well 
+as datasets created 
+internally. 
+Our municipal bond analysts create an ESG rating for 
+issuers by evaluating specific criteria for individual 
+Municipal Bonds issuers. To establish RIIM ratings, the analysts conduct 
+research in-house.
+Environmental and social analysis leverages geospatial 
+research tools.
+Our securitized bond analysts create an ESG rating for 
+issuers by evaluating specific criteria for individual issuers. 
+Securitized Bonds To establish RIIM ratings, the analysts conduct research 
+in-house leveraging external data sources, as well as 
+their own direct research.
+Where there is overlap on issuers, the analysts can 
+leverage RIIM scores from other asset classes.
+1 As of April 30, 2021
+   
+| 08
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Amazon —Illustrative Timeline  
+of ESG Integration
+FEBRUARY 2020
+Responsible Investing team analysis
+Our research provides a quantitative analysis of the firm across environmental, social, and 
+ethical categories. It helps identify distinct areas, including any elevated risks, for further 
+research and company engagement. 
+MAY 2020
+Engagement focused on employee treatment and safety
+As with many of our engagements over the year, the coronavirus pandemic amplified the 
+focus on employee treatment and safety issues. The engagement was conducted by an 
+equity analyst and attended by portfolio managers.
+SEPTEMBER 2020
+Engagement on environment and employee treatment and safety
+Amazon announced a very ambitious net zero carbon emissions target for 2040 (10 years 
+ahead of the Paris Agreement guidance). However, limited environmental disclosure 
+made it difficult to credit the firm for its targets or to monitor the management of its 
+environmental impact. We requested more data on:
+§  Breakdown of greenhouse gas emissions by business
+§  Path to net zero 2040
+§  Environmental product sustainability (i.e. efficiency of their platform versus traditional retail)
+On social issues, we asked Amazon to explain how it assesses its performance relating to 
+employee treatment. It pointed to several measures:
+§  Employee satisfaction surveys
+§ Third party hotlines where employees can report issues
+§ ‘Voice of the associate’ boards for employees to post questions anonymously to 
+management
+WHAT’S NEXT
+Ongoing research, engagement, and analysis
+We view regulatory risks around anti-trust, employee treatment and use of gig-economy 
+workers as key issues. We continue to monitor the company’s performance on employee 
+treatment and safety and plan further engagement on the topic. Our insights inform our 
+Responsible Investing Indicator Model and the ongoing analysis and decision making of 
+our investment teams.
+The security identified and described is intended to illustrate the ESG security evaluation process 
+of T. Rowe Price investment professionals and does not necessarily represent securities purchased or 
+sold by T. Rowe Price. No assumptions should be made that the security analyzed, or other securities 
+analyzed, purchased or sold, was or will be profitable. This is not a recommendation to buy or sell any 
+security. The views and opinions above as of April 2021 and are subject to change.
+   
+| 09
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Aligning to Global ESG Frameworks
+United Nations Sustainable  United Nations Global Compact
+Development Goals 
+T. Rowe Price is a signatory to the United Nations 
+The UN Sustainable Development Goals (SDGs) are  Global Compact (UNGC). Established in 1999, the 
+a blueprint for a more sustainable world. Signatory  UNGC has 10 principles built around human rights, 
+countries are expected to establish a national  labor standards, the environment, and anticorruption. 
+framework for achieving each of the 17 SDGs.  In addition to capturing whether companies are 
+signatories to the UNGC, RIIM measures UNGC 
+While the SDGs are a tool to allow countries to  values at multiple levels:  
+implement sustainability regulations, they are also 
+commonly adopted as a framework for identifying  § Human Rights and Labor Standards: Management 
+ESG-related pressure points that can impact  of human capital is assessed through supply chain 
+corporate and other securities. Indeed, the goals  analysis for human rights violations, as well as an 
+are represented across the range of factors that we  evaluation of employee treatment that looks at labor-
+analyze within RIIM.  related incidents, accident rates, and other factors.  
+§ Environment: This is assessed via energy use  
+Companies are likely to face greater scrutiny in relation 
+and emissions, water and waste outputs and targets, 
+to the sustainability objectives of the SDGs over time.  
+sustainable sourcing of raw materials, and end-
+This could include greater regulatory burdens, taxation, 
+product sustainability and impact on the environment. 
+litigation, and/or consumer dissatisfaction. Conversely, 
+companies that provide solutions are likely to have much   § Anticorruption: Programs in place and company 
+more sustainable business models. It makes sense   track records are evaluated within the model’s 
+therefore that our RIIM analysis is aligned with the SDGs.  ethics analysis. 
+Sustainability Accounting Standards 
+Board (SASB)
+T. Rowe Price is a member of the SASB Alliance.  
+We advocate for our investee companies to utilize  
+the reporting framework. 
+Task Force on Climate-related 
+Financial Disclosures (TCFD)
+T. Rowe Price is a supporter of the TCFD. We 
+advocate for our investee companies to utilize  
+the reporting framework.
+ 
+Source: United Nations
+The trademarks shown are the property of their respective owners.
+   
+| 10
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Principles for Responsible 
+Investment 
+T. Rowe Price has been a signatory of the Principles of  The PRI Scorecard below provides an overview of 
+Responsible Investment (PRI) since 2010, and we report  our aggregate score for each module assessed and 
+to the PRI annually. We support the PRI framework as   the median score. These bands range from A+ (top 
+an effective means of encouraging better dialogue  band) to E (lowest band). The PRI Assessment scoring 
+among investors and better disclosure from companies  methodology is available at unpri.org. 
+globally about these important issues. 
+Under the PRI’s transparency requirements, all 
+signatories complete an annual self-assessment. 
+T. Rowe Price PRI Scorecard 2020
+As of July 2020 
+DIRECT AND ACTIVE OWNERSHIP MODULES
+A+ A+ A+ A+ A+ A+ A+
+A A
+B B B B B
+AUM1 >50% >50% <10% <10% <10% <10%
+01 10 11 12 13 14 15
+MODULE Strategy and  Listed Equity– Listed Equity– Fixed Income– Fixed Income– Fixed Income– Fixed Income–
+NAME Governance Incorporation Active  SSA Corporate Corporate Securitized
+Ownership Financial Nonfinancial
+T. Rowe Price Score Peer Median Score
+For illustrative purposes only. 
+Under the PRI’s transparency requirements, all signatories complete an annual self-assessment. The PRI Summary Scorecard provides an 
+overview of our aggregate score for each module assessed and the median score. These bands range from A+ (top band) to E (lowest 
+band). The PRI Assessment scoring methodology is available at unpri.org.
+SSA-Sovereign, Supranational and Agency
+Source: PRI Assessment Report 2020, showing the applicable T. Rowe Price scores. 
+1 Asset classes were aggregated to 4 ranges: 0%; <10%; 10%–50%, and >50%. 
+   
+| 11
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+ESG Accountability
+Accountability for ESG Starts at the Top
+T. Rowe Price Funds/Trusts (cid:31)
+ESG Committee 
+ESG Specialists 
+T. Rowe Price Group Board of Directors/ provides a report 
+report to the Board(cid:31)
+on proxy voting, 
+of Directors on an  Board of Directors Management Companies/ 
+exclusion policies 
+annual basis.
+Investment Advisers and procedures.
+ESG 
+Specialist 
+teams Management Committee
+report into 
+members  Oversees T. Rowe Price corporate (cid:31)
+of the  strategy and implementation
+Management 
+Committee. 
+Investment Steering Committees
+U.S. Equity, International Equity, Fixed Income, Multi-Asset
+Oversee investment activity, including T. Rowe Price investment 
+products and strategies and implementation of ESG integration 
+across the investment platform 
+ESG Committee
+Oversees ESG integration activities including framework of ESG policies, 
+proxy voting, and exclusion lists 
+Investment Platform
+ESG Specialists  Investment Analysts  Portfolio Managers 
+support analysts and  are accountable for  are accountable for 
+portfolio managers in  integrating ESG factors  integrating ESG factors 
+the integration of ESG  into their research  into portfolio holdings 
+factors process, investment  and proxy voting as 
+thesis, ratings, targets,  appropriate to their 
+and engagements mandate
+   
+| 12
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Last year, our Board took steps to heighten 
+our focus on the company’s environmental, 
+social, and governance matters. As such 
+issues have become increasingly important  
+to T. Rowe Price’s business, we determined 
+the time was right to formalize Board oversight 
+of ESG. In 2020, we amended the Nominating 
+and Corporate Governance Committee’s 
+charter to include oversight of these issues  
+and their impact on our employees, stock-
+holders, citizens, and communities.
+Olympia Snowe  
+Chair, Nominating and Corporate 
+Governance Committee
+T. ROWE PRICE GROUP BOARD OF DIRECTORS
+BACK ROW FRONT ROW
+Robert F. MacLellan  William J. Stromberg 
+Non-Executive Chair, Northleaf  Chair and Chief Executive 
+Capital Partners Officer, T. Rowe Price  
+Group, Inc.
+Dr. Freeman A. Hrabowski III 
+President, University of  Olympia J. Snowe 
+Maryland, Baltimore County Chair and Chief Executive 
+Officer, Olympia Snowe, LLC
+Dina Dublon 
+Retired Executive Vice  Mark S. Bartlett 
+President and Chief Financial  Retired Managing Partner, 
+Officer, JPMorgan Chase & Co. Ernst & Young
+Robert J. Stevens  Sandra S. Wijnberg 
+Retired Chairman, President,  Former Partner and Chief 
+and Chief Executive Officer,  Administrative Officer,  
+Lockheed Martin Corporation Aquiline Holdings LLC
+Mary K. Bush  Richard R. Verma  
+Chairman, Bush International,  Executive Vice President, 
+LLC Global Public Policy  
+and Regulatory Affairs, 
+Alan D. Wilson  Mastercard Inc.
+Retired Executive Chairman,  
+McCormick & Company, Inc. 
+   
+| 13
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+ESG INTEGRATION IN ACTION —RESEARCH EXAMPLES
+Samsung Electronics
+Clear progress across a range of environmental, social, and ethics issues. 
+Technology sector equity analyst Alison Yip explains how Samsung’s 
+commitment to best practices across the ESG spectrum was a feature 
+in her investment analysis. 
+Company Profile 
+Samsung is one of the market leaders in the production of key components along  
+the technology food chain, including memory, LCD panels, and logical semiconductors. 
+The company is also a world leading seller of flat-screen TVs and the second-largest 
+mobile handset company.
+ALISON YIP  
+Technology Sector Equity 
+Analyst
+Investment Analysis 
+§ As of December 2020, Samsung held more than a 50% share of the world’s 
+memory supply and has been strongly positioned within the industry due to cost 
+leadership and technological innovation. 
+§ The potential for increasing penetration of 5G phones and extensive data center 
+buildout may drive further secular growth for memory demand.   
+§ The company has made clear progress on a range of environmental, social,  
+and ethics issues, showing a commitment to achieving standards in line with 
+global best practices.   The company  
+ 
+has made clear 
+ 
+progress on a range 
+   
+of environmental, 
+ESG in Depth 
+social, and ethics 
+§ Samsung has demonstrated notable improvement across a host of ESG areas, 
+including disclosures, climate action, supply chain management, and compliance/ issues.
+ethical oversight.  
+§ In relation to ESG disclosure, the firm has aligned its reporting and climate 
+action plan with the Task Force on Climate-related Financial Disclosures and the 
+Sustainability Accounting Standards Board recommendations.
+§ The recent conviction of Samsung’s vice chairman on bribery charges is a 
+concern, but there have been notable improvements to oversight arrangements 
+in 2020. A new independent compliance and ethics committee has been 
+established, meeting regularly to review all potential compliance issues and 
+decisions at Samsung. Also, the first independent Board chair was appointed, 
+and the remit of the chief compliance officer has been extended.
+The security identified and described is intended to illustrate the ESG security evaluation process of T. Rowe Price investment professionals 
+and does not necessarily represent securities purchased or sold by T. Rowe Price. No assumptions should be made that the security analyzed, 
+or other securities analyzed, purchased, or sold, was or will be profitable. This is not a recommendation to buy or sell any security. The views 
+and opinions above are as of April 2021 and are subject to change.
+   
+| 14
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+State of California
+Climate strategy and social dynamics key features in analysis. 
+Municipal bond analyst Davis Collins explains how ESG-related factors 
+were prominent in his overall evaluation of issuer risk. 
+Issuer Profile 
+California is the most populous state in the U.S. with a large and diverse economy. 
+Major sectors include high-end technology, entertainment, manufacturing, tourism, 
+construction, and services. In the years since the 2008 global financial crisis, California 
+has benefited from prudent budgeting and strong economic growth. 
+DAVIS COLLINS  
+Investment Analysis  U.S. Municipal Bond 
+Analyst 
+§ In the fall of 2020, the state’s 10-year bond issue appeared to be undervalued 
+versus historical levels and also relative to peer bond issues. 
+§ While the impact of the coronavirus pandemic had been severe in California, we 
+believed the state’s fiscal position was supported by strong credit fundamentals 
+and liquidity.  
+§ On the ESG front, California has been actively managing its elevated climate risks,  On the ESG front, 
+and the state’s social dynamics have been attractive.  
+California has been  
+ 
+actively managing 
+ 
+    its elevated climate 
+ESG in Depth  risks, and the state’s 
+§ Environmentally, California is vulnerable to the impact of climate change, but its  social dynamics have 
+property value at risk is low. The state has had a climate adaptation strategy in 
+been attractive.
+place for over a decade, focusing on seven key areas: public health, biodiversity 
+and habitat, oceans and coastal resources, water, agriculture, forestry, and 
+transportation and energy. 
+§ On the social front, a lack of housing affordability in the state is problematic. 
+However, a high concentration of employment in technology means flexible 
+working is increasing, allowing employees to move to more affordable areas. 
+§ California has been hit hard by the coronavirus pandemic, with 44% of the 
+population employed in immediately impacted industries. While this negatively 
+impacts tax receipts, this is partly offset by the fact that these workers make up  
+a disproportionately low portion of income tax receipts as California’s revenues  
+are more reliant on capital gains and personal income taxes of high earners. 
+The issuer identified and described is intended to illustrate the ESG security evaluation process of T. Rowe Price investment professionals 
+and does not necessarily represent securities purchased or sold by T. Rowe Price. No assumptions should be made that the issuer analyzed, 
+or securities analyzed, purchased, or sold, was or will be profitable. This is not a recommendation to buy or sell any security. The views and 
+opinions above are as of April 2021 and are subject to change.
+   
+| 15
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+FirstRand
+Significant improvement in ESG disclosure underpins our analysis.
+Financials sector equity analyst Iona Dent puts the spotlight on 
+improved climate-related disclosure in her analysis.
+Company Profile 
+FirstRand is the second-largest bank in South Africa by assets, providing a 
+comprehensive range of retail, commercial, corporate, and investment banking 
+services. FirstRand is a leading bank among local peers and one of the highest-
+quality banks in emerging markets. 
+IONA DENT  
+Investment Analysis  Financials Sector Equity 
+Analyst 
+§ FirstRand’s three main domestic brands have been strongly positioned relative  
+to peers.  
+§ FirstRand has built a diverse business mix and a leading private equity franchise.   
+§ Significant improvements have been made in the firm’s level of ESG disclosure 
+over the past year, particularly in relation to climate change. The encouraging 
+progress has been reflected in our proprietary RIIM model.  
+ 
+ 
+   
+Significant 
+ESG in Depth  improvements  
+§ During the 12-month period to December 2020, FirstRand greatly improved its  have been made  
+reporting on climate-related risk. Having been the worst of the “Big 4” South 
+in the firm’s level  
+African banks on climate-related disclosure, FirstRand now ranks as second best 
+and above average versus the broader emerging markets banking peer group.   of ESG disclosure.
+§ Outside of its climate strategy, FirstRand continued to generally score well 
+in both the social and ethical criteria in RIIM. Gender and minority group 
+representation among the bank’s employees were strong relative to sector peers.  
+§ We voted with the majority of shareholders (59%) against a pay-related proposal 
+tabled by FirstRand at its 2020 annual general meeting —specifically due to 
+problematic retention awards designed to compensate executives for long-term 
+incentive plan awards that lapsed due to the impact of the pandemic. We have 
+since engaged with company management to understand how they plan to 
+respond to shareholder concerns.   
+The security identified and described is intended to illustrate the ESG security evaluation process of T. Rowe Price investment professionals 
+and does not necessarily represent securities purchased or sold by T. Rowe Price. No assumptions should be made that the security analyzed, 
+or securities analyzed, purchased, or sold, was or will be profitable. This is not a recommendation to buy or sell any security. The views and 
+opinions above are as of April 2021 and are subject to change.
+   
+| 16
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Analysts and portfolio 
+managers incorporate ESG 
+factors into investment theses, 
+alongside financial, economic, 
+and industry-related insights.  
+ESG factors may be integrated 
+into company ratings, price 
+targets, engagements, position 
+sizing, credit ratings, and proxy 
+voting decisions.
+   
+| 17
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+ESG INTEGRATION IN ACTION—PORTFOLIO MANAGEMENT
+Global Equities
+Sustainability drives success in a post-coronavirus world
+Crisis causes change. We know this as human beings and as experienced global  
+investors. The 2008 global financial crisis (GFC) led to a reckoning in how businesses  
+were run, especially in financial services. The GFC ultimately redefined fiduciary 
+responsibilities, shifting emphasis toward clients and shareholders. Fueled by 
+government bailouts, new regulations, and shareholder activism, the crisis led  
+to more transparency and fundamentally changed the financial world—in most ways 
+for the better.
+The coronavirus pandemic has pulled forward many disruptive trends to a staggering 
+degree. Social distancing and the shuttering of brick-and-mortar businesses 
+accelerated e-commerce and communication adoption by years. Businesses leaned 
+SCOTT BERG
+on technology to help employees work-from-home—something that for many may  Portfolio Manager,  
+become a more permanent way of life even after the pandemic wanes. Global Growth Equities
+However, even as governments around the world have applied unprecedented 
+monetary and fiscal policy stimulus to create and protect jobs, they have struggled 
+to ease growing societal pressures.
+Sustainability  
+One of the consequences of the pandemic has been an intensified debate about 
+how to address various dimensions of inequality, both societal and economic.  is fundamentally 
+intertwined with 
+Given this environment, it is more important than ever for companies to incorporate 
+sustainability into their long-term strategies. Sustainability is fundamentally  visionary thought.
+intertwined with visionary thought, disciplined leadership (especially in a crisis), 
+being on the right side of societal change, and addressing the needs of others.
+With Great Power Comes Great Responsibility 
+Just as the GFC was a reckoning for financial companies, so has the current health 
+crisis been for the technology sector. Big tech companies like Apple, Amazon, and 
+Netflix are not unfamiliar with ESG controversy. Their business models have driven 
+and benefited from tremendous societal changes in the way we communicate, shop, 
+and watch TV. While these societal shifts have driven topline growth, they also have 
+created operational risks. With so much at stake, many technology companies 
+have been taking material steps to address their approach to ESG considerations in 
+human capital management and ethics (such as supporting increased payment  
+of international taxes).
+It’s not just large firms that are recognizing their importance in supporting and 
+improving our lives. Since the onset of the pandemic, smaller companies have also 
+seen the difference they make to help us through challenging times. E-commerce 
+platforms are playing a pivotal role in helping small businesses transition from 
+offline to online. In health care, there are several smaller, niche biotech companies 
+that are at the forefront of the coronavirus battle due to their capabilities in creating 
+accurate testing, serology research, and vaccine support.
+   
+| 18
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Never in history has such a collective focus been  Key investment areas 
+applied to a problem, and the hope is that society 
+for potential long-term 
+can emerge with a greater sense of shared goals 
+from this period. We are seeing the results of this  sustainability and impact
+shift firsthand. Companies are initiating discussions 
+on ESG considerations and outlining detailed plans, 
+MATERIALS
+where historically it was more common for us to begin 
+Catastrophic weather events have 
+the conversation. The conversation around ESG has 
+demonstrated the reality of climate 
+always been important to us, as we believe it creates 
+change.
+better companies over the long term.
+Portfolio opportunities can arise  
+by identifying companies that 
+address climate change through 
+How Do We Factor in ESG? 
+carbon capture and storage, 
+One reason we feel we are well suited to the era’s  sustainable packaging, or green 
+increasing focus on ESG is that we fully embed ESG  alternatives that are actively 
+analysis within our investment process. With an  reducing their carbon footprints.  
+emphasis on durability and positive change, we feel 
+informed and seek to invest in companies on the 
+UTILITIES
+right side of change with respect to the next stage 
+of the ESG journey. Our Responsible Investing team  Utilities can be instrumental in 
+sustainability initiatives due to their 
+provides analysis on industry-level and stock-specific 
+large infrastructure, potential for 
+ESG issues, which we then incorporate into our 
+durable income streams, and an 
+company-specific analysis and investment theses. 
+ability to invest in renewables to  
+We also screen the entire portfolio using our proprietary  aid in the energy transition.
+Responsible Investing Indicator Model not only to  
+Opportunities can be found in high-
+help understand the characteristics that relate to ESG,  quality, well-run utilities that dedicate  
+but also to make us aware of any elevated exposures  significant resources into renewable 
+to specific ESG factors.  energy infrastructure.
+Integrating ESG is Crucial to Finding Good  HEALTH CARE
+Growth Companies The pandemic intersected a period 
+of growing demand and cost for 
+A changing economic landscape powered by 
+health care provision and created a 
+technology has brought significant disruption to 
+bifurcated landscape. 
+societies around the world, and it has become clear 
+It has also pulled forward telehealth 
+that some form of intersection between society, 
+trends by years, and companies that 
+companies, investors, and governments is crucial to 
+provide these services have been 
+perpetuating economic stability and success. The  seeing rapid adoption while helping 
+coronavirus pandemic has accelerated the adoption  patients to maintain essential and 
+of sustainability trends by years, making it critical   safe communication with doctors.
+to understand this increased emphasis and how it  
+will reshape the investment landscape. 
+TECHNOLOGY
+ESG is a permanent part of this new order.  Given rising political and societal 
+Businesses will need to think carefully about their  oversight, tech companies are  
+effect on industries, people, and ultimately the planet.  rapidly addressing their respon-
+sibilities to act as good stewards of 
+Companies that understand these connections are 
+sustainability, even if it comes at  
+often the innovators that are positioning themselves 
+the expense of short-term returns. 
+for real and future growth. We believe this is a good 
+We actively engage with a number  
+disruption that we seek to be on the right side of.
+of large tech companies to help 
+guide their ESG journeys and 
+This is an illustrative example of how ESG factors may be incorporated  
+influence their decision-making 
+into the investment process by Portfolio Managers. The views expressed 
+may differ from those of other Investment Professionals at T. Rowe Price. where possible.
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Global Fixed Income
+How stronger incentives are changing ESG behavior
+How do you think of ESG factors within your investment process? 
+Our investment process relies on bottom-up analysis, which develops into security  
+selection. The analyst weighs environmental, social, and governance factors in 
+determining the quality potential for a particular investment. We do this systematically 
+and consistently, applying our methodology across all the securities that we look 
+at, in order to construct a portfolio of securities that we believe will reflect broader 
+social concerns.
+This method not only helps us to compare opportunities, it also makes us very 
+conscious of the idiosyncratic risks we may be taking on, and where they might be 
+concentrated. Just because an individual security screens poorly on one criterion, 
+QUENTIN FITZSIMMONS  
+that does not mean that it is automatically screened out of our universe. We’re very 
+Portfolio Manager, Global 
+interested in discovering opportunities where weaknesses are being addressed and  Fixed Income
+there is scope for improvement as that can lead to improved valuations.
+Our Responsible Investing Indicator Model analysis enables us to be systematic  
+in the way we go about incorporating ESG factors into our investment decisions.  
+It provides us with a very broad and detailed picture of the ESG profile of a particular 
+investment proposition, which can then be compared with other investment 
+propositions. The ability to put two assets side by side and objectively compare their 
+ESG qualities is very powerful.  Analysts must 
+consider the ESG 
+How important are ESG factors in the global bond market?  factors of every 
+They have become very important. As the markets have begun to understand the  investment they 
+range of ESG criteria—and that it goes beyond just pollution or bad management—
+look at because 
+these criteria are becoming more clearly reflected in asset valuations. Simply put, 
+those factors are 
+ESG is something that cannot be ignored. Analysts must consider the ESG factors 
+of every investment they look at because those factors are going to play a role in  going to play a 
+determining the value of that investment.
+role in determining 
+We believe ESG is only going to become more important over time. We can already  the value of that 
+see that there are going to be many competing external standards, which means  investment.
+that any global fixed income strategy is likely to be increasingly measured with its 
+shadow rating (an unofficial rating) under those different approaches. 
+What are the ESG trends to watch in global fixed income? 
+I think the proliferation of external standards is going to be key. I believe agencies 
+such as Moody’s and S&P are going to increasingly incorporate ESG into the 
+ratings they award. National governments and economic jurisdictions such as the 
+European Union will likely be able to send strong price signals by committing to 
+much more ambitious targets in areas such as lowering carbon emissions. It will 
+also be worth monitoring whether central banks make a mark by steering asset 
+purchase programs toward ESG criteria and ensuring that the capital costs of  
+“bad” companies are higher than the companies that meet that criteria.
+   
+| 20
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Stronger incentives would ultimately change behavior,  holistic, bottom-up credit assessment, are improving 
+but they would not necessarily make things easy or  and reflected in ongoing ethical reforms, increased 
+simple. Some companies and governments will score  compliance oversight, and moves to integrate ESG 
+well on certain criteria and not others, which is why it  criteria into top executives’ compensation. We believe 
+is important to be as systematic as possible.  that improving governance and the company’s strong 
+environmental credentials—reflected in its leadership 
+in developing electric vehicles and its aggressive 
+What is an example of ESG factors directly 
+decarbonization strategy—can help enhance its overall 
+influencing your investment decision? 
+ESG standing among investors and ultimately support 
+A recent example involved a bond offer by a North  its bond valuations.
+American oil company, where our analysis highlighted 
+a number of elevated ESG risks. Principally, these 
+included (i) meaningful exposure to energy transition 
+risks, with an oil-heavy production mix and no clear 
+path to lower carbon activities; (ii) a weak record  
+on safety, with elevated worker fatality rates; and (iii)  This is an illustrative example of how ESG factors may be incorporated  
+into the investment process by Portfolio Managers. The views expressed 
+evidence of corruption reaching up to executive level.  may differ from those of other Investment Professionals at T. Rowe Price.
+We believed the company would struggle to address 
+these ESG challenges, particularly given its notable 
+financial challenges and a low priority attached to  
+sustainability. As a result, we decided not to participate 
+in the bond offer.
+On the corporate side, based on our analysis of a 
+German auto manufacturer, we believe the company 
+is trading below its underlying credit quality owing 
+to perceived concerns over business ethics and 
+corporate governance practices. We believe these 
+ESG considerations, which are embedded in our 
+   
+| 21
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Emerging Markets Corporate Debt 
+Integrating ESG factors has the potential to provide a research edge
+How do you think of ESG factors within your investment process?  
+There are three features to highlight here. First, integrating ESG factors is a long-
+standing part of our approach to risk management and potential alpha (excess return)  
+generation. Credit analysts research company fundamentals to identify those that 
+we believe are inefficient or have the potential for ratings upgrades—this includes 
+the consideration of environmental, social, and governance factors alongside 
+financial analysis. So, ESG isn’t new to the analysis and decision-making process  
+in our space—it’s part of our long-standing investment philosophy. Certain cyclicals 
+or extraction companies simply don’t meet our investment criteria. 
+Second, we screen the portfolio using T. Rowe Price’s proprietary Responsible 
+SAMY MUADDI
+Investing Indicator Model (RIIM). RIIM and the research of the Responsible Investing 
+Portfolio Manager, 
+and Governance teams provide broad coverage of the ESG risks and opportunities  Emerging Market 
+among companies in our universe. It offers a second perspective on the ESG  Corporate Bonds
+characteristics and any elevated exposures in the portfolio.  
+Last, we utilize sovereign research and analysis to inform macro and sovereign 
+views that underpin our corporate positioning. An emerging market country with 
+better sovereign ESG characteristics, and a more robust regulatory environment, 
+will typically provide a better backdrop for corporate investing and potentially 
+encourage better corporate ESG practices. RIIM is invaluable here—it evaluates  Integrating ESG 
+sovereign issuers on ESG criteria. Our sovereign analysts provide added insights   factors is essential 
+on transparency, geopolitical assessments, and social stability factors. 
+to our alpha 
+generation and risk 
+How important are ESG factors in the emerging market corporate  
+management goals.
+bond space?  
+Integrating ESG factors is essential to our alpha generation and risk management 
+goals. The ESG profiles of companies in the emerging market universe can vary 
+markedly—there are questionable companies and there are good ones. Some 
+sectors are more prone to having riskier ESG characteristics, such as extraction 
+industries, while others are leveraged to more sustainable business trends and have  
+shown good progress on certain ESG factors, such as Chinese real estate companies.
+Three key ESG risk categories that demand particular attention in the emerging 
+markets corporate bond universe are:
+1. Social and political risk: The policy direction of a country—institutional quality, 
+free speech, rule of law, and wealth equality—can have a profoundly positive  
+or negative impact on its population and businesses. Conversely, improvements 
+in areas like property rights and education can create sustained opportunities  
+in the private sector. Our sovereign analysis is vital to building an in-depth under- 
+standing of the social and political profiles of each country in which we invest. 
+2. Environmental risk: In areas such as energy, utilities, and mining, which 
+comprise a relatively large share of the emerging markets universe, a company’s 
+environmental practices can have significant effects on its business. On the 
+positive side, companies that improve their practices are likely to enjoy lower 
+capital costs and regulatory support. 
+   
+| 22
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Assessing Company Vulnerability to Permafrost Thawing
+Incorporating a risk premium1 for thawing into our bond evaluation
+Lowest Risk Premium Medium Risk Premium Highest Risk Premium
+  Lower risk exposure to    At risk from thawing but    Majority of assets in 
+thawing. bearing capacity deterioration  permafrost areas, likely to 
+not yet severe.  require significant investment. 
+  Asset base is modern and 
+able to better withstand    Likely to have flexibility    Under pressure to maintain 
+permafrost changes.  for higher capital expenditure. elevated dividend payments 
+to shareholders.
+  Balance sheet flexibility to 
+address possible disruptions    Balance sheet offers only a 
+from environmental damage. modest margin of error for 
+permafrost-related incidents.
+3. Corporate governance risk: For emerging  What examples do you have of ESG factors 
+markets, this is particularly important. Given the  directly influencing your investment decision?
+risks inherent in emerging markets lending, we  A recent example is our analysis of the impact of 
+require a high degree of comfort with the history,  climate change on a Russian mining company.  
+reputation, and other business relationships of the  The company has infrastructure built on permafrost 
+management teams we support. (ground that remains frozen at zero degrees or below 
+for at least two years consecutively) in northern 
+What are the ESG trends to watch within  Russia. As the permafrost layer has begun to thaw 
+emerging market corporate bonds? and subside due to the warming of the climate,  
+the company’s logistics infrastructure has suffered 
+There are three dynamics at play here—client demand, 
+collapses, including a rail line and storage tank. 
+regulatory pressures, and markets. Clients around  
+These issues will be costly to remedy and will require 
+the globe are increasingly concerned with how ESG 
+ongoing investment. As a result, we reassessed the 
+factors play a part in their investment portfolios. It’s 
+appropriate spread. 
+rare for our institutional client meetings not to feature 
+discussions on ESG.
+Another example is a Chilean utility issuer. The 
+company’s shift to renewables should lower the 
+Regulation is also changing rapidly, driving changes 
+group’s average carbon intensity. The company is also 
+in the way companies conduct their business, and 
+transitioning its coal assets from providing baseload 
+the extent and quality of their ESG disclosure. 
+power generation to providing crucial grid balancing 
+Particularly when it comes to environmental regulation, 
+services, which has the potential to facilitate deploy- 
+the landscape will be very different going forward. 
+ment of renewables in the electricity system. These 
+For decades companies have borne little to no cost 
+adaptations have potential benefits in a world where 
+for the externalities of pollution or use of natural 
+momentum is building for a transition to cleaner energy.
+capital. Markets are increasingly pricing ESG factors 
+into credit risk and spreads (the additional yield 
+that investors require for holding riskier assets). For 
+1 The additional return expected from an investment to compensate  
+example, a Brazilian pulp and paper company we  for the level of risk being taken.
+recently researched issued a sustainability-linked  This is an illustrative example of how ESG factors may be incorporated  
+into the investment process by Portfolio Managers. The views expressed 
+bond at a lower cost than traditional debt. may differ from those of other Investment Professionals at T. Rowe Price.
+   
+| 23
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+FOCUS THEMES
+Why 2021 Could Be an Epic  
+Year for Climate Regulation 
+The impact of climate change presents a systemic investment risk, making the 
+importance of an investment’s environmental footprint more critical than ever before. 
+The world has already experienced a rise of around 1°C in global temperatures over 
+the preindustrial period and has started seeing the impacts of climate change in the 
+form of extraordinary weather events, shrinking glaciers, and changing rainfall patterns.  
+To be successful in limiting the adverse impacts of climate change, a fundamental 
+shift is needed in the relationship between the economy and the environment. While 
+financial markets are well positioned to play a leading role, ultimately they will only 
+be effective if climate change regulation is in place. In previous ESG annual reports 
+we have highlighted the mismatch between policy and science when it comes to 
+MARIA ELENA DREW
+climate change. Over the past year, we have seen strong momentum to close that 
+Director of Research, 
+gap—a trend we expect to continue through 2021 as we lead up to the 26th United  Responsible Investing
+Nations Climate Change Conference (COP 26) in Glasgow in November. 
+Net zero carbon emissions targets (net zero targets) have been established by 61% 
+of countries, 9% of states and regions in the largest emitting countries, and 13% of 
+cities with a population of over half a million. In aggregate, they account for just over 
+60% of the world’s carbon emissions.1 A focus of COP 26 will be securing greater 
+adoption of net zero targets—more countries have signaled that they will make 
+announcements in the lead-up to the conference. 
+Global Carbon Emissions and Key Carbon Reduction Targets2
+UNITED STATES EUROPEAN UNION CCHHIINNAA
+Proposed 
+15% 8% 2050 29% 2060
+2050
+Rejoined the Paris Agreement  2030 emissions reduction goal  National emissions trading 
+in 2021. Pledged to cut carbon  of at least 55% below 1990  scheme target 2021.
+emissions by 50-52% below  levels. Supported by European 
+2005 levels by 2030. Green Deal legislation.
+UNITED KINGDOM JJAAPPAANN
+1% 2050 3% 2050
+2030 emissions reduction  2030 goal to cut emissions 
+target of at least 68%  by 46% below 2013 levels.
+below 1990 levels.
+INDIA
+PROPORTION OF GLOBAL  NET ZERO  7% Under 
+CARBON EMISSIONS TARGET consideration
+Other Contributors to Global Carbon Emissions: Russia 5%, Iran 2%, Canada 
+2%, South Korea 2%, Indonesia 1%, Saudi Arabia 1%, Mexico 1%, South Africa     
+1%, Brazil 1%, Australia 1%, Turkey 1%, rest of world 18%  | 24
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Except for a handful of countries that were already  effect around the world, we expect that performance 
+advanced in implementing their climate agenda, direct  around climate issues will become increasingly more 
+legislation to underpin net zero targets is largely  important to investment performance. Interestingly,  
+absent. While we remain in the “early stages” in terms  we see a bifurcation in corporate approaches to 
+of implementation, it appears that the urgency of the  climate change across all sectors of the economy.  
+situation is increasingly understood. Simply put, the  As legislative initiatives start to directly impact financial 
+odds of meaningful climate regulation coming into  performance, we believe the differentiation between 
+force is very high.  winners and losers will become evident (and 
+potentially quite quickly).
+Carbon dioxide (CO ) makes up about three-quarters  
+2
+of greenhouse gas emissions and is one of the more   Of course, regulation is not the only factor moving 
+readily available environmental statistics. As such,  the needle on how issuers are responding to climate 
+it receives the most attention when it comes to  change. Other important factors are innovation and 
+climate change analysis. However, staying within  consumer preferences. On the innovation front, new 
+a global temperature rise of 1.5°C will require  advances have driven down costs in renewable power, 
+mitigating more than just CO . In addition to regulation  which has sped up deployment of renewable capacity. 
+2
+focused on power generation, energy efficiency and  The International Renewable Energy Agency estimates 
+transportation, the task will require comprehensive  that the 3.2 terawatts implied in current NDC power 
+regulation to mitigate methane (CH ), nitrous oxide  targets for 2030 should be met as soon as 2022. On 
+4
+(N O), and fluorinated gases, as well as more  the consumer preferences front, we see companies 
+2
+sustainable land use and enhancement of carbon  adding environmental labeling to products as well as 
+sinks. To date, most of the world’s climate regulation  increasing demand for more sustainable products 
+has focused on carbon—mostly within the power  such as meat alternatives.    
+sector—but that is changing. 
+To put the potential impact of forthcoming regulation  Evaluating Climate Change in Investments
+into perspective, most estimates indicate that the  At T. Rowe Price, we systematically evaluate climate 
+world’s current climate change commitments put us  change factors for individual securities and portfolios 
+on a path to 2.7°–3.0°C of global warming. This is  with our proprietary Responsible Investing Indicator 
+based on climate commitments made through the  Model (RIIM). RIIM analysis provides two key benefits 
+nationally determined contributions (NDCs) submitted  for our analysts and portfolio managers. First, RIIM 
+by signatories of the Paris Agreement in 2015. Using  proactively searches for environmental indicators and 
+a statistically based probabilistic framework, the  controversies on companies and sovereign issuers—
+probability of staying below 2°C warming is only  this is an important feature as environmental data is 
+5% assuming a continuation of current trends.3 If all  not required disclosure nor is it standardized like 
+countries were to meet their NDCs, it rises to 26%.4  financial data. Second, RIIM provides a framework 
+These low probabilities underpin the importance for  for evaluating environmental factors—in essence  
+net zero commitments.   it creates a common language for our analysts and 
+portfolio managers to discuss how an investment 
+is performing on environmental factors as well as 
+How Climate Change Affects Financial 
+compare securities within the investment universe.  
+Performance
+While markets have anticipated some climate  Our evaluation of climate change factors focuses on 
+legislation coming into force, namely in select sectors  energy transition and physical risk, but we also believe  
+directly impacted by energy transition, we do not  that an issuer’s environmental footprint and track record  
+see widespread evidence of dislocation in valuations  are important indicators of how they may perform in  
+across the broader economy. As new rules come into  a tightening regulatory environment. 
+   1 Taking Stock: A Global Assessment of Net Zero Targets, Energy and Climate Intelligence Unit (March 2021). Net zero means achieving a 
+balance between the greenhouse gases put into the atmosphere and those taken out. This state is also referred to as carbon neutral.
+   2  Source: The International Energy Agency (IEA). As of December 2020.
+3,4  Liu & Raftery, Country-based rate of emissions reduction should increase by 80% beyond nationally determined contributions to meet the  
+2°C target (Nature 2021).
+   
+| 25
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Carbon Emissions Data Availability by Index5
+100%
+80
+60
+40
+20
+0
+S&P 500 Russell 1000 Growth Russell 1000 Value Russell Midcap Value Russell Midcap Growth Russell 2500 Russell 2000 Value Russell 2000 Russell 2000 Growth MSCI Europe FTSE Europe ex UK MSCI ACWI HDY MSCI EAFE MSCI World Value MSCI World S&P/ASX 200 MSCI EM Latam MSCI World Growth MSCI ACWI MSCI Europe Small Cap TOPIX MSCI Asia ex Japan MSCI Emerging Markets P Global ex-U.S. Small Cap MSCI China All Shares MSCI Frontier Markets BB Euro-Agg Corp. Bond BB Global Agg. Corp. BB U.S. Inv Grade Bond JPM EM Corp. Bond BofA European Currency HY JPM Asia Credit Index ICE BofA US HY ICE BofA Global HY J.P. Morgan Global HY
+% Data Reported % Data Estimated % No Data S& CE 
+I
+With our RIIM assessment, we consider our investments’  gradually being resolved and new sustainable finance 
+environmental characteristics holistically—key areas   regulations will accelerate what had been a largely 
+of focus include: voluntary trend from corporates, but we still have a 
+long way to go. For example, carbon emissions is one 
+§ Energy transition § Water use
+of the most widely available statistics, but disclosure 
+§ Physical risk § Track record on  levels for scope 1–2 emissions cover less than half 
+§ Biodiversity impact environment our investible universe and disclosure for scope 3 
+§ Accountability and  emissions is even lower.
+§ Circular economy 
+transparency for ESG 
+contribution We purchase a data set from Sustainalytics that 
+(including climate 
+provides carbon emissions and intensity for a universe 
+§ Land use change)
+of more than 11,000 companies, of which nearly 75% 
+Another critical element of our climate change-related   of the companies have estimated data. As illustrated 
+analysis occurs through engagements. The most  in the chart above, for some indexes, upward of three 
+common topics of our environmentally focused  quarters are covered with reported data; however, 
+engagements in 2020 were disclosure, greenhouse  other indexes are almost entirely reliant on estimated 
+gas emissions, product sustainability, and general  data. While a reliance on estimated data can sound 
+environmental management. In relation to disclosure,  disconcerting to some investors, it has utility because it 
+we continue to advocate for investee companies to  helps us understand the order of magnitude of carbon 
+report using SASB and TCFD frameworks. In 2020,  emissions for our portfolios versus their benchmarks. 
+we also put more emphasis on the importance of  However, we do have to be cognizant of the data 
+reporting scope 1–3 greenhouse gas emissions.6 quality when considering it in our investment decisions. 
+We work with an imperfect data set when it comes to   Climate change is increasingly a major concern for 
+environmental analysis. This is partly a problem of limited  global communities, companies, our clients and our 
+disclosure and lack of universal reporting standards,  investment teams. The focus on how companies are 
+but it is partly because some environmentally oriented  working to mitigate the risks to their activities is only 
+factors are qualitative in nature (i.e. controversies,   set to intensify, and COP 26 and regulatory efforts will 
+targets). Issues of disclosure and standardization are  bring the issue further into the spotlight. 
+5 Source: Sustainalytics (carbon data). As of 31 Dec 2020. Agg. Corp Bond = Aggregate Corporate Bond; BB = Bloomberg Barclays; HDY = High 
+Dividend Yield; HY = High Yield; S&P/ASX 200 and TOPIX represent Australia and Japan stocks, respectively. Please see page 44 for Additional 
+Disclosures about the Indexes featured in this chart. Chart depicts carbon emissions data disclosed by constituent companies of each Index.
+6 Scope 1 (direct emissions from owned or controlled sources): Scope 2 (indirect emissions from the generation of purchased electricity, steam, 
+or cooling): Scope 3 (all other indirect emissions).
+   
+| 26
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Evaluating ESG-Labeled Bonds
+Increased Issuance is encouraging, but caution is required
+In 2020, USD 512 billion of ESG-labeled bonds were issued—an increase of 67%  
+over the prior year.1 While much of this increase was driven by agencies, sovereigns, 
+sub-sovereigns, and supranationals raising capital to address coronavirus pandemic 
+relief efforts, issuance of ESG-labeled bonds from corporations was up an impressive 
+19% in 2020 versus 2019.2 The largest proportion of ESG-labeled bonds continues 
+to be green bonds, but 2020 saw social bonds and sustainability-linked bonds grow 
+their share substantially.  
+ESG bonds generally trade at a premium to their non-ESG counterparts (a valuation 
+dislocation known as the “greenium”), making them a cheaper way for issuers to 
+MATT LAWTON
+borrow. Demand pressures from passive funds with ESG benchmarks and green 
+Sector Portfolio Manager
+bond mandates have helped create a situation where the greenium effect is applied 
+almost uniformly across the bond market, despite the actual environmental and 
+social credentials underpinning each bond.  
+We are encouraged that companies are undertaking the green and social projects 
+eligible for ESG-labeled bond financing. However, at T. Rowe Price, we need more 
+than a label to validate the environmental or social credentials of a bond. We have  
+concerns about some of the issuance practices around ESG-labeled bonds. 
+Specifically, we are concerned about bonds lacking “additionality” (i.e., issuing a 
+green bond for operational expenditures on renewable energy procurement that was 
+already taking place) and, more worryingly, sustainability-linked bond structures that 
+allow an issuer to recall the bond before sustainability target dates or where the 
+step-up for meeting the target is immaterial. 
+To validate the credentials of an ESG bond, we leverage our RIIM analysis and 
+fundamental research to evaluate the issuer as well as its ESG-labeled bond 
+framework. We focus on the credibility of the use of proceeds and the quality of  
+the post-issuance reporting. We also look for alignment with industry standards  
+and whether the issuer has obtained external verification.  
+Global ESG-Labeled Bond Issuance Accelerated in 20203
+200
+Green4
+150 Social5
+n Sustainability-Linked6
+o
+Billi100 Sustainability7
+D 
+S
+U
+50
+0
+1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q
+2016 2017 2018 2019 2020
+1, 2,3  Source: Bloomberg Finance L.P.
+4  Green bonds are issues where proceeds are used to finance or re-finance specific climate-related or environmental projects.
+5  Social bonds are issues where proceeds are used to finance or re-finance projects specifically aimed at creating positive social outcomes in communities.
+6  Sustainability-linked bonds are structurally linked to the issuer’s achievement of climate or broader sustainable development goals.
+7  Sustainability bonds are issues where proceeds are used to finance or re-finance a combination of green and social projects or activities. 
+   
+| 27
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Diversity, Equity, and 
+Inclusion in the Spotlight 
+From tragedy comes greater commitment to improve on equality dimensions 
+Amid the tumultuous markets of 2020, as virtually every country grappled with the  
+coronavirus pandemic, another important investment movement arose from a tragedy 
+of a different kind. The concern of investors and other stakeholders around diversity, 
+equity, and inclusion (DEI) amplified following the tragic death of George Floyd at 
+the hands of Minneapolis police in May 2020. An extended period of protest against 
+racial injustice followed, both across the U.S. and in cities around the world. 
+DONNA ANDERSON
+These incidents prompted many to examine how to better promote positive change   Head of Corporate 
+Governance
+in our own lives and communities. It also compelled corporations to examine their links 
+to systemic racism and explore ways to change these persistent and destructive 
+patterns. Corporations responded to a variety of stakeholders as they undertook this 
+analysis: their existing and future employees, investors, communities, and boards  
+of directors. Often, corporate leaders felt it was an important moment to speak out.
+Collecting Data on Diversity, Equity, and Inclusion   MARIA ELENA DREW
+Director of Research, 
+There are four ways T. Rowe Price generates insights about DEI and corporate culture. 
+Responsible Investing
+However, a lack of available comprehensive and comparable data in this area 
+remains a serious challenge.
+1
+Investment analysts’ fundamental research  
+and analysis of the companies they follow.
+2
+Proxy voting guidelines that address board  
+diversity specifically.
+T. Rowe Price 
+generates insights 
+3
+about DEI and  ESG corporate engagement program.
+corporate culture  
+in four ways. 4
+Proprietary Responsible Investing Indicator Model, 
+or RIIM
+   
+| 28
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+A Continuum of Corporate Action on DEI HIGH IMPACT 
+ACTION
+We had 633 ESG-focused engagements in the
+second half of 2020. 58% of these featured DEI
+New Business 
+on the agenda. Lines
+A select group 
+Addressing 
+of companies 
+Economic 
+Disparities  committed to:
+Action Plans A smaller set of    creating new 
+The majority of  companies discussed  business 
+LOW IMPACT Public Statements companies  plans to directly  opportunities 
+ACTION announced specific  address economic    using market 
+Leaders of a larger 
+action plans,  disparities, alongside  position to boost 
+set of companies  
+Philanthropic  alongside philan- other measures.  opportunities for 
+made public state-
+A few companies  thropic contributions  entrepreneurs 
+ments about the 
+made contributions  and public comments. from underrep-
+importance of DEI 
+to institutions or  resented 
+in their company
+charities focused  populations.
+and society.
+on the Black Lives 
+Matter movement.
+Disclosure levels by companies around DEI issues  Of course, achieving true equity and inclusion in the 
+as of the end of 2019 were not impressive. For  corporate sector will be a long-term journey. In our 
+example, even for the large-cap, S&P U.S. equity  recent discussions, we have observed that corporate 
+universe, the levels of disclosure on gender diversity  reactions to stakeholders’ concerns in relation to DEI 
+in management and within the broader workforce  have fallen along a continuum, as illustrated above. 
+were poor, at just 38% and 62%, respectively. Data 
+We believe there is no single correct response  
+availability for ethnic diversity fared even worse at 
+for a company to take on the issue of racial justice. 
+just 12% and 24%, respectively.
+However, we believe that companies that make 
+Encouragingly, however, we think the trends are  substantive changes to promote workforce diversity 
+improving, as dozens of larger U.S. companies have  will have better outcomes in the long term. 
+already agreed to accommodate investors’ demands 
+This will continue to be an important topic in our 
+for more detailed diversity information. For example, 
+discussions with companies, including following  
+many have already begun publicly reporting EEO-1 
+up on the commitments they have made. What  
+data, which break down U.S. employee populations 
+is clear already is that DEI is a core value for many 
+by seniority, gender, race, and ethnicity. As such, we 
+stakeholders of these companies—current and future 
+expect to see a marked improvement in disclosure 
+employees, customers, investors, leaders, and boards. 
+rates moving forward.
+Those companies that do not meet stakeholders’ 
+expectations will likely see an erosion in their ability  
+Racial Inequality: A Continuum of Responses to compete for talent and market share.
+An intense focus by communities and corporations on  
+systemic inequality sharpened with the tragic incidents 
+of the spring of 2020 and has continued at a steady 
+pace since. In our deep experience of engaging with 
+companies on ESG issues, we have never seen such 
+a level of unity, candor, and commitment on any single 
+issue as exhibited recently on DEI. 
+   
+| 29
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+ESG and Public Policy—Navigating 
+Interlinked Crises
+Opportunities presented by public policy change in the Biden era
+At T. Rowe Price, our Public Policy Research team supports our analysts and 
+portfolio managers through all stages of the investment process. We work closely 
+with our ESG team to integrate policy catalysts and risk factors into the Responsible 
+Investing Indicator Model (RIIM), while helping our investors assess the likely 
+outcomes and implications of legislative, regulatory, and legal decisions for their 
+company holdings and sectors. 
+Concerns Around U.S. Policy Remain, but of a Different Nature KATIE DEAL
+Between 2016 and 2020, we experienced a marked increase in concern from  Analyst, Washington and 
+Regulatory Research
+investors regarding the political volatility driving the legislative and regulatory 
+environment. Despite this spike in economic policy uncertainty, the U.S. equity 
+market still marched higher—with the S&P 500 gaining more than 1,000 points.
+More recently, investors have expressed concern regarding the legislative and 
+regulatory backdrop, but for an entirely different reason: crisis management.  
+With the coronavirus pandemic came a level of market and economic uncertainty 
+that continues to transform investors’ expectations about the future—what a “new  
+normal” might look like for the global economy, and what tools different 
+governments will use to manage through to a post-crisis environment. 
+To this end, we have seen U.S. President Joe Biden adapt his policy rhetoric from 
+“transformation” to “crisis management,” framing the federal government as a source  
+of stability for American families and businesses—not only for the dual public health 
+and economic crises, but also for the risks posed by climate change and racial inequality. 
+Economic Policy Uncertainty Index and the S&P 500 Index
+Despite a spike in policy uncertainty, the S&P 500 marched higher.
+600
+2,000
+500
+1,500 e
+400 c
+s Pri
+nt g 
+oi300 1,000 n
+P si
+o
+200 Cl
+500
+100
+0
+0
+1985 1990 1995 2000 2005 2010 2015 2020
+News-Based Policy Uncertainty Index (LHA) Three-component Index (LHA) S&P 500 Index (RHA)
+Past performance is not a reliable indicator of future performance. 
+Source: “Measuring Economic Policy Uncertainty” by Scott Baker, Nicholas Bloom and Steven J. Davis at http://www.policyuncertainty.com. 
+S&P indices (see Additional Disclosures on page 44). As of January 31, 2021. The Three-component Index is constructed from three 
+underlying datasets. One component quantifies newspaper coverage of policy-related economic uncertainty. A second component 
+reflects the number of federal tax code provisions set to expire in future years. The third component uses disagreement among economic 
+forecasters as a proxy for uncertainty. LHA=Left-Hand Axis; RHA=Right-Hand Axis. Data rebased to 100.
+   
+| 30
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+1. Coronavirus: Public Health and Economic  legislation, while disincentivizing the continued use 
+Crises and expansion of fossil fuels through regulation, 
+The Biden administration’s foremost priority is  which can be executed on a unilateral basis 
+helping the nation heal from the public health   through federal agencies. The U.S. has rejoined the 
+and economic fallout caused by the coronavirus  Paris Climate Accord and the president will look 
+pandemic. As such, we expect landmark stimulus  to establish cross-department research initiatives 
+proposals to dominate the Biden administration’s  to expand policy recommendations for climate 
+capacity in the coming year: the American Rescue  innovations like decarbonization. We also anticipate 
+Plan Act, comprising around USD 1.9 trillion in relief  that the Biden administration will pursue stronger 
+spending, and signed into law on March 11, 2021,  disclosure requirements and assessment of climate 
+and Biden’s Build Back Better plan, which has  risk from firms, affecting our analysis of these firms’ 
+been proposed in two phases: the American Jobs  environmental risk. These changes present an 
+Plan, containing clean energy and infrastructure  opportunity to actively engage with the companies 
+investment; and the American Families Plan,  we are invested in, share our experience, and 
+containing “human infrastructure” investments  advise on disclosure best practices where required.  
+in health care, child-care, and the broader social 
+3. Societal Division: Civil Rights, Wealth Inequality, 
+safety net. Estimates for these proposals combined 
+and Populism
+range between USD 2 trillion and USD 4 trillion in 
+President Biden has explicitly identified racial 
+new spending and USD 1 trillion and USD 2 trillion 
+injustice as a pivotal crisis facing the United States, 
+in revenue raisers.
+intersecting with issues like wealth inequality. 
+Combined, these plans inject an unprecedented  We should expect the administration to pursue 
+level of federal stimulus into the U.S. economy— regulations and policy developments that improve 
+providing a striking amount of direct transfer  racial equity while addressing workers’ rights. 
+payments to consumers and incentives for renewable  This includes mandated improvement of worker 
+and green technologies. The Build Back Better  protections, rhetorical support for unionization 
+platform also invests in legacy infrastructure,  efforts, and advocacy for a higher federal minimum 
+creating opportunities in utilities and sectors  wage; as well as initiating federal investigations 
+related to grid modernization, broadband internet,  to identify and penalize discriminatory practices. 
+transportation, and water systems. The Biden  It also includes implementing more progressive 
+administration may also attempt to incorporate  corporate and personal tax proposals to address 
+significant labor reforms to expand the workforce  the inequitable distribution of wealth in the 
+and increase the minimum wage—though they   United States. Though gridlock may prevent 
+are unlikely to pass under the reconciliation  the Democratic majority from achieving several 
+process in Congress. These changes would have  of these goals, we should expect the Biden 
+dramatic implications for different sectors’ recoveries  administration to pursue these goals through  
+during and after the pandemic and will likely shift  all executive and regulatory tools available.
+investors’ overall expectations regarding tax policy, 
+After the January 6 attack on the U.S. Capitol, 
+gross domestic product growth, and inflation. 
+concerns over falsified and propaganda-driven 
+2. Climate Change: Legislative Incentives and  information prompted a renewed push for 
+Regulatory Deterrents technology regulation. We will be monitoring 
+Though a comprehensive, progressive environmental  how platform companies respond to data privacy, 
+reform package like the Green New Deal is  content liability, and market concentration 
+unlikely in this presidential term, we should expect a  concerns as Congress, the Department of Justice, 
+significant reversal from the regulatory status quo  the Federal Trade Commission, and the Federal 
+as President Biden seeks to build one of the most  Communications Commission begin to propose 
+progressive environmental policy portfolios in  tools to regulate company behavior. From an 
+U.S. history. Specifically, the Biden administration  investment perspective, the ramifications of such 
+is seeking to heavily incentivize consumer and  regulatory actions on the operations—and the 
+industrial adoption of green technologies—like  bottom lines—of those companies most impacted 
+electric vehicles and renewable power—through  could prove substantial.   
+   
+| 31
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+CORPORATE ENGAGEMENT
+2020 Engagement Activity 
+At T. Rowe Price, we are fortunate to manage USD 1.47  Our investment-driven engagement program frequently  
+trillion1 of assets for our clients, predominantly in  identifies targets through our proprietary RIIM analysis, 
+actively managed portfolios. We believe the scale and   governance screening, and analysts’ fundamental 
+scope of our business puts us in a powerful position  research. ESG engagement meetings are carried out  
+compared with many of our peers when we carry out  by portfolio managers and analysts from our equity and 
+our ESG engagements with companies. The sheer  fixed income teams as well as by our ESG specialists. 
+size of our assets under management has clout. Simply  
+While we engage with companies in a variety of 
+put, it gives us better access to company management. 
+investment contexts, ESG engagement focuses on 
+Our active investment approach also affords us real  learning about, influencing, or exchanging perspectives 
+influence. In most cases, if we see an impediment to  on the environmental practices, corporate governance, 
+reaching our investment goals, such as a company’s  or social issues affecting their businesses. 
+poor business practices or disclosure, we have the 
+Through the course of 2020, we engaged with 
+option not to invest. This contrasts with managers 
+companies on 1,002 separate occasions, sometimes 
+of passive portfolios, which typically have no choice 
+more than once with the same company. 
+but to hold an investment despite any evidence of 
+business practice or disclosure concerns. 
+Engagements by Topic (2020) Top 5 Engagement Topics
+ENVIRONMENT
+Responsible 
+1. Disclosure of environmental data 
+Investing 
+Ethics <1% 2. Greenhouse gas emissions 
+(Environment, 
+Environment 3. Product sustainability 
+Ethics, Social) 
+Social and Governance 4. Environmental management 
+Environment,  5. Water and waste management
+SociaEl,t haincds  6% 4% SOCIAL
+% 1. Disclosure of social data 
+14 2. Diversity, equity and inclusion
+53 3. Employee safety and treatment 
+%
+1,002 4. Society and community relations
+Engagements 5. Product safety and sustainability 
+ETHICS
+22 1. Compliance programs 
+33%%
+2. Regulatory changes 
+3. Bribery and corruption 
+4. Lobbying activities 
+Governance
+5. Facial recognition technology 
+GOVERNANCE
+1. Executive compensation 
+2. Board diversity 
+3. Shareholder proposals 
+4. Board composition 
+5. ESG accountability 
+1 As of December 31, 2020. Firmwide AUM includes assets managed by T. Rowe Price Associates, Inc. and its investment advisory affiliates.
+   
+| 32
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+ESG Engagements—Number by Market Capitalization 
+Private
+Companies (7)
+USD 2 bn USD 2–10 bn USD 10–50 bn USD 50+ bn
+111 303 377 204
+ESG Engagements—Number per Region
+Americas EMEA Asia Pacific
+397 333 272
+Number of ESG Engagements by Sector 2020
+ESG Engagements—Number per Sector
+Real  Communication 
+Consumer  Estate Services
+Staples Utilities
+Materials Energy Sovereign (1)
+Health Care Financials Industrials Consumer Information
+Discretionary Technology
+141 139 139 128 118 84 65 56 53 44 34
+   
+| 33
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+A Step-Change in Corporate 
+Attitudes to Disclosure
+Early in 2020, the outbreak of the coronavirus pandemic  the Sustainability Accounting Standards Board (SASB) 
+raised fears that the progress of global ESG initiatives  and the Task Force on Climate-related Financial  
+would be undermined. As the full extent of measures  Disclosures (TCFD)—both globally recognized 
+needed to control the pandemic became clear, and we   frameworks that emphasize financial materiality. 
+became aware of the significant social and economic 
+We also started to encourage companies we engage 
+impacts of this action, some observers questioned 
+with, particularly those within the most carbon 
+how companies would respond, and to what extent 
+intensive industries (energy, industrials, agriculture, 
+they would (or could) sustain their commitment to ESG 
+transportation) to report their scope 3 carbon 
+principles and purpose.  
+emissions. Scope 3 emissions are those that are 
+However, we believe these early concerns have proved  indirectly created by the reporting company, as a result  
+unfounded, with the pandemic having an almost  of both upstream and downstream activity along the 
+opposite effect on the corporate environment to what  company’s value chain. We see disclosing scope  
+was initially anticipated. The coronavirus pandemic has  3 emissions as being in a company’s best interests,  
+sharpened the focus on long-term sustainability and  as those that elect not to disclose this information will 
+the significant impact that ESG forces can have on  almost certainly see it estimated anyway, and with 
+a business’s progress and risk management. Rather  variable accuracy. There are already many third-party 
+than cutting back or eschewing ESG altogether,  commercial subscription services that are creating 
+companies have instead doubled down, and ESG  and selling these estimates. 
+initiatives have surged amid a growing climate of 
+“building back better.”  
+Disclosing Diversity Data as Best Practice
+Finally, we advocate for companies we engage with 
+Engagement Has Highlighted Positive  to actively disclose diversity data as a matter of 
+Disclosure Trends best practice. While climate change has typically 
+This positive trend has been reflected in our  dominated the ESG narrative in recent years, diversity 
+engagement with companies over the past year. While  and equality have come sharply into focus over the 
+the general tone of our interactions with company  past year. The onset of the pandemic and a rallying 
+management teams had already begun to shift before  social justice movement have compelled companies 
+the pandemic, we experienced a step-change in  to reconsider their approach to human capital 
+corporate attitudes to ESG disclosure in 2020. Where   management. Encouragingly, while there is some 
+discussions previously revolved around why companies  way to go, we are seeing many companies making 
+should disclose ESG data at all, many companies  efforts to improve, such as implementing human 
+now seek guidance on what ESG data to disclose and  rights policies, or raising expectations for senior 
+how best to go about it. Not many companies needed  management to improve diversity efforts.  
+convincing about the relevance and importance of 
+In 2021, we anticipate further regulatory actions 
+ESG, and increasingly sought guidance on ways to 
+around the world to improve ESG data quality and 
+improve the level and quality of their ESG disclosure. 
+coverage. This would be a positive change, and we 
+We continue to guide and encourage companies  will continue to actively engage with companies, 
+toward industry best practice disclosure standards.   sharing our experience and expertise, and guiding  
+To this end, we advocate for disclosures aligned to   on ESG disclosure best practices.
+   
+| 34
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Where discussions 
+previously revolved around 
+why companies should 
+disclose ESG data at all, 
+many companies now seek 
+guidance on what ESG 
+data to disclose and how 
+best to go about it.
+   
+| 35
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+PROXY VOTING
+2020 Proxy Voting Activity 
+Proxy voting is a crucial link in the chain of stewardship  They receive recommendations and support from  
+responsibilities we execute on behalf of our clients.  a range of internal and external resources: 
+Each vote represents both the privileges and the 
+responsibilities that come with owning a company’s  § The T. Rowe Price ESG Committee 
+equity instruments. § Our global industry analysts 
+We take our responsibility to vote our clients’ shares  § Our specialists in corporate governance and 
+very seriously—taking into account high-level principles  responsible investment 
+of corporate governance and company-specific 
+§ Institutional Shareholder Services (ISS), our external 
+circumstances. Our overarching objective is to cast 
+proxy advisory firm 
+votes to foster long-term, sustainable success for the 
+company and its investors.  Our proxy voting program serves as one element of our  
+overall relationship with corporate issuers. We use 
+T. Rowe Price portfolio managers are ultimately  our voting power in a way that complements the other 
+responsible for the voting decisions within the strategies  aspects of our relationship with these companies, 
+they manage.  including engagement, investment diligence, and 
+investment decision-making. 
+Proxy Voting  
+77 3
+by the Numbers1
+Countries Regions
+65,405 48.7% 21.7% 29.6%
+Proposals Voted Americas APAC EMEA
+2020 Highlights
+The following tables illustrate T. Rowe Price’s global proxy   Other voting issues are unique to select regions.  
+voting activity for 2020. We voted on 65,405 proposals.  The tables highlight the top five most common voting 
+Some categories, such as the election of directors, are  issues in each category, including the number of 
+universal across the markets where we invest.    proposals we voted on and the percentage of those 
+that we voted with management.
+   
+| 36
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Americas | 31,843 Management and Shareholder Proposals
+# of   % With   # of   % With  
+Management Proposals Shareholder Proposals
+Proposals Mgmt Proposals Mgmt
+Elect Directors (Uncontested) 21,540 89.3% Social, Political, or  206 71.8%
+Environmental Matters
+Management Compensation:  
+4,060 83.8% Proposals to Adopt or Amend 
+Say on Pay and Equity Plans 154 77.3%
+Shareholder Rights
+Appoint Auditors/Approve 
+Auditor Fees 3,239 98.9% Related to Director Policies 113 58.4%
+Routine Business and  Related to Compensation 
+932 72.7% 39 82.1%
+Operational Matters Policies
+Capital Structure Items 775 75.0% Related to Auditors 33 97.0% 
+Other 713 72.9% Other 39 53.9% 
+Total 31,259 Total 584
+APAC | 14,217 Management and Shareholder Proposals
+# of   % With   # of   % With  
+Management Proposals Shareholder Proposals
+Proposals Mgmt Proposals Mgmt
+Elect Directors (Uncontested) 8,600 93.8% Related to Director Policies 142 94.4%
+Capital Structure Items   1,770 89.5%  Related to Routine Business   80 62.5% 
+and Operational Matters
+Routine Business and 
+ 1,476 91.9%  Social, Political, or 
+Operational Matters 63 95.2% 
+Environmental Matters
+Management Compensation: 
+Say on Pay and Equity Plans 1,266 83.9%  Related to Auditors 24 95.8% 
+Mergers & Acquisitions  388 88.4% Related to Compensation  16 62.5%
+Policies
+Other  385   91.9% Other 7 71.5%
+Total 13,885  Total 332
+EMEA | 19,345 Management and Shareholder Proposals
+# of   % With   # of   % With  
+Management Proposals Shareholder Proposals
+Proposals Mgmt Proposals Mgmt
+Elect Directors (Uncontested)  6,656 88.9%  Related to Routine Business   120 91.7% 
+and Operational Matters
+Routine Business and 
+Operational Matters 4,585 91.9%  Related to Director Policies 45 97.8% 
+Management Compensation:    3,219 80.8%  Related to Auditors 41 100.0%
+Say on Pay and Equity Plans
+Social, Political, or 
+Capital Structure Items 3,208 90.1%  Environmental Matters 31 58.1% 
+Appoint Auditors/Approve  Related to Compensation 
+978 92.4% 8 100.0%
+Auditor Fees Policies
+Other 452 84.7%  Other 2 50.0%
+Total 19,098 Total 247
+1 As of December 31, 2020.
+   
+| 37
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Shareholder Proposals in Focus
+Where proxy voting is concerned, our overarching objective is to vote our clients’ shares in  
+a thoughtful, investment-centered way—in support of the path most likely to foster long-term, 
+sustainable success for the company and its investors. 
+In 2020, the T. Rowe Price portfolios voted on 1,431  It is important to note that our overall framework for 
+shareholder resolutions across all markets. Of  integrating ESG factors into our investment process—
+those, 500 were situations where shareholders were  which includes proxy voting—is research-centered. 
+nominating directors to a company’s board. Another  Its purpose is to produce investment insights for our 
+585 were resolutions asking companies to adopt a  internal teams of analysts and portfolio managers. 
+specific corporate governance practice. 346 were 
+As a global asset manager serving clients with different  
+social and environmental resolutions.
+perspectives, beliefs, time horizons, and investment 
+goals, it is not our objective to build our investment 
+Voting Framework: Principles-Based or Case  strategies around a specific set of values. Instead, our 
+by Case?  objective is to use different lenses (environmental, social, 
+When it comes to proxy voting issues, there is some  ethical, and governance) to deepen our understanding 
+debate as to the best approach: is it best to look at  of the investments held in our clients’ portfolios. 
+each issue individually and consider the company’s   
+circumstances or to apply a set of principles evenly 
+There are areas 
+across all companies? In our view, the answer is both. 
+There are many areas within proxy voting where   where a case-by-case 
+a principles-based approach can be implemented 
+effectively. For example, our proxy voting guidelines 
+approach is necessary.
+are generally designed to promote an appropriate 
+level of board independence, robust shareholder 
+rights, and strong linkage over time between   
+executives’ compensation and company performance.  The Importance of an Investment Focused 
+However, there are other areas where a case-by-case  Framework 
+approach is necessary in order to achieve full alignment 
+between our guidelines and our voting outcomes.  The quality, intent, and utility of shareholder resolutions 
+on ESG matters are highly variable. Some well- 
+One area where this is very much the case is shareholder  targeted resolutions are extremely helpful in persuading 
+resolutions. The main reason shareholder resolutions  companies to strengthen their management of certain 
+are hard to implement with a principles-based voting  risks, leading to improved outcomes for investors. Other 
+approach is because they are more nuanced than  resolutions are not helpful—we would even call them 
+other proxy voting categories. For example, we  harmful—if the objectives of the proponent do not 
+employ an objective set of indicators to determine  align with economically oriented long-term investors. 
+a director’s independence. It is a straightforward  This is why we believe the most responsible approach 
+decision to vote against existing directors and indicate  to voting such resolutions is to apply a thoughtful, 
+to the company that they should be replaced with  investment-focused framework. 
+independent board members. Shareholder proposals 
+can call for the company to make a change, but 
+also to employ a prescriptive method to do so. We 
+often find ourselves agreeing with a proponent that 
+a company’s environmental or social disclosure is 
+inadequate. However, we do not always agree with  
+the prescriptive remedy put forth.
+   
+| 38
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Shareholder Resolutions Voted on in 2020
+Shareholders  Corporate 
+Nominating  Governance 
+Directors Resolutions
+0
+0
+5 5
+8
+5
+Total
+1,431
+346
+Social and Environmental 
+Resolutions
+Social Environmental Political Spending  Anti-nuclear  Anti-ESG
+148 RESOLUTIONS 81 RESOLUTIONS and Lobbying Power 12 RESOLUTIONS
+62 RESOLUTIONS 43 RESOLUTIONS
+19% supported 30% supported 100% opposed
+80% opposed 63% opposed 32% supported 100% opposed
+  1% elected    1% abstained  68% opposed
+not to vote    6% elected 
+due to share not to vote 
+blocking* due to share 
+blocking*
+Chart shows the number of shareholder resolutions we voted on in 2020 by proposal topic.  For “Social and Environmental Resolutions” we 
+classify the proposals into five distinct categories.
+*Share-blocking is a requirement in certain markets that impose liquidity constraints in order to exercise voting rights. We generally do not vote 
+in these markets.
+As of December 31, 2020.
+Source: T. Rowe Price.
+   
+| 39
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+COLLABORATIONS
+Collaborative Engagement  
+and Industry Leadership  
+We participate in collaborative industry initiatives on a selective and strategic  
+basis. These initiatives support our core engagement program. We seek to  
+understand where collaboration can provide the most viable and impactful  
+supplement to our powerful internal capabilities.
+Five key considerations for collaborative engagement
+When considering participation in a collaborative engagement initiative, we weigh  
+the following factors: 
+IMPACT  RESOURCE 
+ALIGNMENT PRACTICALITY TANGIBILITY
+POTENTIAL FOCUS
+How closely aligned  Would our  Does the  Have we already  Is the scope of 
+is this engagement  participation help  engagement  undertaken the same  the collaborative 
+opportunity with our  the engagement  make the most  engagement or very  engagement clear, 
+investment holdings?  initiative? Does it  efficient use of our  similar engagements  and are we confident 
+Does it include  need a large asset  internally dedicated  unilaterally with  that it will not change  
+companies where  manager merely to  engagement  success? over time?
+we are significant  gain attention, or  resources?
+shareholders? does it already have 
+broad support?
+As the pandemic subsides, we expect regulators  Commission supporting changes to the Nasdaq 
+across global markets to examine issues such as  listing rules to promote board diversity 
+capital formation, ESG objectives, share buybacks, 
+§ Public comments to the Bangladesh Securities & 
+executive compensation, working conditions, and 
+Exchange Commission expressing concerns about 
+corporate disclosure. T. Rowe Price will continue to 
+extended market closures 
+participate in these discussions at the industry and 
+regulatory levels and advocate for stronger disclosure  § Representing the asset manager community on a 
+requirements. In 2020, our advocacy initiatives included:  working group for the UK Pensions and Lifetime 
+Savings Association (PLSA) 
+§ Public comments to the U.S. Department of Labor 
+on two occasions, noting potential shortcomings   § Participating in consultations for sustainable finance 
+regulations in the European Union, United Kingdom, 
+in the department’s proposed rules imposing limits 
+Hong Kong, and Singapore
+on ESG investments and proxy voting 
+§ Public comment to the U.S. Securities & Exchange 
+   
+| 40
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+T. Rowe Price has joined or led the following initiatives:
+Organization Description Joined
+Council of Institutional Investors  U.S. association of institutional investors, corporate issuers, and 
+1989
+(CII) asset managers
+Principles for Responsible 
+Global initiative for responsible investment 2010
+Investment (PRI) 
+Public commitment to uphold stewardship principles for UK 
+UK Stewardship Code 2010
+investors
+Public commitment to uphold stewardship principles for Japanese 
+Japan Stewardship Code 2014
+investors
+Associacão Investidores no 
+Association for minority investors in Brazil 2015
+Mercado de Capitais (AMEC)
+Asia Corporate Governance 
+Pan-Asian association for institutional investors 2016
+Association
+Collaborative engagement association for investors in UK 
+UK Investor Forum  2016
+companies (Founding Member)
+Investors advocating for core governance principles for U.S. market 
+Investor Stewardship Group (ISG) 2017
+participants (Founding Member)
+Investor forum for stewardship solutions and sharing of best 
+Japan Stewardship Initiative 2019
+practices (Founding Member)
+Investment Association Climate  Group to direct the work of the UK investment management industry 
+2020
+Change Working Group trade body in relation to climate change
+Institutional Investors Group on  European membership body for investor collaboration on climate 
+2020
+Climate Change (IIGCC) change
+Organization that facilitates investor advocacy to improve policies 
+Emerging Markets Investors 
+and practices of governments and companies in the emerging  2020
+Alliance
+markets 
+Task Force on Climate-related  The Financial Stability Board created the TCFD to improve and 
+2020
+Financial Disclosures (TCFD) increase reporting of climate-related financial information
+Responsible Investment Association  Champions responsible investing and a sustainable financial system 
+2020
+Australasia (RIAA) in Australia and New Zealand
+A collaborative investor network that raises awareness of the ESG 
+FAIRR 2020
+risks and opportunities caused by intensive animal production
+A tool for driving change in the pharmaceutical industry, through the 
+identification of best practices, tracking progress and highlighting 
+Access to Medicine Index 2021
+where critical action is needed to improve access to medicine for 
+vulnerable populations 
+Supports the TCFD in Japan, by furthering the discussion on good 
+TCFD Consortium (Japan) practice related to climate-linked disclosures and endorsing better- 2021
+informed investment decisions
+Global Impact Investing Network  Organization dedicated to increasing the scale and effectiveness of 
+2021
+(GIIN) impact investing around the world
+Program designed for asset managers, asset owners, companies 
+Sustainability Accounting Standards  and service providers to learn about the financial impact of ESG 
+2021
+Board (SASB) Alliance issues. It allows members to explore best practices to integrate 
+material sustainability information into existing processes
+The world’s largest corporate sustainability initiative. Its strategy 
+UN Global Compact drives business awareness and action in support of achieving the  2021
+UN Sustainable Development Goals by 2030
+IMEA (Investment Management  A forum exclusively for investment management firms to discuss 
+2021
+Education Alliance) ESG Committee multiple aspects of the ESG investment and education
+As of April 2021.
+   
+| 41
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+RESOURCES
+ESG Team
+Responsible Investing
+           
+MARIA ELENA  SUHA READ JOE BALDWIN ASHLEY HOGAN NATALIE  SCOTT PETRIE
+DREW Business  Associate Analyst  Associate Analyst  MCGOWEN Associate Analyst 
+Director of  Manager,  (London) (Baltimore) Associate Analyst  (London)
+Research,  Responsible  (Baltimore)
+Responsible  Investing (London)
+Investing (London)
+     
+IONA  DUNCAN SCOTT KAOUTAR YAICHE
+RICHARDSON Associate Analyst  Analyst (Baltimore)
+Associate Analyst   (London)
+(Hong Kong)
+Proxy  
+Governance Regulatory Research Services
+     
+DONNA  JOCELYN BROWN KARA MCCOY KATIE DEAL MICHAEL  AMANDA FALASCO
+ANDERSON Head of  Governance  Analyst,  PINKERTON Lead Manager  
+Head of Corporate  Governance,   Analyst (Baltimore) Washington  Associate Analyst,  (Baltimore)
+Governance  EMEA and APAC  Research  Washington 
+(Baltimore) (London) (Baltimore) Research 
+(Baltimore)
+T. Rowe Price Investment Management (TRPIM)1
+CHRISTOPHER WHITEHOUSE  KEVIN KLASSEN  MOLLY SHUTT
+Future Head of ESG, TRPIM  ESG Quantitative Analyst (Baltimore) Associate Analyst, Responsible 
+(London)  Investing (Baltimore)
+1 On 11/19/2020, T. Rowe Price Associates, Inc. (TRPA), announced its intent to create a new, separate, SEC-registered U.S. investment 
+adviser, T. Rowe Price Investment Management (TRPIM). Pending all approvals, TRPA will transition 6 of our well-established U.S. equity and 
+fixed income investment strategies from TRPA to TRPIM in the second quarter of 2022. For more information on T. Rowe Price Investment 
+Management, the press release is available here.
+   
+| 42
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+ESG Committee
+Donna F. Anderson   Maria Elena Drew  
+Co-Chair, Head of Corporate Governance  Co-Chair, Director of Research, Responsible Investing 
+Kamran Baig   Matt Lawton  
+Director of Equity Research, EMEA and Latin America  Sector Portfolio Manager 
+Hari Balkrishna   Matthew Leef  
+Portfolio Manager, Global Impact Equity  Head of U.S. Investment, Middle Office
+Oliver Bell   Ryan Nolan  
+Associate Head, International Equity Senior Legal Counsel, Legal 
+R. Scott Berg   Gonzalo Pángaro  
+Portfolio Manager, Global Growth Equity  Portfolio Manager, Emerging Markets Equity 
+Brian W. Berghuis   Sally Patterson  
+Portfolio Manager, U.S. Mid-Cap Growth Equity  General Manager, International Equity 
+Jocelyn Brown   Preeta Ragavan  
+Head of Governance, EMEA and APAC Equity Investment Analyst 
+Archibald Ciganer   Jeff Rottinghaus  
+Portfolio Manager, Japan Equity  Portfolio Manager, U.S. Large-Cap Core Equity 
+Anna M. Dopkin   John C.A. Sherman  
+Strategic Project Manager  Equity Investment Analyst
+Amanda Falasco   Justin Thomson  
+Lead Manager, Proxy Services  Chief Investment Officer and Head of International Equities
+Ryan Hedrick   Mitchell Todd  
+Associate Portfolio Manager, U.S. Large-Cap Equity  Portfolio Manager, UK Equity 
+LQ Huang   Eric Veiel  
+General Manager, U.S. Equity  Co-head, Global Equity 
+Arif Husain   Christopher Whitehouse1  
+Head of International Fixed Income Future Head of ESG, TRPIM
+Michael Lambe  Ernest Yeung  
+Associate Director of Research Portfolio Manager, Emerging Markets Discovery Equity
+1 On 11/19/2020, T. Rowe Price Associates, Inc. (TRPA), announced its intent to create a new, separate, SEC-registered U.S. investment 
+adviser, T. Rowe Price Investment Management (TRPIM). Pending all approvals, TRPA will transition 6 of our well-established U.S. equity and 
+fixed income investment strategies from TRPA to TRPIM in the second quarter of 2022. For more information on T. Rowe Price Investment 
+Management, the press release is available here.
+   
+| 43
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Additional Disclosures
+MSCI and its affiliates and third party sources and  ICE Data Indices, LLC (“ICE DATA”), is used with 
+providers (collectively, “MSCI”) makes no express or  permission. ICE DATA, ITS AFFILIATES AND 
+implied warranties or representations and shall have  THEIR RESPECTIVE THIRD-PARTY SUPPLIERS 
+no liability whatsoever with respect to any MSCI data  DISCLAIM ANY AND ALL WARRANTIES 
+contained herein. The MSCI data may not be further  AND REPRESENTATIONS, EXPRESS AND/
+redistributed or used as a basis for other indices or  OR IMPLIED, INCLUDING ANY WARRANTIES 
+any securities or financial products. This report is not  OF MERCHANTABILITY OR FITNESS FOR A 
+approved, reviewed, or produced by MSCI. Historical  PARTICULAR PURPOSE OR USE, INCLUDING THE 
+MSCI data and analysis should not be taken as an  INDICES, INDEX DATA AND ANY DATA INCLUDED IN, 
+indication or guarantee of any future performance  RELATED TO, OR DERIVED THEREFROM. NEITHER 
+analysis, forecast or prediction. None of the MSCI  ICE DATA, ITS AFFILIATES NOR THEIR RESPECTIVE 
+data is intended to constitute investment advice or a  THIRD-PARTY SUPPLIERS SHALL BE SUBJECT 
+recommendation to make (or refrain from making) any  TO ANY DAMAGES OR LIABILITY WITH RESPECT 
+kind of investment decision and may not be relied on  TO THE ADEQUACY, ACCURACY, TIMELINESS OR 
+as such. COMPLETENESS OF THE INDICES OR THE INDEX 
+DATA OR ANY COMPONENT THEREOF, AND THE 
+The S&P 500 Index, the S&P/ASX 200 Index, and S&P 
+INDICES AND INDEX DATA AND ALL COMPONENTS 
+Global ex US Small Cap Index are products of S&P 
+THEREOF ARE PROVIDED ON AN “AS IS” BASIS 
+Dow Jones Indices LLC, a division of S&P Global, or 
+AND YOUR USE IS AT YOUR OWN RISK. ICE DATA, 
+its affiliates (“SPDJI”), and has been licensed for use 
+ITS AFFILIATES AND THEIR RESPECTIVE THIRD-
+by T. Rowe Price. Standard & Poor’s® and S&P® are 
+PARTY SUPPLIERS DO NOT SPONSOR, ENDORSE, 
+registered trademarks of Standard & Poor’s Financial 
+OR RECOMMEND T. ROWE PRICE OR ANY OF ITS 
+Services LLC, a division of S&P Global (“S&P”); 
+PRODUCTS OR SERVICES.
+Dow Jones® is a registered trademark of Dow Jones 
+Trademark Holdings LLC (“Dow Jones”); T. Rowe Price  Bloomberg Index Services Limited. BLOOMBERG® is 
+product is not sponsored, endorsed, sold or promoted  a trademark and service mark of Bloomberg Finance 
+by SPDJI, Dow Jones, S&P, their respective affiliates,  L.P. and its affiliates (collectively “Bloomberg”). 
+and none of such parties make any representation  BARCLAYS® is a trademark and service mark of 
+regarding the advisability of investing in such product(s)  Barclays Bank Plc (collectively with its affiliates, 
+nor do they have any liability for any errors, omissions,  “Barclays”), used under license. Bloomberg or 
+or interruptions of the S&P 500 Index, the S&P/ASX  Bloomberg’s licensors, including Barclays, own 
+200 Index, and S&P Global ex US Small Cap Index. all proprietary rights in the Bloomberg Barclays 
+Indices. Neither Bloomberg nor Barclays approves 
+London Stock Exchange Group plc and its group 
+or endorses this material, or guarantees the accuracy 
+undertakings (collectively, the “LSE Group”). © LSE 
+or completeness of any information herein, or makes 
+Group 2021. FTSE Russell is a trading name of certain 
+any warranty, express or implied, as to the results 
+of the LSE Group companies. FTSE Europe ex UK is 
+to be obtained therefrom and, to the maximum 
+a trade mark of the relevant LSE Group companies 
+extent allowed by law, neither shall have any liability 
+and is/are used by any other LSE Group company 
+or responsibility for injury or damages arising in 
+under license. All rights in the FTSE Russell indexes 
+connection therewith. 
+or data vest in the relevant LSE Group company 
+which owns the index or the data. Neither LSE Group  TOPIX – Tokyo Stock Exchange, Inc.
+nor its licensors accept any liability for any errors 
+Copyright ©2021 Sustainalytics. All rights reserved.  
+or omissions in the indexes or data and no party 
+The section on page 26 may be based on information 
+may rely on any indexes or data contained in this 
+developed by Sustainalytics, a leading independent 
+communication. No further distribution of data from 
+ESG and corporate governance research, ratings 
+the LSE Group is permitted without the relevant LSE 
+and analytics firm operating for over 25 years and 
+Group company’s express written consent. The LSE 
+supporting investors around the world with the 
+Group does not promote, sponsor or endorse the 
+development and implementation of responsible 
+content of this communication. The LSE Group is 
+investment strategies. 
+not responsible for the formatting or configuration of 
+ 
+this material or for any inaccuracy in T. Rowe Price 
+ 
+Associates’ presentation thereof.
+Information has been obtained from sources believed 
+to be reliable but J.P. Morgan does not warrant its 
+completeness or accuracy. The index is used with 
+permission. The Index may not be copied, used, or 
+distributed without J.P. Morgan’s prior written approval. 
+Copyright © 2021, J.P. Morgan Chase & Co. All rights 
+reserved.
+   
+| 44
+Foreword 2020   Our ESG Investing  ESG Integration   Focus Themes   Corporate  Proxy Voting  Collaborations  Resources
+in Review Approach  in Action Engagement 
+Important Information
+This material is provided for informational purposes only and is not intended to be investment advice or a 
+recommendation to take any particular investment action.  
+The views contained herein are those of the authors as of May 2021 and are subject to change without notice; 
+these views may differ from those of other T. Rowe Price associates.  
+This information is not intended to reflect a current or past recommendation concerning investments, investment 
+strategies, or account types, advice of any kind, or a solicitation of an offer to buy or sell any securities or 
+investment services. The opinions and commentary provided do not take into account the investment objectives 
+or financial situation of any particular investor or class of investor. Please consider your own circumstances before 
+making an investment decision.
+Information contained herein is based upon sources we consider to be reliable; we do not, however, guarantee its 
+accuracy. Actual future outcomes may differ materially from any estimates or forward-looking statements made.
+Past performance is not a reliable indicator of future performance. All investments are subject to 
+market risk, including the possible loss of principal. All charts and tables are shown for illustrative purposes 
+only. International investments can be riskier than U.S. investments due to the adverse effects of currency 
+exchange rates, differences in market structure and liquidity, as well as specific country, regional, and economic 
+developments. The risks of international investing are heightened for investments in emerging market and frontier 
+market countries. Emerging and frontier market countries tend to have economic structures that are less diverse 
+and mature, and political systems that are less stable, than those of developed market countries. Fixed income 
+securities are subject to credit risk, liquidity risk, call risk, and interest-rate risk. As interest rates rise, bond 
+prices generally fall. Investments in high-yield bonds involve greater risk of price volatility, illiquidity, and default 
+than higher-rated debt securities. Impact investing or ESG strategies may not succeed in generating a positive 
+environmental and/or social impact. There is no assurance that any investment objective will be achieved.
+T. Rowe Price Investment Services, Inc., distributor, T. Rowe Price mutual funds. T. Rowe Price Associates, Inc., 
+investment advisor. 
+© 2021 T. Rowe Price. All rights reserved. T. ROWE PRICE, INVEST WITH CONFIDENCE, and the bighorn sheep 
+design are, collectively and/or apart, trademarks of T. Rowe Price Group, Inc.  
+   
+| 45
+T. Rowe Price focuses on delivering 
+investment management excellence  
+that investors can rely on—now and  
+over the long term.
+CCON0071529 
+202105-1602231

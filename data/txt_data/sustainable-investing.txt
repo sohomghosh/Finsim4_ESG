@@ -1,0 +1,3213 @@
+
+Sustainable 
+investing: 
+fast-forwarding its evolution 
+February 2020
+home.kpmg/sustainableinvesting
+Acknowledgments
+This report is a joint effort, involving KPMG International, CREATE-Research, AIMA 
+and CAIA.
+It examines in detail sustainable investing and its impact on the alternative  In the middle 
+investment industry. Focusing on hedge funds and institutional investors, together 
+of difficulty lies 
+with best practice from the asset management sector, the report investigates how 
+sustainable investing is gathering momentum across the investment universe. opportunity. 
+1
+Our foremost thanks go to some 135 institutional investors, hedge fund managers, 
+long only managers and pension consultants in 13 countries in all the key regions,  Albert Einstein
+who participated in the research on which this report is based.
+We would also like to offer our special thanks to those CEOs, CIOs and board 
+directors who participated in our face-to-face structured interviews. Their insights  Executive 
+and foresights helped to produce a clear vision of the future of their industry. summary
+Finally, special thanks also go to the members of the project team, editorial 
+board and other colleagues around the world who helped us in carrying 
+out this research: in particular Dmitriy Ioselevich from 17 Communications, 
+Christina Farrace from KPMG International, Dylan Watson and Sarah Wium from 
+KPMG in the Cayman Islands, Tom Kehoe and Jack Inglis from AIMA, William J. Kelly 
+from CAIA Association, and Lisa Terrett, Anna Godden and Dr. Elizabeth Goodhew at 
+CREATE-Research.
+Anthony Cowell  Amin Rajan  
+Partner  CEO  
+Head of Asset Management   CREATE-Research  2
+KPMG in the Cayman Islands
+The rise of ESG 
+in the hedge 
+fund industry
+Editorial board
+Darina Barrett (KPMG in Ireland) Bonn Liu (KPMG in Hong Kong SAR)
+Ravi Beegun (KPMG in Luxembourg) Troy Mortimer (KPMG in the UK)
+Ben Blair (KPMG in the Cayman Islands) Tomas Otterström (KPMG in Finland and Sweden)
+Tom Brown (KPMG in the UK) Rebecca Palmer (KPMG in the Cayman Islands)
+Jack Inglis (AIMA) Riikka Sievänen (KPMG in Finland)
+Dmitriy Ioselevich (17 Communications) Jim Suglia (KPMG in the US) 3
+Tom Kehoe (AIMA) Andrew Weir (KPMG in China)
+William J. Kelly (CAIA Association) Greg Williams (KPMG in the US)
+The rise of 
+sustainable 
+investing
+i Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Geographical coverage of research 
+participants
+Australia  Luxembourg 
+Belgium Netherlands
+Canada Sweden 
+Denmark Switzerland
+1
+France UK
+Germany US
+Hong Kong (SAR), China 
+Executive 
+summary
+2
+The rise of ESG 
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+ii Sustainable investing: fast forwarding its evolution                             
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+1 2
+1
+Executive 
+summary
+The rise of ESG in the hedge 
+fund industry  19
+How are managers advancing? 
+1. Key drivers  21 2
+2. Key constraints  27
+3. Emerging best practice   30
+3
+The rise of ESG 
+in the hedge 
+Executive summary  1 fund industry
+Introduction and aims
+Report highlights  3
+Headline findings   4
+Part I. Hedge funds: a progress report
+1. Institutional investors are driving the 
+ESG agenda  4
+2. ESG investing faces various obstacles  6
+3
+3. Perfection cannot be the enemy of progress  8
+4. Best practice can shift the needle  10
+Part II. Early adopters: their story The rise of sustainable investing  36
+1. Sustainable investing is about creating  What lessons can be learned from early adopters?  The rise of  
+businesses of enduring value  13 sustainable 
+1. Progress along the Spectrum of Capital  38 investing
+2. Capital markets are slow to price 
+in sustainability risks  15 2. Factors slowing progress  43
+3. Best practice is emerging  16 3. Developing best practice  48
+iii Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Executive summary
+1
+Introduction and aims
+11
+EExxeeccuuttiivvee  
+ssuummmmaarryy
+2
+The rise of ESG 
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+1 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+The EU set out its landmark legislative  This research report highlights the 
+plans to deliver carbon neutrality by  lessons learned so that others can 
+2050: yet another defining moment  benefit from them. In the process, it 
+Globalization has 
+when one of the three key global regions  explores three issues. 
+became the first to make such a bold legal  been the engine 
+—  What is the current state of progress 
+commitment. 
+in implementing sustainable  of global growth. 
+Before then, in the last decade, various  investing?
+But it has, as a side 
+governments worldwide had enacted 
+—  Why is the pace of progress being 
+over 500 new measures to promote  effect, inflicted much 
+held back by various barriers? 
+environmental, social and governance 
+damage on certain 
+issues (ESG).  —  How are these barriers being tackled 
+on the ground by evolving best  communities and their 
+Given the magnitude of the task, various  11
+practice? 
+players are involved: governments,  environment. 
+regulators, capital markets, businesses  Focusing on North America, Europe 
+and consumers; and they are aided  and, to a lesser extent, Asia Pacific,  A US pension plan
+and abetted by green technologies and  our research method has targeted two 
+business model innovations.  separate constituencies.  EExxeeccuuttiivvee  
+ssuummmmaarryy
+This survey report focuses on capital  —  Hedge fund managers and 
+markets in general and sustainable  their institutional clients: via 
+investing in particular.  two separate electronic surveys, 
+bolstered by structured interviews. 
+The latter can best be described as an 
+This group accounted for 
+evolutionary investment journey ABC: 
+US$1.65 trillion of assets. 
+(A) avoid harm and mitigate ESG risks; 
+(B) benefit all stakeholders; and  —  Early adopters: via a structured 
+(C) contribute solutions to societal  interview survey to hear the story 
+problems. This definition embraces  from C-suite executives from 
+approaches that variously come  a sample of large institutional 
+under the generic headings of ESG,  investors, and global hedge fund 
+2
+responsible investing and impact  and long only asset managers, with 
+investing. Throughout this report,  US$4.6 trillion of assets. 
+sustainable investing is based on this 
+The geographical coverage of 
+definition, except where ESG has been 
+respondents in the two constituencies 
+more prevalent. Both are now widely 
+is given in the table on page ii.  The rise of ESG 
+viewed as smarter ways of investing. 
+in the hedge 
+Detailed results are given in Sections 2 
+Institutional investors were the original  fund industry
+and 3, respectively.
+early advocates of sustainable investing, 
+working initially with specialist asset  In the rest of this section, our headline 
+managers. While some hedge funds  findings are organized under two 
+were early adopters, the overall hedge  distinct parts, covering two distinct 
+fund industry's advance has been  questions. 
+incremental thus far. This is now 
+—  How far have hedge fund managers 
+changing as: their investors demand the 
+progressed along the ESG journey?
+adoption of ESG into the investment 
+process; the industry recognizes the  —  What are the key lessons they and 
+potential for alpha generation through  others can learn from the early 
+3
+ESG factors; and regulators force hands  adopters? 
+through new rules.
+The rise of  
+sustainable 
+investing
+2 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Report highlights
+Hedge fund managers’ survey — Key data points
+85% 55% 15% 63%
+11
+Institutional investors  ESG-oriented hedge  Hedge fund managers  Progress hampered by 
+are the biggest drivers of  funds continue to target  have embedded ESG  lack of robust templates, 
+demand for ESG-oriented  alpha returns, while  factors across their  consistent definitions and 
+EExxeeccuuttiivvee  
+hedge funds  managing fat-tailed  strategies reliable data
+ssuummmmaarryy
+far-off risks
+Institutional investors’ survey — Key data points
+44% 34% 75% 49%
+2
+ESG-oriented hedge  ESG is material to the  Too early to decide  Lack of consistent quality 
+funds can deliver  financial performance of  whether sustainable  data is a challenge in the 
+alpha and also manage  investee companies investing delivers double  adoption process
+The rise of ESG 
+fat-tailed far-off risks bottom-line outcomes
+in the hedge 
+fund industry
+Early adopters’ narrative — Key messages
+Markets are slow to  A new infrastructure  Active Ownership  Savvy 
+price in sustainability  of skills, data and  2.0 is emerging as  implementation of 
+risks due to their  technology is  the best practice  sustainability factors  3
+excessive focus on  creating tailwinds for  model for effective  is vital for achieving 
+short-termism sustainable investing engagement the expected 
+outcomes
+The rise of  
+sustainable 
+investing
+3 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Headline findings
+Part I. Hedge funds: a progress report
+1 Institutional investors are driving the ESG agenda
+Having established a good track record  Thus, the traditional risk–return 
+in promoting good governance among  equation is being rewritten to include 
+their investee companies, hedge fund  ESG factors. This, in the belief that it is 
+ESG is no longer a  11
+managers are advancing in other areas  now becoming material to investment 
+of ESG. Some are leading, others are  returns, as our societies tackle  nice-to-have; it’s a 
+catching up. The advance is principally  environmental and social challenges 
+must-have. 
+driven by institutional investors and their  such as climate change, water scarcity 
+consultants (Figure 1.1).  and loss of biodiversity.
+A global alternative  EExxeeccuuttiivvee  
+Until fairly recently, these investors have  For their part, hedge fund managers 
+investment firm  ssuummmmaarryy
+been mostly focused on uncorrelated  are well placed to respond on account 
+absolute returns. They now want their  of their deep talent pool, technological 
+investments to target double bottom- capabilities, nimble investment 
+line benefits: do well financially by doing  strategies and activism track record. 
+good socially and environmentally, while  Their short-selling expertise has always 
+promoting high standards of governance  been valued in encouraging their 
+and avoiding reputational risk. investee companies to up their ESG 
+game. 
+Specifically, they want their hedge 
+fund managers to not only screen out  The transition is a double-edged sword, 
+activities such as tobacco, defence  however. It offers opportunities by 
+weapons, poor labor practices, and  promoting new ‘green’ industries, but it 
+2
+environmental pollution but they  is also fraught with fat-tailed far-off risks 
+also want them to target positive  that are hard to model statistically, for 
+environmental, social and governance  lack of historical precedence. 
+outcomes, on top of the financial ones. 
+The rise of ESG 
+in the hedge 
+Figure 1.1 Who is driving interest in ESG investing? fund industry
+Institutional investors 85%
+Institutional consultants 39%
+Internal stakeholders 30%
+HNW investors 19%
+3
+Politicians or regulators 13%
+Industry trade bodies 6%
+The rise of  
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+sustainable 
+investing
+4 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+In our surveys, 35 percent of hedge  opportunities to generate alpha, while 
+fund managers and 34 percent of  offering a more defensive portfolio 
+their institutional clients support the  by looking beyond the blind spots as 
+materiality argument — as shown in  markets are slow to price in ESG risks. 
+Section 2. 
+In response, hedge fund managers are 
+Indeed, 44 percent of institutional  deploying ESG factors to target three 
+investors go a step further and base  goals: alpha returns, beta returns and 
+their investments in ESG hedge  risk management (Figure 1.2).
+funds with the view that they offer 
+Figure 1.2 How are ESG factors being used? 11
+38%
+EExxeeccuuttiivvee  
+ssuummmmaarryy
+55%
+7%
+Target alpha 2
+Target beta
+Manage fat-tail/far-off risks
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+The rise of ESG 
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+55 SSuussttaaiinnaabbllee  iinnvveessttiinngg::  ffaasstt -ffoorrwwaarrddiinngg  iittss  eevvoolluuttiioonn 
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+2
+  ESG investing faces various obstacles
+a. Data problems
+In terms of the familiar life cycle, hedge  A number of factors have conspired 
+fund managers’ advance into ESG is  against progress thus far.  ESG should come 
+happening incrementally (Figure 1.3). 
+Far and away, the most important one  with a story. It can’t 
+Currently, 15 percent of our surveyed  is the lack of quality and consistent data 
+just be about financial 
+managers define themselves as at  on ESG factors, as cited by 63 percent 
+the ’mature‘ stage, where ESG is  of our hedge fund respondents  performance. 
+implemented across the firm via  in Section 2. Another notable one 
+11
+appropriate policies, committees,  has been confusion over industry  A US alternative 
+research and data.  terminology (36 percent).  investment firm
+A further 44 percent are at  While there is widespread acceptance 
+the ‘in progress’ stage, where  that the currently available data suffer 
+implementation is piecemeal across the  from many shortcomings — such as  EExxeeccuuttiivvee  
+business, while a significant 31 percent  inconsistent company disclosures,  ssuummmmaarryy
+are still at the ‘awareness-raising’ stage,  voluntary reporting, opaque research 
+leaving the remaining 10 percent at the  methodologies and unreliable ratings — 
+‘no implementation to date’ stage.  there is also recognition that the quality of 
+the available data is improving constantly.
+Figure 1.3  Where is your organization currently in the ESG-implementation life-cycle?
+10%
+15%
+2
+The rise of ESG 
+31% in the hedge 
+fund industry
+44%
+No implementation to date
+Awareness-raising
+In progress 3
+Mature already
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+The rise of  
+sustainable 
+investing
+6 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+b. Divided views
+When it comes to the quality of ESG  available data or overwhelmed by 
+data, hedge fund managers‘ views  the challenge of filtering out the 
+differ (Figure 1.4).  noise. Inconsistencies in data and 
+company disclosures make it difficult 
+On the plus side are managers who 
+to incorporate them into research and 
+take an opportunistic or inquisitive 
+investment processes. Extracting 
+stance in the belief that the data 
+meaningful alpha signals from them 
+problems are nothing more than 
+remains a herculean task for some 
+disguised opportunities to deliver alpha 
+managers. 
+by exploiting the resulting market 
+inefficiencies. Unstructured data  Hence, they are cautious about making 
+sets provide an opening to employ  bets on strategies not tested by time or  11
+machine learning and other quantitative  events over extended periods. 
+solutions to better understand the 
+Finally, apart from the data issues, 
+market.
+two other factors were also identified 
+Indeed, many of their institutional  by a minority of surveyed hedge fund 
+EExxeeccuuttiivvee  
+clients believe that such inefficiencies  managers as slowing progress. 
+ssuummmmaarryy
+will be a key source of alpha, which 
+Shown in Section 2, the factors are: 
+hedge fund managers are well placed 
+ESG is not relevant to the investment 
+to harvest on account of three inherent 
+strategies being pursued (25 percent) 
+advantages: their deep talent pool; 
+and lack of quality investment 
+their widely acclaimed expertise 
+opportunities (21 percent). 
+in shareholder activism; and their 
+sophisticated trading and machine  The implications are clear: not all hedge 
+learning algorithms, which are geared  fund strategies are created equal from 
+towards real-time investing. an ESG perspective because not all 
+managers see ESG in the same light. 
+On the opposite side are managers 
+who are either skeptical about the 
+2
+Figure 1.4  Which of the following best describes your organization’s attitude 
+towards ESG data?
+9%
+The rise of ESG  
+in the hedge 
+25%
+fund industry
+47% 19% 3
+Opportunistic
+Inquisitive The rise of  
+sustainable 
+Skeptical
+investing
+Overwhelmed
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+7 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+3 Perfection cannot be the enemy of progress 
+a. ESG approaches
+That ESG is coming into the hedge fund  traction lately as management teams 
+space is not in doubt; nor that it is coming  have been slow to react to both ESG  ESG takes time, 
+on the back of a variety of approaches,  challenges and opportunities. 
+patience and skill. 
+reflecting the heterogeneity of hedge 
+While implementing ESG factors into the 
+fund strategies (Figure 1.5).
+investment process, portfolio managers 
+A global alternative 
+Three approaches have been used by at  make various assumptions about their 
+investment firm
+least three in every 10 surveyed hedge  relevance, weight and intercorrelation. 
+11
+fund managers with many of them  These may or may not be correct. The 
+adopting more than one approach. underlying relationships they seek to 
+establish may or may not remain stable. 
+The first one is ESG integration 
+The forecasts they seek to build on may 
+(52 percent). This has involved 
+or may not be viable. 
+identifying material factors and  EExxeeccuuttiivvee  
+incorporating them into traditional  To complement the exercise, therefore,  ssuummmmaarryy
+investment processes. In most cases,  shareholder engagement is seen as 
+such factors are treated on a par with  a vital tool that serves two purposes: 
+financial factors.  to enrich the investment process with 
+firsthand knowledge about the investee 
+The second approach is negative 
+company; and to steer the investee 
+screening (50 percent). This involves 
+company into the ESG space via 
+excluding stocks that sit uncomfortably 
+discussion, dialogue and proxy voting.
+with the value system of investors as 
+mentioned earlier. Given the clarity of  For their part, investee companies need 
+exclusion criteria, this approach has  to have a clear ESG policy as well as 
+been the easiest one to implement.  mechanisms for monitoring outcomes.
+2
+The third one is shareholder engagement 
+(31 percent), which has been gaining 
+Figure 1.5  Which of the following best describes your organization’s strategy when 
+The rise of ESG  
+it comes to ESG?
+in the hedge 
+fund industry
+52%
+50%
+31%
+19% 3
+12%
+5%
+5%
+Sustainability Negative Shareholder Impact Positive Thematic The rise of  
+integration screening engagement investing screening investing sustainable 
+investing
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+8 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+b. ESG outcomes
+Against this background, when asked  report ‘positive’ outcomes; 14 percent 
+to describe the performance outcomes  report ‘negative’ outcomes; and the 
+of their organization’s ESG-oriented  remaining 75 percent saying neither. 
+investments so far, the verdict from 
+In both cases, the implied message 
+both our surveys is broadly similar 
+is simple: it’s too soon to tell, given 
+(Figure 1.6). 
+the rather short track record of these 
+Taking them in turn, 29 percent of  investments. 
+hedge fund managers in our survey 
+However, our post-survey interviews 
+report ‘positive’ outcomes and none 
+also indicate that the managers who 
+report ‘negative’ outcomes; leaving 
+took an early lead are not only meeting 
+the remaining 71 percent saying it is  11
+performance expectations via prime 
+neither positive nor negative. 
+mover advantage, they are also 
+As for their institutional clients, they  emerging as the ‘best in class’ across 
+appear less sanguine so far: 11 percent  the entire investment spectrum.
+EExxeeccuuttiivvee  
+ssuummmmaarryy
+Figure 1.6  Which of the following best describes the outcome of your 
+organization’s ESG-oriented investments so far?
+Hedge fund managers' survey Institutional investors' survey
+11%
+14%
+29%
+2
+The rise of ESG  
+71% in the hedge 
+fund industry
+75%
+Positive
+Uncertain
+Negative
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+3
+The rise of  
+sustainable 
+investing
+9 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+4 Best practice can shift the needle 
+Best practice in the ESG space is a  a. Guard against greenwashing 
+moving target. It’s no longer enough 
+The template of taxonomy and data that 
+for a hedge fund manager to rely on  As a firm, we have 
+sit at the heart of sustainable investing 
+exclusion screens. Increasingly, there is 
+is evolving, while institutional investors’  a strong view that 
+an expectation that investments should 
+interest in green issues has skyrocketed. 
+generate a positive (and measurable)  ESG integration 
+Hopes have run ahead of expectations. 
+ESG impact, while managing the 
+is at the core 
+inherent risks. The result has been greenwashing: 
+shortcuts taken by some managers  of sound risk 
+Additionally, as the hedge fund industry  11
+to repurpose their old funds with 
+becomes ever more institutionalized, its  management. 
+an ESG label without rejigging the 
+ESG practices are likely to attract much 
+underlying investment process. The 
+greater scrutiny.  A global alternative 
+problem is widespread right across 
+investment firm
+The business model of hedge funds  the entire investment industry. It is 
+EExxeeccuuttiivvee  
+will likely be dependent on delivering  largely attributed to the data problems 
+ssuummmmaarryy
+decent financial returns (and thus  mentioned earlier.
+generating performance fees). But it 
+As for hedge funds, 41 percent of 
+may be expected to deliver nonfinancial 
+respondents in our institutional investor 
+outcomes too, over time.
+survey report a ‘significant amount of 
+To fast-forward the ESG implementation  greenwashing’; 11 percent report ‘some 
+cycle, our survey identified four key  greenwashing’; and 48 percent are 
+enablers.  ‘not sure’. Those reporting a ‘minimal 
+amount’ is zero (Figure 1.7). 
+Figure 1.7  From the investor perspective, which of the following best describes your  2
+views about the extent of ‘greenwashing’ in the hedge fund industry at 
+this early stage as it embraces ESG investing?
+The rise of ESG  
+in the hedge 
+41%
+fund industry
+48%
+11% 3
+Significant amount of greenwashing
+Some amount of greenwashing
+Minimal amount of greenwashing
+The rise of  
+Not sure
+sustainable 
+investing
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+10 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+The concerted action now in progress  signatory, 17 percent are in the process  all. Of those who do, 23 percent use 
+by data vendors, index providers, asset  of becoming one and the remaining  the PRI framework and 11 percent use 
+managers and listed companies to  48 percent are not planning to do so in  customized metrics — as shown in 
+improve data quality and their definitional  the near future — as shown in Section 2.  Section 2.
+consistency is expected to ease the 
+Currently, 56 percent of managers  Yet, from the perspective of institutional 
+problem over time. The tighter regulatory 
+have a policy of embedding PRI into  investors, the problem seems far more 
+oversight on greenwashing is hastening 
+the cultural fabric of the business.  widespread: 85 percent of them state 
+the process, especially in Europe. 
+This is essential if managers are to  that their hedge fund managers do not 
+For their part, some institutional  enhance credibility, authenticity and  report on nonfinancial impacts. 
+investors also take a pragmatic view.  transparency. 
+Once again, the numbers indicate huge 
+As an investment elixir, ESG’s advance 
+The numbers in both cases leave  scope for improvement if hedge fund 
+requires them to accept that at least a 
+significant scope for increase in the  managers are to attract the rising tide   11
+part of today’s greenwashing reflects 
+next few years for strategies that are  of institutional money.
+the teething problems of a better form 
+amenable to ESG investing.
+of investing. Progress may come at 
+a price. In the meantime, they are 
+c.  Improve ESG reporting
+getting better at separating winners 
+EExxeeccuuttiivvee  
+from spinners.  Measurement and reporting on the 
+nonfinancial impact of investments  Integrity is critical. ssuummmmaarryy
+b.  Comply with industry codes  represent the next frontier for 
+If you’re going to 
+and principles sustainable investing, as investors and 
+regulators are stepping up demand for  call yourself an ESG 
+The UN-sponsored Principles for 
+timely and fuller disclosures. Hedge fund 
+Responsible Investment (PRI) are now  investor, it’s vital 
+managers need to stay ahead of the 
+widely adopted as an industry wide 
+curve to remain relevant in a world where  to have the right 
+standard — by asset managers and their 
+best practice is a moving target. 
+institutional clients alike.  processes in place. 
+Currently, more than half (57 percent) 
+Thirty-five percent of hedge fund 
+of the surveyed hedge fund managers  An impact investing 
+managers in our survey are a PRI 
+do not report on ESG performance at  consultant
+2
+The rise of ESG  
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+11 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+d. Adopt Active Ownership 2.0 the surveyed hedge fund managers 
+are already relying on shareholder 
+Hedge funds are ideally suited for 
+engagement to advance their ESG  
+shareholder activism that targets  Is this a magic 
+agenda — as shown in Section 2. 
+companies underperforming on 
+moment to remake 
+sustainability issues. Our interviews  However, except for high-profile proxy 
+show that there is a return premium in  cases, end-investors do not as yet  our business?
+helping an ESG laggard among investee  have a clear idea on what value is being 
+companies to become a leader.  generated by engagement activities due  A US hedge fund manager 
+to the lack of fuller details. Engagement 
+The emerging model shows that 
+reports need to carry far more 
+responsible ownership is an important 
+granularity than seems to be the general 
+part of the ESG toolkit that must be 
+practice currently.
+taken seriously. Indeed, 74 percent of  11
+To conclude this subsection, therefore, the overriding message 
+EExxeeccuuttiivvee  
+from the surveyed hedge fund managers and their institutional 
+ssuummmmaarryy
+investors is simple: ESG investing will likely continue to gain 
+traction in the hedge fund industry, duly taking into account that 
+some hedge fund strategies are more amenable to ESG than 
+others.
+ESG investing is not about jumping on the bandwagon; rather, it is 
+about seeking to deliver financial and nonfinancial outcomes while 
+managing the inherent risks.
+2
+The rise of ESG  
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+1122 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Part II. Early adopters: their story
+Sustainable investing is about creating businesses of 
+1
+enduring value 
+The ecosystem of capital markets is  As a result, early adopters have 
+evolving gradually towards sustainable  augmented their approaches by 
+investing. But it remains a slow process.  integrating key sustainability features 
+There are no shortcuts 
+Large institutional investors have  into their investment processes to 
+been at the vanguard, according to  achieve a double bottom-line: do  to sustainability. 
+11
+the three groups who participated in  well and do good, according to our 
+our interview survey for this section:  interviews with early adopters. Over  A Swedish institutional 
+institutional investors, large hedge fund  80 percent of their sustainability assets  investor
+managers and large long only managers.  are at this aspirational stage. 
+Their approaches extend beyond ESG 
+A minority have also ventured into  EExxeeccuuttiivvee  
+and cover sustainable investing in 
+private markets — private equity,  ssuummmmaarryy
+its broadest sense, as defined in the 
+infrastructure and private debt — to 
+introduction to this section. 
+target measurable societal outcomes on 
+top of the financial ones. 
+a. In the beginning
+In all cases, progress is driven by large 
+For early adopters, the journey started 
+institutional investors who are moving 
+with the exclusion of ‘sin’ stocks: shares 
+well beyond a green ‘do-gooder’ image, 
+in companies associated with activities 
+duly taking account of the multidecade 
+deemed unethical. 
+nature of their future liabilities. 
+Over time, it was recognized that 
+In deference to enlightened self-interest, 
+exclusion reduced the scope for 
+these investors are seeking to future-proof 
+diversification somewhat. In any case,  2
+their portfolios against hard-to-model risks 
+dumping ‘sin’ stocks yielded handsome 
+that are inherent in secular forces — like 
+profits to those who bought them 
+global warming, governance lapses, 
+without doing anything to pressure or 
+inequalities — that could pose existential 
+influence the ‘sinners’. 
+threats to investee companies.
+The rise of ESG  
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+13 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+b. Current journey —  creating a culture and belief that 
+sustainability is not just another 
+As a result, such investors are now 
+fad, but a sea change in the way 
+increasingly embedding sustainability  Sustainable investing 
+investing is to be done
+into the DNA of their own organization 
+requires a joined-up 
+and enjoining their asset managers to  —  harnessing the collective memory of 
+do the same in the emerging model of  the business via joined-up thinking  business.
+sustainability that focuses on a number  between the investment team and 
+of critical areas and their interlinkages  the stewardship team  A large US fixed income 
+(Figure 1.8). 
+manager
+—  ensuring that their portfolio 
+The model perceives capital markets  managers and research analysts 
+as an essential bridgehead to a more  develop the requisite expertise 
+purposive capitalism that delivers  into the dynamics of sustainability  11
+businesses of enduring value for  factors 
+their four key stakeholder groups: 
+—  encouraging regular engagement 
+shareholders, employees, customers 
+with investee companies, 
+and wider society.
+setting realistic expectations and 
+EExxeeccuuttiivvee  
+At this early stage, the model also  continuously monitoring progress.
+ssuummmmaarryy
+envisions sustainability as an evolutionary 
+These requirements impact on all 
+journey of experiential learning where 
+vital activities in the investment value 
+ideas beget ideas. It enjoins business 
+chain. So, the process is necessarily 
+leaders at asset management firms to set 
+evolutionary.
+the ‘tone at the top’ by: 
+Figure 1.8 Creating sustainability DNA in business models 
+Leadership
+2
+I n v estment tea
+m
+The rise of ESG  
+in the hedge 
+fund industry
+Research
+Beliefs Integration
+Monitoring Engagement
+3
+Collaboration
+m
+Stewardship t e a The rise of  
+sustainable 
+investing
+Culture
+Source: KPMG–CAIA–AIMA–CREATE Interview Survey 2020
+14 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+2
+Capital markets are slow to price in sustainability risks
+Three forces inherent in capital markets  institutional investors who are at the  c.  Tentative evidence of success 
+are slowing progress. Each is expected  vanguard of sustainable investing.  so far
+to weaken over time, as ever more 
+Under it, listed companies are  Evidence suggests that the early 
+investors switch from the old ways of 
+incentivized on short-term profits at  generation of investors in sustainability 
+investing that solely targeted financial 
+the expense of long-term growth.  are satisfied with their returns so far. But 
+returns.
+Some institutional investors believe  as the new wall of money has arrived, a 
+a. Steep learning curve of data that equity markets have, as a result,  critical question has come to the fore:  
+morphed from a source of raising  Is sustainability a risk factor?
+Currently, investors are enjoined to  investment capital for growing  11
+climb a steep learning curve because  companies to a vehicle for cash  Early adopters fall into two camps: 
+of a lack of the requisite data on three  distribution and balance sheet  believers and pragmatists. 
+foundational concepts in sustainable  management. Believers advanced three arguments. 
+investing: materiality, intentionality and 
+additionality.  Markets are no longer effective  —  Sustainability is a risk factor for sure;  EExxeeccuuttiivvee  
+conduits between savers planning  except that, so far, it is a compensated 
+ssuummmmaarryy
+Respectively, they seek to assess: for a decent retirement nest egg and  factor in Europe, but much less so in 
+—  how material are various  borrowers deploying savings to create  the US and Asia Pacific. 
+wealth, jobs, skills and innovation.
+sustainability factors to a company’s 
+—  The compensated element has 
+financial performance, such that  In the ‘new economy’, capital formation  varied over time and between 
+their inherent risks are managed? is mainly happening in the private  the three individual components: 
+—  does the company intend to act on  markets where transparency is low.  environment, social and governance. 
+Companies are staying private longer 
+them and ‘do good’ via its products, 
+—  The huge collective push from 
+and are mostly outside the public 
+services and interactions with wider 
+governments, international agencies 
+purview.
+society?
+and investors worldwide will reshape 
+—  does it generate societal benefits in  There may be other, deeper, causes  investor behaviors overtime. It is hard 
+addition to financial benefits?  that may lead to the perception  to believe that nothing will change  2
+or manifestation of increasing  after all that is happening now.
+For asset managers, while their  short-termism in the developed 
+sustainability policies are evolving  economies. These could include: the 
+rapidly, the requisite infrastructure of  move away from industries depending 
+data, skills and technology has yet to  on fixed capital expenditures to  The rise of ESG  
+catch up.  more service-oriented businesses in  in the hedge 
+mature economies; increased market  fund industry
+The problem is exacerbated by the fact 
+power of individual companies in 
+that there are no generally agreed upon 
+certain industries leading to excessive 
+guidelines on what constitutes a ‘good’ 
+profits and underinvestment; and 
+or ‘bad’ company. The result is twofold: 
+the deepening of global trade or an 
+greenwashing, as asset managers 
+increasing rate of the underlying 
+repurpose their old funds with 
+technological change.
+sustainability labels; or whitewashing, 
+as investee companies overstate their  All these factors could lead to changes 
+On the data front, 
+green credentials. Both are widespread  in the way our economies function 
+in developed markets. that are either harmless and a simple  progress may be 
+manifestation of reaching another  3
+exponential, but it is 
+b. Quarterly capitalism
+stage of economic development, or 
+The second force slowing down  potentially harmful but not necessarily  still not enough. 
+progress is the rise of ‘quarterly  related to capital market or financial 
+capitalism’, as identified by some  institutions' behavior. A Danish institutional investor 
+The rise of  
+sustainable 
+investing
+15 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Pragmatists, in turn, think that it is too  banks. Asset valuations have been 
+early to say, for two reasons.  lifted indiscriminately. Hence, the 
+true test of sustainability should 
+—  For any return driver to be treated  Just as it is foolhardy 
+not be judged by the assets it has 
+as a risk factor, it needs a long 
+attracted so far, but by how resilient  to drive a car by looking 
+performance history over multiple 
+these flows will be when the next  
+cycles in multiple regions, within a  in the rearview mirror, 
+downturn comes. 
+replicable investment process. Data 
+so must investors look 
+on sustainable investing thus far fall  Both camps agree on one point, though: 
+short of these criteria.  given the powerful tailwinds from  forward and factor 
+institutional investors, sustainability  
+—  Capital markets have enjoyed the  in change. The world 
+will be the new frontier of innovation  
+longest bull run in history, thanks to 
+in the 2020s.  does not stand  
+the easy money policies of central  11
+still.
+A UK asset manager 
+EExxeeccuuttiivvee  
+3
+Best practice is emerging ssuummmmaarryy
+The challenges outlined above have  are also collaborating with not-for-profit 
+intensified efforts to develop best  institutions globally to develop 
+practices that can put sustainability  methodologies on how to measure, 
+at the heart of investing. Progress is  report, benchmark and improve 
+evident in three areas.  sustainability performance. 
+For their part, data vendors are 
+a.  Data: room for improvement
+experiencing rapid consolidation 
+Different constituencies are being  and innovation, as competition has 
+encouraged in a concerted action to  intensified. Asset managers, too,  2
+tackle what is now sustainability’s  are developing their own proprietary 
+Achilles’ heel: the lack of a robust  methodologies in order to gain an 
+template with consistent definitions and  information edge on the mispricing of 
+reliable data on how companies score  assets. Learning-by-doing remains a 
+on various sustainability factors.  powerful tool of progress. The rise of ESG  
+in the hedge 
+From the investor perspective, for 
+b.  Engagement: the new alpha  fund industry
+example, climate change is an inexact 
+behind alpha
+science. Various risks identified by 
+the Task Force on Climate-related  Best practice in sustainability involves 
+Financial Disclosures have made it  enriching the current infrastructure 
+hard for investors to establish a direct  of data, skills and technology 
+line of sight between climate science  with shareholder activism that 
+and investment outcomes. They are  targets real-world outcomes at scale. 
+fraught with as many unknowables as 
+For those investment strategies that 
+unknowns. 
+can do so, their principal tool is direct 
+Both institutional investors and asset  engagement.
+3
+managers are collaborating with over 
+150 data vendors to up their game. They 
+The rise of  
+sustainable 
+investing
+16 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+It rests on the belief that sustainability  by seeking progress in three 
+only works if company boards are not  mutually reinforcing related areas: 
+only called to account but also held  communication, learning and internal 
+Effective 
+accountable. They must: politics (Figure 1.9). 
+engagement 
+—   justify their decisions and be  These approaches seek to promote new 
+responsible for their outcomes  learning in the belief that ideas breed  requires deeper 
+ideas and only improved collaboration 
+—   create an agenda for change and  communication, 
+can deliver the goals of all stakeholders. 
+acceptable standards that are 
+continuous learning 
+consistent with its delivery  Indeed, some investors believe 
+that engagement enables them to  and minimal internal 
+—  engage in proxy voting to ensure 
+develop structural capital that offers 
+that investors’ voices are heard in  politics.
+an informational edge: ever-deepening  11
+board-level deliberations 
+knowledge about how sustainability 
+—  foster year-round dialogue with  is actually being implemented on the  A large German asset 
+investee companies beyond  ground via positive feedback loops.  manager
+shareholder meetings. 
+Indeed, as they have moved up the 
+EExxeeccuuttiivvee  
+learning curve, asset managers have 
+The days when engagement was a  ssuummmmaarryy
+realized the power of engagement — 
+box-ticking exercise using a boilerplate 
+often in collaboration with other investors 
+narrative are over. 
+who have, for example, worked closely 
+Asset managers are increasingly  with energy giants on plans to reduce 
+expected to act as agents of change  their carbon emissions.
+Figure 1.9 Engagement that goes beyond the hype of sustainability
+2
+Communication Learning
+ — Promoting a free exchange   — Going behind the dry 
+  of ideas   financial numbers
+ — Setting mutually   — Gaining insights into the harsh  
+  demanding expectations   reality on the ground
+The rise of ESG  
+ — Building trusting relationships  — Building structural capital  in the hedge 
+  via year-round conversations   that provides an informational 
+fund industry
+ — Engaging in proxy voting   edge on sustainability issues
+ — Devising collaborative 
+  solutions
+Internal politics
+ — Understanding the internal 
+politics and constraints within 
+both parties
+ — Devising approaches that  3
+navigate the resulting 
+complexity
+ — Minimizing compliance 
+box-ticking
+ — Bridging the rhetoric–reality  The rise of  
+gap around sustainability  
+sustainable 
+investing
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+17 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+A more pragmatic ‘carrot and stick’  —  Integration: develop an integrated 
+approach to engagement is coming into  core–specialist portfolio to give 
+view. Under it, if engagement does not  investors greater choice and diversity 
+By the end of the 
+work, asset managers will resort to the 
+—  Clarity: deliver transparency that 
+nuclear option — divestment.  2020s, sustainability 
+sets a direct line of sight between the 
+sustainability policy of the manager  will be the gold 
+c. I mplementation: upping the 
+and its activities
+game  standard of  
+—  Articulation: demonstrate how 
+Except for large institutional investors,  investing.
+sustainability is integrated into 
+their peers do not as yet have the 
+covenants that currently disallow 
+resources to do in-house investing and/
+voting at AGMs or meaningful  A Belgian asset manager
+or engage directly with their investee 
+engagement  11
+companies — they rely on their asset 
+managers. Hence, sustainability  —  Interest alignment: have an 
+capabilities are the most important  equitable sharing of pain and gain 
+criteria in manager selection.  with clients, as well as common 
+beliefs and time horizons.
+Asset managers are thus enjoined to seek 
+EExxeeccuuttiivvee  
+continuous improvements in five areas:
+ssuummmmaarryy
+—  Data: step up pressure for quality 
+improvements in the supply chains of 
+sustainability data
+To conclude, therefore, early adopters see sustainable investing as 
+serving their own long-term enlightened self-interests as much as 
+those of wider society. 
+Progress so far confirms that sustainability is a long journey of 
+experiential learning in which a series of small steps will add up to  2
+a giant leap by the end of this decade.
+The rise of ESG  
+in the hedge 
+fund industry
+3
+The rise of  
+sustainable 
+investing
+18 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+The rise of ESG in the hedge 
+2
+fund industry 
+How are managers advancing?
+1
+Executive 
+summary
+22
+TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+3
+The rise of  
+sustainable 
+investing
+19 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+As in the long only space, so in the hedge fund industry: there is no one-size-fits-all approach to ESG. 
+Different strategies and fund sizes demand different approaches. This is not a flaw: it is an important 
+characteristic of ESG. There is room for everyone, including short sellers. 
+But this range of approaches brings its own challenges: a lack of quality data; a lack of uniform 
+disclosure criteria; a shortage of knowledge or expertise; difficulty in finding the right investment 
+opportunities; and lack of internal consensus. These and other challenges are all surmountable, with 
+enough time and effort. 
+Advancing in the implementation cycle requires time, patience and skill. Hedge fund managers 
+must learn by doing, but fortunately, they tend to be fast adopters and quick learners. Hedge fund 
+1
+managers should seek to collaborate with peers, competitors and specialist global networks to catch 
+up in the ESG space. 
+Best practice is a moving target. Data are getting better. Shareholder engagement is getting stronger. 
+Executive 
+ESG metrics and reporting frameworks are becoming standardized. Talent is becoming more 
+summary
+accessible. Tailwinds are gathering behind the adoption process. 
+Information in this section is based on  fund managers can offer ESG-oriented 
+two electronic surveys carried out for this  investors, especially when compared 
+report, involving hedge fund managers  with many of their long only peers.
+We are seeing the 
+and their institutional clients, and is 
+—  Talent: hedge fund managers are 
+bolstered by post-survey interviews.  hedge fund industry 
+well known for the breadth and 
+Their focus was on ESG investing.
+depth of their talent pool, whether  evolve from a mindset 
+When it comes to ESG, hedge funds  it’s portfolio managers, traders, 
+of resistance to one of  22
+were an outlier. Whereas their peers in  researchers or, increasingly, 
+other investment sectors were moving  computer scientists adoption on ESG. 
+apace, the hedge fund industry was a 
+—  Technology: they have long 
+relative latecomer. 
+harnessed the power of technology  An institutional consultant 
+There are a variety of contributing  by building sophisticated trading  TThhee  rriissee  ooff  EESSGG   
+factors, ranging from skepticism about  and machine-learning algorithms  iinn  tthhee  hheeddggee  
+the value of ESG, to confusion over  that permit real-time investment  ffuunndd  iinndduussttrryy
+industry terminology, to legitimate  decisions
+challenges incorporating ESG factors. 
+—  Flexibility: the legal structure of 
+The Spectrum of Capital, discussed in  a hedge fund makes it one of the 
+Section 3, is an appropriate parallel for  most flexible investment vehicles, 
+the wide diversity of strategies in the  investing across asset classes and 
+hedge fund industry. Indeed, even the  using derivatives, leverage and 
+term ‘hedge fund’ is not a particularly  shorting, as needed 
+useful identifier for what a hedge fund 
+—  Activism: many hedge fund 
+is or does. No two hedge funds are the 
+managers made their name by 
+same, and therefore, no two approaches  3
+engaging in public proxy fights and 
+to ESG either should or will be the same.
+other shareholder battles, and have 
+Yet, our post-survey interviews identified  extensive experience in the art of 
+several potential advantages that hedge  shareholder engagement. 
+The rise of  
+sustainable 
+investing
+20 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+However, these advantages will only  C. What are the emerging best practices 
+come to the forefront if hedge fund  that hedge fund managers can adopt 
+managers take concrete steps to  to fast-forward their progress in the 
+We see growing 
+embrace ESG across the organization.  implementation cycle?
+evidence of 
+Accordingly, this section seeks to  These questions are separately 
+answer three key questions. considered in the next three subsections  immediate or short-
+in order to highlight how hedge fund 
+A. What are the key drivers of the  term value creation in 
+managers are progressing towards a 
+increased interest in ESG?
+sustainable future. sustainability rather 
+B. What are the key constraints 
+than just long term.
+preventing its faster adoption within the 
+hedge fund industry?
+1
+An institutional consultant 
+1. Key drivers 
+Executive 
+summary
+It is clear that there is growing interest  ‘no change‘ in interest. Not a single 
+in ESG-oriented strategies, products and  survey respondent reported decreased 
+funds across the hedge fund industry,  interest when given the choice: a clear 
+according to our survey of hedge fund  sign that sustainability is a credible 
+managers (Figure 2.1): 84 percent of  phenomenon in the hedge fund 
+them reported an increase in interest  industry. 
+over the preceding 12 months, with 
+Further analysis revealed two key drivers 
+more than half (58 percent) citing it as 
+to be at work: growing investor demand 
+a ‘significant increase’. The remaining 
+and growing evidence of the materiality 
+16 percent said that there was  22
+of ESG, as shown in Figure 2.2.
+Figure 2.1  How would you describe the change in interest or demand in your 
+organization’s ESG capabilities or strategies over the last 12 months?
+16% TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+26%
+58%
+3
+Significant increase
+The rise of  
+Modest increase sustainable 
+No change investing
+Decrease
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+21 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+a. Growing investor demand launched dedicated ESG funds, while 
+others have crafted policies that clarify 
+Like in other parts of the asset 
+how sustainability factors were taken 
+management industry, the initial  Hedge fund managers 
+into consideration as part of their 
+wave of interest in sustainability in 
+investment processes. should focus on the 
+the hedge fund industry has come 
+from institutional investors and their  While the scope and scale of the  economics of ESG, 
+consultants, as cited by 72 percent  response to investor demand seems 
+not its morality. 
+of surveyed hedge fund managers  to vary widely across the hedge fund 
+(Figure 2.2).  industry, the speed of the response 
+An institutional consultant
+has been notable. Almost every hedge 
+These institutional investors — and 
+fund manager who participated in 
+their consultants — have been vocal 
+our post-survey interviews had made 
+in demanding that their portfolios  1
+improvements to their ESG programs 
+not be exposed to the so-called ‘sin’ 
+(or started them from scratch) in the 
+industries like fossil fuels or weapons 
+last 12 months, potentially signaling a 
+manufacturing, with a growing number 
+coming sea-shift across the industry.
+of them also seeking to use their 
+capital to generate positive social and  This is further corroborated by a  Executive 
+environmental outcomes. recent survey of over 600 institutional  summary
+investors, evenly split among the US, 
+Hedge fund managers, accordingly, 
+the UK, Canada, Germany, Japan and 
+have begun to respond by making 
+the Netherlands, with US$9 trillion in 
+their investments more ESG-oriented. 
+combined assets. The survey provides 
+Some of our survey respondents have 
+further insights into investor thinking1. 
+Figure 2.2  What are your organization’s biggest drivers when making ESG-oriented 
+investments?
+Hedge fund managers' survey 22
+Growing institutional investor and/or consultant demand 72%
+Alignment with the corporate mission or values 37%
+Evidence of the materiality of sustainability issues 35% TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+Opportunities to generate alpha 22% ffuunndd  iinndduussttrryy
+Competitive pressure 19%
+Regulatory or political pressure 16%
+Attracting and retaining talent 7%
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+3
+The rise of  
+sustainable 
+investing
+22 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+It showed that: a positive correlation between ESG and 
+financial performance, and just 8 percent 
+—  84 percent of respondents agree 
+reported a negative correlation2. 
+that maximizing shareholder returns 
+can no longer be the primary goal of  Of course, there is not yet conclusive 
+the corporation: business leaders  evidence that there is a positive 
+must commit to balancing the needs  correlation between ESG and 
+of other stakeholders performance. Some have even 
+vocally argued that there is a negative 
+—  87 percent of respondents say  
+correlation, and that sustainability 
+their organizations have changed 
+considerations may actually hurt portfolio 
+their voting and/or engagement 
+performance — at least when applied 
+policies to be more attentive to ESG 
+over shorter time horizons. 
+risks 1
+While there may be some validity to 
+—  86 percent would consider investing 
+these arguments, there are clearly 
+with a lower rate of return, especially 
+a growing number of hedge fund 
+if it meant investing in a company 
+managers who have bought into ESG as 
+that addresses sustainable or impact 
+a way to generate outsized returns. The  Executive 
+investing considerations
+materiality debate has also turned the  summary
+—  61 percent have increased their  spotlight on the role of shorting in ESG 
+investment allocation to companies  investing (case study 2A).
+that excel in ESG factors and more 
+than half of investors believe that  c. Other factors 
+ESG practices positively impact trust
+There were two other notable drivers 
+—  99 percent of respondents expect  cited by hedge fund managers that also 
+the board of directors (of the  influenced their increased adoption of 
+companies in which they invest)   ESG. While these paled in comparison 
+to oversee at least one ESG topic. to the top two drivers mentioned above, 
+they are important to keep in mind as 
+b. E  vidence of the materiality  the industry evolves, for they have the  22
+of ESG potential to act as catalyzing forces in the 
+years ahead.
+There is a growing body of academic 
+literature and industry research that  i. Regulatory changes
+supports the double bottom-line 
+Currently, hedge fund managers seem  TThhee  rriissee  ooff  EESSGG   
+proposition: an investor can do well 
+relatively unperturbed by regulatory or  iinn  tthhee  hheeddggee  
+financially by being good socially. That is, 
+political pressures when it comes to  ffuunndd  iinndduussttrryy
+ESG is not only a part of the risk–return 
+ESG for a simple reason: its rise so far 
+equation, it could potentially also 
+has largely rested on voluntary or self-
+generate additional benefits for the wider 
+regulatory initiatives. But it is highly 
+community, as discussed in Section 3. 
+likely that this bottom-up momentum 
+For instance, a meta-study of more than  will be complemented by new 
+2,000 research papers on equity returns  regulation in certain parts of the world.
+found that 63 percent of studies reported 
+3
+The rise of  
+sustainable 
+investing
+23 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+In the past 2 years alone, there has  consensus that there will eventually be 
+been a dizzying array of proposals  a dramatic policy response that will up-
+across different jurisdictions that  end global financial markets3.
+Regulation is coming 
+would, if implemented, rewrite the 
+To take one example, consider the issue 
+rules of finance — as described in  to give sustainability 
+of stranded assets. The Carbon Tracker 
+Section 3. Initial indications are that, 
+Initiative estimates that as much as  more teeth, with the EU 
+like their long only peers, most hedge 
+US$2.3 trillion of oil and gas assets may 
+fund managers have yet to take  leading the way. 
+become stranded as the world shifts to 
+proactive steps in preparation for 
+a low- or zero-carbon economy. Already, 
+policy changes, likely since most of the  A global alternative 
+major fossil fuel companies have written 
+proposed rules are still at the outline  investment firm
+off billions of dollars’ worth of oil and 
+stage and months and years away from 
+gas assets from their balance sheets. 
+enactment.  1
+The stranded asset problem may also 
+As an additional resource, hedge  eventually apply to plastics companies, 
+funds should familiarize themselves  manufacturing companies, agricultural 
+with the PRI’s report on the ‘Inevitable  companies and even some food 
+Policy Response'. While governments  companies, which would force a broad 
+Executive 
+are clearly behind actions to address  repricing of their market valuations  
+summary
+climate change, there is growing  over time4. 
+Case study 2A: 
+The ethics of shorting
+A philosophical debate has  involves potentially profiting  can then be used to help fund 
+erupted over the last couple of  from job losses if a company  additional investment, research 
+years on whether shorting has a  has to lay off workers or even  or engagement activities. 
+place in ESG-oriented portfolios.  goes bankrupt. Another is that  22
+Shorting can also be a source of 
+it requires holding ‘sin’ stocks 
+The latest salvo came from Hiro  differentiated returns, particularly 
+if betting against a company in 
+Mizuno, chief investment officer  in down markets. 
+a sector like tobacco, which is 
+of Japan’s Government Pension 
+an issue for investors with strict  We don’t think there’s a simple 
+Investment Fund (GPIF).  TThhee  rriissee  ooff  EESSGG   
+exclusion lists.  answer to the shorting question.  iinn  tthhee  hheeddggee  
+In December 2019, the GPIF  There should be nothing wrong  ffuunndd  iinndduussttrryy
+But we take a different view, 
+announced that it would stop  with hedge fund managers 
+which is that short selling has an 
+lending its global equity stocks out  profiting from the sunsetting 
+important place in the investment 
+to short sellers, arguing that short  of certain carbon-intensive 
+industry, especially in the broader 
+selling promotes a short-term  industries, as long as they 
+sustainability context. 
+mindset and is therefore contrary  are clear about their intended 
+to the idea that sustainability  Short selling can increase the  approach. 
+should be a long-term game.  cost of capital for sin stocks, 
+Ultimately, it should be the 
+especially if shorting bonds 
+We have heard opponents of  prerogative of the investor to 
+within a fixed income strategy.  3
+shorting cite a number of reasons  decide whether or not to invest in 
+for why short selling is ’bad‘. Short selling, if done  a fund manager that engages in 
+successfully, can generate a  short selling. 
+One of the key arguments is 
+positive financial return, which 
+that short selling, if successful,  A long-short equity manager
+The rise of  
+sustainable 
+investing
+24 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+ii.  Alignment with the corporate  investment management industry, 
+mission  which is being held to a higher ethical 
+standard. The business model of hedge 
+Many hedge fund managers are also  We see some hedge 
+funds will always be dependent on 
+looking at the ESG rise from a mission-
+delivering decent financial returns (and  funds write off 
+driven mindset. After all, it stands to 
+thus generating performance fees). 
+reason that if hedge fund managers  sustainability as an 
+But although that will be necessary, it 
+believe in the positive relationship 
+won’t be sufficient. Implementing ESG  exclusionary approach 
+between ESG and long-term value 
+factors where they are relevant will 
+creation, then they would also agree that  and continue to peddle 
+be essential for attracting institutional 
+having strong requisite practices internally 
+money. misconceptions about 
+is also a recipe for long-term success.
+it to investors. 
+Many managers have always known that  d. Investor perspective 1
+having a diverse team, strong corporate 
+We also surveyed institutional investors 
+An institutional consultant 
+governance and fair compensation 
+to ascertain the key factors driving their 
+schemes are all key to running a well-
+allocations to ESG-driven hedge funds. 
+functioning business. Those managers 
+We found several parallels between 
+that best articulated a corporate mission  Executive 
+what drives hedge funds and what drives 
+and a set of values beyond just generating  summary
+investors, with materiality at the core of 
+strong financial returns also tended 
+the decision-making processes of both 
+to attract and retain the best talent, 
+groups (Figure 2.3).
+according to our post-survey interviews. It 
+confirmed the point in Section 3 that ESG  Nearly half (44 percent) of surveyed 
+is as much about mindset shifts as about  investors said their allocations to 
+physical changes in business models.  ESG-oriented hedge funds were driven 
+by ‘opportunities to generate alpha’ and 
+As the hedge fund industry becomes 
+34 percent were driven by ‘evidence of 
+ever more institutionalized, these 
+the materiality of ESG issues’.
+practices are likely to attract greater 
+scrutiny. This is true of the broader 
+22
+Figure 2.3 What are your organization’s key drivers of ESG-oriented investments?
+Institutional investors’ survey
+TThhee  rriissee  ooff  EESSGG   
+Opportunities to generate alpha 44%
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+Evidence of the materiality of ESG issues 34%
+Growing beneficiary/trustee demand 28%
+Regulatory or political pressure 28%
+Alignment with the corporate mission or values 25%
+Attracting and retaining talent 6%
+Competitive pressure 3%
+3
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+The rise of  
+sustainable 
+investing
+25 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+In contrast, relatively few investors  These figures are supported by our 
+(28 percent) were driven by ‘growing  post-survey interviews with investors. 
+beneficiary/trustee demand’ or by  They revealed overwhelming recognition  The lack of industry 
+‘regulatory or political pressure’.  that at least some aspects of ESG are 
+standards has given 
+Interestingly, investors didn’t seem  clearly material and therefore should 
+any more or less mission-driven than  be incorporated into the investment  hedge fund managers 
+hedge funds, with only a quarter  process. It should come as no surprise, 
+permission to not 
+(25 percent) of investors saying they  then, that investors base much of their 
+were motivated by a desire to make  due diligence around ESG and how well  take sustainability 
+investments that were aligned with the  their underlying fund managers are able 
+seriously. 
+corporate mission or values. to use the appropriate data and insights 
+to make better-informed investment 
+decisions (case study 2B). A US quant manager  1
+Case study 2B:  Executive 
+summary
+ESG as a risk management tool 
+As fiduciaries, we look at  about each investment in our  more of a company’s value now 
+anything that may materially  portfolio. This picture allows us  tied up in so-called ‘intangible 
+affect the financial returns of  to more proactively identify and  assets’ like brand recognition and 
+our funds. We believe that ESG  monitor risks, both before and  goodwill, it seems inevitable that 
+factors clearly belong in this  after an investment is made.  ESG components like employee 
+conversation, particularly as a  This is by no means easy to  diversity and environmental 
+risk mitigant. do, but we do think there are  stewardship will take on 
+material signals out there waiting  increased importance in future 
+While we recognize that the 
+to be found for investors willing  investment decision making. 22
+ESG data out there can be very 
+to do the work. 
+noisy, we have found success  A European fund of hedge funds
+by combining fundamental  At the end of the day, ESG 
+analysis with select data sources  factors should be treated just like 
+to create a more holistic picture  other risk factors. With more and  TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+3
+The rise of  
+sustainable 
+investing
+26 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+2. Key constraints
+When asked to identify the constraints  sustainability data should be viewed 
+that are slowing down the adoption of  as an advantage — rather than a 
+ESG, the surveyed hedge fund managers  disadvantage — for hedge funds, which 
+singled out a number of them, of which  typically rely on market inefficiencies 
+two are particularly noteworthy. These are  to generate outperformance. In other 
+considered separately below.  words, hedge funds shouldn’t be using 
+the lack of ESG data as an excuse not 
+a. Lack of quality ESG data to pursue sustainable investments.  1
+Instead, they should do the difficult 
+If there’s one thing that the hedge fund 
+work of identifying which signals are 
+managers participating in our interviews 
+material and which are not, whether 
+agreed on, it’s that there isn’t enough 
+through existing data sources or by 
+reliable ESG data to clearly identify 
+developing proprietary approaches (case 
+risk or alpha signals (Figure 2.4). As we  Executive 
+study 2C). 
+shall see in Section 3, this challenge is  summary
+also pervasive across the investment 
+b. Shortage of ESG expertise
+landscape, including for long only asset 
+managers, institutional investors and  Indeed, there were several other 
+other alternative investment firms.  challenges that emerged from the 
+survey. They could all be traced back to 
+While it is true that the current ESG data 
+education and/or awareness problems. 
+suffer from many shortcomings — like 
+More than a third of hedge funds 
+inconsistent company disclosures, 
+(36 percent) said there was ‘confusion 
+opaque research methodologies and 
+over industry terminology’, 18 percent 
+unreliable ratings — it is also true 
+cited a ‘shortage of knowledge or 
+that the quality of the available data is 
+expertise’ and 9 percent were beset 
+improving every day.  22
+by a ‘lack of consensus from internal 
+In contrast, some of our interviewees  stakeholders’ (Figure 2.4). 
+took the view that the lack of quality 
+TThhee  rriissee  ooff  EESSGG   
+Figure 2.4 What are your organization’s biggest challenges in making ESG-oriented investments?
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+Hedge fund managers' survey
+Lack of quality/consistent sustainability data 63%
+Confusion over industry terminology 36%
+Not relevant to our strategy or mandate 25%
+Lack of quality investment opportunities 21% 21%
+Shortage of knowledge or expertise 18% 18%
+Difficulty in delivering both financial and nonfinancial returns 13%
+Excessive costs associated with incorporating sustainability 12%
+3
+Fiduciary concerns
+9%
+Lack of consensus from internal stakeholders
+Political or regulatory uncertainty 1%
+The rise of  
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+sustainable 
+investing
+27 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Just as different hedge fund managers  However, several organizations have 
+may have divergent views on ESG,  stepped up to fill the implied education 
+so too do different employees within  and talent gap, whether through 
+Small hedge fund 
+each of these individual firms. This  conferences, trade associations, 
+disconnect — whether between the  academic research, third-party  managers face 
+investment team and the research  consulting or even specialist recruitment 
+excessive costs 
+team, or between the C-suite and the  agencies. 
+compliance team, or between investors  in implementing 
+Many long only managers have hired 
+and the investor relations team — is a 
+ESG specialists or have even built  sustainability, while 
+major barrier to the adoption of ESG and 
+dedicated ESG teams; other firms have 
+prevents some hedge fund managers  large ones have a 
+joined advisory committees at one of the 
+from agreeing on a single approach. 
+many not-for-profits and standard-setting  marketing machine to 
+1
+In the early days of ESG there was a  organizations engaged in the ESG space. 
+help greenwash. 
+noticeable shortage of investment  Most of the managers are upskilling 
+professionals who could combine  rather than creating new teams, 
+A Nordic hedge fund manager
+financial expertise with ESG experience.  however.
+Executive 
+summary
+Case study 2C: 
+Turning noise into signal
+We’ve heard all of the complaints  doesn’t mean that the data are  a company’s financials or 
+about the low quality or  irrelevant or unusable.  sustainability reports. 
+unreliability of sustainability data, 
+For our part, we’ve looked  It mines vast amounts of 
+arising from the inconsistencies 
+at many of the third-party  unstructured data in near-real 
+in company disclosures and 
+sustainability data providers  time, and gives us greater and 
+differences in the methodologies 
+to determine which data  faster insights into both the 
+used by various data providers.  22
+points generated a clear alpha  risks and opportunities in our 
+While the quality of the data  signal. We couldn’t find one.  investment universe. 
+is getting better every day, it’s  Instead, we have devised 
+A global quant manager
+still nowhere near the level of  our own methodology, which 
+traditional financial data. But that  goes a layer deeper beyond 
+TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+c.  Other challenges slowing  These costs can easily pile up and 
+down adoption may therefore be prohibitive for some 
+small- or mid-sized hedge funds. It’s no 
+There are two other challenges worthy 
+surprise that the hedge funds doing the 
+of note. The first one is the high costs 
+most on ESG tend to be those with the 
+involved in implementing ESG across the 
+most operational resources. Alongside, 
+organization. These costs can be broken 
+however, new firms are also emerging 
+down across several areas: investments 
+that specialize in ESG.
+in talent (hiring ESG specialists for the 
+investment, research and shareholder  The second challenge cited by about a  3
+engagement teams), investments in  quarter of the hedge fund managers we 
+data (purchasing datasets and data- surveyed said that ESG was ‘not relevant 
+mining technology from third-party  to their strategy or mandate’. They believe 
+providers) and investments in marketing  that ESG could lose its materiality powers 
+(sponsorships, PR and thought leadership  for trading strategies that rely on short  The rise of  
+to build credibility in the market). sustainable 
+investing
+28 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+holding periods or in an asset class like  out by hedge fund managers, except in 
+currency that is extensively traded daily. one crucial area: the ‘lack of consensus 
+from internal stakeholders‘. While only 
+This may be true for high-frequency  The minimum bar for 
+9 percent of hedge funds cited this as 
+trading strategies, but our interview 
+a challenge, a much larger percentage  hedge funds is to have 
+research suggests that while a longer 
+of investors (23 percent) struggled with 
+holding period makes it easier to  a robust ESG policy 
+this issue. 
+incorporate ESG into the investment 
+with buy-in from the 
+process, ESG factors could still  This could be explained by the nature of 
+potentially generate relevant signals over  most institutional investors, which must  top. ESG should be 
+a short time frame, especially as the pace  answer to a wide range of stakeholders 
+part of the DNA of the 
+of news and the speed of data continues  with potentially diverse needs and 
+to increase. objectives. For example, a pension fund  firm. 
+1
+must meet the needs of its beneficiaries 
+d. Investor perspective but is ultimately only answerable to its  An impact investing consultant 
+board, which may have widely different 
+We also asked institutional investors 
+views on ESG. This exact issue played 
+to highlight the challenges they faced 
+out in 2018 at an American retirement 
+in making ESG-oriented investments  Executive 
+organization, which elected a new 
+in hedge funds. They cited many of  summary
+President who took a very different 
+the same challenges as hedge fund 
+view of sustainability to that of his 
+managers, suggesting that there are 
+predecessor5. Pension plans with 
+common issues across the investment 
+low funding levels and fast maturing 
+management value chain (Figure 2.5).
+liabilities have faced a similar challenge. 
+The challenges identified by institutional 
+investors are similar to those singled 
+Figure 2.5 What are your organization’s biggest challenges in making ESG-oriented investments?
+Institutional investors’ survey 22
+Lack of quality/consistent sustainability data 49%
+Not relevant to our strategy or mandate 38%
+Fiduciary concerns 28%
+TThhee  rriissee  ooff  EESSGG   
+Difficulty in delivering both financial and nonfinancial returns 26% iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+Lack of consensus from internal stakeholders 23%
+Confusion over industry terminology
+Lack of quality investment opportunities 18%
+Shortage of knowledge or expertise
+Political or regulatory uncertainty 10%
+Excessive costs associated with incorporating sustainability 8%
+3
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+The rise of  
+sustainable 
+investing
+29 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+3. Emerging best practice 
+Our post-survey interviews identified  is a challenging one to incorporate into 
+four sets of practices that could  their funds, just as it is across the entire 
+potentially speed up the adoption of  investment management industry. 
+ESG and generate improved outcomes 
+But, as in all fields of human endeavor, 
+for hedge fund managers and their 
+the challenges are all surmountable with 
+institutional clients alike. 
+enough time, patience, persistence and 
+diligence.
+a. Avoid greenwashing
+1
+Those firms that fall short of best 
+Best practices in the ESG space are 
+practices are likely to fall victim to the 
+a moving target. Whereas negative 
+investment management industry’s new 
+screening may have historically been 
+‘G’ word — greenwashing. Our research 
+the dominant approach, today the bar 
+suggests that, as in the long only space, 
+is clearly being raised. It’s no longer  Executive 
+there is still a greenwashing problem 
+enough for a fund manager to just avoid  summary
+in the hedge fund industry. However, 
+‘sin’ stocks; increasingly, there is now 
+institutional investors are getting more 
+an expectation that investments should 
+savvy in how they approach ESG in 
+generate a positive (and measurable) 
+their due diligence, duly separating the 
+social, environmental or economic impact. 
+leaders from the pretenders and the 
+This is easier said than done. For many  winners from the spinners. 
+hedge fund managers, the idea of ESG 
+Figure 2.6  As an institutional investor, do you include ESG considerations as part of 
+your due diligence prior to making an allocation to a hedge fund manager?
+22
+TThhee  rriissee  ooff  EESSGG   
+45% iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+55%
+Yes
+No 3
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+The rise of  
+sustainable 
+investing
+30 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Indeed, more than half of the  To minimize the problem, hedge 
+institutional investors (55 percent)  fund managers are developing the 
+reported that they include ESG  necessary practices (Figure 2.7). These 
+We’re seeing a 
+considerations as part of their due  take into account the fact that investor 
+diligence prior to making an allocation  expectations vary when it comes  snowball effect in 
+to a hedge fund manager (Figure 2.6). to hedge fund firms practicing ESG 
+the hedge fund 
+investment. For many investors, this 
+However, early indications suggest 
+may be as simple as expecting their  industry now 
+that investors were concerned 
+managers to screen certain assets out 
+with what they found, as we saw in  that sustainability 
+of their portfolios — particularly those 
+Figure 1.7 in the Executive summary. 
+assets that might cause the investor  is becoming 
+It reported that 41 percent saw a 
+reputational harm. Other investors, 
+‘significant amount of greenwashing’,  mainstream.
+however, may expect a manager to  1
+with a further 11 percent reporting 
+implement ESG analysis, or even to 
+‘some greenwashing’. The remaining  An institutional consultant
+measure the environmental footprint of 
+48 percent said they were ‘not sure’. 
+its investment activities.
+Executive 
+Figure 2.7 What do institutional investors expect? summary
+Investor expectations
+Firm has a policy on responsible investment and has thought through the implications 
+Policy
+thereof for its investment strategy and operations.
+Relevant investment staff have been trained in responsible investment; accountability 
+Talent
+for responsible investment policy does not only sit in compliance/legal.
+Firm has a screening policy, and has demonstrably thought through the impact of 
+Investment strategy 22
+responsible investment and sustainability concerns on its investments.
+Firm engages with investee companies where possible, and reports on the outcomes 
+Engagement
+of those engagements to its investors.
+TThhee  rriissee  ooff  EESSGG   
+Firm has internal controls to ensure its responsible investment policy is properly 
+Reporting iinn  tthhee  hheeddggee  
+enacted.
+ffuunndd  iinndduussttrryy
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+3
+The rise of  
+sustainable 
+investing
+31 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+b.  Comply with industry codes  Hence, as they advance into the 
+and principles implementation cycle, hedge fund 
+managers should consider good 
+As mentioned previously, there is  Active ownership 
+practices enshrined in the PRI. Currently, 
+no one-size-fits-all approach when 
+35 percent are already a signatory to  and responsible 
+it comes to ESG. This is also true of 
+these Principles, and a further 17 percent 
+implementation efforts6. stewardship are 
+are in the process of becoming a 
+ESG is not a race but rather a unique  signatory (Figure 2.8, left-hand panel).  a critical part of 
+journey, with unique challenges and 
+As for embedding the PRI policies into  sustainability, 
+unique opportunities for individual hedge 
+the cultural fabric of the firm, 56 percent 
+fund managers. It is a journey based  regardless of whether 
+of hedge fund managers currently have a 
+on experiential learning; questioning 
+policy to do so, and a further 36 percent  you are active or 
+what works, what doesn’t and why, and  1
+are in the process of developing one 
+applying the resulting lessons going  passive. 
+(Figure 2.8, right-hand panel). This shows 
+forward. 
+significant progress when compared 
+As we saw in Figure 1.3 in the Executive  with a November 2018 Preqin survey  A US quant manager
+summary, only 15 percent of hedge fund  on the same question, which found that 
+Executive 
+managers would define themselves  20 percent of hedge fund managers have 
+summary
+as being at the ‘mature’ stage of the  an ESG policy in place, 15 percent don’t 
+implementation cycle, where ESG  have a policy yet but are working on one, 
+is implemented across the firm via  and 65 percent aren’t actively working 
+appropriate policies, committees,  towards a policy at all 7.
+research and data. The rest of the 
+These data invite a caveat, however. As 
+managers are either at the ‘in progress’ 
+mentioned previously, not all hedge fund 
+stage, where implementation is 
+strategies are amenable to ESG investing 
+piecemeal (44 percent) or the ‘awareness 
+and, by extension, to UN PRI.
+raising’ stage (31 percent), with the 
+remaining 10 percent reporting ‘no 
+implementation to date’. 
+22
+Figure 2.8  Is your organization a current UN PRI signatory? And does your organization currently have an ESG policy or 
+statement?
+UN PRI signatory ESG policy or statement TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+8%
+ffuunndd  iinndduussttrryy
+35%
+48%
+36%
+3
+56%
+17%
+The rise of  
+Yes sustainable 
+investing
+No, but in the progress of becoming/having one
+No, and with no intention in the near future
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+32 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Implementation progress is evident  Where the PRI are less relevant, the 
+with regard to those that are, in order to  industry needs to work together to 
+enhance the credibility, authenticity and  create a set of its own harmonized 
+Integrity is critical. 
+transparency required by institutional  principles.
+investors (case study 2D).  If you’re going 
+to call yourself a 
+sustainability investor, 
+Case study 2D:  it is important to have 
+Embedding ESG into corporate DNA
+the right processes in 
+We look for hedge fund  are willing to ‘walk the walk’  place. 
+1
+managers that clearly have ESG  of ESG by asking themselves 
+in their DNA. We evaluate these  the same sorts of questions  An impact investing consultant 
+managers for how well they  that they would ask of portfolio 
+integrate it into their research  companies. That means a hedge 
+and investment processes,  fund should have a commitment  Executive 
+how committed they are to  to employee diversity, equitable  summary
+responsible ownership, and  pay, appropriate fees and fund 
+the quality of their approach  structures, and strong corporate 
+to sustainability data and  governance. If a hedge fund 
+nonfinancial reporting. An  truly believes in ESG as part of 
+ESG policy is the absolute  its core investment philosophy, 
+bare minimum and it is not  then it follows that it should be 
+usually enough to earn a  seamlessly integrated across 
+recommendation from us.  the organization.
+We also want hedge fund  An institutional consultant 22
+managers to show that they 
+TThhee  rriissee  ooff  EESSGG   
+c. Improve ESG reporting at all, as mentioned in the Executive 
+iinn  tthhee  hheeddggee  
+summary. Of those who do, 11 percent 
+Measurement of and reporting on the  ffuunndd  iinndduussttrryy
+use customized metrics and 23 percent 
+nonfinancial impact of investments 
+use PRI, with other standards far behind 
+represents the next frontier for ESG 
+in terms of adoption.
+investing. Investors and regulators are 
+increasingly demanding information  Of all the data points we looked at, 
+on the nonfinancial performance of  we expect this one to change the 
+all investments. In response, there  most year on year. Reporting is no 
+has been a growing list of standards,  longer seen as a nice-to-have by most 
+frameworks and principles developed to  investors; it has become a must-have. 
+create a shared language for investors  While there may not ever be a single 
+who wish to report on ESG. While  reporting standard that satisfies a 
+3
+no single standard has emerged as  range of conditions for different types 
+universal, there is an expectation that  of investment strategies, that doesn’t 
+best-in-class managers will report using  mean hedge fund managers can get 
+one or more of these standards — or  away with no reporting of any kind. 
+develop proprietary ones. 
+It is essential for them to focus on  The rise of  
+When asked what different approaches  reporting what is most material and  sustainable 
+were used in their ESG reporting, more  relevant to a particular strategy. There are  investing
+than half (57 percent) of the surveyed  plenty of tools available that can be used to 
+hedge fund managers said they do not  come up with standardized reports or feed 
+currently report on ESG performance  into a customized reporting mechanism.
+33 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+d. P  ublish the outcomes of  used, owing in part to how resource 
+shareholder engagement  intensive activist battles can become. 
+On the other hand, collaboration with 
+The final area to improve current  Sustainability is a 
+other managers and external networks 
+practices is shareholder engagement. It’s 
+is on the rise (case study 2E).  great opportunity 
+not enough to just invest in ESG-friendly 
+securities; hedge fund managers must  Hedge funds are ideally suited for  for hedge funds to 
+also engage with the underlying portfolio  activism that targets companies 
+rebrand and show 
+companies and make the case for  underperforming on ESG issues. Our 
+improving their ESG outcomes. Indeed,  interviews show that there is a return  their commitment 
+this is, in fact, already being done in  premium in helping an ESG laggard to 
+to inclusivity and 
+significant numbers (Figure 2.9).  become a leader. It also shows that 
+responsible ownership is an important  sustainability. 
+The most dominant approach to  1
+part of the ESG toolkit and must be 
+shareholder engagement is also the 
+taken seriously.  An institutional consultant
+most opaque: nearly three-quarters of 
+managers (74 percent) said they privately  Above all, the outcomes of all 
+engaged with companies on ESG issues,  engagements must be transparently 
+compared with 25 percent of managers  conveyed to end-investors. Except for  Executive 
+who engage publicly and 34 percent who  high-profile proxy fights, end-investors do  summary
+vote their proxies. But the most active  not as yet have a clear idea on what value 
+form of engagement — proxy fights or  is generated by engagement activities 
+activist battles (6 percent) — were rarely  due to this lack of transparent reporting. 
+Figure 2.9  What approach does your organization bring to shareholder engagement 
+when it comes to ESG?
+74%
+22
+TThhee  rriissee  ooff  EESSGG   
+iinn  tthhee  hheeddggee  
+34% ffuunndd  iinndduussttrryy
+25%
+15%
+13%
+6%
+Private Proxy voting Public Shorting Divestment Proxy fights or 3
+engagement engagement activist battles
+on ESG issues on ESG issues
+Source: KPMG–CAIA–AIMA–CREATE Survey 2020
+The rise of  
+sustainable 
+investing
+34 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Case study 2E: 
+Progress requires collaboration
+Adopting best practice can  Investors Group on Climate  Companies are learning too, 
+be rather expensive for some  Change.  and they want to work with their 
+fund managers, especially  shareholders to understand 
+We think this is best practice 
+when it comes to shareholder  what investors are looking for 
+for other smaller or mid-sized 
+engagement. We know that  on ESG. It’s become much more 
+managers that want to engage 
+we’re too small to gain much  of a dialogue or conversation. 
+on ESG issues but don’t have 
+traction on our own, so we look  Not all engagements have to 
+the right expertise or resources. 
+1
+for opportunities to collaborate  be combative. Indeed, the best 
+Engagement looks different 
+with other asset managers  conversations are discreet and 
+depending on the company, 
+through organizations and  behind closed doors.
+jurisdiction and culture, so there’s 
+initiatives like Climate Action 
+no one-size-fits-all approach. A boutique ESG manager
+100+, Ceres and the Institutional  Executive 
+summary
+Best practice in the years ahead We may also see hedge funds 
+and long only managers exploring 
+What may seem like a non-starter today 
+innovative lock-up structures that would 
+could easily emerge as best practice 
+allow them to tie up investor capital 
+over the next few years. That is why 
+for prolonged engagement campaigns 
+one area that bears watching is a better 
+or specific thematic investments. 
+alignment of interests via fee and 
+Since most research suggests that 
+incentive structures that reward hedge 
+ESG factors become more material 
+funds for both financial and nonfinancial 
+over longer-term horizons, it would 
+performance. While such fee structures  22
+make sense for fund managers and 
+are still in their infancy, hedge funds 
+investors to mutually agree on seeing 
+that show a clear alignment of interests 
+an investment through to its natural 
+when it comes to ESG — especially in 
+conclusion, even if it takes years.
+their remuneration schemes — will have 
+a distinct competitive advantage. Some  TThhee  rriissee  ooff  EESSGG   
+niche players are already setting the trend. iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+To conclude, therefore, on ESG, hedge fund managers are moving 
+up the implementation ladder. 
+They must also embrace best practice and take control of their 
+own narratives — proactively making the case for how and 
+why ESG is material to their strategies rather than passively 
+reacting to external demands — whether those demands come 
+from investors, consultants, policymakers, regulators or even 
+3
+employees.
+The rise of  
+sustainable 
+investing
+35 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+The rise of sustainable 
+3
+investing 
+What lessons can be learned from early adopters? 
+1
+Executive 
+summary
+2
+The rise of ESG  
+in the hedge 
+fund industry
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+36 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Sustainability is evolutionary in nature but revolutionary in potential. It envisions a key role for capital 
+markets — alongside governments, consumers and green technology. Neither capital markets nor 
+individual countries alone can deliver results. Transnational co-operation is essential. 
+Sustainability is set to reshape the ecosystem of capital markets and the behaviors of their participants. 
+It requires mindset shifts as much as physical changes from the way investing has been done 
+historically. 
+Barriers persist. Creating the necessary infrastructure of data, skills and technology is proving 
+challenging. Progress has been exponential but the task remains huge. Pragmatism has been all too 
+evident. Future demand prospects look promising. Regulatory pull remains strong. Early results are 
+1
+encouraging.
+Future success critically hinges on three factors: a new model of shareholder engagement that 
+enjoins investors to go from distant owners to vocal change agents; savvy implementation of 
+Executive 
+sustainability into investment portfolios; and business leadership that is keen to capitalize on the 
+summary
+opportunities arising from the transition.
+This section presents the results of a  A. What is the current state of progress 
+stand-alone interview survey, which  in the adoption of sustainable investing? 
+involved large institutional investors, 
+B. Why is sustainability facing  Markets usually price 
+alternative investment managers and 
+headwinds from different sources? 
+global asset managers who are early  in inflection points 
+adopters of sustainable investing, as  C. What best practice is being 
+when they are in the 
+defined in the introduction to Section 1.  developed by these global players to 
+The survey aimed to shed light on three  overcome these challenges?  rearview mirror. 
+key issues:
+Each issue is covered in the three  2
+A Canadian pension plan 
+subsections below. 
+The rise of ESG  
+in the hedge 
+fund industry
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+3377 SSuussttaaiinnaabbllee  iinnvveessttiinngg::  ffaasstt -ffoorrwwaarrddiinngg  iittss  eevvoolluuttiioonn 
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+1.  Progress along the Spectrum of Capital
+a. Adoption so far financial and nonfinancial goals targeted 
+by investors as they advance in different 
+Currently, there are over 80 different 
+stages. These two sets of goals are 
+terms used to describe a mind-boggling 
+accorded separate and varying weights 
+array of approaches that have emerged 
+in investor portfolios, as they progress 
+under the umbrella of ‘sustainable 
+from left to right in the figure. 
+investing’. 
+The term 'sustainability' is used broadly to 
+To chart the way forward, many early 
+1
+describe the journey along this spectrum. 
+adopters in our interview survey for 
+this section use the schematic entitled  In the last decade, the journey mostly 
+the ‘Spectrum of Capital’, which was  involved the exclusion of ‘sin’ stocks: 
+developed by The Impact Management  shares in companies associated with 
+Project8, as shown in Figure 3.1.  activities deemed unethical — like 
+Executive 
+tobacco, weapons, fossil fuels, abuse of 
+It envisions sustainability as a  summary
+human rights and poor labor standards. 
+progressive journey that focuses on the 
+Figure 3.1 The Spectrum of Capital
+1 2 3 4 5 6 7 8
+Investment
+Traditional Responsible Sustainable Impact-driven Philanthropy
+approach
+Financial  Deliver competitive risk-adjusted financial returns Tolerate Tolerate below Partial capital Accept full loss
+goals higher risk market returns preservation of capital 2
+Avoid harm and mitigate ESG risks
+Benefit all stakeholders
+The rise of ESG  
+Contribute to solutions
+in the hedge 
+Don’t  Avoid harm;  Benefit  Contribute to solutions; have a  fund industry
+consider; may  try to prevent  effect; material effect on important 
+have  significant  important  positive outcomes for 
+Impact
+significant  effects on  positive  underserved people or the 
+goals negative  important  outcomes for  planet
+outcomes for  negative  various 
+people and  outcomes for  people and 
+the planet people and  the planet 
+the planet
+33
+Source: The rise of impact — five steps towards an inclusive and sustainable economy; UK National Advisory Board on impact investing 2017 & Impact Management Project 2017
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+38 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+The process of negative screening  The ambition envisions a significant 
+narrowed the investment universe  role for asset managers in its delivery. 
+somewhat and reduced the scope  It also envisions intergovernmental 
+With governments, 
+for diversification. Thus, exclusion  co-operation on a scale far bigger 
+and diversification were not always  than now. Acting alone, neither asset  regulators, asset 
+compatible.  managers nor individual nations can 
+owners and asset 
+make a big impact.
+Hence, most of the large institutional 
+managers seeming 
+investors have been advancing towards 
+b. Root causes of the problem
+the right end of the Spectrum into illiquid  to pull in the same 
+markets — infrastructure, private equity  The central thrust of the emerging 
+direction, it is hard 
+and private debt — to target societal  policy framework is directed at one 
+as well as financial impacts, while still  overriding aim: to tackle negative  to believe that we are 
+1
+generating market-rate returns (Levels  externalities resulting from those 
+not in the midst of 
+4–5). In part, this is because these asset  day-to-day corporate activities that inflict 
+classes have customized vehicles of  uncompensated costs on wider society. something profound.
+much longer duration with clear metrics 
+They include environmental damage, 
+and monitoring.  governance lapses, poor labor practices,  A Danish pension plan Executive 
+In contrast, in public markets, the same  stagnant incomes, the hollowing out of  summary
+investors’ interest in sustainability has  the middle class and rising inequalities.
+largely progressed to Levels 2–3 due to 
+These have ignited a powder keg of 
+a variety of challenges, such as the lack 
+resentment in the West and fueled the 
+of reliable data on sustainability issues, 
+rise of populism. 
+as we shall see below. 
+Markets have been slow to fully price in 
+There are regional differences, of 
+these risks — especially climate risk — 
+course. Overall, in all asset classes, 
+while quarterly capitalism continues 
+Europe leads the pack, followed by the 
+to retain a decisive influence. Under 
+US and then Asia Pacific. 
+it, investors are overly influenced by 
+These regional differences reflect  quarterly earnings.
+2
+the stance of public policy and 
+Over time, sustainability will likely have 
+regulatory responses, as well as 
+a growing impact on company valuation 
+cultural differences. These are well 
+and cost of capital. Thus, by not acting 
+documented9. Among them, far and 
+to future-proof their businesses now, 
+away the most ambitious program 
+many listed and private companies  The rise of ESG  
+promoting sustainable investing has 
+risk harming the interests of their  in the hedge 
+been enshrined in the EU's Action Plan: 
+shareholders as well as those of wider  fund industry
+Financing Sustainable Growth. 
+society, not to mention their own 
+Most importantly, the EU Council of  long-term financial viability. This much 
+Ministers has recently committed  was clear from our interviews. 
+to convert its Green Deal into law by 
+March 2020, which envisions the EU 
+achieving carbon neutrality by 2050 
+in line with the Paris Agreement. 
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+39 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Thus, sustainable investing is first  focus narrowly on shareholders and 
+and foremost about future-proofing  their financial interests.
+businesses against secular forces that 
+Of course, capital markets alone cannot  Sustainability is the 
+can cause existential threats, while 
+tackle the negative externalities: in 
+generating positive spin-offs for the  biggest leadership 
+the area of global warming especially, 
+wider society (case study 3A).
+intergovernmental co-operation is  challenge of our age. 
+Hence, in their role as allocators of  vital. But markets are viewed as the 
+Leaders can make a 
+finance, capital markets are viewed  strongest link in a mutually reinforcing 
+as an essential bridgehead to a more  chain involving three other sets of  huge difference. 
+purposive capitalism, as institutional  partners: governments, using their 
+investors seek to future-proof their own  supportive tax and trade policies;  A Canadian asset manager 
+portfolios against the looming risks in  technology, delivering innovations 
+1
+the separate areas of environment,  in cost-effective green energy; and 
+social and governance. The fiduciary  consumers, favoring pro-sustainability 
+responsibility currently enshrined in  products. 
+their articles of memorandum tend to 
+Executive 
+summary
+Case study 3A: 
+Sustainability is a leadership issue
+Our sustainability initiative  their own sustainability, so as  competencies, our business 
+started some 15 years ago,  to deliver decent risk-adjusted  behaviors, our talent pool, and 
+with a sole focus on ethics:  returns. our systems and processes. 
+We screened out shares in 
+Our initial forays into ethical  Our sustainability DNA has 
+companies associated with 
+funds were not successful  reoriented our business to ‘do 
+activities deemed undesirable  2
+because dumping ‘sin’ stocks  good and do well’ by continuous 
+like weapons, fossil fuels, 
+yielded handsome profits to  improvements in our capabilities 
+tobacco and human  
+those who bought them. All that  and track record over time. 
+rights abuses. 
+happened was a change in share 
+Around 80 percent of our assets 
+Not only were these activities  ownership.  The rise of ESG  
+now cover sustainability funds of 
+morally wrong in themselves,  in the hedge 
+Markets had not woken up to  one variety or another. Of these, 
+fund industry
+but they also imposed negative 
+the fact that investors were  around a third rely on specific 
+externalities — uncompensated 
+expressing their personal values  ESG themes that target financial 
+costs — on the whole of society, 
+via investment choices.  and nonfinancial outcomes. Our 
+hurting future growth and 
+total assets under management 
+prosperity.  As CEO of the company, I 
+has doubled in the last 5 years.
+persuaded my colleagues that, 
+Our belief was that the rise 
+as a mid-sized player, we could  Our people are excited to work 
+of sustainability would, over 
+only differentiate ourselves by  for us because they believe in 
+time, change the ecosystem 
+pioneering sustainability at the  our core value that finance has to 
+of markets that had long relied  33
+heart of our business model.  give something back to society 
+primarily on financial metrics to 
+as well as making a profit. 
+value individual companies.  We have evolved a culture that 
+links it to our core business  A Benelux asset manager
+Hence, we focused on 
+values, our leadership 
+companies that were enhancing  TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+40 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+c. Setting the tone at the top Leaders must question the purpose of  governance can also translate into lower 
+a modern corporation in order to give it  overall corporate risk, as governance 
+This laudable aim marks a sea change 
+better social expression. They must set  can set standards for environmental and 
+from the traditional way of investing, 
+the tone and lead by example, as they  social goals. This is especially the case in 
+which has long targeted risk-adjusted 
+face what is veritably a new foundational  emerging markets (case study 3B). 
+returns, assessed mostly on financial 
+trend that is reshaping investing as we 
+criteria.  There, transparency is a big slow 
+know it today. 
+burn issue because of the unique 
+For individual asset managers, the 
+But, as case study 3A shows, it’s  concentration of corporate ownership 
+implied shift has huge implications in 
+the long haul that requires vision,  in the hands of individual families or 
+a number of areas in the value chain: 
+passion and persistence. Transition  government bodies; further complicated 
+research, investment process, stock 
+to a low-carbon future is likely to have  by a myriad of cross-shareholdings 
+selection, portfolio construction, talent 
+a jagged trajectory owing to various  that often compromise the interests of 
+pool, staff incentives, fund pricing,  1
+barriers.  minority shareholders. 
+distribution, client engagement, and 
+performance reporting. Second, sustainability investing 
+is primarily driven by institutional 
+It all adds up to combining the best 
+investors. Worldwide, total sustainable 
+of old and new in order to re-anchor 
+investing assets under management  Executive 
+markets in the transition to a 
+was more than US$30 trillion in  summary
+low-carbon future. 
+2018, representing around a third of 
+In this context, our discussion with  the investment universe, according 
+early adopters identified two related  to recent estimates10. It has been 
+salient points.  influenced by a large body of trans-
+Atlantic research that shows that 
+First, sustainable investing is essentially 
+sustainable investing works2.  Rising short-termism 
+a leadership issue. It requires a strong 
+belief that the old ways of investing that  As for emerging markets, data are  has turned investing 
+ignore negative externalities are self- sparse. But significant changes are 
+into a game of chasing 
+defeating: they will increasingly harm  afoot on the corporate governance side, 
+shareholders and society over time,  which is vital for the efficient allocation  the next rainbow. 
+while undermining the role of markets in  of capital that delivers long-term growth  2
+the efficient allocation of capital.  and sustainability. Good corporate  A UK asset manager 
+The rise of ESG  
+in the hedge 
+fund industry
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+4411 SSuussttaaiinnaabbllee  iinnvveessttiinngg::  ffaasstt -ffoorrwwaarrddiinngg  iittss  eevvoolluuttiioonn 
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Case study 3B: 
+Emerging markets face a stiff test
+Over the past 40 years, breakneck  Internal systems and controls  To reinforce these requirements, 
+industrialization has lifted over  that help the board to effectively  index providers are also 
+750 million people out of poverty  incentivize and monitor  increasingly demanding 
+in emerging markets (EMs). management in the best  accessibility, efficiency and 
+interests of shareholders and  transparency of capital markets 
+But as an unintended 
+wider society are not so well  in emerging economies, all 
+consequence, environmental, 
+developed — as of yet.  of which requires a robust  1
+governance and social issues 
+regulatory framework. 
+have been seen as the  Lately, however, with the 
+responsibility of governments,  worldwide rise in passive  Such efforts reinforce what 
+not companies.  investing, a big positive push  many regulators worldwide 
+has come from many large listed  are trying to do in earnest:  Executive 
+However, corporate governance 
+companies, as they up their  reorient markets towards  summary
+has come under the spotlight, 
+governance game to qualify for  sustainability risks. 
+especially as EMs' share 
+entry into major EMs' indexes. 
+of global stock market  As in developed markets, so 
+capitalization has more than  A majority-independent board,  in EMs, all the moving parts in 
+doubled so far in this century to  meritocratic executive incentives,  the sustainability revolution are 
+around 30 percent in 2019.  robust capital allocation criteria  pulling in the same direction. 
+and an engagement mechanism  Progress is slow but the 
+Our experience shows that 
+that focuses on reducing financial  direction of travel is clear.
+checks and balances between 
+and nonfinancial risks — these 
+a company’s board, its  A global US asset manager
+imperatives have come to the 
+management and its shareholders  2
+fore, as index funds have taken off. 
+are weak in most EMs. 
+The rise of ESG  
+in the hedge 
+fund industry
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+42 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+2. Factors slowing progress 
+Guidelines on how to 
+assess what is ‘good’ 
+Three sets of barriers were most  Climate Action 100+ and the Impact 
+and ‘bad’ are rare. 
+frequently cited by early adopters in  Management Project are just two of the 
+general and institutional investors  most prominent examples. That apart,  There are no agreed 
+in particular.  individual pension plans have been 
+definitions.
+discouraging activities that promote a 
+a.  Coping with shorter  quick-buck mentality. Other asset owners 
+investment horizon have been petitioning regulators to codify  A US asset manager 
+rules on sustainability disclosure to 
+Over the past 20 years, what has passed  1
+promote long-term investing.
+for active asset management has 
+largely been the second-order trading  The foundational short-term problem is 
+of existing assets, the main focus being  not that stock market pressure dislodges 
+trying to anticipate the behaviors of  firms from the right technological path, 
+other investors.  but that it forces faster and deeper  Executive 
+change than before, which induces  summary
+Under this argument, some institutional 
+a negative reaction in corporate, 
+investors suggest that financial markets 
+employment, judicial, and political circles. 
+are no longer a conduit between savers 
+More people feel vulnerable. Sharper 
+planning for a decent retirement nest 
+technological shifts and enhanced global 
+egg and borrowers deploying their 
+competition are the cause; stock markets 
+savings to create wealth, jobs, skills 
+are the messenger. 
+and prosperity. 
+ii. Regulators flexing their muscles 
+i. Trading vs. investing 
+For their part, regulators, too, have been 
+The result of this, as per the view of 
+responding. 
+some investors, has been shorter time 
+horizons, unrealistic expectations, more  The EU’s Second Shareholder Rights  2
+momentum trading, a higher velocity  Directive, effective from June 2019, 
+of trades and the constant search for  sets out to remedy the situation by 
+hot products. Long-term investing has  strengthening the role of shareholders, 
+come to be full of opacity, such that  enjoining them to act like active 
+commitment to it exists at the outset  owners, rather than distant holders  The rise of ESG  
+until investors resolve is tested by time  of paper assets; and demanding  in the hedge 
+and events. commitment to sustainability in  fund industry
+reporting requirements. Similar aims 
+A decade of zero-bound interest rates 
+are deeply embedded in the latest 
+has enabled companies on both sides 
+governance codes in Japan and the UK. 
+of the Atlantic to inflate their share 
+prices via borrowings that have mostly  Indeed, the regulatory tempo has 
+gone into stock buy-backs and outsized  increased. Over 500 separate measures 
+dividends. As per the view of some  have been enacted worldwide in the last 
+investors, companies seem to have  decade, according to the PRI responsible 
+been under pressure to distribute cash  investment regulation database. 
+to shareholders rather than invest it 
+Among others, these rules and 
+to improve their long-term prospects,  33
+regulations seek to escalate new 
+resulting in lower growth in the future.
+disclosure requirements from 
+Such practices haven’t gone unnoticed.  companies, securities issuers, asset 
+Large institutional investors with  owners and asset managers. They also 
+liabilities stretching out over decades  enhance the definition of the fiduciary 
+TThhee  rriissee  ooff    
+have been their most vocal critics. They  duty of a pension plan to include societal 
+ssuussttaaiinnaabbllee  
+are forming coalitions that promote  considerations. In the past, its focus 
+iinnvveessttiinngg
+climate action and better sustainability  was solely to maximize the financial 
+methodology by, amongst other things,  gains that can provide a regular decent 
+fostering long-term investing. retirement income for their members. 
+43 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+b.  Climbing a steep learning  Learning-by-doing remains the principal 
+curve  vehicle for climbing what looks like a steep 
+learning curve. 
+Another key barrier is data challenges.  Materiality is 
+At the heart of sustainability sit three  i. Heart of the matter
+hard to ascertain 
+foundational concepts that have proved 
+The crux of the problem is that there 
+hard to quantify: materiality, intentionality  with the current 
+is no universal acceptance of what a 
+and additionality (case study 3C). 
+‘good’ company is in practice. With rare  generation of data. 
+Respectively, they seek to assess how  exceptions, therefore, governments do 
+We are forced to 
+material sustainability factors are to a  not mandate companies to provide data 
+company’s financial performance and the  on the aspects that matter for sustainable  make judgment 
+risks that can affect it; does the company  investing. 
+calls. 
+really intend to act on them and ‘do good’  1
+Article 173 in the French 2017 transition 
+via its products, services and interactions 
+with wider society; and does it generate  law broke the mold by requiring  A Dutch asset manager 
+mandatory carbon reporting for listed 
+societal benefits in addition to financial 
+companies as well as pension investors. 
+benefits? 
+Other EU jurisdictions have followed suit. 
+Executive 
+So far, each of these areas have relied on 
+summary
+blending existing data with judgment calls. 
+Case study 3C: 
+The Achilles' heel of sustainability
+Far and away the biggest barrier  typically have better disclosure  selection. The data are updated 
+to sustainability investing so far  procedures than the rest. The rise  annually so it is hard to assess 
+has been the lack of a robust  of big data has been a major boost  progress on sustainability scores  2
+template with consistent  for all data vendors.  more frequently. 
+definitions and reliable data on 
+But information challenges persist  For now, we are making do 
+how companies score on various 
+on three of the most pertinent  with what data we have. Our 
+sustainability factors. 
+issues for investors: materiality,  experience shows that it is not the  The rise of ESG  
+Worldwide, there are over 150  intentionality and additionality.  sustainability scores themselves,  in the hedge 
+fund industry
+major data vendors, each with  but the rate of change in them — in 
+It is hard to ascertain these issues 
+their own proprietary definitions  either direction — that moves their 
+because most of the data are 
+and data sources.  share prices. 
+self-reported, raising questions 
+The result is that companies in  about reliability and consistency.  Markets seem to have rewarded 
+the same investment universe  The implied volunteerism has given  those who have improved their 
+end up with radically different  rise to whitewashing on the part of  game the most, including carbon 
+scores from different vendors. corporates: selective focus on good  polluters. 
+scores and ignoring the rest. 
+But we are a long way from  A key contributory factor is the 
+33
+having real-time reliable data that  Their coverage is mostly limited  media publicity generated by 
+can enhance market depth in  to this decade such that their  shareholder engagement with 
+sustainable funds.  time series are not long enough  the companies involved. 
+to facilitate statistical modeling 
+Data coverage, on the whole, is  A Dutch pension plan
+that typically underpins asset  TThhee  rriissee  ooff    
+far better for larger companies that 
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+44 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Even so, four problems persist in all  Similarly, when it comes to ESG 
+fund jurisdictions.  investing, it is unclear how much weight 
+should be accorded to each of the three 
+First, currently, there is no universally  Engagement will 
+disparate components, without invoking 
+agreed upon terminology that can help 
+value judgments.  become the alpha 
+to create a common language and 
+mental models about sustainability at  Finally, in the area of climate change,  behind alpha. 
+a statistical level. Trade associations  two data challenges have proved 
+and advocacy groups worldwide are  daunting. One is having to factor in  A German asset manager
+collaborating extensively to bridge the  physical risks like forest fires and rising 
+gap. sea levels that are hard to predict. 
+The other challenge is to measure a 
+Climate change, being an inexact 
+company's carbon footprint, which 
+science from an investor perspective,  1
+is defined to include emissions 
+presents formidable challenges in 
+from its own operations as much as 
+measuring the carbon footprints of 
+emissions from its supply chain at the 
+companies. The task of establishing 
+upstream end and its customers at the 
+a clear line of sight between climate 
+downstream end. 
+change and investment outcomes is  Executive 
+fraught with as many unknowables as  Yet, these problems have not detracted  summary
+unknowns.  from two parallel developments, 
+according to the participants in our 
+Second, getting consistent data on 
+interview survey. 
+sustainability scores and performance 
+measures remains a difficult task  ii. Winds of change
+even with the presence of more than 
+The first one is that we are indeed 
+150 major data vendors, each with 
+witnessing the emergence of a new 
+their own proprietary definitions 
+infrastructure of data, skills and 
+and methodologies on materiality, 
+technology on the ground. Data vendors 
+intentionality and additionality. In the 
+are experiencing rapid consolidation. The 
+absence of a standardized format, 
+rise of big data and machine learning 
+the result is often a radically different  2
+is improving the quality and timeliness 
+assessment of the same company 
+of the information. Progress may not 
+from different sources. The problem is 
+be enough but it remains exponential. 
+compounded by the fact that most of the 
+For example, the Impact Management 
+required data is self-reported, selectively 
+Project alone has involved over 2,000 
+focusing on good news and filtering out  The rise of ESG  
+investment practitioners globally on 
+bad. As a result, many asset owners  in the hedge 
+how to measure, report, compare and 
+prefer to pursue sustainability via passive  fund industry
+improve impact performance. 
+funds that require least governance 
+oversight and data demands on them.  Second, for smart investors, the 
+identified problems give rise to all 
+Third, when it comes to avoiding ‘sin’ 
+manner of informational inefficiencies 
+stocks, it is unclear at what threshold a 
+in financial markets. As such, they 
+company is to be classified as ‘bad’. For 
+are nothing more than concealed 
+example, many conglomerates have a 
+opportunities to generate alpha for those 
+small exposure to defense weapons. 
+who are progressing fast up the learning 
+Any ceiling is bound to be arbitrary11. 
+curve. 
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+45 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+c. Partial evidence of success factor in Europe but probably less so in 
+America or Asia Pacific (case study 3D). 
+With ever more money flowing into 
+sustainable investing, a big question has  Regionally, the environmental aspect 
+come to the fore: Is sustainability a risk  was most evident in asset valuation in 
+factor? Our interviews identified two  the US during 2014–17 but has since 
+groups: believers and pragmatists.  turned negligible12. 
+i. Believers
+Believers argued that it is — but with 
+one difference. It is a compensated 
+1
+Case study 3D: 
+Is sustainability a risk factor?
+Executive 
+summary
+The rise of sustainability has  more data have emerged to  century as well as related high-
+naturally raised the question: Is  confirm their validity. profile corporate disasters — like 
+it a risk factor — on top of the  the recent abrupt bankruptcy 
+In contrast, being a relatively 
+traditional ones like value, quality,  of Pacific Gas and Electric 
+new phenomenon, sustainability 
+low variance, size and momentum?  Company. 
+lacks the database to underpin 
+The main problem is that most risk  its status as a risk factor. But that  So, sustainability is gradually 
+factors are not readily observable.  does not make it unimportant.  transitioning from being an 
+So, our portfolio managers are  uncompensated risk factor to a 
+First, there is a concerted 
+forced to use their proxies.  compensated one.
+regulatory push towards 
+2
+For example, value factor is   sustainability, as investors have  Third, our own research shows 
+associated with cheap stocks.  earmarked some US$30 trillion  that sustainability is correlated 
+But the evaluation of ‘cheap’  worldwide towards sustainable  with the traditional quality factor 
+relies on metrics such as  investments. It is hard to believe  that relies on proxies that are 
+The rise of ESG  
+book-to-price or PE ratios.  markets will not take note.  broadly similar. 
+in the hedge 
+In contrast, as yet, there is no  Second, the history of other  Even so, we use sustainability  fund industry
+agreement on the proxy metrics  risk factors shows that, once  as a factor to deliver — at the 
+for environment, social and  discovered, they remain  very least — a more defensive 
+governance; nor on what weights  uncompensated until they have  portfolio by taking account 
+to assign to each of them.  been tried and tested by events.  of long horizon risks that are 
+statistically hard to model. 
+Traditional risk factors have  We have been witnessing 
+gained credence over time as  dramatic climate events in this  A global French asset manager
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+46 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Overall, governments and consumers  downside protection and much lower  Hence, they need evidence that 
+in Europe have become stronger  drawdowns in the pronounced risk-on/ something has worked well in the 
+supporters of sustainability, especially  risk-off cycles of the last decade.  past within a replicable investment 
+after the 2015 Paris conference, which  In other words, sustainability has  process, backed by a clear thesis. 
+attracted widespread attention in the  so far already proved a good capital  For many of them, sustainability is a 
+mass media.  conservation strategy in periods of  nascent phenomenon. They remain to 
+volatility.  be convinced about its upsides. After 
+Unsurprisingly, five European 
+all, their own incentives favor consistent 
+countries have made most progress in  ii. Pragmatists
+returns year on year. 
+implementing carbon pricing, according 
+On the other hand, pragmatists argued 
+to the latest OECD data. They are 
+that, for any return driver to be treated as 
+Switzerland, France, the UK, Italy and 
+a risk factor, it needs a long performance 
+Germany. Capital markets have duly 
+history over multiple cycles in multiple  11
+noted. 
+regions. So far, data on sustainability 
+Unless asset 
+Believers cited two other arguments. To  have been sparse, covered a short 
+start with, their own analysis shows that  time horizon and been beset by various  managers act like 
+sustainability has been a factor overall  caveats. This relative sparsity of data 
+active owners on our 
+in this decade. But the time period for  creates problems for many among the  EExxeeccuuttiivvee  
+environmental, social and governance  current generation of research analysts  behalf, sustainable  ssuummmmaarryy
+components has varied: they have not  and portfolio managers. They are trained 
+investing will not meet 
+moved in tandem. This argues for a  skeptics: Their craft blends data with 
+more granular approach when assessing  personal judgment — cultivated over  our expectations. 
+sustainability as a risk factor.  years of chasing financial returns via in-
+depth research. For them, investing is a 
+Furthermore, together, these three  A Hong Kong institutional 
+bet on an unknown future. 
+components have served to provide  investor 
+22
+TThhee  rriissee  ooff  EESSGG    
+iinn  tthhee  hheeddggee  
+ffuunndd  iinndduussttrryy
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+47 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+3. Developing best practice
+The challenges outlined above — namely,  data about a company from a diverse set 
+short-termism, data shortcomings and  of sources with information emerging 
+lack of robust impact evidence — have  from direct engagement with it as 
+Our neglect of 
+only intensified efforts to develop  shown in Figure 3.2. 
+practical solutions. Two areas have been  socio-environmental 
+Notably, some pension plans see 
+prioritized: active ownership and smarter 
+engagement as a source of what they  issues will shock 
+implementation, as described separately 
+call ‘structural capital’: knowledge about 
+below.  future generations,  1
+how sustainability is playing out on the 
+ground and where alpha opportunities  just as our 
+a. Active Ownership 2.0
+are likely to arise, as companies improve 
+predecessors’ 
+It is now widely accepted that  their sustainability credentials. After 
+sustainability best practice involves  all, it is widely accepted that it is the  neglect of slavery 
+enriching the current infrastructure  increase in sustainability score — rather  Executive 
+shocks us today. 
+of data, skills and technology with  than absolute levels — that drives  summary
+shareholder activism that targets real- performance.  The aim is to identify 
+world outcomes at scale. companies, via engagement, with a  A French institutional investor
+virtuous trajectory, as opposed to those 
+Its principal instrument is direct 
+exposed to controversy. 
+engagement with investee companies 
+that seeks to understand the reality on  i. Pragmatism presides
+the ground and be a change agent in 
+In this context, investors face two choices: 
+reshaping it for the better. More than 
+divest or engage. 
+that, it’s about gaining an informational 
+edge via positive feedback loops in  The former is appealingly simple: Cut off 
+which ideas beget ideas and information  the flow of funds to society’s corporate 
+begets information. Such loops blend  ‘villains’ and they will collapse from capital  2
+Figure 3.2 Active ESG
+The rise of ESG  
+Big d a t a advanced analytics fiunn tdh ein hdeudsgtrey 
+Di
+r
+a e
+t c
+a t
+d  e
+y  ng
+rt Company a
+a g
+p e
+- m
+d
+ri ne
+h t
+T
+m
+o
+Corporate disclo s ure ﬁts fr 33
+e
+n
+e
+B
+Evolving methodology
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+Portfolio
+iinnvveessttiinngg
+Source: Neuberger Berman, 2019
+48 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+starvation and sacrifice the diversification  engagement with investee companies — 
+benefits as a trade-off.  often in collaboration with other investors 
+to exercise maximum leverage. It is based 
+Instead, there is growing preference for  The days when 
+on the belief that those who are part of the 
+a pragmatic ‘carrot and stick’ approach. 
+problem can also be part of the solution.  stewardship was a 
+Selling ‘sin’ stocks, for example, to others 
+without similar concerns often ends up  Engagement can be an intensive  box-ticking exercise 
+with the latter buying shares at less than  drawn-out process. But if all else fails, 
+using a boilerplate 
+the prevailing market price and pocketing  then our interviewees have been unafraid 
+the profits; while the business models of  to exercise the nuclear option: divestment. narrative are gone. We 
+the villains remain unchanged. 
+In sum, data provide the breadth of  are mandated to be 
+Besides, when it comes to fossil fuel  information, engagement provides the 
+agents of change.
+companies, voting with your feet does  depth. Together, they make a powerful  1
+not work, since most of them now sit on  combination as investors and their asset 
+A UK pension plan
+a large free cash flow, with much less  managers progress up the learning curve, 
+reliance on capital markets. via collaboration with their peers within 
+various global networks (case study 3E). 
+Hence, the more effective channel for 
+Executive 
+changing corporate behaviors is direct 
+summary
+Case study 3E: 
+An owner, not a trader
+Engagement is not a ‘once and  We are also demanding  Standards Board, and Climate 
+done’ exercise but a long haul.  regular reporting on various  Action 100+. 
+It seeks to wean investors off  governance aspects such as 
+The UK Stewardship Code, hailed 
+a deeply ingrained addiction to  board independence, executive 
+as one of the best globally, is 
+quarterly numbers.  compensation, risk dashboard,  2
+being refined this year. 
+employment practices, gender 
+Our research shows that, on a 
+diversity and community-related  The previous one asked for 
+5-year view, companies with poor 
+activities.  policies, procedures and basic 
+sustainability scores have higher 
+disclosures from institutional 
+idiosyncratic risks and higher  We vote at AGMs and back that up  The rise of ESG  
+investors. In contrast, the new 
+beta. We have such companies in  with year-round conversations with  in the hedge 
+one requires evidence-based 
+our portfolio.  top executives, in order to deepen  fund industry
+disclosures from us as to how 
+our relationships in the targeted 
+That leaves us with two choices:  these policies are actually 
+companies. In 2019, we engaged 
+One is to dump them; another  implemented on the ground. 
+with over 800 major companies, 
+is to encourage these laggards 
+via face-to-face meetings,  More notably, it also enjoins our 
+to up their game. We have done 
+conference calls and emails.  board and C-suite executives 
+both. 
+to receive and approve the 
+We enhance our leverage 
+Principally, we require them to  stewardship reports and put their 
+by subscribing to the UK 
+use the reporting framework of  money where their mouth is. 
+Stewardship Code, the Japanese 
+the Task Force on Climate-related  33
+Stewardship Code, the US  The new code has shifted 
+Financial Disclosures, with a 
+Forum for Sustainable and  the burden of proof to us by 
+strong focus on carbon footprint 
+Responsible Investment, the  mandating us as the agents of 
+and the actions taken to reduce it. 
+Carbon Disclosure Project,  change. 
+TThhee  rriissee  ooff    
+the Sustainability Accounting 
+A UK pension plan
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+49 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+ii. Progress is slow Its own research shows that, for 
+pension plans, sustainability capabilities 
+In general, though, positive investor 
+are the most important factor in 
+action is the exception rather than the  Sustainability will have 
+manager selection because the majority 
+rule so far, according to a recent report 
+of plans do not as yet have the requisite  its own version of the 
+from the PRI13. Many investors do 
+resources. Hence, they tend to rely on 
+not — as yet — have policy advocacy  core-satellite model. 
+their asset managers to make all the key 
+functions that could move the needle on 
+decisions on sustainability. 
+some of these issues.  A UK asset manger 
+So, asset managers should concentrate 
+To cynics, therefore, engagement may 
+on four areas to achieve best practices in 
+smack of box-ticking. Not so, according 
+implementation: data, integration, clarity 
+to a previous paper from the PRI14. 
+and articulation. 
+1
+Its research shows that engagement 
+i. Data 
+can and does promote a constructive 
+dialogue that facilitates the exchange of  Taking them in turn, the ability to 
+information, sets expectations, seeks  measure sustainability impact is central 
+specific actions and builds trusting  to its reporting. As regulators in the 
+Executive 
+relationships on the ground.  West step up their efforts towards 
+summary
+disclosure guidance in line with the 
+It promotes new learning in the belief 
+Task Force on Climate-related Financial 
+that ideas breed ideas and collaboration 
+Disclosure recommendations, asset 
+can devise solutions that meet the 
+managers should step up pressure for 
+requirements of both parties. 
+quality improvements in their data supply 
+Finally, it navigates internal politics within  chains. 
+both parties that have often promoted 
+Lack of requisite data remains a 
+the box-ticking that has long undermined 
+major impediment — what cannot be 
+genuine catalysts for change. 
+measured cannot be reported. The 
+current situation provides ample scope 
+b. Smarter implementation
+for greenwashing — repurposing of 
+2
+Templates for improving the  funds to give them a green label as a 
+effectiveness of sustainability have  marketing gimmick. It also gives rise to 
+been produced by various national and  whitewashing at the investee company 
+international bodies.  end — massaging the data to overstate 
+improvements. Both are detrimental to 
+One that was widely used among  The rise of ESG  
+the sustainability brand. Investors are 
+our interview survey participants  in the hedge 
+especially keen to know how reliable 
+was from mallowstreet Insights, a  fund industry
+sustainability scores are, how they are 
+research center providing pivotal inputs 
+changing over time and whether they are 
+to pension trustees and their asset 
+managers15. reflected in the value of assets they hold. 
+33
+TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+50 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+ii. Integration  iii. Clarity 
+The second area is integration. Asset  Asset managers should provide 
+managers need to have an integrated  explanations at a more granular level  Actions on climate 
+approach to sustainable investing,  on how implementation is done at the 
+change are no 
+embracing at least one of two levels  fund or mandate level. This includes 
+that are meaningful to investors:  seven components: the statement  longer equated to 
+core and specialist (Figure 3.3). Data  of its investment policy; its link with 
+tree-hugging and 
+problems dictate pragmatism in the  international standards; the data 
+core portfolio by including only those  sources used; their real-time tracking;  back-door socialism. 
+securities that rate high on both their  the definitional templates used; 
+alpha potential and their sustainability  corporate engagement policy; and  A Swiss institutional investor 
+potential in the short and medium term.  resources dedicated to engagement 
+1
+That way, poor data will not undermine  practices and their outcomes. 
+performance, nor will the investment 
+Investors are especially keen to know 
+time horizon — if the portfolio includes 
+that there is a direct line of sight between 
+securities currently underpriced on 
+sustainability policy and the practices 
+both criteria. 
+that deliver its impact on the ground. Executive 
+On the other hand, investors who wish  summary
+iv. Articulation 
+to pursue specific sustainable themes 
+should have access to thematic funds,  Asset managers should provide 
+with longer time horizons and variable  better sustainability articulation in the 
+performance. In other words, the core  fixed-income space. Currently, attention 
+portfolio should embrace Levels 2 and  is centered on equities where data 
+3 in the Spectrum of Capital (Figure 3.1)  availability is less constrained and 
+and the specialist should cover  engagement is a lot easier via proxy 
+Levels 4–6. Investors are especially  voting, attendance at the AGM and 
+keen to see sustainability investing  year-round conversations. In contrast, 
+evolve along this dual line.  fixed-income instruments are perceived 
+as overly quantitative, relying on interest 
+2
+rates, inflation, credit quality and 
+liquidity risks.
+Figure 3.3 How ESG is evolving 
+The rise of ESG  
+in the hedge 
+Core ESG Core–specialist ESG Specialist ESG fund industry
+(e.g. Impact, Thematic, Activist, etc.)
+— Stronger focus 
+—  Seeks stable
+on ESG
+outperformance
+ 
+— Typically longer 
+— Controlled ESG 
+CORE ESG   term focus
+  exposure
+— More variable
+— Risk controlled, 
+performance  33
+diversified   G
+Specialist  E S
+Source: QMA, 2019 TThhee  rriissee  ooff    
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+51 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+There is a perception that lenders do not  As more assets go into sustainability 
+have the right to engage because their  funds, a meritocratic fee structure will 
+investments come with protections at  have to be the norm in the active space. 
+the expense of voting rights. Hence,  In contrast, in passive investing, where 
+investors are especially keen to know  price wars have been fierce lately, 
+how effective sustainability criteria are  stewardship has to be a key point of 
+currently exercised at two stages: the  competition. 
+initial screening when the investment 
+Furthermore, alignment is no longer just 
+is first made and the refinancing stage 
+about having fees that offer equitable 
+when a bond matures. 
+sharing of gain and pain with clients. 
+Some asset managers already do this  It is also about having alignment of 
+by adopting the approach set out in  investment beliefs and time horizons 
+1
+Figure 1.9 in the Executive summary.  over which investment goals can 
+And the pace is set to accelerate as  materialize. 
+more sustainability funds flow into the 
+The current approach — often 
+fixed income space. 
+influenced by herding and past 
+In addition to the above four areas,  performance — is fraught with ‘wrong  Executive 
+institutional investors in our interview  time’ risk and ‘regret’ risk: Investors buy  summary
+survey also identified a fifth one where  high and sell low, only to lament later on. 
+the needle needs to shift significantly. Many of them have not been too clear 
+about beliefs on which their investments 
+v.  Financial and nonfinancial 
+are based; nor about the time horizon 
+alignment of interests 
+over which their goals are expected to 
+Worldwide, fee compression is the  materialize. 
+norm in the asset industry. It is most 
+Accordingly, an essential element of 
+evident in new mandates, while 
+engagement between asset managers 
+legacy assets remain locked into the 
+and their clients is to align beliefs 
+age-old fixed percentage fee linked 
+and time horizons when it comes to 
+to assets under management. While 
+sustainable investing. Fee structures  2
+encouraging asset gathering, this 
+are moving in the right direction as 
+asymmetric structure rewards asset 
+alignment deepens.
+managers irrespective of outcomes. It 
+also generates windfall gains in rising 
+markets as the icing on the cake. 
+The rise of ESG  
+in the hedge 
+fund industry
+To conclude, therefore, the challenges identified in this section are 
+the teething problems of a better form of investing. 
+Sustainability is set to morph into the new gold standard, as our 
+societies seek to overcome the side effects of the turbocharged 
+capitalism of the past 40 years. 
+Before then, sustainability is beset by its own challenges. But early 
+movers see it as no more than a concealed opportunity to create 
+businesses of enduring value — and profit from them. 
+33
+Institutional factors are fast driving change. Pragmatism has been 
+all too evident, with concerted action now in progress. There is an 
+increasing realization that finance must give something back to 
+society as well as making profit. Early results are encouraging.
+Only responsible ownership and savvy implementation will deliver 
+TThhee  rriissee  ooff    
+sustainability. They will also differentiate the winners from the losers. 
+ssuussttaaiinnaabbllee  
+iinnvveessttiinngg
+52 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+References
+1.  Edelman: An overwhelming majority of investors expect companies to implement 
+effective envirownmental, social-impact and governance (ESG) practices, 
+December 2019.
+2.  Gunnar Friede, Timo Busch and Alexander Bassen: ESG and financial performance: 
+aggregated evidence from more than 2000 empirical studies, 2015.
+1
+3.  PRI: What is the inevitable policy response?, 2019.
+4.  Carbon tracker initiative: 2 degrees of separation — transition risk for oil and gas in 
+a low carbon world, 2017.
+5.  Barron’s: ESG investing suffers a setback in California, 2018.
+Executive 
+6.  PRI: Responsible investment due diligence questionnaire for hedge funds, 2019. summary
+7.  Preqin: Will hedge funds ever truly embrace ESG principles? 2019.
+8.  Impact Management Project: The rise of impact: five steps towards an inclusive 
+and sustainable economy, 2017. 
+9.  Aviva investors: Rights and responsibility — Our global responsible investment 
+approach, annual review 2018.
+10. The global sustainable investment alliance: 2018 global sustainable investment 
+review.
+11. Man group: ESG integration — No silver bullet, June 2019.
+2
+12. The Financial Times: Active investing and ESG are a perfect match, November 12, 
+2019.
+13. PRI: Active ownership 2.0: The evolution stewardship urgently needs, 
+November 2019.
+The rise of ESG  
+14. PRI: How ESG engagement creates value for investors and companies, 2018.
+in the hedge 
+15. mallowstreet Insights: ESG report, 2019. fund industry
+3
+The rise of  
+sustainable 
+investing
+53 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+Contacts
+Regional contacts: 
+Andrew Weir  Bonn Liu  David Neuenhaus 
+Global Head of   Head of Asset Management   Global Leader 
+Asset Management   ASPAC Region  Asset Management Tax 
+E: andrew.weir@kpmg.com E: bonn.liu@kpmg.com E: dneuenhaus@kpmg.com 
+Greg Williams  Tomas Otterström  John Cho 
+1
+Head of Asset Management  Global Leader  Global Leader 
+North America Region  Sustainable Finance Services  Institutional Investors Group  
+E: gregorylwilliams@kpmg.com E: tomas.otterstrom@kpmg.fi E: johncho@kpmg.ca 
+Darina Barrett  Jon Mills 
+Head of Asset Management  Global Leader  Executive 
+EMEA Region  Asset Management Audit  summary
+E: darina.barrett@kpmg.ie E: jon.mills@kpmg.co.uk
+Linda Elkins  Vivian Chui  David Capocci 
+KPMG Australia  KPMG China  KPMG in Luxembourg  
+E: lindaelkins@kpmg.com.au E: vivian.chui@kpmg.com  E: david.capocci@kpmg.lu
+Simon Townend  Jan Hove  Jeroen Van Nek 
+KPMG in the Bahamas  KPMG in Denmark  KPMG in the Netherlands 
+E: stownend@kpmg.com.bs E: jahove@kpmg.com E: vannek.jeroen@kpmg.nl
+2
+Mahesh Balasubramanian  Gerard Gaultry  Andrew Thompson 
+KPMG in Bahrain  KPMG in France  KPMG in Singapore 
+E: bmahesh@kpmg.com E: ggaultry@kpmg.fr  E: andrewthompson8@kpmg.com.sg
+Gary Pickering  Hans Volkert Volckens    Francisco J. Muñoz Neira 
+The rise of ESG  
+KPMG in Bermuda  KPMG in Germany  KPMG in Spain 
+in the hedge 
+E: garypickering@kpmg.bm E: hvolckens@kpmg.com E: jmunozneira@kpmg.es
+fund industry
+Lino Junior  Frank Gannon  Markus Schunk 
+KPMG in Brazil   KPMG in Ireland  KPMG in Switzerland 
+E: lmjunior@kpmg.com.br  E: fgannon@kpmg.com  E: markusschunk@kpmg.com
+Peter Hayes  Russell Kelly  Rachel Hanger 
+KPMG in Canada  KPMG in the Isle of Man  KPMG in the UK 
+E: phayes@kpmg.ca E: russellkelly@kpmg.co.im E: rachel.hanger@kpmg.co.uk
+Anthony Cowell  Giulio Carlo Dell'Amico  Jim Suglia 
+KPMG in the Cayman Islands  KPMG in Italy  KPMG in the US 
+E: acowell@kpmg.ky  E: gdellamico@kpmg.it  E: jsuglia@kpmg.com
+3
+Steven Hunt  Ryuichi Murasawa 
+KPMG in the Channel Islands  KPMG in Japan 
+E: stevenhunt@kpmg.com E: ryuichi.murasawa@jp.kpmg.com
+The rise of  
+sustainable 
+investing
+54 Sustainable investing: fast-forwarding its evolution
+© 2020 KPMG International Cooperative (“KPMG International”). KPMG International provides no client services and is a Swiss entity with which the independent member firms of the KPMG network are affiliated.
+KPMG’s global Asset Management practice offers specialized services to a wide range of 
+industry clients at local, national and global levels. Our professionals in Audit, Tax and Advisory 
+are specialist in their fields and have deep experience the issues and needs of the investment 
+management businesses. KPMG member firms' clients included investment managers, wealth 
+managers, family offices, fund administrators and service providers who focus on mutual funds, 
+hedge funds, private equity funds, infrastructure funds and real estate funds, and institutional 
+investors for pension funds and sovereign wealth funds.
+KPMG firms aim to provide you with a tailored service of the highest standard. KPMG member 
+firms are focused on exceptional objectives of building trusted relationships and delivering quality 
+output through our project teams that can support you from anywhere in the world, whatever your 
+investment activity.
+create-research.co.uk
+CREATE-Research is an independent research boutique specializing in strategic change and the newly 
+emerging business models in global asset management. It undertakes major research assignments 
+from prominent financial institutions and global companies. It works closely with senior decision 
+makers in reputable organizations across Europe and the US. Its work is disseminated through high 
+profile reports and events that attract wide attention in the media. Further information can be found at 
+create-research.co.uk.
+home.kpmg/sustainableinvesting 
+home.kpmg/socialmedia
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we 
+endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will continue 
+to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+© 2020 KPMG International Cooperative (“KPMG International”), a Swiss entity. Member firms of the KPMG network of independent firms are affiliated with 
+KPMG International. KPMG International provides no client services. No member firm has any authority to obligate or bind KPMG International or any other 
+member firm vis-à-vis third parties, nor does KPMG International have any such authority to obligate or bind any member firm. All rights reserved. 
+The KPMG name and logo are registered trademarks or trademarks of KPMG International.
+Designed by Evalueserve. 
+Publication name: Sustainable investing: fast forwarding its evolution 
+Publication number: 136641-G
+Publication date: February 2020

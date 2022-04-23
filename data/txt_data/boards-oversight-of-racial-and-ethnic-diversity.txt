@@ -1,0 +1,684 @@
+
+The Board’s Oversight 
+of Racial and Ethnic 
+Diversity, Equity 
+and Inclusion
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  1
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      11 0077--JJuull--2211      11::4422::2244  PPMM
+Foreword
+In summer 2020, State Street enhanced its commitment  We first consulted academic and policy experts to identify 
+to advancing racial justice both inside and outside the  the main risks and opportunities related to strong oversight 
+organization. As part of this effort, the company launched  of racial diversity, equity, inclusion and justice. We then 
+“10 Actions Against Racism and Inequality” and made  conducted interviews with 27 experienced directors from 
+these commitments public to increase accountability and  S&P 500 and FTSE 100 companies. These conversations 
+motivate peer companies to take action too. informed the development of this paper, and our analysis 
+of directors’ comments resulted in our enclosed “10 
+Commitment #7 tasked the Asset Stewardship team at 
+Responsibilities of Boards in the Effective Board Oversight 
+State Street Global Advisors, one of the world’s largest 
+of Racial and Ethnic Diversity.” 
+asset managers, to leverage their engagements with 
+thousands of investee companies to glean best practices  Board oversight is about ensuring that management is 
+for advancing racial and ethnic diversity, equity and  focused on risks and opportunities that are relevant for the 
+inclusion. The Asset Stewardship team chose to focus on  firm. Our hope is that boards will incorporate this guidance 
+the topic of board oversight, given the team’s governance  into their oversight practices in a way that is tailored to 
+expertise and the relative lack of literature regarding this  their particular company’s context. We believe the following 
+dimension of diversity. The State Street team partnered  insights provide a view into boardroom discussions and also 
+on this effort with Russell Reynolds Associates due to their  offer a roadmap for how companies can more effectively 
+board governance expertise and extensive relationships  manage and mitigate risks related to racial justice, thus 
+with corporate directors, and the Ford Foundation, given  making our world more equitable.
+their connection to movements for racial justice. The 
+three organizations worked together on this study of the 
+best practices for effective oversight of racial and ethnic 
+diversity, equity and inclusion. 
+Cyrus Taraporevala Darren Walker Clarke Murphy
+Chief Executive Officer President Chief Executive Officer
+State Street Global Advisors Ford Foundation Russell Reynolds Associates
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  2
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      22 0077--JJuull--2211      11::4422::2244  PPMM
+Acknowledgements
+As part of our research, we interviewed 27 directors from the S&P 500 and FTSE 
+100.The group was approximately half women and nearly two-thirds people of
+color. The companies on whose boards they serve represent all sectors.
+We extend our gratitude to these directors:
+• Tom Baltimore (American Express, Park Hotels & Resorts, Prudential 
+Financial)
+• Les Brun (Broadridge Financial, CDK Global, Corning, Merck)
+• Ursula Burns (Exxon Mobil, Waystar, Uber)
+• Lisa Caputo (Best Buy)
+• Ken Chenault (Airbnb, Berkshire Hathaway, General Catalyst)
+• Maggie Chan Jones (Avast)
+• Ken Denman (Costco, Motorola, VMware)
+• Bill Easter (Delta Airlines, Emerson Electric)
+• Dame Amelia Fawcett (State Street)
+• Jamie Gorelick (Amazon, VeriSign)
+• Carla Harris (Cummins, Walmart)
+• Mellody Hobson (Ariel Investments, JPMorgan Chase, Starbucks)
+• Tom Ilube (BBC, WPP)
+• Andrea Jung (Apple, Unilever, Wayfair)
+• Tanuj Kapilashrami (J Sainsbury)
+• Bill Kennard (AT&T, Ford, MetLife)
+• Risa Lavizzo-Mourey (Better Therapeutics, GE, Intel, Merck)
+• Paula Reynolds (BP, GE, National Grid)
+• Jon Rubinstein (Amazon, Robinhood)
+• Steve Reinemund (Marriott, Walmart)
+• Ron Sargent (Five Below, Kroger, Wells Fargo)
+• Christiana Smith Shi (Mondelez, UPS)
+• Gaby Sulzberger (Eli Lilly, Mastercard)
+• Joe Swedish (CDW, IBM)
+• Jackson Tai (Eli Lilly, HSBC, Mastercard)
+• Darren Walker (PepsiCo, Ralph Lauren, Square)
+• Ireena Vittal (Compass Group, Diageo, Wipro)
+While most directors spoke to us with an understanding they would be quoted 
+anonymously, several chose to waive that and have their quotes attributed to 
+them in the paper.
+We also appreciate the academics, policy experts and thought leaders who 
+contributed to our understanding of the key business risks and opportunities 
+related to racial and ethnic diversity, equity, inclusion and justice.
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  3
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      33 0077--JJuull--2211      11::4422::2266  PPMM
+Executive Summary
+• What motivates board oversight of racial equity: The • Where boards are focusing their attention: Directors
+following risks and opportunities motivated directors’ indicated a heightened focus on racial and ethnic
+increased focus on racial and ethnic diversity, equity, diversity as it relates to workforce diversity and
+& inclusion (DE&I): reputation, strategy, financing, representation; inclusion and belonging; retention,
+regulatory and compliance, and human capital. Directors promotion and succession planning; and engagement
+did not cite the potential economic impact of racial on social and political issues. Few directors spoke about
+inequity as a key motivator. oversight of the potential impacts of their company’s
+products, services or operations on communities of color.
+• Oversight in practice: Directors referenced one or more
+of the three major committees—audit, compensation, and • Metrics and performance management: Directors—
+nominations and governance—as having explicit oversight especially those who sit on the compensation
+of racial and ethnic DE&I. Most boards undertake a hybrid committee—seek to identify the proper metrics to
+approach to oversight—discussing the issue in committee, measure progress on DE&I and then to link executive
+but also making it a full-board topic. The full-board compensation to performance against those goals.
+discussions often center on the interplay between DE&I Directors also described the challenge of getting good
+and strategy and on DE&I as a component of corporate data and interpreting it correctly.
+culture.
+• Challenges in a global context: Multinational
+corporations face a particular challenge when it comes to
+overseeing racial and ethnic diversity. Different regions
+and countries define and collect data on diversity in
+different ways. It is important to obtain the right data and
+to interpret it correctly.
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  4
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      44 0077--JJuull--2211      11::4422::2288  PPMM
+• Guidance: Our conversations with directors led to the
+development of “10 Responsibilities of Boards in the
+Effective Board Oversight of Racial and Ethnic Diversity,”
+a roadmap for boards that wish to elevate their focus on
+DE&I. We fully recognize that boards need to incorporate
+this guidance into their oversight practices in a way that
+is tailored to their particular company’s context:
+Ensure the CEO and board chair have the 
+1 capacity and commitment to drive the 
+organization’s racial equity efforts long-term
+Build a board whose directors are racially and 
+2 ethnically diverse and have experience with 
+oversight of DE&I
+Make racial equity an active part of the 
+3 business strategy and work toward clear and 
+quantitative key performance indicators
+Make racial and ethnic diversity, equity, and 
+4 inclusion both a committee and full-board 
+responsibility
+Regularly evaluate the potential impacts of 
+the company’s operations on communities of 
+5
+color, embracing relevant opportunities and 
+mitigating relevant risks
+Facilitate boardroom discussions that are 
+thoughtful, balanced, and intentional, and 
+6
+build a culture where directors are 
+empowered to challenge ideas
+Include the perspectives of stakeholders 
+7
+(including employees) in board discussions
+Create a structured onboarding and ongoing 
+8 training process that prepares all directors for 
+effective oversight of DE&I
+Build a coalition, share best practices, and 
+9
+learn from peers and experts
+Realize this is a long journey – be patient and 
+10
+don’t give up
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  5
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      55 0077--JJuull--2211      11::4422::3300  PPMM
+What motivates board oversight of racial equity
+Racial and ethnic diversity “has been on the board agenda” in the past, as one director said, “but it’s certainly never 
+had the focus it has now. On one hand, what took so long? On the other hand, at least we can now move the needle.” 
+Another director agreed: “It keeps coming up, but in the last 18 months, it has become more of an imperative.”
+Given State Street Global Advisors’ perspective as a long- • Financing: Investors are increasingly focused on
+term investor, and with input from diversity, equity and  managing portfolio risks related to racial and ethnic
+inclusion (DE&I) experts, our organizations identified six  diversity, and research suggests that companies with
+key business risks and opportunities related to racial and  effective environmental, social and governance (ESG)
+ethnic diversity. Our discussions with directors helped us  risk management practices benefit from a lower cost of
+understand which risks and opportunities are motivating  capital.3 At least half of directors interviewed referenced
+their increased attention to the issue of racial diversity,  the role of institutional investors in increasing the board’s
+equity and inclusion (they are listed below in descending  focus on DE&I. While some directors seemed to bristle
+order based on how often they were raised in our  at the outsized influence of external stakeholders and
+conversations with directors): investors, others were more appreciative: “I’m glad
+institutional shareholders and Nasdaq are now having an
+• Reputation: Brand is a key component of enterprise value
+impact on director diversity,” said one director. Another
+and stock price.1 As highlighted in 2020, companies that
+remarked that institutional investors “are saying, ‘You
+genuinely and consistently promote racial and ethnic
+could end up on a list of companies that we do not invest
+diversity, equity and inclusion can attract customers
+in because you do not have diversity.’ That’s been a huge
+and other stakeholders, increasing the value of a firm’s
+impact. They will be measuring and tracking, and they will
+brand. Conversely, companies that do not take action
+make proxy voting decisions based on this.”
+on this issue risk damaging their reputation. Almost
+every director we interviewed spoke to the importance • Regulatory and Compliance: Prioritizing racial and ethnic
+of considering the reputational risks and opportunities diversity, equity and inclusion can prevent a company
+related to action on racial equity. Many referenced the from violating local and federal regulations and laws
+murder of George Floyd as an inflection point which and protect it from litigation being filed by employees,
+motivated companies to start focusing on DE&I or to investors and other stakeholders. One third of directors
+accelerate their efforts in that area. interviewed said that this has motivated their board’s
+oversight of DE&I, especially in markets outside the US.
+• Strategy: Companies that prioritize racial and ethnic
+One director who has served on both US and European
+diversity, equity and inclusion can have a competitive
+boards noted that the increase in diversity regulations
+advantage over peers and access new markets,
+has led to an uptick in board discussions about the topic.
+customers and ideas, as well as enhance the long-
+“The primary conversation in Europe over the last several
+term viability of their firms.2 At least half of directors
+years had been more about gender diversity, given EU
+interviewed spoke to the importance of DE&I in driving
+requirements and the push by Angela Merkel,” they said.
+performance. “My view is best-in-class CEOs, even before
+In the US, given California’s legislative requirements
+George Floyd’s death, took ownership of this issue,
+on board diversity, “the NomCo and full board are now
+understanding that it’s key to competitive advantage
+spending more time on this. I certainly don’t think anyone
+in the marketplace,” one director said. Another agreed:
+believes this issue will live and die in California. It will
+“It translates to being a more successful company. The
+happen in other states, and it will be on the national
+literature is clear: Diversity is a business imperative, not a
+agenda, so boards are trying to get ahead of it.”
+favor the company is doing for its workers of color.”
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  6
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      66 0077--JJuull--2211      11::4422::3311  PPMM
+• Human Capital: Companies that build a diverse, inclusive
+and equitable workforce can have an advantage in
+recruiting and retaining talent of all backgrounds,
+particularly younger professionals. Research indicates
+that companies that build diverse workforces and
+inclusive cultures are more likely to generate above-
+average revenue, earnings and market share growth.4 One
+third of directors interviewed pointed to the importance
+of managing risks related to DE&I in order to attract
+and retain high-quality talent. “‘Employee belonging’ is
+very important,” Maggie Chan Jones said. “As there are
+more conversations about race, employees are going
+to demand better representation in the C-suite and in
+the boardroom as well” or else leave for more diverse
+employers. Pressure from the workforce is a growing
+concern for boards. “In the last 18 months, you’ve seen
+the competitiveness for the most marquee potential
+people of color get really intense, particularly for the
+board,” one director said. “If they don’t see people who
+look like them at the top two levels of the company, it
+impacts the longevity of diverse talent if they don’t see a
+way to progress in your company.”
+• Economic Impact: Research has demonstrated the
+impact that racial injustice has imposed upon the broader
+US economy, leading to trillions of dollars in lost GDP.5
+Even though companies could address these systemic
+risks by advancing racial justice and preventing negative
+externalities, this topic rarely came up in discussions. One
+director speculated that directors “are not there yet and
+do not yet fully understand” the opportunities companies
+have to empower communities of color outside their firm.
+[See appendix for examples of indicators boards can use to 
+assess performance in each of these six areas.]
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  7
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      77 0077--JJuull--2211      11::4422::3322  PPMM
+Oversight in Practice
+As with other dimensions of corporate governance, the board must decide who has responsibility for the oversight of 
+racial and ethnic diversity: the full board or a specific committee? And if a committee, which one? Answers varied among 
+the directors we interviewed. Only a few boards addressed the issue solely in full-board meetings. Each of the major 
+board committees was mentioned as having relevant responsibility for issues related to the oversight of racial and ethnic 
+diversity:
+• Nomination and Governance Committee: Due to
+the direct relationship between DE&I and director and  In a recent survey of NomCo chairs, when asked to 
+executive recruiting, compensation decisions, and  identify the top three most important organizational 
+succession planning, the nominations and governance  efforts the NomCo was involved with:6
+committee often has responsibility for oversight of DE&I.  91% identified balancing the board’s level of 
+Similarly, these committees are also often responsible for  management experience with the need for 
+external and reputational risk, which can be a key driver of  diverse skill sets and backgrounds
+the board’s focus on DE&I and ESG. A recent Russell  84% identified increasing diversity of slates 
+Reynolds Associates survey of nominations for CEO role and other senior executive leaders
+and governance committee (NomCo) chairs shows they 
+are engaging on this topic, with 91 percent indicating a  78% named addressing gender equity and 
+focus on increasing diverse skill sets and backgrounds in  gender bias
+management.
+• Compensation Committee: Compensation committees 
+Several directors indicated that corporate social 
+often maintain responsibility for the oversight of racial and 
+responsibility, public policy or similar committees have 
+ethnic diversity, given their focus on human capital 
+responsibility for DE&I, but these board committees are 
+management and talent development more broadly. 
+less common given that only the three aforementioned 
+Some committees are also tasked with incorporating 
+committees are required by most exchanges.
+diversity-related performance metrics into executive 
+compensation plans. It is worth noting that the UK  While the discussion often starts in one committee, it rarely 
+Governance Code explicitly requires the compensation  stays there. One director noted that “While each committee 
+committee and other directors to engage with the wider  is seeing a piece of it, it bubbles up to discussion at the 
+workforce, which can give them valuable insight into DE&I  full board because it is coming from several committees.” 
+issues in the business. Discussions at the full-board level can also advance a more 
+coordinated approach to DE&I: “What we want to see is a 
+• Audit Committee: While a limited number of directors 
+concerted, integrated, comprehensive strategy to address 
+reference DE&I as part of the audit committee’s remit,
+inclusion and diversity across the company.” 
+one director noted that “the audit committee has
+to reconcile issues which are internal audit matters,  The oversight of corporate culture seems to be one of the 
+including issues raised by employees” related to DE&I.  driving forces behind these discussions. Corporate culture 
+Similarly, a few boards address the topic in the audit  is increasingly recognized as one of the intangible value 
+committee because it is seen as being directly related to  drivers affecting a company’s ability to execute its long-
+risk management or corporate social responsibility, both of  term strategy.7 “If you look at companies that have had the 
+which are often captured within the audit committee’s  biggest problems recently, it is always about the culture,” 
+charter. one director said. “The culture conversation is a lot more 
+subtle and nuanced and is the responsibility of the full 
+board.” 
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  8
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      88 0077--JJuull--2211      11::4422::3322  PPMM
+Where Boards Are Focusing Their Attention
+While every board has a unique set of priorities, there are a number of common areas that most, if not all, directors 
+reported focusing upon:
+• Workforce Diversity and Representation: “The most  • Retention, Promotion and Succession Planning:
+important topic was gender balance until 2020,” Jackson  Boards are increasingly aware of the challenges
+Tai said. “Then it moved to addressing racial imbalance.  associated with retaining diverse employees and are
+Now we’re looking at racial, ethnic, gender and diversity  expecting action from senior management to improve.
+statistics for board as well as for senior management and  “Where you see diverse employees leaving is after the
+middle management ranks.” Many directors spoke about  first promotion,” one director said. “You have to say, ‘This
+similar shifts. “The quality of the conversation is evolving  is where we can’t lose people.’ We have to understand
+to really understand the impact on the shareholder, which  this problem, set the metrics to keep them, keep them
+is our job,” one director said. “It started much more  productive, keep them moving forward.” Gaining this
+focused on the NomCo and about representation on the  level of insight requires something more detailed than
+board and has become about representation at every level,  high-level statistics, which can paint a misleading picture
+including on the board. Do your workforce and board  of the state of DE&I in the enterprise. “Historically, the
+represent the diversity of the customer base, of your  numbers, to the extent they have been reported to boards
+future growth, the communities you serve, your  at all, are done so in aggregate,” one director told us.
+customers?” “It’s easy to pat yourself on the back for your aggregate
+numbers relative to your peers’, but things get pretty
+• Inclusion and Belonging: Many boards go beyond 
+appalling when disaggregated.” Directors noted the
+diversity to focus on inclusion and belonging within the 
+importance of setting the strategy, getting the right data
+organization. “It’s not just a numbers game, having a 
+and focusing on the desired outcomes.
+certain number of people of color in ranks; it is more about 
+creating a sense of belonging for employees, unlocking the  • Engagement on Social and Political Issues: Several
+talent that’s inherent in every person,” one director said.  directors also described an increase in conversations
+Companies take various approaches to measuring  about the company’s political positions and activities.
+inclusion and belonging, from pulse surveys to  This is an especially complex issue for board leaders
+discussions with employees to formal inclusion indexing  and is an area where directors must have “courage to
+tools, the results of which are shared with the board. One  challenge, to be curious and to be prepared to do things
+director shared that “We have an inclusion index which  that are maybe not fully embraced by shareholders,” as
+measures inclusion for every team of more than six  one director told us. Picking where and when to engage
+people. […] Inclusion for us, in terms of representational  requires thoughtfulness. One board leader pointed out
+diversity, is one element, but we look at many other  that “Some social issues affect how your company goes
+elements such as: Is it safe to speak up? Do you have the  to market [or] have a reputational impact. Often these
+tools to be able to do your job very well? We think about  are intangibles and are difficult to measure, at least in
+inclusion in its broadest sense.” the immediate term.” One clear lesson from 2020 is the
+importance of having a process for sorting through those
+issues before they arise: “You have to think about this
+framework ahead of time.”
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  9
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      99 0077--JJuull--2211      11::4422::3322  PPMM
+Addressing racial equity: A stakeholder perspective
+Directors might consider the priorities articulated by 
+PolicyLink, FSG, and JUST Capital in their “2021 CEO 
+Blueprint for Racial Equity:”
+Embed accountability within corporate 
+1
+governance and leadership performance; 
+Design HR policies and practices that are 
+2
+actively antiracist; 
+3 Expand worker power and voice; 
+Design products, services, operations and 
+4 supply chain to center on racially equitable 
+outcomes; 
+Invest directly in low-income communities of 
+5
+color; and 
+Advocate for local and federal policies that 
+6
+address structural inequities.1
+Beyond these topics, issues as wide-ranging as board 
+diversity, pay equity, supplier diversity and corporate 
+philanthropy were all raised during our discussions, 
+highlighting the myriad issues directors are facing, the 
+complexity of the topic and the depth of the board’s role. 
+Despite an awareness of reputational and other risks 
+associated with a lack of attention to racial justice, very few 
+directors spoke about oversight of the potential impacts 
+of their company’s products, services or operations on 
+communities of color. “I had a conversation, literally on 
+a board call, where I was explaining equity and equality,” 
+one director said. “Part of it has been getting people to 
+understand the difference, prioritizing and elevating voices 
+and communities that have been ignored in the past. You’ve 
+got to figure out a way to get them more equity, to give up 
+capital so they can become owners with you.”
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  10
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1100 0077--JJuull--2211      11::4422::3366  PPMM
+Metrics and Performance 
+Measurement 
+In a recent global survey of executives, CEOs and other C-level executives 
+at companies with over $1B in annual revenue reported a link between 
+compensation and major corporate goals:9 
+CEOs C-suite CEOs C-suite
+Have compensation tied 
+25% 47% 29% 21%
+to DE&I outcomes
+Have compensation tied 
+25% 47% 43% 3%
+to ESG goals and metrics
+Setting goals is essential to directing a company’s DE&I strategy and holding 
+management accountable for progress. “We set targets for how you move along 
+the D&I journey,” one director said, “and those should be stretch goals so people 
+can feel they have something to reach for but that they’re not out of reach. We 
+set goals for increasing diversity in the organization at different levels and across 
+different areas.” 
+A number of directors indicated not only a willingness to tie executive 
+compensation directly to DE&I, but a belief that it is a critical step to bringing 
+about positive change. “Things moved when you tied compensation to it,” Tom 
+Baltimore told us. “Compensation is always important; it gets measured, and 
+people are held accountable—executives will respond” to the goals the board 
+established. Analysis by RRA shows that while a sizable minority of CEOs in 
+the US (43 percent) have their compensation tied to ESG goals, it is relatively 
+uncommon for CEOs in the US or the UK to have their compensation clearly 
+connected specifically to DE&I outcomes—only 29 percent of US CEOs and 25 
+percent of UK CEOs surveyed indicated their compensation was tied to DE&I 
+outcomes.
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  11
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1111 0077--JJuull--2211      11::4422::3399  PPMM
+Directors at companies with DE&I-related compensation plans acknowledged 
+that there was often concern with how executives would be measured, what 
+data would be used and whether the executives were being set up for success. 
+“It was difficult. There was lots of pushback,” one told us. “It’s difficult to 
+have that conversation, but that’s where, if you agree on the goals that affect 
+compensation, it’s easy for the CEO to charge HR and the executive team to 
+come back with an appropriate team and proposal that makes it happen. They 
+have to sell it, and the executives have to buy it.” Another director agreed, but 
+noted that some topics—like having an inclusive culture or ensuring employee 
+safety—should be table stakes for leadership, not something that in and of itself 
+is rewarded with more compensation.
+Several directors cited data quality and availability as an ongoing challenge. “The 
+more data you have, the more you’re able to do something about it,” one director 
+said. But quantitative employee demographic data can be hard to come by—and 
+easily misunderstood. Employee surveys also present their own challenges. 
+“Longitudinal satisfaction surveys are important, but they’re often too high level,” 
+one director said. Another admitted that “with the surveys we do of employees, 
+we are still grappling with how to understand the feedback.”
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  12
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1122 0077--JJuull--2211      11::4422::4411  PPMM
+Challenges in a Global Context
+The oversight of racial and ethnic diversity is challenging  as well, is a very important distinction.” Compounding all 
+when operating within a single country—it gets significantly  of this is a risk that international diversity and racial and 
+more complex in a multinational organization. “It is not  ethnic diversity can be confused. “Adding an African is not 
+one size fits all,” one director told us. “Diversity has a  the same as adding an African American,” one US director 
+different meaning in India, in the Middle East and in the  said. “We have to do both.”
+United Kingdom. It’s not the same as in the United States. 
+Another part of the challenge is directors’ mindsets. “I think 
+Things are not quite so clear when you’re looking across 
+a lot of US-centric executives haven’t been exposed to 
+international borders.”
+global issues, and they try to impose US diversity thinking 
+Access to data is one hurdle boards must overcome.  onto an international population, which I don’t think is 
+While companies in the United States can use the federal  appropriate or helpful,” one director said. “There are real 
+government’s EEO-1 data to get a view of workforce  diversity issues around the world, and US solutions are 
+demographics, a director pointed out that “in some  not necessarily the right solutions elsewhere. I think the 
+countries in Europe, it’s illegal to ask for diversity data—and  issues we talk about in global companies are far different 
+that makes it even trickier.” from what most US-centric companies talk about.” 
+The same is true for US-based companies with non-US 
+Companies also risk having robust data but reaching 
+directors. Conversations about DE&I differ so significantly 
+incorrect conclusions. “As you can imagine, it is actually 
+across countries and regions that directors need specific 
+very important to track someone’s ethnicity as it relates to 
+education from each board they sit on regarding DE&I 
+the market,” a director said. “If you look at the number of 
+in that particular context, including available data and 
+senior Black leaders we have in our company, it’s a pretty 
+applicable laws. It is also important for directors of global 
+high number. That’s because all of our senior leaders across 
+companies to consider their shareholders and to be 
+each one of our African markets is Black, and we are in every 
+prepared to discuss DE&I with US- and UK-based investors.
+market in Africa. So, for us not to track just Black ethnicity, 
+but specifically British or American Black people 
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  13
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1133 0077--JJuull--2211      11::4422::4433  PPMM
+Guidance
+Our conversations with directors led to the development of “10 Responsibilities of Boards in the Effective Board Oversight 
+of Racial and Ethnic Diversity,” a roadmap for boards that want to elevate their focus on DE&I. We encourage boards to 
+consider integrating these recommendations into their oversight practices in a manner tailored to their organization’s 
+culture and governance frameworks.
+1.   Ensure the CEO and board chair have the capacity  2.  Build a board whose directors are racially and 
+and commitment to drive the organization’s racial  ethnically diverse and have experience with 
+equity efforts long term. “Everything flows from the  oversight of DE&I. Boards must prioritize DE&I in 
+tone at the top,” one director reminded us. The best- their director recruitment efforts, both to improve the 
+intentioned board will struggle to catalyze change  diversity of the board itself and to recruit directors who 
+if the board chair and CEO are not committed to the  understand the importance of overseeing DE&I within 
+effort. “Companies that do this well are those that  the business (including HR and DE&I professionals). 
+don’t see it as a check-the-box initiative,” another  A recent RRA survey of NomCo chairs indicates that 
+director said, “but rather as a part of their corporate  67 percent felt DE&I expertise is important for new 
+purpose in serving the community and unlocking  board directors (77 percent said the same about new 
+potential in the employee base. Once you get over  senior executives). Directors from underrepresented 
+that, and get aligned, things change. You must  communities can play an active role in helping recruit 
+have a CEO who is willing to do it, because purpose  other directors of color. It is important that boards 
+is driven at the highest level of the company.”  create an environment where directors of color are 
+not expected to speak on behalf of every person who 
+shares their identity. As boards are regularly refreshed, 
+In a recent survey of NomCo chairs:10
+recruiting directors who value diverse perspectives is 
+essential. One director we interviewed, who serves as 
+67% 77% a nominating and governance committee chair, asks 
+director candidates “how they advance greater D&I 
+in their various walks of life. […] If they say it can’t be 
+agreed that DE&I  felt the same way  done, that is concerning. A fatalistic response is sure 
+expertise is important for  about new senior  death. They won’t be helpful and may be obstructionist. 
+new board directors executives So, they’re a burden not worth putting on the board.”
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  14
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1144 0077--JJuull--2211      11::4422::4455  PPMM
+3.  Make racial equity an active part of the business  5.  Regularly evaluate the potential impacts of the 
+strategy and work toward clear and quantitative  company’s operations on communities of color, 
+key performance indicators. As one director said,  embracing relevant opportunities and mitigating 
+“You need to get the board to treat DE&I like any other  relevant risks. Few directors were focused on the 
+important part of the strategy—we shouldn’t be treating  potential negative externalities of their business 
+this any differently than any other business process we  on communities of color. Similarly, few focused on 
+oversee.” Integrating DE&I into the business strategy  the opportunities presented by serving diverse 
+requires boards to regularly review performance against  communities. “I never thought that it was reasonable 
+specific metrics and KPIs related to DE&I. “Be sure that  to try to govern a company without understanding 
+as you define issues, you also develop metrics to use  that you are in a community and a society and using 
+to determine if you are meeting or exceeding what you  resources,” one director said. Boards could consider 
+are trying to do,” one director said. “Lay them out and  their company’s efforts to engage diverse suppliers, 
+own them. Own the bad news if you are intending to  tap into new customer segments, provide charitable 
+change it and resolve it.” This effort can involve publicly  contributions to racial justice organizations and 
+setting targets related to the diversity of board and staff  enable economic growth and development through 
+and being open about progress. Executives should be  the use of corporate resources, etc. They should 
+tasked with identifying and addressing inequality in the  also make sure to avoid offering products and 
+organization and held to account for their performance,  services that disadvantage communities of color. 
+including through their variable compensation.
+6.  Facilitate boardroom discussions that are 
+4.  Make racial and ethnic diversity, equity and  thoughtful, balanced and intentional, and build a 
+inclusion both a committee and a full-board  culture where directors are empowered to challenge 
+responsibility. Acknowledging the complexity of  ideas. Numerous directors agreed that “the role of 
+DE&I and its relevance across board committees is  the chair is absolutely key” to creating an inclusive 
+important. Boards should address racial DE&I “at the  boardroom culture that welcomes diverse directors 
+full board as a strategic conversation,” one director  and effectively oversees DE&I. Board leaders should be 
+said, but also in committees “at a tactical level.”  proactive on racial equity and embrace uncomfortable 
+Tom Baltimore agreed: “A lot of the initial work may  conversations. The role of the chair in building an 
+be in NomCo, around director selection, or comp  inclusive board culture is critical and takes intentional 
+committee, because you want to look at the data and  leadership: Research on board culture has shown that 
+facts, and the reality is that what gets measured gets  highly effective boards of high-performing companies 
+focused on,” but ultimately, “at most companies that  have chairs who are 17 percentage points (pp) more 
+do this well, it’s a board discussion.” Details about  likely to foster and facilitate high-quality debates, 17 pp 
+oversight practices (e.g., frequency of discussions,  more likely to actively seek different points of view and 
+specific risks addressed, committee responsibilities,  13 pp more likely to draw out the relevant experience 
+etc.) should be addressed in public governance  of directors compared to all boards.11 One director, 
+documents and in engagements with stakeholders.  who is a woman of color, spoke highly of her board 
+chair and noted: “He has done a phenomenal job to 
+ensure that when we have too many people speaking 
+on the same topic, he will always create room for me 
+to speak or amplify something that I’m saying.” 
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  15
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1155 0077--JJuull--2211      11::4422::4455  PPMM
+7. Include the perspectives of stakeholders (including 9. Build a coalition, share best practices and learn
+employees) in board discussions. One director from peers and experts. “If you look at the issue of
+reflected on the importance of engaging with employees 95 percent of mergers and acquisitions failing, there’s
+and understanding their experiences: “You’ve got to talk a bible on that, examining the 5 percent who succeed,
+to people in the organization. You can’t just parachute what they did and what we can learn from it,” one
+in a half dozen times a year for a board meeting and director said. The relative lack of resources for directors
+really understand internal dynamics. If you really believe seeking to elevate their oversight of DE&I was part
+that D&I is key to unlocking shareholder value, then of the catalyst for this study and related guidance.
+you have an obligation as a director to understand However, there are people who have gone through it
+whether the company is doing well or not. You must already and who can talk about their experience. One
+have conversations with people. I want to meet with director said the most important thing is to “get help.
+African American employees at the company, where Having real conversations with people is something
+I’m the first African American chair, because I want leaders need. They get some of it, but they often don’t
+to understand how people feel about how they’re truly understand because of their worldview. There are
+being treated and what opportunities they have for organizations and individuals that can help educate
+advancement, but I want to do it without excluding them and their organization about the pitfalls and
+people. It goes beyond pulse surveys. It’s a hard thing to tips and tricks. … There is strength in numbers.”
+do, but you have to get out there and talk to folks.” It’s
+also important to include impacted stakeholders from 10.Realize this is a long journey—be patient and
+outside the organization who can speak to the role the don’t give up. “This is a long game, and you must
+company plays in the communities where it operates. have short- and long-term goals to meet it,” one
+director said. Given the scale of change required, the
+8. Create a structured onboarding and ongoing training journey toward diversity, equity and inclusion can be
+process that prepares all directors for effective challenging, especially at the start. “Any company
+oversight of DE&I. One director reflected, “When that’s reporting or intends to report, they’re going
+you don’t have the opportunity to share different to report some gloomy numbers at the outset,”
+views, you don’t come to good conclusions. A good one director told us. “It’s not pretty. You have to
+board is collective wisdom, and the best boards are have the conversation about what you’re going to
+demonstrations of that, with no towering figure and report, own up to failures or lack of movement, but
+a willingness and respectfulness to listen to other have a plan of action to improve things.” Another
+points of view. That’s the value a board gets from agreed: “This is a long journey—be ready for that.”
+diversity.” The value of having the right board cannot
+The increased risks and opportunities associated with 
+be overstated. “At the end of the day, you must have the
+racial and ethnic diversity, equity, and inclusion necessitate 
+right board,” a director said. “I believe that’s true and
+a sharper focus on this topic from boards. We hope that 
+there has never been a more important time to have the
+directors will internalize the insights from this paper, 
+right board than today. The CEO needs it, the company
+generating more value for investors, employees, and other 
+deserves it, but you can’t change it overnight.” However,
+stakeholders.
+very few directors interviewed have onboarding or
+training processes related to DE&I and thus might miss
+out on the full potential of having a diverse board. “I
+know when I came onto the board, and it wasn’t that
+long ago, there wasn’t really any formal introduction
+to the topic” of DE&I, one director told us. “It came up
+in the natural order of conversations, presentations
+at committee or the full board as part of talent
+development discussions, but it wasn’t highlighted.”
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  16
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1166 0077--JJuull--2211      11::4422::4455  PPMM
+Appendix: Key Risks, Opportunities and 
+Examples of Indicators for the Board
+Key Risk or  Example Indicators 
+Scope Opportunity (might not apply to all companies/industries)
+• Ongoing board and management engagement with racial and ethnic
+diversity, equity and justice versus a reactive crisis management approach
+Strategy  • Specific and timebound racial and ethnic diversity, equity and inclusion
+Overall Reputation  goals and progress against relevant metrics
+Financing • Executive team focused on advancing racial and ethnic diversity, equity
+and inclusion that reports to CEO
+• Disclosures aligned with State Street Global Advisors’ expectations
+• Racial diversity of workforce and leadership reflects racial diversity of the
+country or countries in which operations are based
+• High levels of inclusion and engagement
+• Promotion, advancement and low turnover of employees from
+underrepresented communities
+Strategy • Equitable representation across job levels
+• Pay equity across salary, bonus and stock options
+Human Capital
+• Effective mechanisms to amplify employee voices
+Human Capital  Compliance
+• Nondiscrimination policy and equitable process for resolution of
+Management Economic
+harassment and discrimination claims
+Reputation
+• Living wage and benefits, including emergency financial support and
+Financing opportunities to invest and save for retirement
+• Access to training, education and professional development to reduce
+turnover and increase opportunities for employees to advance
+• Employee health and safety across all communities
+• Employees are incentivized to advance racial and ethnic diversity through
+their compensation and performance plans
+Strategy • Diverse representation
+Board Reputation • Formal and publicly disclosed board oversight for racial and ethnic
+Financing diversity
+• Products and services do not disproportionately harm people of color
+Reputation • Diverse teams designing and marketing products to ensure they resonate
+Products and 
+Economy with diverse consumers
+Services
+Compliance • Clients share a commitment to racial equity and will use products and
+services in alignment with these values
+• Diverse suppliers and vendors (both minority-owned businesses and
+Reputation businesses that have a credible commitment to diversity, equity and
+Operations
+Economy inclusion)
+• Positive impact on local community, environment and economy
+Lobbying and  Reputation • Transparent lobbying practices and political contributions advance (rather
+Political or 
+Economy than undermine) commitment to racial justice
+Charitable 
+Compliance • Charitable contributions address the root causes of racial inequity
+Contributions
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  17
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1177 0077--JJuull--2211      11::4422::4455  PPMM
+References
+1. “Intangible Asset Market Value Study.” Ocean Tomo, July 2020.
+2. Abate, Alessandra, Dee Fitzgerald, Ryoko Komatsuzaki, Harsonal Sachar,
+Alix Stuart and Ulrike Wieduwilt. “Diversity and Inclusion: What Separates
+the Best from the Rest.” Russell Reynolds Associates, October 2019.
+3. “From Evolution to Revolution: ESG Considerations Beginning to
+Re-Shape Investment Management.” Citi, September 2020.
+4. Dixon-Fyle, Sundiatu, Kevin Dolan, Vivian Hunt and Sara Prince. “Diversity
+Wins: How Inclusion Matters.” McKinsey & Company, May 2020.
+5. Langston, Abbie. “Race and the Work of the Future: Advancing Workforce
+Equity in the United States.” National Equity Atlas, 2020; Peterson,
+Dana, and Catherine Mann. “Closing the Racial Inequality Gaps: The
+Economic Cost of Black Inequality in the U.S.” Citi, September 2020.
+6. Crookes, Jemi, Dean Stamoulis, Alix Stuart and Joy Tan.
+“The NomCo Chair’s View on Diversity, Equity and Inclusion.”
+Russell Reynolds Associates, forthcoming August 2021.
+7. “2019 Proxy Letter—Aligning Corporate Culture with Long-Term
+Strategy.” State Street Global Advisors, January 2019.
+8. Getachew, Mahlet, Shalbya Dalal, et.al. “The 2021 CEO Blueprint for
+Racial Equity.” PolicyLink, FSG, and JUST Capital, June 2021.
+9. Crookes, Jemi, Tom Handcock, PJ Neal and Alix Stuart. “2021
+Global Leadership Monitor: Leadership Preparedness for the
+Road Ahead.” Russell Reynolds Associates, May 2021.
+10.Crookes, Jemi, Dean Stamoulis, Alix Stuart and Joy Tan.
+“The NomCo Chair’s View on Diversity, Equity and Inclusion.”
+Russell Reynolds Associates, forthcoming August 2021.
+11. O’Kelley, Rusty, Anthony Goodman, Ana-Lisa Jones and PJ Neal.
+“Going for Gold: The 2019 Global Board Culture and Director
+Behaviors Survey.” Russell Reynolds Associates, March 2019.
+3659731.2.1.GBL.RTL
+EXP: July 31, 2022
+The Board’s Oversight of Racial and Ethnic Diversity, Equity, and Inclusion  18
+rrrr--00223388--110077000099--RRaacciiaall  aanndd  EEtthhnniicc  DDiivveerrssiittyy..iinndddd      1188 0077--JJuull--2211      11::4422::4477  PPMM

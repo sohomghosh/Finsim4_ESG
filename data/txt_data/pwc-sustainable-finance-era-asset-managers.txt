@@ -1,0 +1,797 @@
+
+Sustainable Finance, 
+a new era for asset 
+managers
+24 March 2020
+pwc.com
+Sustainable Finance, a new era for asset managers | 1
+2 | PwC
+Executive summary
+The last few years have seen a rally  rather than focusing on high returns  •  Two new categories of benchmarks 
+towards Environmental, Social and  over a short timeframe.   will be introduced: (i) the EU Climate 
+Governance (ESG) products and ESG  In order to fulfil these objectives, the  Transition Benchmark and (ii) the EU 
+integration, with sustainable funds  EC identified in its Action Plan ten  Paris-aligned Benchmark.
+capturing a significant portion of inflows  measures including legislative measures  •  All Asset Managers (the “Managers”), 
+in Europe and some asset managers  that will have a pervasive impact on the  Investment firms, Authorised 
+announcing that they will integrate ESG  financial sector in Europe. Among the  Alternative Investment Funds Managers 
+within their entire range of products. And  ten measures, the most noteworthy are  (AIFMs) and UCITS management 
+this trend is likely to further accelerate  three proposed regulations (in the areas  companies will be required to review 
+over  the coming years among others due  of taxonomy, disclosure and low carbon  their operating models to ensure 
+to expected regulatory developments in  benchmarks) as well as amendments  sustainability matters and sustainability 
+Europe. to the existing MiFID II, UCITS and  risks are adequately addressed in 
+On 8 March 2018, the European  AIFMD level 2 regulations, alongside  governance, processes, remuneration 
+Commission (the “EC”) issued its “Action  other consultations and non-legislative  policies, conflict of interest policies, 
+plan on Financing Sustainable Growth”  measures.   product governance, risk management, 
+(the “Action Plan”). This initiative stems  The EC had also set up a Technical  etc.
+from the Capital Markets Union Action  Expert Working Group (“TEG”) to  •  “Financial market participants” and 
+Plan and is part of the broader efforts to  provide technical expertise and support  “financial advisors” will be subject 
+connect finance with the specific needs  in the following areas: taxonomy of  to new and extensive disclosure 
+of the European and global economy for  environmentally sustainable activities, low- requirements not only on “sustainability 
+the benefit of the planet and our society.  carbon benchmarks, sustainability factors  risks” (impact of ESG matters on the 
+The EU defines “Sustainable Finance”  and risks’ disclosure and EU green bond  performance of investment), but also 
+as the process of taking due account of  standards. on “adverse impact on sustainability 
+environmental and social considerations  factors” (impact of investment 
+in investment decision-making, leading  These measures will not only affect  decisions on environmental, social 
+to increased investments in longer-term  Asset Managers (“Managers”) and their  and employee matters, respect for 
+and sustainable activities – whilst the plan  products, such as investment decisions  human rights, anti-corruption and 
+recognises the key role of “Governance”,  and product distribution, but also how  anti-bribery matters). These new 
+there is a clear focus on “Environmental”  Managers incorporate “ESG” in their  disclosure requirements will pose 
+and “Social” considerations.   business operations and strategy. As  significant challenges, in terms of 
+such, Managers will be asked to consider  timing, methodology as well as data 
+This very ambitious Action Plan will impact  and measure both the effect of their  accessibility and reliability.
+all managers doing business in the EU in  products and services on sustainability 
+one way or another (operations in the EU,  topics as well as the impact of  And new measures can be expected in 
+products sold in the EU). It aims to: sustainability topics on their products and  2020, as the new EU Commission already 
+reiterated the importance of financing the 
+•  Finance the transition to a more  services.  transition to a greener economy (“Green 
+sustainable and inclusive growth –  Once these measures are finalised, the  Deal Action Plan”). Expansion of the 
+the objective is to direct investment  following significant changes can be  Sustainable Finance plan and revision of 
+into sustainable activities, aimed at  expected in the market: the non-financial reporting directives are 
+leveraging on the financial sector  envisaged for 2020.
+to close the investment gap and  •  Investors will be systematically asked 
+finance an economically and socially  about their ESG preferences, and  The Action Plan will affect all market 
+sustainable economic system; offered products matching such  players, even the most ESG agnostic will 
+preferences within their target market  have to modify their processes. But, unlike 
+•  Better manage financial risks stemming 
+definition – with the vast majority of EU  much of the regulatory agenda, it shall 
+from climate change, resource 
+citizens considering climate change  not be seen as a compliance exercise 
+depletion, environmental degradation 
+as a significant issue, this measure is  – market demand is present and will be 
+and social issues – acknowledging that 
+likely to have a pervasive impact on the  accelerating – but as a real business 
+environmental and climate risks are 
+product mix on offer and on the viability  opportunity. There will be a significant 
+currently not always adequately taken 
+of non-ESG products; advantage for early movers embracing 
+into account by the financial sector, 
+the change and capitalising on this new 
+including the potentially destabilising  •  Two new categories of products 
+paradigm in order to further engage with 
+impact of climate change; will be defined: (i) products that 
+their investors.
+promote environmental or social 
+•  Foster transparency and long-termism 
+in financial decisions – sustainability  characteristics and (ii) sustainable  This paper explores the impact of the 
+and long-termism go hand-in-hand  investments products. Each category  expected measures on AM operations. It 
+and transparency is key to ensure that  will be required to disclose how such  includes published regulation drafts and 
+investors can take better informed and  characteristics or objectives are  reports available as of 13 March 2020.
+attained.
+more responsible investment decisions 
+Sustainable Finance, a new era for asset managers | 3
+Overview of Action Plan main 
+measures and timeline
+Three regulations are currently under finalisation:
+TAXONOMY BENCHMARKS DISCLOSURES
+Regulation (EU) 2019/2089 of the 
+Proposal for a Regulation of the European  Regulation (EU) 2019/2088 of the 
+European Parliament and of the Council 
+Parliament and of the Council on the  European Parliament and of the Council 
+Description establishment of a framework to facilitate  amending Regulation (EU) 2016/1011  on sustainability-related disclosures in 
+as regards EU Climate Transition 
+sustainable investment.  the financial services sector. 
+Benchmarks and EU Paris-aligned. 
+•  Criteria for determining the degree of  •  Climate Transition Benchmark = Index 
+sustainability of economic activities  whose underlying assets would be  •  Large scope: Financial market 
+(contributing to 6 environmental  selected, weighted or excluded such  participants and financial advisers 
+objectives) that the resulting benchmark portfolio  which provide investment advice.
+•  Taxonomy alignment disclosures  is on a de-carbonisation path. •  Transparency obligations for the 
+Focus on •  Market monitoring by ESAs •  EU Paris-aligned Benchmark = Index  publication of sustainability information 
+•  Platform on sustainable finance win hsousceh  uan wdearyly tihnagt  athssee rtess aurltein sge lceacrtbeodn   for EU products. 
+•  Minimum safeguards emission reductions in the benchmark  •  From the disclosure of sustainability 
+portfolio are aligned with the Paris  risks to the adverse impact on 
+Climate Agreement’s long-term global  sustainability factors. 
+warming target objective
+•  The Regulation entered into force on  •  The Regulation will apply from 10 
+•  Awaiting publication in OJEU following  10 December 2019.  March 2021.
+Latest  tDheec peomlibticear l2 a0g1r9e.e ment reached in  •  Oann  i1n8te Jriumn ere 2p0o1r9t ,o tnh eC TlimEGa tpeu blished  •  Tclhime aTtEeG-r epluabtelidsh deidsc itlos sruepreosr ti no Jna nuary 
+Developments •  On 9 March 2020, the TEG published  benchmarks and benchmarks’ ESG  2019.
+its final report on EU Taxonomy, with  disclosures. The Final version of the 
+a short user guide. report was published on 20 December  •  Level 2 (delegated acts) to be drafted 
+2019.   in the course of 2020.
+1.  Taxonomy or “Framework” Proposal
+The difficulty to define what is a sustainable product or what is  An activity will be considered as environmentally sustainable 
+an ESG investment, is a recurring debate amongst the industry  when its contributes significantly to one of the 6 environmental 
+professionals. In fact, it is inherent to the nature of ESG and  objectives identified by the Commission (climate change 
+the related investment approaches. Different approaches  mitigation, climate change adaptation, sustainable use 
+are indeed being pursued by Managers in order to meet the  and protection of water and marine resources, transition to 
+demand of investors, depending whether the latter are more  a circular economy, pollution prevention and control and 
+or less ESG aware. Such approaches range from negative  protection and restoration of biodiversity and ecosystems), 
+screening (such as norm- based exclusion), ESG integration,  provided it does not significantly harm any of the other 
+positive screening (best-in-class approach), “Engagement”  environmental objectives. A Platform on sustainable finance 
+(also called shareholders’ activism) and thematic investing  will be created to advise the Commission on the technical 
+(investing in environmental or social projects/sectors) to impact  screening criteria to be applied in order to determine when 
+investing (where investors are ready to sacrifice part of their  an activity contributes to (or significantly harm) any of the 
+financial performance as the societal impact is more important  environmental objectives. The platform will leverage on the 
+for them). ESG products usually combine several of these  work performed by the TEG, who published their final report on 
+approaches. the Taxonomy on 9 March 2020.
+The “Taxonomy Proposal” does not aim at defining or  The delegated acts on screening criteria in relation to climate 
+classifying ESG approaches, but tries to define sustainable  changes objectives shall be adopted by December 2020 and 
+investments through a focus on the activities financed by  will apply from 31 December 2021. The technical screening 
+a financial product, aiming at defining “environmentally  criteria in relation to the other four objectives will be finalised by 
+sustainable activities”.  the end of 2021 for application from 31 December 2022.
+4 | PwC
+The taxonomy regulation also includes disclosure  and (ii) further disclosures applicable to sustainable 
+requirements for financial products, which will add to the  investments products and products promoting 
+sustainability disclosure requirements imposed by the  environmental or social characteristics.
+“Disclosures Regulation” as developed below.
+“Sustainable investments” are being defined as 
+All financial products with environmental characteristics  investments in economic activities that contribute to 
+or which are promoted as environmentally sustainable will  an environmental objective or a social objective or 
+be required to disclose the proportion of their portfolio  investment in companies following good governance 
+invested in taxonomy aligned activities. Other financial  practices whilst the taxonomy proposal gives more 
+products will be required to include a disclaimer indicating  precision on the definition of Environmentally Sustainable 
+that they do not take into account the EU criteria for  activities (see above). 
+environmentally sustainable investments.
+Another category has been added (products promoting 
+Recognising that obtaining the underlying data on  environmental or social characteristics) to accommodate 
+the alignment of the activities performed by investee  for ESG products whose objective will not be confined 
+companies will be a real challenge, the regulation also  to invest in sustainable activities as defined by the EU 
+introduces the requirement for large listed EU companies  regulations. Both categories of products will be subject 
+to disclose the percentage of taxonomy alignment as part  to specific disclosure requirements from pre-contractual 
+of their non-financial reporting. disclosures to periodic reports.
+A political agreement was found on the taxonomy  The Disclosures Regulation also requires disclosure on 
+proposal in December 2019 and publication of finalised  how the remuneration policies are consistent with the 
+text is expected soon.  integration of sustainability risks and does not promote 
+excessive risk-taking in this matter.
+2.  EU Climate Transition Benchmark and 
+Moreover, additional requirements will be imposed on 
+EU Paris-Aligned Benchmark Proposal
+large financial market actors exceeding 500 employees, 
+The “Benchmarks Proposal” will amend the Regulation  extending the scope of the sustainability disclosure from 
+(EU) 2016/1011 (i.e. the Benchmark Regulation) in order  being the risks “to” the portfolio (risk of negative impact 
+to include a “Climate Transition Benchmark” and also an  on portfolio financial return) to include the impact “from” 
+“EU Paris-Aligned Benchmark” definition to impose ESG  the portfolio (i.e. the impact of all the investment decisions 
+factors disclosure requirements. made may have on the society (environmentally or socially 
+adverse factors)).
+3.  Disclosures Regulation 
+Availability of complete and reliable data on the underlying 
+Transparency is a key feature of ESG investment and a  companies is indeed a key concern in this context. Timing 
+key concern of EU regulators – hence it is not surprising  will also be challenging, as implementing measures 
+that one of the first initiatives is to further regulate  (defining content of disclosures and methodologies to be 
+disclosures. followed) are unlikely to be finalised ahead of the planned 
+implementation date of the regulation.
+The “Disclosures Regulation” distinguishes between (i) 
+disclosure on sustainability risks applicable to all financial 
+market participants, advisors and all financial products, 
+Estimated timeline 
+Publication in the 
+Official Journal of the 
+European Union (OJEU)  Methodology Compliance  Main Application Date 
+of the Benchmarks and  Deadline for Benchmark  for Regulation on  Annual report 
+Disclosures Final Texts Administrators Disclosures disclosures
+9 Dec.  30 April  30 Dec.  10 March  31 Dec.  1 January  31 Dec. 
+Q4 2019
+2019 2020 2020 2021 2021 2022 2022
+Finalisation of  ESA’s to submit draft  Taxonomy  Taxonomy 
+inter-institutions  RTS on Disclosures  Regulation (Climate  Regulation  
+negotiations on the  Regulation Change objectives) (4 remaining 
+Taxonomy File objectives)
+Sustainable Finance, a new era for asset managers | 5
+Amendments to existing level 2 measures
+4.  Amendments to MiFID II suitability tests – ESG preferences
+The proposed amendments will modify MiFID II suitability test requirements, asking for a systematic inquiry about 
+investors’ ESG preferences. Whilst amendments to a level 2 text could go relatively rapidly, timing is expected to be 
+aligned with the “Disclosures Regulation” mentioned above due to cross reference between the two texts (sustainable 
+investment definition).
+5.  Amendments to MiFID II, UCITS and AIFMD to include sustainability risks
+Following the mandate granted by the EC, the European Securities and Markets Authority (the “ESMA”) has 
+issued advice on possible amendments to MiFID II, UCITS and AIFMD level 2 texts in order to include references 
+to sustainability risks and factors within organisational requirements, operating conditions and resources, risk 
+management and product governance requirements. Such changes would require all management companies, AIFMs 
+and MiFID firms to review processes and resources as well as to include sustainability risks within risk management 
+processes.
+1 Sustainability Risks 3 Product Governance
+On 3 May 2019, the ESMA issued its  •  On 3 May 2019, the ESMA issued its Technical Advice 
+Technical Advice to the EC on integrating  to the EC on integrating sustainability risks and factors 
+sustainability risks and factors in the UCITS  in MIFID II (ESMA35-43-1737)
+Directive and the AIFMD (ESMA34-45-688).  •  On 3 May 2019, the EIOPA issued its Technical Advice 
+•  Organisational requirements;  on the integration of sustainability risks and factors in 
+•  Operating conditions; and the delegated acts under Solvency II and IDD (EIOPA-
+4 1 •  Risk management. BoS-19/172).
+•  Both product manufacturers and distributors would be 
+required to take account of whether the products or 
+services they offer in the EU fulfil their EU customers 
+Legislative 
+ESG preferences.
+Proposals
+2 Non-Financial Disclosures 4 ESG Preferences
+3 2 •  On 20 June 2019, the EC  •  On 4 January 2019, the European Commission (EC) 
+Communication entitled “Guidelines on  published draft rules to ensure investment firms and 
+non-financial reporting: Supplement on  insurance distributors (hence with amendments to 
+reporting climate-related information  MiFID II/IDD) take sustainability considerations and 
+(2019/C 209/01)” was published in the  preferences into account when providing advice to their 
+OJEU. It consists of a new supplement  clients. 
+to the existing guidelines on non-financial  •  The EC is expected to adopt these rules in early 2020.
+reporting, which remain applicable.
+•  On 20 February 2020, the EC published 
+a consultation on the revision of the non-
+financial reporting directive.
+6 | PwC
+Other initiatives to follow up
+6.  EU Ecolabel criteria for retail financial products
+The EU has recently consulted (December 2019) on the opportunity to create an EU Ecolabel for financial products 
+addressed to retail investors – such a label would be awarded to the products with the best environmental performance, 
+setting some requirements regarding alignment of the portfolio with the taxonomy.
+7.  Transparency on engagement policy
+Amendments to the shareholders right directive (referred as “SRD II”) were transposed this summer. Asset managers, 
+management companies and AIFMs are now required to develop and publish their engagement policy, including on ESG 
+matters and shall report annually on how this has been implemented, including explanation of the most significant votes.
+Upcoming Regulation Areas impacted Impact
+Disclosures Regulation Strategy, Products definition, Remuneration, Risk  Very high
+management, Reporting, Data, Distribution, Legal 
+documentation
+Taxonomy Proposal Products definition, Reporting, Strategy disclosure Very high
+Benchmarks Regulation Passive products Low to Medium
+Amendments to MiFID II Suitability  Strategy, Products range, Distribution Very high
+Tests (ESG Preferences)
+Amendments to UCITS & AIFM L2  Governance, Processes and Controls, Risk management,  High
+Texts Conflict of interests
+Amendments to MiFID L2 Texts Product governance, Conflict of interests, Processes and  High
+Controls
+EU Ecolabel for Retail Financial  Label for taxonomy aligned products Low to Medium
+products
+What is next?
+The new EU Commission has, through the announcement of the Green Deal 
+Action Plan, confirmed that financing the transition to a greener economy 
+is more than ever a key priority. We shall therefore be expecting new 
+consultations and additional measures, through for instance an announced 
+consultation on the renewed Sustainable Finance action plan as well as 
+revision to the non-financial reporting directive.
+Sustainable Finance, a new era for asset managers | 7
+Impact for Asset Managers 
+(“Managers”) – How to surf the 
+wave
+1
+Strategic Positioning – ESG, Do or Die?  
+When considering ESG strategic positioning, there is 
+a variety of possible positions which could be taken. 
+Ranging from compliance considerations through to a 
+full assessment of the business opportunities, which 
+arise both from the industry to the growing interest from 
+investors and other stakeholders in this area, Managers 
+Leading the 
+will certainly be impacted. 
+way
+Listen & learn
+Minimum compliance 
+only basis
+The above spectrum can also vary from jurisdiction  and for every company. No Manager can continue 
+to jurisdiction - whilst some jurisdictions could  to ignore industry-wide potential divestment costs 
+themselves be seen as leading the way in terms  from fossil fuels, tobacco, controversial weapons, 
+of attitude and regulation, others may not be so  animal testing products etc., and needs to assess 
+advanced in their ESG journey.  the impact of future investments.
+But the trend is a global one. Regardless of  At a minimum, companies will have to comply 
+the journey that is being taken within individual  with the upcoming EU regulations. Managers 
+jurisdictions, the sustainability / ESG agenda  could decide to wait until current texts in draft / 
+is not one which can be ignored - this will be a  discussion / feedback stages are finalised by the 
+global long-term journey which every country and  EU, but this will not leave enough time for proper 
+company will have to take, and therefore it is at  implementation as the calendar will be tight and the 
+the stage of “ESG …. do or die” for every country  changes are pervasive. 
+8 | PwC
+Additional consideration will also be required by  exclusions but have not yet articulated this fully to 
+local regulators, leading to additional and different  investors, or reported on these policies. 
+focus from jurisdiction to jurisdiction – e.g. “Value 
+“Winners” in this market will be those who can 
+for Money” reporting within the UK. 
+articulate their ESG policy and position their 
+If the sustainability journey is perceived as a  products early to take advantage of the growing 
+compliance exercise only, the focus will be on the  interest in the market. 
+associated costs of compliance - whilst, this is 
+ 
+always a concern, once the legislation is passed, 
+it will be unavoidable. Additionally, whilst the 
+monetary cost of non-compliance may be less than 
+the cost of implementation, the non-financial cost 
+could include adverse publicity, and could have a 
+potential impact on longer-term financial returns.
+Therefore, for Managers choosing the compliance 
+only route - they need to consider whether 
+this is actually the best avenue - investors and 
+stakeholders may demand more. This choice 
+of strategic positioning, whilst initially being the 
+“cheaper” option, may cost more in the long run - 
+and not just from a financial point of view.
+Consideration of the “long term” within 
+your strategic positioning is no longer just a 
+consideration of short-term opportunities; they 
+rather reflect a longer-term risk perspective. 
+Companies that actively follow and engage with 
+the ESG agenda can work to mitigate medium-
+term and longer-term risks both within their own 
+businesses, and within their investee companies 
+through strong governance engagement, leading 
+to the possibility to generate longer-term and more 
+sustainable returns over time for investors.
+Adapting investment offerings to incorporate ESG 
+products and strategies helps align both investors, 
+other stakeholders and also regulators’ long-term 
+and evolving requirements. 
+It is also an opportunity to add value for clients and 
+to engage with them – many are already involved in 
+ESG activities through engagement with investee 
+companies regarding governance, diversity and 
+Sustainable Finance, a new era for asset managers | 9
+2
+Investors – Where will the ESG agnostic be hiding?  
+Most sustainable investors 
+expect better performance, 
+bigger impact (“Return on 
+Values” report), UBS
+For many years, investment decisions were not necessarily aligned with investors’ 
+value or long-term concerns. Even though more than 90% of EU citizens mention that 
+climate change is a key concern to them*, climate change investment products have 
+remained niche so far. Per UBS “Return on Values” report entitled, “Most sustainable 
+investors expect better performance, bigger impact”, 65% of HNW investors believe 
+it is highly important to help create a better planet, however only 39% say they have 
+sustainable investments in their portfolio (View QR Code). 
+PwC conducted a survey of 750 institutional investors and 10,000 retail investors 
+around the world in 2019 (PwC: Asset and Wealth Management revolution: investors 
+perspectives – View QR Code). ESG is the third priority in importance among investors 
+surveyed, as a whole group, and it outranks fees. According to the PwC survey, 
+investors in Europe, as a general group, care more about ESG than their counterparts in 
+North America. ESG is a key focus for many large pension and sovereign wealth funds 
+demanding from the managers to whom they allocate mandates to meet their ESG 
+expectations. And institutional investors expectations are rising rapidly. While the focus 
+Asset and Wealth  is currently stronger in Europe, no one managing money from an allocator in the EU 
+Management revolution: 
+can feel immune from these demands. And it’s also increasingly important to younger 
+investors perspectives, PwC
+generations, who will be receiving large wealth transfers from older generations over the 
+coming years.
+In addition, the anticipated changes in the EU regulatory environment are expected to 
+further accelerate this shift in investors’ appetite. Indeed, imagine that in less than two 
+years’ time, suitability tests under MiFID II will include questions about investors’ ESG 
+preferences… How many investors will articulate to their advisors that they do not care 
+at all or that they are totally ESG agnostic? And for the majority who will express ESG 
+interest, the intermediary will have to propose products whose ESG considerations 
+match the investor’s ESG preferences. Will any of the product range without any ESG 
+integration survive this expected ESG wave?
+Several Managers have already anticipated the trends and indicated that they are 
+switching their entire product range towards ESG integration. 
+In this new market dynamic, the winners will be not only those who offer the right 
+product at the right time, but also those who will be able to engage with the head and 
+the heart of the investors, with comprehensive reporting that will tell the story of the 
+investment decision impact on the investee company and the sustainability factors.
+* source: EU 2019 Survey - Citizen support for climate change
+10 | PwC 
+3
+Governance – Will the change come from the top? 
+Younger generations have led the way in marching for the climate. Will we note a similar trend within the 
+financial sector with changes coming from the youngest employees? Youth can certainly be a force for 
+change and innovation, but as in any significant strategic change, in particular those driven by regulation, the 
+tone from the top will be critical.
+These changes will not only affect Manager’s products, investment decisions and product distribution but 
+also how Managers incorporate ESG in their business operations and strategy. As such, companies will be 
+asked to consider and measure both the effect of their products and services on sustainability topics as well 
+as the impact of sustainability topics on their products and services. 
+In order to identify the impact of sustainability on the company’s business model as well as strategy, it will 
+be necessary to define oversight, accountability and responsibilities within the company. Processes and 
+frequencies around board information need to be established. 
+This applies to both risks as well as opportunities linked to sustainability. 
+Identifying exposed business areas, on the one hand, requires a breakdown of assets under management 
+(“AUM”) by business sector across asset classes such as equity, bonds, infrastructure, real estate, structured 
+products, Mortgage-Backed Securities or derivatives, which is needed to demonstrate awareness. On 
+the other hand, this heat map will identify current economic exposure and concentrations in industries or 
+geographies that might be positively or negatively affected by sustainability topics, such as climate change. 
+Identifying, measuring and monitoring of ESG risks and opportunities will require investment in data tools and 
+technology. High data quality as well as a high portfolio coverage are essential to measure and report on ESG 
+performance and attributes. 
+The regulatory changes will require top management to ensure that:
+•  Sustainability risks are adequately taken into consideration at all levels: in decision-making procedures 
+and organisational structure, in staff training, in internal control mechanisms, in internal reporting and in 
+the communication at all levels and with any third party, in orderly business records;
+•  Employees (including those in charge of governance) possess the skills, knowledge and expertise, taking 
+into account the effective integration of sustainability risks;
+•  Disclosure on remuneration policies is updated to show how they are consistent with the integration of 
+sustainability risks; 
+•  Conflicts of interest potentially arising from integrating sustainability risks are adequately identified 
+and managed. Conflicts of interest could arise from remuneration or personal transactions and any 
+sources of conflicts that could give rise to greenwashing, mis-selling, misrepresentation of investment 
+strategies or churning. Consideration should also be given to conflicting interests between funds with 
+different investment strategies managed by the same Manager as well as situations where there are other 
+business-relationships with investee companies, conflicting group interests, investments in entities with 
+close links or similar circumstances.
+Sustainable Finance, a new era for asset managers | 11
+4
+Product Strategy – Is there a future for non-ESG products? 
+As mentioned above, the requirement to match ESG consideration with investors’ ESG preferences will require a 
+profound review of the product range and their target market definition.
+Moreover, the “Disclosures Regulation” introduces two categories of products, with specific reporting requirements. 
+Managers will therefore be required to map products to these new categories:
+•  Products promoting, amongst other characteristics, environmental or social characteristics, or a combination 
+of those characteristics (provided that the companies in which the investment is made follow good governance 
+practice);
+•  “Sustainable investment”, meaning investment in an economic activity that contributes to an environmental 
+objective or a social objective, provided that such investment does not significantly harm any of the other 
+objectives and the investee company follows good governance.
+Environmental objective Social objective
+Investment in economic  Measured, for example, by: •  Contributes to tackling inequality
+activity that contributes to  •  Key resource efficiency indicators on the use of energy,  •  Fosters social cohesion, social integration and labour 
+renewable energy relations
+one of environmental or  •  Key resource efficiency indicators on the use of raw  •  Investment in human capital of economically or socially 
+social objective materials disadvantaged communities
+•  Key resource efficiency indicators on the use of water 
+and land
+•  Production of waste
+•  Greenhouse gas emission
+•  Impact on biodiversity and the circular economy
+DNSH “Do not significantly harm (DNSH)” - such investments do not harm significantly any of the above objectives 
+Provided that the investee company follows good governance practices, in particular with respect to sound management 
+Governance
+structure, employee relations, remuneration of staff and tax compliance 
+Implication on product range - Integration versus sustainability objective? 
+Many different approaches exist for incorporating ESG considerations into products. This creates some important strategic 
+questions for Managers and their business models.
+On one hand, the “Disclosures Regulation” may encourage Managers to integrate ESG considerations into their investment 
+decisions by requiring them to be more transparent with investors about how this is being done. This is likely to be done at 
+group-level and applied consistently across all portfolios.
+Managers may also have funds with explicit sustainability objective, which will typically be marketed on this basis. 
+The “Disclosures Regulation” will require firms with such funds to publicly report on their performance against relevant 
+sustainability objectives. While the “Disclosures Regulation” stops short of mandating funds with this type of strategy, it may 
+have the practical effect of encouraging firms to develop these types of products, as firms seek to respond to the ambitions 
+of policymakers and evolving public attitudes. 
+12 | PwC
+A number of different approaches exist in relation to funds  Conduct risks associated with products
+with explicit sustainability mandates:  
+As the prominence of ESG investing increases, new 
+•  Negative screening: an investment strategy, which  conduct risks may arise. Firms need to be mindful of these 
+excludes specific sectors, companies or business  risks when developing their products.
+activities on the basis that they are deemed not worth 
+investing in. Possible conduct risks include:
+•  Positively managed investment approaches: an  •  Information asymmetries between investee companies 
+investment strategy that positively screens sectors,  and Managers in relation to the ESG credentials of the 
+companies or business activities to focus on  former. Poor company data on ESG credentials means 
+investments with good ESG ratings. This can include,  that Managers do not have a clear understanding of 
+for example, thematic investing (i.e. investing on the  whether their investments are supportive of a fund’s 
+basis of specific themes) or ‘best in class’ (i.e. investing  specific investment strategy. This could result in 
+in the best companies within a given sector). investments that do not adequately align with clients’ 
+•  Impact investing: an investment strategy that aims to  investment objectives. In addition, it could mean 
+generate a positive social and/or environmental impact,  that Managers reflect the uncertainty they have in 
+even if financial returns are compromised. relation to ESG credentials of investee companies 
+into the price formation process (in both primary and 
+Practical considerations will arise as to how to map 
+secondary markets), distorting the efficiency/integrity of 
+these against ESG consideration and product categories 
+price formation and, ultimately, bringing into question 
+introduced in the new “Disclosure Framework”.
+whether they are securing the best pricing outcome 
+There is a legitimate question over the future for funds that  for their clients. Emerging technology can assist fund 
+do not, in any way, have an ESG component. It seems  managers in overcoming problems relating to information 
+difficult to imagine that firms will not integrate ESG factors  asymmetry. Some firms are employing innovative ways 
+into decisions over how their funds are invested. However, it  of obtaining data, including using AI systems to churn 
+remains to be seen as to whether firms will develop a wider  through unstructured data, linking sustainable initiatives 
+range of sustainable investment products.  to companies through searching through patent filings, 
+news stories and other sources of information in cases 
+Will some firms move towards a position where all AUM are 
+where public reporting may be less transparent.
+managed in accordance with ESG criteria, or will portions of 
+•  Greenwashing/mis-selling: Firms also need to be 
+AUM be carved out and managed according to a discrete 
+mindful of how they are presenting their funds to 
+ESG strategy? What is clear is that the current regulatory 
+investors from an ESG perspective. In practice, investors 
+environment presents an opportunity for firms to adapt their 
+may have little visibility of the ESG credentials of the 
+business models and product strategy to give a bigger role 
+companies funds they are investing in - this information 
+to ESG and sustainability. Firms should, therefore, review 
+asymmetry creates a conflict of interest between 
+their fund ranges and consider opportunities to develop 
+the Managers and the client, which firms need to 
+funds with these sustainability mandates.   
+manage. Linked to this, firms may also be mis-selling 
+Implications for product governance without realising. There are numerous components 
+to this, including a lack of agreed standards for green 
+The MiFID II product governance regime requires firms 
+investments and patchy reporting. Firms should be clear 
+to clearly define a target market, establish and monitor 
+on where the proceeds of capital marketed as a green 
+appropriate distribution channels (and potential conflicts of 
+investment is allocated, and reflect this in their reporting. 
+interests) and communicate this clearly to stakeholders.
+The EC’s green bonds standard and the UK’s green 
+In practice, Managers rely on intermediaries to distribute  finance strategy will help support the development and 
+products in a heavily intermediated market, but it is still  credibility of the market by boosting transparency and 
+incumbent upon Managers to construct products with a  thereby raising the standards for green bond issuance. 
+clear demographic in mind, ensuring that the product meets  •  Re-packaging existing products/strategies and 
+their investment needs and objectives, and communicate to  presenting them as fulfilling ESG preferences where they 
+distributors for whom the product is intended. do not.   
+In relation to defining what constitutes ESG products,  •  Value/costs agenda dimension: how do firms consider 
+target markets, and other areas that require more regulatory  any additional costs associated with screening and 
+guidance, the ESMA has proposed a flexible approach, at  research into ESG-related instruments - if market 
+least initially, which is intended to serve as a starting point  participants and their representatives, in response to 
+allowing market participants to accommodate themselves  ESMA, believe that there is no inherent rationale for why 
+to ESG-requirements in the context of product governance. ESG products should be more costly, the question will 
+arise as to who will bear these costs.
+On this basis, firms could expect a degree of deviation to 
+be tolerated as the regulatory position on sustainability 
+continues to evolve.
+Sustainable Finance, a new era for asset managers | 13
+5
+Distribution – The last missing link? 
+On 4 January 2019, the EC published the updated  Such requirements may increase the complexity of 
+MiFID II/IDD rules on how investment firms and  the suitability process, and general references to 
+insurance distributors should take sustainability  ESG could lead to divergent interpretations of how 
+issues into account when providing advice to their  the amendments should be implemented.
+clients.
+Moreover, incorporating ESG preferences into the 
+The EU publication allows for differentiation  target market assessment for distributors could also 
+between investment objectives on one hand and  create problems as that responsibility for reliably 
+ESG preferences on the other. The EC stated that  ensuring that a product has ESG characteristics 
+this differentiation is important in order to avoid  primarily resides with the manufacturer and not 
+mis-selling, which may happen should an ESG  the distributor of the product. A lack of available 
+consideration take precedence over a client’s  ESG data on issuer activities can aggravate this, 
+personal investment objective. particularly when a manufacturer is not subject to 
+MiFID II and therefore is not obliged to assess a 
+The amendments also state that investment firms 
+target market. 
+should identify “at a sufficiently granular level the 
+potential target market for each financial instrument  In this case, the distributor has to assess a target 
+and specify the type(s) of client for whose needs,  market “as a substitute” – a task which is regarded 
+characteristics and objectives, and ESG preferences  even more difficult by the respondents given the 
+(where relevant), the financial instrument is  aforementioned information gaps.
+compatible.”
+ESMA has maintained that it expects distributors 
+In its advice to the EC, ESMA elaborated on  to conduct their own target market assessment 
+proposed changes to MiFID II suitability guidelines -  according to Article 10(2) of the MiFID II Delegated 
+the amendments would require firms to (i) take into  Directive.
+account ESG preferences in the context of assessing 
+•  In doing so, the distributor scrutinises the 
+client’s investment objectives and (ii) to consider 
+manufacturer’s target market and eventually 
+ESG factors in the context of product classification. 
+refines it according to its own data or the specific 
+The ESMA has suggested adopting a high-level 
+needs of the client base. 
+approach that will allow firms to decide how best to 
+incorporate these preferences within their existing  •  Without sufficient information, distributors will not 
+suitability processes. be expected to recommend or to market products 
+for which they are unable to check the plausibility 
+Manufacturers and distributors should specify,  of certain features – especially if they are used for 
+with a meaningful level of granularity, which ESG  marketing purposes. 
+preferences the investment product fulfils. For 
+example, it would not be sufficient to specify that the 
+investment product has, as a target market, clients 
+who are interested in environmentally sustainable, 
+social and good governance investments. Firms 
+should instead specify more precisely which ESG 
+preferences it fulfils.
+14 | PwC
+Practical steps for product manufacturers
+Clear product labelling
+Manufacturers may look to obtain a product label to make it clear how ESG has been incorporated 
+into funds. Labels have been flourishing in Europe in the past years as labelling could, in some way, 
+address the mis-selling conduct risks mentioned.
+Ongoing engagement with product distributors
+Including training sessions and materials that can be accessed by product distributors.
+Publicly available ESG policies
+Making firm-wide and product-specific ESG policies publicly available increases the chances that 
+end-investors will be able to access the information they need.
+Engagement apps and robo-advice
+Develop tools to capture ESG investor preferences and direct them to appropriate products.
+Could be integrated into existing tools used by distributors or simply provided alongside publicly 
+available ESG policies.
+Any tool would need to consider (and appropriately weigh) wider investment considerations such as 
+risk appetite, historic performance, expected returns and fees.
+Assurance and standards
+Consider obtaining external verification of the ESG credentials for certain products to reduce risks of 
+mis-selling.
+Data collection
+Obtain data from distributors to understand who is investing in these products and how these 
+products are being marketed as regards ESG preferences.
+Reward and remuneration
+Consider linking a component of distributor incentives (where the regulatory regime allows) to the 
+capturing of ESG preferences of end-investors.
+Sustainable Finance, a new era for asset managers | 15
+6
+Business processes and operations – The practical challenges 
+The data challenge 
+Dealing with non-financial information embeds practical key challenges as this data is mainly partial (non-
+financial reporting is not imposed on all companies nor is the content harmonised by binding regulation) and 
+very often self-declaratory (not subject to mandatory external assurance). In this context, Managers shall 
+ensure implementing strong data processes around:
+•  Choosing the appropriate data vendors;
+•  Filling in any data gap;
+•  Choosing the right set of Key Performance Indicators (KPIs);
+•  Establishing a robust process in data collection;
+•  Enhancing current data systems to integrate these new ranges of data and new sources for challenging 
+available data (AI); 
+•  Obtaining assurance vis-à-vis the data reliability.
+The risk management challenge
+Managers (including management companies and AIFMs) will have to ensure that ESG risks are assessed in 
+relation to each investment and that a proper risk management system is implemented.
+In this context, the following aspects should be considered:
+•  Documented and regular due diligence process when investing on behalf of the investors (respectively on 
+behalf of the fund(s)). The criteria for such due diligence should be adapted to the investment strategy, 
+objectives and risk profile of the fund and they need to fully integrate the ESG dimensions;
+•  Risk Inventory: risks towards each investment in the portfolio should be properly identified, measured, 
+managed and monitored on an ongoing basis;
+•  Risk measurement: management and monitoring of each risk, including ESG, towards each product;
+•  Risk Management policy: an adequate and written policy with appropriate frequency of review;
+•  Quantitative and qualitative risk limits for each product, taking into account the ESG criteria, the risk 
+appetite of the product and any commitments to investors;
+•  Alignment of the prospectus / offering document with the risk management process;
+•  Effective and proper implementation of ESG factors into the Risk Management Policy;
+•  Reporting on ESG risks.
+16 | PwC
+The people and skills challenge
+ESG and sustainability trained resources will be required at all levels of the organisation (from top 
+management, investment managers, analysts, product design, sales, oversight of delegates and outsourced 
+functions, risk management, reporting, controls function and internal audit). 
+Recruitment of new talents will be the obvious answer, but skilled resources are limited. In the absence of 
+available talent pools, upskilling might be the right tactical answer to this challenge. Managers should also 
+anticipate the skills challenge faced by delegates and service providers, who will also be required to upskill 
+their teams.
+The accountability challenge  
+The “Disclosures Regulation” will require Managers to disclose the ESG policy towards a wider group of 
+stakeholders. Managers will have to ensure that they meet their commitments towards these stakeholders. In 
+this context, Managers will have to answer the following questions:
+•  What to disclose without over-committing and remaining balanced? 
+•  How to ensure the principles disclosed in the ESG policy are those consistently applied prior to the 
+investment decision and also when monitoring AUM?
+•  How to monitor the activities in a timely manner?
+•  How to cater to shareholders’ voting activity with relevant topics and effective influence?
+Sustainable Finance, a new era for asset managers | 17
+7
+Reporting and Investor Engagement – The winner takes it all 
+Transparency is a key component in the sustainability agenda. The “Disclosures Regulation” will impose very 
+demanding reporting requirements. All financial market participants and advisors will be required to report on 
+sustainability risks: how these risks are integrated in their investment decisions as well the assessment of the 
+likely impacts of these risks. If these risks are deemed not relevant, Managers will be required to justify this 
+decision. 
+All Managers will be required therefore to collect data (refer to the data challenge mentioned above) and 
+implement adequate methodology, processes and systems to assess, monitor and disclose these risks.
+Moreover, specific products will be required to add specific disclosure requirements (in the prospectus, 
+on the website and in periodic reports). And the recently approved Taxonomy regulation already modifies 
+the “Disclosures regulation”, by imposing disclosure of the proportion of the investments aligned with 
+the Taxonomy for any product promoting environmental characteristics or considered as environmentally 
+sustainable.  
+Products promoting 
+environmental or social  Sustainable investment Non-ESG products
+characteristics
+Disclosures  Sustainable risks Sustainable risks Sustainable risks
+Regulation
+How objective will be attained, 
+How E or S characteristics achieved 
+methodologies to measure impact and 
+methodologies used to measure and 
+overall impact measurement (sustainability 
+extent met (or through benchmark 
+indicators) and/or benchmark disclosure 
+disclosure if passive)
+(passive products)
+Products promoting  Environmentally sustainable 
+Other products
+environmental characteristics investment
+Additional 
+environmental 
+disclosures  Information on environmental objective(s),  Information on environmental objective(s), 
+(Taxonomy   how and to what extent invested in  how and to what extent invested in  Statement that the financial product does 
+proposal) environmentally sustainable activities  environmentally sustainable activities  not take into account the EU criteria for 
+(including portfolio percentage and details  (including portfolio percentage and details  environmentally sustainable products
+on enabling and transition activities) on enabling and transition activities)
+Besides the obligation of impact measurements applicable to sustainable investments, Managers are also 
+encouraged to disclose their due diligence policy in measuring the adverse impacts of their investment 
+decision on sustainability factors (i.e. measuring the cumulated environmental and social impacts of their 
+investment decisions and portfolios). These requirements will become mandatory for large Managers of over 
+500 employees and their products (comply or explain approach).
+Impact assessment and disclosure will be a real challenge, given the data challenge mentioned before and 
+the lack of a universally recognised methodology. Timing will be particularly challenging as the implementing 
+measures are not expected to be finalised ahead of the implementation deadline: the regulation will apply 
+from 10 March 2021.
+Frontrunners may nevertheless consider the reporting requirement not just as a burdensome challenge but as 
+a real business opportunity. 
+Mandatory reporting will indeed make any greenwashing temptation more difficult. With the new “Disclosures 
+Regulation”, as soon as Managers refer to “Environmental” or “Social” characteristics or “Sustainable” 
+objectives in their prospectus, they will be required to disclose how they intend to achieve these objectives, 
+how they will measure the results as well as the results achieved in their periodic reports.
+Systematic reference to ESG risks in pre-contractual documentation will be an eye-opener even for the most 
+ESG agnostic investors, who will realise that proper investment decisions need to integrate consideration of 
+ESG factors and events.
+18 | PwC
+And last but not least, those who will go beyond the mandatory reporting requirements, shall seize the 
+opportunity to tell the real impact story to their investors – how their investment has delivered positive 
+impacts on the market, or has helped to stop inadequate ESG policies – and reconnect their investment 
+decision with their personal interest. This is a real opportunity for Managers to talk not only to the minds of 
+the investors (risks/performance), but also to their hearts and engage with them for the longer term.
+Impact of Action Plan Implementation
+•  Decide on ESG/RI strategy (leader or follower)
+•  Assess interaction with local regulations as well as 
+•  Capture engagement activities, 
+global developments (US/Asia)
+ESG activities and sustainable 
+•  Decide on products strategy (e.g. which proportion to 
+activities within organisation
+redefine, active or passive, etc.)
+•  Establish reporting lines and 
+•  Assess strategic impact with benchmark regulation 
+processes
+and other EU regulation (SRD II)
+•  Decide on communication plan 
+(corporate, products), decide on 
+whether minimalistic approach  •  Assess impact on current 
+(versus “telling a story” to investors)  investor base (which 
+and assess on whether to perform  percentage are likely to 
+impact reporting  have ESG preference(s)? 
+•  Perform gap analysis Strategic impact Sustainable activities 
+•  Implement product reporting  products?)
+(interact with administrators and  •  Decide on market positioning 
+Reporting/ 
+other suppliers) process including  01 and communication strategy
+Investor 
+quality control aspects Investors •  Assess and monitor 
+Engagement
+engagement activities
+06 02
+•  Update suitability tests as 
+required
+Implications
+05 03
+Distribution 04 Governance
+•  Refine target market definition and 
+communicate to intermediaries Product  •  Upskill management/board
+•  Assess current distributors,  Strategy •  Embed ESG within corporate 
+intermediaries  culture
+•  Adapt distribution network and/or  •  Assess ESG risks and decide 
+educate intermediaries as required upon corporate approach
+•  Review process to assess target  •  Review product governance
+market efficiency  •  Interaction with stewardship 
+code
+•  Decide on whether more ESG products (or to remap 
+existing ones) more thematic/sustainable activities
+•  Review existing product range, assess gap and 
+decide on actions
+•  Categorise existing and amend documentation 
+(prospectuses, marketing documents, KIDs)
+•  Launch additional products as required
+•  Decide on whether product label shall be required
+Sustainable Finance, a new era for asset managers | 19
+Contacts
+Olwyn Alexander,    Steven Libby,      Nathalie Dogniez,     
+Global  EMEA  Luxembourg
+Partner Partner Partner
++353 (0) 1 7928719 +352 49 48 48 2116 +352 49 48 48 2040
+olwyn.m.alexander@pwc.com steven.libby@lu.pwc.com nathalie.dogniez@lu.pwc.com
+Lesley Bell,       Toufik Chaïb,       Leo Donnachie,    
+PwC Ireland PwC Luxembourg PwC UK
+Director Partner Senior Associate
++353 17928133 +352 49 48 48 2335 +44 (0)7483 329595 
+lesley.bell@pwc.com toufik.chaib@lu.pwc.com emilio.donnachie@pwc.com
+Lex Huis in het Veld,     Lucas Penfold,      Carol Storey,      
+PwC Netherlands PwC UK PwC UK
+Senior Manager Manager Senior Manager
++31 (0)887925953 +44 7483 407581 +44 7718 979726
+lex.huis.in.het.veld@pwc.com lucas.penfold@pwc.com  carol.storey@pwc.com
+Benedikt Tschinkl,     Martin Weirich,     
+PwC Germany PwC Germany
+Manager Director
++49 6995856769 +49 69 9585 3806
+benedikt.tschinkl@pwc.com martin.weirich@pwc.com 
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 
+157 countries with over 276,000 people who are committed to delivering quality in assurance, advisory and 
+tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+This content is for general information purposes only, and should not be used as a substitute for consultation 
+with professional advisors.
+© 2020 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, 
+each of which is a separate legal entity. Please see www.pwc.com/structure for further details.

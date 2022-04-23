@@ -1,0 +1,1896 @@
+
+ODDO BHF US MID CAP 
+ 
+Annual report at 31 December 
+ 
+2019 
+  
+ 
+Management Company: ODDO BHF ASSET  Custodian: BNP PARIBAS SECURITIES 
+MANAGEMENT SAS  SERVICES 
+Registered office:  12 boulevard de la Madeleine 
+75009 Paris 
+ 
+ 
+ 
+Publication of issue and redemption prices: available to unitholders from the Management Company 
+ 
+   ODDO BHF US MID CAP   
+ 
+Contents 
+ 
+Management report 
+Investment scope .......................................................................................................................................................... 3 
+Investment policy .......................................................................................................................................................... 9 
+Annual financial statements 
+Balance sheet – Assets ............................................................................................................................................... 10 
+Balance sheet – Liabilities ........................................................................................................................................... 11 
+Off-balance sheet ........................................................................................................................................................ 12 
+Income statement........................................................................................................................................................ 13 
+Annual financial statements - Notes 
+Accounting rules and policies ...................................................................................................................................... 14 
+Changes in the net assets ........................................................................................................................................... 17 
+Further information 1 ................................................................................................................................................... 18 
+Further information 2 ................................................................................................................................................... 19 
+Breakdown by type of receivables and payables ........................................................................................................ 21 
+Breakdown by legal or economic nature of the instrument .......................................................................................... 22 
+Breakdown by type of interest rates for assets, liabilities and off-balance sheet items ............................................... 23 
+Breakdown by residual maturity of assets, liabilities and off-balance sheet items ...................................................... 24 
+Breakdown by listing currency of assets, liabilities and off-balance sheet items ......................................................... 25 
+Allocation of income .................................................................................................................................................... 26 
+Income and other items ............................................................................................................................................... 38 
+Inventory ..................................................................................................................................................................... 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Annual Report at 31 December 2019  2 
+ 
+   ODDO BHF US MID CAP   
+ 
+SCOPE 
+IDENTIFICATION 
+CLASSIFICATION 
+ 
+“International equities” fund. 
+ 
+The Fund’s overall equity exposure shall permanently be greater than 70% to shares of companies headquartered in North 
+America (the US and Canada). 
+ 
+ 
+INVESTMENT OBJECTIVE 
+ 
+The investment objective is to outperform the benchmark index, the S&P MID CAP 400 (converted into euro), over the 
+recommended investment period of five years or more. 
+ 
+ 
+BENCHMARK 
+ 
+The S&P MID CAP 400® index provides investors with a benchmark for mid-cap companies. The index covers more than 7% 
+of the US equity market and tries to give an accurate picture of the situation for mid cap companies, constantly reflecting 
+risks and returns in a broad mid cap universe. 
+ 
+The benchmark index is available on Standard & Poor’s website at: http://us.spindices.com/indices/equity/sp-400. The 
+performance of the index takes into account the dividends paid in respect of the shares comprising the index. 
+ 
+Investors are advised that the benchmark index does not constitute a limitation on the Fund’s investment universe. It allows 
+the investor to assess the Fund’s risk profile. The Fund’s performance and composition may differ substantially from those of 
+its benchmark index. 
+ 
+ 
+INVESTMENT STRATEGY 
+ 
+The Fund is managed on a discretionary basis applying the investment process drawn up by the company to which financial 
+management was delegated: 
+ 
+- The process relies on an active management strategy based on stock-picking. The Fund manager invests mainly in 
+undervalued mid-cap companies with solid track records and strong medium-term growth potential. 
+- Preference shall be given to mid-cap companies (capitalisations of between USD 2 billion and USD 10 billion). 
+- The investment universe mainly consists of North American equity markets (United States and Canada), but also includes 
+the equity markets of non-OECD countries (emerging markets) to a lesser degree. 
+- The investment process comprises four stages: 
+ 
+First stage: the manager filters the universe based on economic and financial performance indicators. 
+The manager favours companies in a position to generate, over the course of a cycle, a greater Return on Capital Employed 
+than the industry average and a positive free cash flow. 
+ 
+Second stage: fundamental analysis, company visits. The fundamental analysis of stocks aims to verify that the fundamental 
+elements underlying the financial profitability of a company will be preserved and even improved or regained in years to 
+come. 
+ 
+Annual Report at 31 December 2019  3 
+ 
+   ODDO BHF US MID CAP   
+ 
+Company visits: the manager will endeavour to validate the suitability and coherence of the company strategy, any 
+foreseeable changes in the company’s industry and the stock’s sensitivity to the macroeconomic environment or any other 
+theme that may affect the company’s fundamentals. 
+ 
+The managers will take environmental, social and governance (ESG) criteria into account where this is relevant for the 
+company under analysis. An internal scoring system for securities held within the portfolio based on our proprietary analyses 
+will be used, where necessary. Furthermore, the ESG research team will constantly strive to identify potential significant ESG 
+risks and opportunities and will examine them with managers. This team will also drive discussions on ESG matters with 
+company managers. 
+ 
+Third stage: Valuation. Companies are valued using two methods: peers (PER, returns, EV/sales, EV/EBIT, etc.) and 
+discounted available cashflows (DCF) based on two scenarios: one optimistic, the other pessimistic. These valuations 
+determine the buy and sell thresholds. 
+ 
+Fourth stage: Portfolio development. Weightings are defined as absolutes rather than with direct reference to a benchmark 
+index. 
+ 
+At the end of this strictly bottom-up process, the managers compare the portfolio's sector allocation with that of the 
+benchmark index. The managers ensure that the portfolio's thematic and sector diversification is sufficient to avoid too great 
+a tracking error versus the benchmark index. 
+ 
+ 
+Composition of assets 
+ 
+1 - Assets (excluding embedded derivatives) 
+ 
+• Equities: 
+ 
+The Fund’s overall equity exposure shall permanently be greater than 70% to shares of companies headquartered in North 
+America (the US and Canada). The manager has the option of selecting securities from the investment universe other than 
+those making up the benchmark index. The fund manager will invest mainly in mid caps. 
+ 
+The Fund may invest up to 5% of its assets in the equities of companies headquartered in non-OECD member countries 
+(emerging markets); 
+Overall exposure to equity markets may not exceed 105% of assets. However, the Fund intends to limit this to 100%, using 
+the 105% threshold only temporarily and briefly. 
+ 
+ 
+• Debt securities and money market instruments: 
+ 
+The Fund may invest up to 30% of assets in fixed, variable or revisable rate securities (linked to bond market or money 
+market rates) in order to optimise cash management. These transferable debt securities shall be denominated in euro and 
+issued by governments and public corporations or credit institutions in the Euro Zone rated higher than AA (S&P or 
+equivalent, or using the Management Company’s internal rating). 
+ 
+The Management Company does not use the ratings issued by ratings agencies automatically or in isolation, as it also 
+applies its own internal analysis. 
+ 
+In the event of a downgrade, the Management Company will take the interests of unitholders, market conditions and its own 
+analysis of these fixed income products into account when respecting rating limits. 
+ 
+ 
+• UCI shares or units: 
+ 
+Up to 10% of the Fund may be invested in shares or units of: 
+- French or foreign UCITS that may not invest more than 10% of their assets in units or shares of other UCITS, AIFs or 
+investment funds 
+- French AIFs or AIFs from other EU Member States 
+ 
+Annual Report at 31 December 2019  4 
+ 
+   ODDO BHF US MID CAP   
+ 
+- investment funds established under foreign law 
+ 
+The units or shares of these AIFs and investment funds must meet the four criteria under article R214-13 of the French 
+Monetary and Financial Code, namely: (i) that they are subject to regulations equivalent to those applicable to UCITS and 
+that there is cooperation between the AMF and the regulatory body of the AIF; (ii) that the level of protection granted to 
+unitholders is equivalent to that of UCITS; (iii) that they issue semi-annual and annual reports explaining their activities; and 
+(iv) that they must not themselves invest over 10% of their assets in units or shares of other UCITS, AIFs or foreign 
+investment funds. 
+ 
+These UCIs may be managed by ODDO BHF Asset Management SAS and/or ODDO BHF Asset Management GmbH and 
+will be compatible with the Fund’s investment strategy. 
+ 
+ 
+2 - Financial futures and options 
+ 
+The Fund may invest in all financial futures or options traded on regulated or organised markets or over-the-counter in 
+France and other countries. The Fund may make investments in order either to hedge “equity” and “currency” risk or to 
+increase the portfolio’s exposure to equities, sectors or indices, without seeking overexposure (although total equity market 
+exposure may temporarily and briefly reach 105% of the Fund’s net assets), in order to achieve the investment objective 
+defined. 
+ 
+The instruments used shall be futures, currency swaps and forward exchange 
+contracts. 
+The Fund will not use total return swaps. 
+ 
+3- Securities with embedded derivatives 
+ 
+The Fund may also, on an ancillary basis, hold convertible bonds and subscription certificates to provide exposure to equity 
+risk. These instruments shall be held without seeking overexposure (overall exposure to equity markets may, however, 
+temporarily and briefly reach 105% of the Fund’s net assets). 
+ 
+ 
+4-Deposits: 
+ 
+The Fund may use deposits to generate a return on cash holdings, up to the limit of 10% of its net assets. 
+Used as part of day-to-day management of the Fund's cash assets, these will contribute to achieving the investment 
+objective based on their level of return. 
+ 
+ 
+5-Cash borrowing: 
+ 
+The Fund may borrow the equivalent of up to 10% of its net assets in cash in order to cover a temporary delay between 
+incoming and outgoing funds relating to purchases and sales of securities issued on the market, or to cover large 
+redemptions; 
+ 
+ 
+6- Temporary purchases and sales of securities 
+ 
+To manage cash and maximise income, the Fund may carry out reverse repurchase agreements. Any temporary sales or 
+purchases of securities shall all be conducted under market conditions and up to a maximum of 100% of the Fund’s net 
+assets. 
+ 
+The expected proportion of AUM to be used for such operations will be 80%. 
+These operations shall be performed on the equities, UCI shares or units, debt securities and money market instruments 
+referred to in the “Assets (excluding embedded derivatives)” section. 
+ 
+Annual Report at 31 December 2019  5 
+ 
+   ODDO BHF US MID CAP   
+ 
+Within the scope of these transactions, the Fund may receive or issue financial guarantees (collateral). Their operation and 
+characteristics are presented under “Collateral management”. 
+ 
+Temporary purchases and sales of securities may be carried out with ODDO BHF SCA or with EU or UK banks that have a 
+minimum credit rating of A-. 
+ 
+Additional information can be found under the heading “Fees and expenses”. 
+ 
+For further information, please refer to the Fund’s annual report. 
+ 
+ 
+7. Collateral management 
+ 
+Within the scope of OTC financial derivatives transactions and temporary purchases and sales of securities, the Fund may 
+receive or issue financial assets as guarantees. 
+The purpose of receiving financial guarantees is to reduce the Fund's exposure to counterparty default risk. They will consist 
+solely of cash. 
+ 
+As an exception to the above, and only in the case of reverse repurchase operations, the Fund will receive traditional fixed 
+income securities rated at least A- and/or securities issued by governments with a rating of at least AA- as collateral. In any 
+case, the issue of the security received as collateral must be larger than EUR 100 million and the Fund's participation will be 
+limited to 10%. 
+ 
+Transactions potentially requiring the use of financial guarantees shall be carried out with an EU or UK credit institution that 
+may belong to the ODDO BHF group. 
+ 
+Any financial guarantees (collateral) received shall also, in accordance with regulations, comply with the following: 
+- criteria for liquidity, valuation (at least daily, and assets that are not highly volatile, except for obtaining adequate discounts), 
+issuer creditworthiness, correlation (independence vis-à-vis the counterparty) and diversification with maximum exposure to a 
+given issuer of 20% of the net assets; 
+- it shall be held by the Custodian of the Fund or any third party, in a segregated account, subject to prudential supervision 
+and which has no connection with the provider of the financial guarantees; 
+- financial guarantees received must be available for full execution by the Fund at any time without consulting the 
+counterparty or the counterparty's consent; 
+- financial guarantees received as cash shall only be placed as deposits with eligible institutions or invested in top-tier 
+government bonds or used in reverse repurchase transactions (provided that such transactions are concluded with credit 
+institutions subject to prudential supervision and on the condition that the Fund is in a position to recall the total cash amount 
+at any time, accounting for accrued interest) or invested in short-term money market UCIs; 
+- the financial guarantees shall not be reused. 
+ 
+ 
+GLOBAL RISK 
+ 
+The method chosen by the Management Company to measure the overall risk to the Fund that it manages is the 
+commitment approach. 
+ 
+ 
+RISK PROFILE 
+ 
+Your money will be invested in financial instruments selected by the Management Company. These instruments are subject 
+to the market’s movements and fluctuations. 
+ 
+The risks identified by the Management Company and presented below are not exhaustive. Investors are responsible for 
+forming their own opinion independently from that of the Management Company, assessing the risk of any investments they 
+make, with the assistance of a financial investment adviser where applicable, and for ensuring that the investment envisaged 
+is suited to their financial situation and ability to assume financial risks. 
+ 
+Please refer to the Key Investor Information Document for information on the risk category to which this Fund belongs. 
+ 
+Annual Report at 31 December 2019  6 
+ 
+   ODDO BHF US MID CAP   
+ 
+In particular, the Fund will be exposed to the following risks: 
+ 
+Risk of capital loss: 
+The Fund is not guaranteed or protected; investors may not get back their initial investment in full. 
+ 
+Equity risk: 
+The Fund is invested directly or indirectly in one or more equity markets that may experience significant fluctuations. The 
+Fund’s net asset value could fall during periods in which the equity market is falling. Maximum exposure to equity markets is 
+105% of assets. 
+ 
+Risk associated with geographic concentration in the portfolio: 
+This risk is linked to investments being concentrated in financial instruments which are sensitive to sectors of the North 
+American equity markets. Performance may therefore vary significantly in comparison with that of the benchmark index. 
+ 
+Risk associated with holding mid caps: 
+The Fund may be exposed to mid-cap companies. Price fluctuations, both upward and downward, are more acute and more 
+abrupt than for large capitalisations, and may therefore result in sharp variations in the net asset value. Furthermore, the low 
+volumes traded on these markets may result in liquidity risk. This type of investment may affect the Fund’s valuation and the 
+prices at which the Fund may be obliged to liquidate its positions, particularly in the case of large redemptions, and may even 
+make it impossible for the Fund to sell its holdings, as a result of which the Fund’s net asset value may fall. 
+ 
+Interest rate risk: 
+This corresponds to the risk linked to a rise in bond market interest rates, which causes bond prices and therefore the net 
+asset value of the Fund to fall. The Fund may hold up to 30% of its assets in cash generating a return via bonds or debt 
+securities. 
+ 
+Currency risk: 
+This risk is linked to portfolios invested fully or partially in securities denominated in currencies other than the Fund’s 
+reference currency and corresponds to the variation in the exchange rate between these currencies and the Fund’s reference 
+currency. As such, the value of a security may be affected by a change in the value of its reference currency against the 
+euro, even though its value in its base currency may not change, thereby causing the net asset value of the Fund to fall, with 
+at least 70% of the Fund being invested in North American equities. 
+ 
+Credit risk: 
+This is the risk of a potential downgrading of an issuer’s credit rating, or in an extreme case its default, which would have a 
+negative impact on the price of the debt securities issued and therefore on the net asset value of the Fund. This could result 
+in a capital loss. Credit risk varies according to expectations, bond maturities and the level of confidence in each issuer. This 
+may restrict the liquidity of the securities of a particular issuer and have a negative impact on the net asset value of the Fund, 
+especially if the Fund liquidates its positions in a market where transaction volumes are low. 
+ 
+Risk associated with commitments on forward financial instruments 
+Without seeking overexposure, the Fund may invest up to 100% of net assets in forward financial instruments, which may 
+present a downside risk to the net asset value that is greater than that of the benchmark. 
+ 
+Risk associated with discretionary management: 
+This risk is linked to the investment style, which is based on expectations regarding the performance of the various markets. 
+There is a risk that the Fund may not be invested in the best-performing markets or securities at all times. The Fund’s 
+performance therefore depends on the manager’s ability to anticipate movements in the markets or in individual securities. 
+This risk may result in a fall in the net asset value and/or a capital loss for the investor. 
+ 
+Counterparty risk: 
+This is the risk of a counterparty’s collapse, causing it to default on payment. The Fund may be exposed to the counterparty 
+risk caused by the use of forward financial instruments contracted over-the-counter with credit institutions. The Fund is 
+therefore exposed to the risk that one of these credit institutions may not be able to honour its commitments in connection 
+with such instruments. Certain contracts exposing the Fund to counterparty risk may be concluded with a company belonging 
+to the ODDO BHF group. 
+ 
+ 
+ 
+ 
+ 
+Annual Report at 31 December 2019  7 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+Risks associated with securities financing transactions and collateral management 
+Investors may be exposed to legal risk (arising from the legal documentation, the application of agreements and the limits 
+imposed by them) and to the risk associated with the reuse of securities received as collateral, given that the net asset value 
+of the Fund may vary depending on fluctuations in the value of the securities acquired through investment in cash received 
+as collateral. 
+The Fund will be exposed, to a limited extent, to the following risk: 
+ 
+Emerging market risk 
+This risk is linked to the operating and monitoring conditions on emerging markets to which the Fund is exposed, which may deviate from 
+the standards that exist on the large international markets and may be affected by various disruptions (such as changes in taxation or 
+political stability, or a temporary lack of liquidity on these securities). These disruptions may trigger settlement/delivery problems likely to 
+have an impact on the prices at which the Fund may be obliged to liquidate its positions, which may then result in a sharp fall in the Fund’s 
+net asset value. 
+ 
+ 
+Guarantee or protection 
+ 
+None (neither the capital nor the performance are guaranteed). 
+ 
+ 
+MINIMUM RECOMMENDED INVESTMENT PERIOD 
+ 
+Five years 
+ 
+Annual Report at 31 December 2019  8 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+MANAGEMENT REPORT 
+ 
+STATUTORY AUDITOR 
+ 
+Deloitte & Associés 
+ 
+INVESTMENT POLICY 
+ 
+(Waiting for MC) 
+ 
+Annual Report at 31 December 2019  9 
+ 
+   ODDO BHF US MID CAP   
+ 
+Balance sheet – Assets 
+ 
+  Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+Net fixed assets  -  - 
+Deposits  -  - 
+Financial instruments  254,739,350.79  222,840,759.90 
+Equities and similar securities  254,739,350.79  222,840,759.90 
+Traded on a regulated or similar market  254,739,350.79  222,840,759.90 
+Not traded on a regulated or similar market  -  - 
+Bonds and similar securities  -  - 
+Traded on a regulated or similar market  -  - 
+Not traded on a regulated or similar market  -  - 
+Debt securities  -  - 
+Traded on a regulated or similar market – Transferable debt securities  -  - 
+Traded on a regulated or similar market – Other debt securities  -  - 
+Not traded on a regulated or similar market  -  - 
+Units of undertakings for collective investment  -  - 
+Standard UCITS and AIFs aimed at non-professional investors and equivalent funds of 
+-  - 
+other European Union Member States 
+Other Funds aimed at non-professional investors and equivalent funds of other 
+-  - 
+European Union Member States 
+Standard professional investment funds and equivalent funds of other European 
+-  - 
+Union Member States and listed securitisation funds 
+Other professional investment funds and equivalent funds of other European Union 
+-  - 
+Member States and unlisted securitisation funds 
+Other non-European undertakings  -  - 
+Temporary transactions on securities  -  - 
+Receivables on securities received under a repurchase agreement (pension)  -  - 
+Receivables on securities lent  -  - 
+Securities borrowed  -  - 
+Securities transferred under a repurchase agreement (pension)  -  - 
+Other temporary transactions  -  - 
+Forward financial instruments  -  - 
+Transactions on a regulated or similar market  -  - 
+Other transactions  -  - 
+Other financial instruments  -  - 
+Receivables  45,442,877.01  40,497,181.60 
+Currency forward exchange contracts  42,436,194.09  40,075,867.89 
+Other  3,006,682.92  421,313.71 
+Financial accounts  2,782,447.41  1,182,661.49 
+Cash  2,782,447.41  1,182,661.49 
+TOTAL ASSETS  302,964,675.21  264,520,602.99 
+ 
+Annual Report at 31 December 2019  10 
+ 
+   ODDO BHF US MID CAP   
+ 
+Balance sheet – Liabilities 
+ 
+  Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+     
+Equity capital  -  - 
+Share capital  238,982,907.03  196,519,584.84 
+Previous undistributed net capital gains and losses (a)  -  - 
+Retained earnings (a)  -  - 
+Net capital gains and losses for the financial year (a,b)  20,168,741.62  28,912,457.94 
+Profit/loss for the financial year (a,b)  -2,160,017.08  -2,467,747.77 
+ 
+Total equity capital     
+(= Amount corresponding to the net assets)  256,991,631.57  222,964,295.01 
+ 
+Financial instruments  -  - 
+Sales of financial instruments  -  - 
+Temporary transactions on securities  -  - 
+Payables on securities transferred under a repurchase agreement (pension)  -  - 
+Payables on securities borrowed  -  - 
+Other temporary transactions  -  - 
+Forward financial instruments  -  - 
+Transactions on a regulated or similar market  -  - 
+Other transactions  -  - 
+ 
+Payables  45,973,032.86  41,556,296.83 
+Currency forward exchange contracts  42,109,710.53  39,886,377.76 
+Other  3,863,322.33  1,669,919.07 
+Financial accounts  10.78  11.15 
+Short-term bank loans  10.78  11.15 
+Borrowings  -  - 
+TOTAL LIABILITIES  302,964,675.21  264,520,602.99 
+(a) Including equalisation accounts. 
+(b) Less interim dividends paid for the financial year. 
+ 
+Annual Report at 31 December 2019  11 
+ 
+   ODDO BHF US MID CAP   
+ 
+Off-balance sheet 
+ 
+  Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+     
+Hedging transactions 
+ 
+Commitments on regulated or similar markets 
+OTC commitments 
+Other commitments 
+ 
+ 
+ 
+ 
+ 
+Other transactions 
+ 
+Commitments on regulated or similar markets 
+OTC commitments 
+Other commitments 
+ 
+Annual Report at 31 December 2019  12 
+ 
+   ODDO BHF US MID CAP   
+ 
+Income statement 
+ 
+  Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+     
+Income from financial transactions     
+     
+Income from equities and similar securities  1,539,124.19  1,447,589.90 
+   
+Income from bonds and similar securities  -  - 
+   
+Income from debt securities  -  - 
+   
+Income from temporary purchases and sales of securities  -  - 
+   
+Income from forward financial instruments  - - 
+Income from deposits and financial accounts  9,192.92  5,241.47 
+Other financial income  -  - 
+   
+ 
+TOTAL I  1,548,317.11  1,452,831.37 
+     
+Payables on financial transactions     
+     
+Payables on temporary purchases and sales of securities  -  - 
+   
+Payables on forward financial instruments  -  - 
+   
+Payables on financial debts  -6,563.51  -260.71 
+   
+Other payables  -  - 
+   
+ 
+TOTAL II  -6,563.51  -260.71 
+     
+Income resulting from financial transactions (I + II)  1,541,753.60  1,452,570.66 
+     
+Other income (III)  -  - 
+     
+Management fees and depreciation allowance (IV)  -3,820,398.83  -4,317,453.56 
+     
+Net income for the year (I + II + III + IV)  -2,278,645.23  -2,864,882.90 
+     
+Income equalisation for the financial year (V)  118,628.15  397,135.13 
+     
+Interim dividends paid from income for the financial year (VI)  -  - 
+     
+Profit(loss) (I + II + III + IV + V + VI)  -2,160,017.08  -2,467,747.77 
+ 
+Annual Report at 31 December 2019  13 
+ 
+   ODDO BHF US MID CAP   
+ 
+Accounting rules and policies 
+ 
+The annual financial statements are presented in accordance with the provisions of ANC Regulation 2014-01, as amended. 
+The accounting currency is the euro. 
+All transferable securities held in the portfolio have been recognised at their historical cost, net of expenses. 
+ 
+Futures and options held in the portfolio are converted into the accounting currency on the basis of the exchange rates 
+quoted in Paris on the valuation day. 
+ 
+The portfolio is valued each time the net asset value is calculated and when the accounts are closed, according to the following methods: 
+ 
+ 
+Transferable securities 
+ 
+Listed securities: at their market value – including accrued coupons (price at close of trade) 
+However, transferable securities whose price has not been determined on the valuation day or are listed by contributors and 
+have had their prices adjusted, or securities that are not traded on a regulated market, are valued under the responsibility of 
+the Management Company (or Board of Directors for a SICAV) at their foreseeable sale price. The Management Company 
+adjusts prices according to its knowledge of issuers and/or markets. 
+ 
+Investment funds: at the last known net asset value or, failing this, the most recent estimate. The net asset values of 
+securities held in foreign investment funds priced on a monthly basis are confirmed by the fund administrators. Valuations are 
+updated once a week on the basis of estimates sent by the administrators of these funds and confirmed by the manager. 
+ 
+Debt securities and similar securities that are not traded in large volumes are valued by means of an actuarial method; the 
+reference rate used is that applied to issues of equivalent securities plus or minus, where applicable, a differential reflecting 
+the issuer’s specific characteristics. 
+ 
+Temporary purchases and sales of securities: 
+-  Securities lending: the receivable relating to the securities lent is valued at the securities’ market value. 
+-  Securities borrowing: the securities borrowed and debt relating to them are valued at the securities’ market value. 
+-  Collateral: with regard to securities received as collateral in securities lending arrangements, the Fund has opted to show 
+these securities on the balance sheet for the amount of the debt corresponding to the recovery liability. 
+-  Repurchase agreements with a residual term of three months or less: individualisation of the receivable based on the 
+contract price. In this case, the remuneration is written down in a straight line. 
+-  Long-term repurchase agreements: These are recorded and valued at their nominal amount, even if their maturity 
+exceeds three months. This amount is increased by any related incurred interest. However, some contracts include specific 
+provisions in the event of an early redemption request to reflect the impact of the counterparty’s higher interest rate curve. 
+Accrued interest can be reduced for this impact without any upper limit. The impact is proportionate to the remaining term of 
+the repurchase agreement and the difference between the contractual margin and the market margin for an identical 
+maturity. 
+-  Repurchase agreements with a residual term of three months or less: market value. The payables, valued on a 
+contractual basis, appear on the liabilities side of the balance sheet. In this case, the remuneration is written down in a 
+straight line. 
+ 
+ 
+Futures and options 
+ 
+Futures: daily clearing price. 
+The off-balance sheet valuation is calculated on the basis of the nominal, its clearing price and, where appropriate, the 
+exchange rate. 
+ 
+Annual Report at 31 December 2019  14 
+ 
+   ODDO BHF US MID CAP   
+ 
+Forward exchange: revaluation of currencies representing a commitment at the daily swap point calculated according to the 
+contract’s maturity. 
+ 
+Term deposits: these are recorded and valued for their nominal amount, even if their maturity exceeds three months. This 
+amount is increased by any related incurred interest. However, some contracts include specific provisions in the event of an 
+early redemption request to reflect the impact of the counterparty’s higher interest rate curve. Accrued interest can be 
+reduced to account for this impact but it cannot be negative. As a minimum, term deposits are then valued at their nominal 
+value. 
+ 
+Interest rate swaps: 
+-  for swaps maturing in under three months, interest is calculated using a linear method 
+-  swaps maturing in over three months are revalued at market value 
+Synthetic products (made up of a security and a swap) are recognised on an aggregate basis. Interest on the swaps that are 
+to be received in the context of these products is calculated using a linear method. 
+ 
+Asset swaps and synthetic products are valued on the basis of their market value. The value of asset swaps is calculated 
+based on the value of the hedged securities from which the impact of credit spread variations is deducted. This impact is 
+calculated from the average of the spreads reported by four counterparties on a monthly basis, adjusted by a margin, 
+depending on the issuer’s rating. 
+The off-balance sheet swap commitment corresponds to their nominal value. 
+ 
+Structured swaps (swaps with an optional component): these swaps are valued at their market value according to the prices 
+sent by counterparties. The Management Company checks these valuations. 
+The off-balance sheet commitment of these swaps corresponds to their nominal value. 
+ 
+ 
+Financial management fees and administrative fees not payable to the Management Company (statutory auditor, 
+custodian, distributors, lawyers, etc.) 
+ 
+•  maximum 1.80%, inclusive of tax, for CR-EUR and CR-USD units 
+•  maximum 0.90%, inclusive of tax, for GC-EUR and CI-EUR [H] units 
+•  maximum 1.20%, inclusive of tax, for CN-EUR and CN-USD units 
+The allowance is calculated on the basis of the net assets, excluding investment funds. These fees, which do not include 
+transaction fees, shall be recognised directly on the Fund's income statement. 
+These fees cover all the costs invoiced to the Fund, except transaction costs. Transaction costs include intermediary fees 
+(brokerage, stock market taxes, etc.) as well as transaction fees, if any, that may be charged by the Custodian and the 
+Management Company, in particular. 
+ 
+ 
+Performance fees 
+ 
+None 
+ 
+ 
+Management fees paid to third parties 
+ 
+None 
+ 
+ 
+Interest accounting method 
+ 
+Interest received 
+ 
+Annual Report at 31 December 2019  15 
+ 
+   ODDO BHF US MID CAP   
+ 
+Allocation of realised income 
+ 
+- Accumulation for CR-EUR units 
+- Accumulation for CR-USD units 
+- Accumulation for GC-EUR units 
+- Accumulation for CI-EUR [H] units 
+- Accumulation for CN-EUR units 
+- Accumulation for CN-USD units 
+ 
+ 
+Allocation of realised net capital gains 
+ 
+- Accumulation for CR-EUR units 
+- Accumulation for CR-USD units 
+- Accumulation for GC-EUR units 
+- Accumulation for CI-EUR [H] units 
+- Accumulation for CN-EUR units 
+- Accumulation for CN-USD units 
+ 
+ 
+Changes affecting the Fund 
+ 
+None 
+ 
+Annual Report at 31 December 2019  16 
+ 
+   ODDO BHF US MID CAP   
+ 
+Changes in the net assets 
+ 
+  Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+     
+Net assets at the beginning of the financial year  222,964,295.01  227,494,459.83 
+Subscriptions (including subscription fees paid to the Fund)  70,221,466.43  225,887,612.23 
+Redemptions (after deduction of the redemption fees paid to the Fund)  -103,635,050.52  -216,565,341.00 
+Realised gains on deposits and financial instruments  31,404,922.44  41,708,533.60 
+Realised losses on deposits and financial instruments  -11,840,545.56  -7,307,402.20 
+Realised gains on forward financial instruments  -  - 
+Realised losses on forward financial instruments  -  - 
+Transaction costs  -690,802.80  -1,536,075.27 
+Foreign exchange differences  1,321,696.29  -4,232,989.31 
+Change in the valuation differential of deposits and financial instruments  49,524,295.51  -39,619,619.97 
+Valuation differential in year N  56,058,897.80  6,534,602.29 
+Valuation differential in year N-1  -6,534,602.29  -46,154,222.26 
+Change in the valuation differential of forward financial instruments  -  - 
+Valuation differential in year N  -  - 
+Valuation differential in year N-1  -  - 
+Distribution in previous year from net capital gains and losses  -  - 
+Dividends paid in the previous financial year from income  -  - 
+Net profit/(loss) for the financial year prior to the income equalisation account  -2,278,645.23  -2,864,882.90 
+Interim dividend(s) paid during the financial year from net capital gains and losses  -  - 
+Interim dividend(s) paid during the financial year from profit  -  - 
+Other items  -  - 
+Net assets at the end of the financial year  256,991,631.57  222,964,295.01 
+ 
+Annual Report at 31 December 2019  17 
+ 
+   ODDO BHF US MID CAP   
+ 
+Further information 1 
+ 
+  Financial year 
+ended 31/12/2019 
+ 
+Commitments received or given 
+Commitments received or given (capital guarantee or other commitments) (*)  - 
+   
+Current value of financial instruments held in the portfolio and serving as guarantee deposits 
+Financial instruments received as a guarantee and not recorded on the balance sheet  - 
+Financial instruments used as a guarantee and kept as original entry  - 
+   
+Financial instruments held in the portfolio and issued by the service provider or entities from the same group 
+Deposits  - 
+Equities  - 
+Fixed income securities  - 
+UCIs  - 
+Temporary purchases and sales of securities  - 
+Swaps (nominal)  - 
+   
+Current value of financial instruments subject to a temporary purchase transaction 
+Securities acquired under repurchase options  - 
+Securities held under a repurchase agreement  - 
+Securities borrowed  - 
+(*) For guaranteed funds, the information appears in the accounting methods and rules 
+ 
+Annual Report at 31 December 2019  18 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+Further information 2  Financial year   
+ended 31/12/2019 
+     
+Issues and redemptions during the financial year  Number of units 
+   
+CN-EUR unit class category (Currency: EUR) 
+   
+Number of securities issued  47,124.884 
+ 
+Number of securities redeemed  77,966.940 
+CR-USD unit class category (Currency: USD) 
+   
+ 
+Number of securities issued  4,870.522 
+ 
+Number of securities redeemed  2,383.686 
+CR-EUR unit class category (Currency: EUR) 
+   
+ 
+Number of securities issued  81,208.295 
+ 
+Number of securities redeemed  149,142.732 
+GC-EUR unit class category (Currency: EUR) 
+   
+ 
+Number of securities issued  52,638.226 
+ 
+Number of securities redeemed  53,240.422 
+CI-EUR [H] unit class category (Currency: EUR) 
+   
+ 
+Number of securities issued  9,689.348 
+ 
+Number of securities redeemed  10,991.987 
+CN-USD unit class category (Currency: USD) 
+   
+ 
+Number of securities issued  33,165.000 
+ 
+Number of securities redeemed  26,590.000 
+ 
+Subscription and/or redemption fees  Amount (EUR) 
+ 
+Subscription fees payable to the Fund  - 
+ 
+Redemption fees payable to the Fund  - 
+ 
+Subscription fees received and passed on  - 
+ 
+Redemption fees received and passed on  - 
+   
+% of the average net 
+Management fees 
+Amount (EUR)  assets 
+   
+CR-EUR unit class category (Currency: EUR) 
+Management and administration fees (*)  2,818,936.64  1.80 
+Performance fees  -  - 
+Other expenses  -  - 
+   
+GC-EUR unit class category (Currency: EUR) 
+Management and administration fees (*)  145,461.10  0.90 
+Performance fees  -  - 
+Other expenses  -  - 
+   
+CI-EUR [H] unit class category (Currency: EUR) 
+Management and administration fees (*)  386,431.32  0.90 
+Performance fees  -  - 
+Other expenses  -  - 
+ 
+Annual Report at 31 December 2019  19 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+   
+% of the average net 
+Management fees 
+Amount (EUR)  assets 
+   
+CR-USD unit class category (Currency: USD) 
+   
+Management and administration fees (*)  131,605.21  1.80 
+Performance fees  -  - 
+Other expenses  -  - 
+ 
+CN-USD unit class category (Currency: USD) 
+   
+Management and administration fees (*)  147,441.22  1.20 
+Performance fees  -  - 
+Other expenses  -  - 
+ 
+CN-EUR unit class category (Currency: EUR) 
+   
+Management and administration fees (*)  190,523.34  1.20 
+Performance fees  -  - 
+Other expenses  -  - 
+ 
+ 
+Management fees paid to third parties (all units combined)  - 
+(*) For funds whose financial year is not 12 months, the percentage of the average net assets corresponds to the annualised average rate. 
+ 
+Annual Report at 31 December 2019  20 
+ 
+   ODDO BHF US MID CAP   
+ 
+Breakdown by type of receivables and payables 
+ 
+  Financial year 
+ended 31/12/2019 
+Breakdown by type of receivables  - 
+EUR deposits  - 
+Deposits in other currencies  - 
+Cash collateral  2,680,000.00 
+Valuation of forward currency purchases  148,600.09 
+Forward sale value  42,287,594.00 
+Other sundry debtors  169,526.33 
+Coupons receivable  157,156.59 
+TOTAL RECEIVABLES  45,442,877.01 
+   
+Breakdown by type of payables  - 
+EUR deposits  - 
+Deposits in other currencies  - 
+Cash collateral  2,800,654.50 
+Provision for interest expenses  - 
+Valuation of forward currency sales  41,959,849.53 
+Forward purchase value  149,861.00 
+Fees and expenses not yet paid  339,226.05 
+Other sundry creditors  723,441.78 
+Provision for market liquidity risk  - 
+TOTAL DEBTS  45,973,032.86 
+ 
+Annual Report at 31 December 2019  21 
+ 
+   ODDO BHF US MID CAP   
+ 
+Breakdown by legal or economic nature of the instrument 
+ 
+ 
+Financial year 
+ended 31/12/2019 
+ 
+Assets 
+   
+Bonds and similar securities  - 
+   
+Indexed bonds  - 
+ 
+Convertible bonds  - 
+ 
+Participation certificates  - 
+ 
+Other bonds and similar securities  - 
+   
+Debt securities  - 
+   
+Traded on a regulated or similar market  - 
+ 
+Treasury bills  - 
+ 
+Other transferable debt securities  - 
+   
+Other debt securities  - 
+   
+Not traded on a regulated or similar market  - 
+   
+Liabilities 
+ 
+ 
+Sales of financial instruments  - 
+   
+Equities  - 
+ 
+Bonds  - 
+ 
+Other  - 
+ 
+Off-balance sheet   
+ 
+ 
+Hedging transactions 
+ 
+ 
+Fixed income  - 
+ 
+Equities  - 
+ 
+Other  - 
+ 
+Other transactions 
+ 
+Fixed income  - 
+ 
+Equities  - 
+ 
+Other  - 
+ 
+Annual Report at 31 December 2019  22 
+ 
+   ODDO BHF US MID CAP   
+ 
+Breakdown by type of interest rates for assets, liabilities and off-
+balance sheet items 
+ 
+ 
+Fixed rate  Variable rate  Adjustable rate  Other 
+       
+Assets 
+Deposits  -  -  -  - 
+Bonds and similar securities  -  -  -  - 
+Debt securities  -  -  -  - 
+Temporary transactions on securities  -  -  -  - 
+Financial accounts  -  -  -  2,782,447.41 
+       
+Liabilities 
+Temporary transactions on securities  -  -  -  - 
+Financial accounts  -  -  -  10.78 
+       
+Off-balance sheet 
+Hedging transactions  -  -  -  - 
+Other transactions  -  -  -  - 
+ 
+Annual Report at 31 December 2019  23 
+ 
+   ODDO BHF US MID CAP   
+ 
+Breakdown by residual maturity of assets, liabilities and off-balance 
+sheet items 
+ 
+ 
+[0 - 3  ]3 months - 1  ]1 - 3 years]  ]3 - 5 years]  > 5 years 
+months]  year] 
+         
+Assets 
+Deposits  -  -  -  -  - 
+           
+Bonds and similar securities  -  -  -  -  - 
+         
+Debt securities  -  -  -  -  - 
+       
+Temporary transactions on securities  - -  -  -  - 
+         
+Financial accounts  2,782,447.41  -  -  -  - 
+         
+Liabilities 
+Temporary transactions on securities  -  -  -  -  - 
+           
+Financial accounts  10.78  -  -  -  - 
+         
+Off-balance sheet 
+Hedging transactions  -  -  -  -  - 
+           
+Other transactions  -  -  -  -  - 
+ 
+Annual Report at 31 December 2019  24 
+ 
+   ODDO BHF US MID CAP   
+ 
+Breakdown by listing currency of assets, liabilities and off-balance 
+sheet items 
+ 
+ 
+USD  CAD 
+   
+Assets 
+Deposits  -  - 
+Equities and similar securities  254,739,350.79  - 
+Bonds and similar securities  -  - 
+Debt securities  -  - 
+Shares or units of UCIs  -  - 
+Temporary transactions on securities  -  - 
+Other financial instruments  -  - 
+Receivables  341,512.03  - 
+Financial accounts  2,592,863.14  - 
+   
+Liabilities 
+Sales of financial instruments  -  - 
+Payables  42,549,021.79  - 
+Temporary transactions on securities  -  - 
+Financial accounts  -  10.78 
+   
+Off-balance sheet 
+Hedging transactions  -  - 
+Other transactions  -  - 
+Only those five currencies most representative of the net assets are included in this table. 
+ 
+Annual Report at 31 December 2019  25 
+ 
+   ODDO BHF US MID CAP   
+ 
+Allocation of income 
+ 
+CN-USD unit class category (Currency: USD) 
+ 
+ 
+ 
+Table showing the allocation of distributable income from profit 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Retained earnings  -  - 
+Profit/loss  -74,890.31  -59,531.58 
+Total  -74,890.31  -59,531.58 
+   
+Allocation 
+Distribution  -  - 
+Retained earnings for the financial year  -  - 
+Accumulation  -74,890.31  -59,531.58 
+Total  -74,890.31  -59,531.58 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+   
+Tax credits related to income distribution 
+   
+Total tax credits 
+originating in the financial year  -  - 
+originating in the financial year N-1  -  - 
+originating in the financial year N-2  -  - 
+originating in the financial year N-3  -  - 
+originating in the financial year N-4  -  - 
+ 
+Annual Report at 31 December 2019  26 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+Table showing the allocation of distributable income from net capital gains and losses 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Previous undistributed net capital gains and losses  -  - 
+Net capital gains and losses for the financial year  1,096,223.57  6,708,042.73 
+Interim payments of net capital gains and losses for the financial year  -  - 
+Total  1,096,223.57  6,708,042.73 
+   
+Allocation 
+Distribution  -  - 
+Net capital gains and losses not distributed  -  - 
+Accumulation  1,096,223.57  6,708,042.73 
+Total  1,096,223.57  6,708,042.73 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+ 
+Annual Report at 31 December 2019  27 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+CR-EUR unit class category (Currency: EUR) 
+ 
+ 
+ 
+Table showing the allocation of distributable income from profit 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Retained earnings  -  - 
+Profit/loss  -1,751,192.60  -2,080,474.79 
+Total  -1,751,192.60  -2,080,474.79 
+   
+Allocation 
+Distribution  -  - 
+Retained earnings for the financial year  -  - 
+Accumulation  -1,751,192.60  -2,080,474.79 
+Total  -1,751,192.60  -2,080,474.79 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+   
+Tax credits related to income distribution 
+   
+Total tax credits 
+originating in the financial year  -  - 
+originating in the financial year N-1  -  - 
+originating in the financial year N-2  -  - 
+originating in the financial year N-3  -  - 
+originating in the financial year N-4  -  - 
+ 
+Annual Report at 31 December 2019  28 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+Table showing the allocation of distributable income from net capital gains and losses 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Previous undistributed net capital gains and losses  -  - 
+Net capital gains and losses for the financial year  13,627,209.51  18,959,796.50 
+Interim payments of net capital gains and losses for the financial year  -  - 
+Total  13,627,209.51  18,959,796.50 
+   
+Allocation 
+Distribution  -  - 
+Net capital gains and losses not distributed  -  - 
+Accumulation  13,627,209.51  18,959,796.50 
+Total  13,627,209.51  18,959,796.50 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+ 
+Annual Report at 31 December 2019  29 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+CN-EUR unit class category (Currency: EUR) 
+ 
+ 
+ 
+Table showing the allocation of distributable income from profit 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Retained earnings  -  - 
+Profit/loss  -84,105.53  -38,386.38 
+Total  -84,105.53  -38,386.38 
+   
+Allocation 
+Distribution  -  - 
+Retained earnings for the financial year  -  - 
+Accumulation  -84,105.53  -38,386.38 
+Total  -84,105.53  -38,386.38 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+   
+Tax credits related to income distribution 
+   
+Total tax credits 
+originating in the financial year  -  - 
+originating in the financial year N-1  -  - 
+originating in the financial year N-2  -  - 
+originating in the financial year N-3  -  - 
+originating in the financial year N-4  -  - 
+ 
+Annual Report at 31 December 2019  30 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+Table showing the allocation of distributable income from net capital gains and losses 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Previous undistributed net capital gains and losses  -  - 
+Net capital gains and losses for the financial year  1,385,963.22  227,937.16 
+Interim payments of net capital gains and losses for the financial year  -  - 
+Total  1,385,963.22  227,937.16 
+   
+Allocation 
+Distribution  -  - 
+Net capital gains and losses not distributed  -  - 
+Accumulation  1,385,963.22  227,937.16 
+Total  1,385,963.22  227,937.16 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+ 
+Annual Report at 31 December 2019  31 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+GC-EUR unit class category (Currency: EUR) 
+ 
+ 
+ 
+Table showing the allocation of distributable income from profit 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Retained earnings  -  - 
+Profit/loss  -42,147.52  -51,294.78 
+Total  -42,147.52  -51,294.78 
+   
+Allocation 
+Distribution  -  - 
+Retained earnings for the financial year  -  - 
+Accumulation  -42,147.52  -51,294.78 
+Total  -42,147.52  -51,294.78 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+   
+Tax credits related to income distribution 
+   
+Total tax credits 
+originating in the financial year  -  - 
+originating in the financial year N-1  -  - 
+originating in the financial year N-2  -  - 
+originating in the financial year N-3  -  - 
+originating in the financial year N-4  -  - 
+ 
+Annual Report at 31 December 2019  32 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+Table showing the allocation of distributable income from net capital gains and losses 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Previous undistributed net capital gains and losses  -  - 
+Net capital gains and losses for the financial year  1,421,758.21  961,559.48 
+Interim payments of net capital gains and losses for the financial year  -  - 
+Total  1,421,758.21  961,559.48 
+   
+Allocation 
+Distribution  -  - 
+Net capital gains and losses not distributed  -  - 
+Accumulation  1,421,758.21  961,559.48 
+Total  1,421,758.21  961,559.48 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+ 
+Annual Report at 31 December 2019  33 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+CR-USD unit class category (Currency: USD) 
+ 
+ 
+ 
+Table showing the allocation of distributable income from profit 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Retained earnings  -  - 
+Profit/loss  -93,640.33  -82,365.64 
+Total  -93,640.33  -82,365.64 
+   
+Allocation 
+Distribution  -  - 
+Retained earnings for the financial year  -  - 
+Accumulation  -93,640.33  -82,365.64 
+Total  -93,640.33  -82,365.64 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+   
+Tax credits related to income distribution 
+   
+Total tax credits 
+originating in the financial year  -  - 
+originating in the financial year N-1  -  - 
+originating in the financial year N-2  -  - 
+originating in the financial year N-3  -  - 
+originating in the financial year N-4  -  - 
+ 
+Annual Report at 31 December 2019  34 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+Table showing the allocation of distributable income from net capital gains and losses 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Previous undistributed net capital gains and losses  -  - 
+Net capital gains and losses for the financial year  648,521.37  1,541,647.61 
+Interim payments of net capital gains and losses for the financial year  -  - 
+Total  648,521.37  1,541,647.61 
+   
+Allocation 
+Distribution  -  - 
+Net capital gains and losses not distributed  -  - 
+Accumulation  648,521.37  1,541,647.61 
+Total  648,521.37  1,541,647.61 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+ 
+Annual Report at 31 December 2019  35 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+CI-EUR [H] unit class category (Currency: EUR) 
+ 
+ 
+ 
+Table showing the allocation of distributable income from profit 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Retained earnings  -  - 
+Profit/loss  -114,040.79  -155,694.60 
+Total  -114,040.79  -155,694.60 
+   
+Allocation 
+Distribution  -  - 
+Retained earnings for the financial year  -  - 
+Accumulation  -114,040.79  -155,694.60 
+Total  -114,040.79  -155,694.60 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+   
+Tax credits related to income distribution 
+   
+Total tax credits 
+originating in the financial year  -  - 
+originating in the financial year N-1  -  - 
+originating in the financial year N-2  -  - 
+originating in the financial year N-3  -  - 
+originating in the financial year N-4  -  - 
+ 
+Annual Report at 31 December 2019  36 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+Table showing the allocation of distributable income from net capital gains and losses 
+ 
+ 
+ 
+Financial year  Financial year 
+ended 31/12/2019  ended 31/12/2018 
+   
+Amounts to be allocated 
+Previous undistributed net capital gains and losses  -  - 
+Net capital gains and losses for the financial year  1,989,065.74  513,474.46 
+Interim payments of net capital gains and losses for the financial year  -  - 
+Total  1,989,065.74  513,474.46 
+   
+Allocation 
+Distribution  -  - 
+Net capital gains and losses not distributed  -  - 
+Accumulation  1,989,065.74  513,474.46 
+Total  1,989,065.74  513,474.46 
+   
+Information concerning units eligible to receive dividends 
+Number of units  -  - 
+Dividend per unit  -  - 
+ 
+Annual Report at 31 December 2019  37 
+ 
+   ODDO BHF US MID CAP   
+ 
+Table of income and other key figures for the past five financial years 
+CN-EUR unit class category (Currency: EUR) 
+ 
+   
+31/12/2018  31/12/2019 
+   
+Net asset value (in EUR) 
+C units  84.54  113.08 
+Net assets (in EUR k)  14,293.57  15,630.67 
+   
+Number of units 
+C units  169,066.586  138,224.530 
+ 
+ 
+     
+Payment date  31/12/2018  31/12/2019 
+   
+Distribution of net capital gains and 
+-  - 
+losses per unit 
+(including interim payments) (in EUR)     
+     
+Distribution of income per unit  -  - 
+(including interim payments) (in EUR)     
+     
+Tax credit per unit (*)  -  - 
+natural persons (in EUR)     
+     
+Accumulation of net capital gains and 
+losses per unit 
+     
+C units  1.34  10.02 
+   
+Accumulated income per unit 
+C units  -0.22  -0.60 
+(*) “The tax credit per unit is determined on the payment date in accordance with the tax instruction of 04/03/93 (Ints.4 K-1-93). The theoretical 
+amounts calculated according to the rules applied to natural persons are shown here for guidance only. “Instruction 4 J-2-99 of 08/11/99 stipulates 
+that tax credit recipients other than natural persons are responsible for calculating the amount of tax credits to which they are entitled.” 
+ 
+Annual Report at 31 December 2019  38 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+ 
+CR-USD unit class category (Currency: USD) 
+ 
+         
+31/12/2015  30/12/2016  29/12/2017  31/12/2018  31/12/2019 
+         
+Net asset value (in USD) 
+C units  241.59  265.43  324.64  294.80  384.87 
+Net assets (in EUR k)  27,138.69  27,746.49  55,772.02  5,763.54  8,515.45 
+         
+Number of units 
+C units  122,023.143  110,254.830  206,290.437  22,348.942  24,835.778 
+ 
+ 
+           
+Payment date  31/12/2015  30/12/2016  29/12/2017  31/12/2018  31/12/2019 
+         
+Distribution of net capital gains and 
+-  -  -  -  - 
+losses per unit 
+(including interim payments) (in USD)           
+           
+Distribution of income per unit  -  -  -  -  - 
+(including interim payments) (in USD)           
+           
+Tax credit per unit (*)  -  -  -  -  - 
+natural persons (in USD)           
+           
+Accumulation of net capital gains and 
+losses per unit 
+           
+C units  44.42  12.51  38.15  68.98  26.10 
+         
+Accumulated income per unit 
+C units  -2.67  -2.64  -3.29  -3.68  -3.77 
+(*) “The tax credit per unit is determined on the payment date in accordance with the tax instruction of 04/03/93 (Ints.4 K-1-93). The theoretical 
+amounts calculated according to the rules applied to natural persons are shown here for guidance only. “Instruction 4 J-2-99 of 08/11/99 stipulates 
+that tax credit recipients other than natural persons are responsible for calculating the amount of tax credits to which they are entitled.” 
+ 
+Annual Report at 31 December 2019  39 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+ 
+CR-EUR unit class category (Currency: EUR) 
+ 
+         
+31/12/2015  30/12/2016  29/12/2017  31/12/2018  31/12/2019 
+         
+Net asset value (in EUR) 
+C units  327.71  370.76  398.32  379.92  505.12 
+Net assets (in EUR k)  169,009.46  203,173.63  143,319.56  145,588.95  159,249.87 
+         
+Number of units 
+C units  515,715.839  547,894.966  359,804.805  383,202.160  315,267.723 
+ 
+ 
+           
+Payment date  31/12/2015  30/12/2016  29/12/2017  31/12/2018  31/12/2019 
+         
+Distribution of net capital gains and 
+-  -  -  -  - 
+losses per unit 
+(including interim payments) (in EUR)           
+           
+Distribution of income per unit  -  -  -  -  - 
+(including interim payments) (in EUR)           
+           
+Tax credit per unit (*)  -  -  -  -  - 
+natural persons (in EUR)           
+           
+Accumulation of net capital gains and 
+losses per unit 
+           
+C units  65.45  18.44  58.72  49.47  43.22 
+         
+Accumulated income per unit 
+C units  -3.94  -3.89  -4.85  -5.42  -5.55 
+(*) “The tax credit per unit is determined on the payment date in accordance with the tax instruction of 04/03/93 (Ints.4 K-1-93). The theoretical 
+amounts calculated according to the rules applied to natural persons are shown here for guidance only. “Instruction 4 J-2-99 of 08/11/99 stipulates 
+that tax credit recipients other than natural persons are responsible for calculating the amount of tax credits to which they are entitled.” 
+ 
+Annual Report at 31 December 2019  40 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+ 
+GC-EUR unit class category (Currency: EUR) 
+ 
+         
+31/12/2015  30/12/2016  29/12/2017  31/12/2018  31/12/2019 
+         
+Net asset value (in EUR) 
+C units  126.13  144.00  156.08  150.22  201.53 
+Net assets (in EUR k)  2,316.56  3,341.97  4,689.88  12,242.57  16,302.72 
+         
+Number of units 
+C units  18,366.359  23,207.556  30,046.841  81,494.866  80,892.670 
+ 
+ 
+           
+Payment date  31/12/2015  30/12/2016  29/12/2017  31/12/2018  31/12/2019 
+         
+Distribution of net capital gains and 
+-  -  -  -  - 
+losses per unit 
+(including interim payments) (in EUR)           
+           
+Distribution of income per unit  -  -  -  -  - 
+(including interim payments) (in EUR)           
+           
+Tax credit per unit (*)  -  -  -  -  - 
+natural persons (in EUR)           
+           
+Accumulation of net capital gains and 
+losses per unit 
+           
+C units  25.05  7.13  19.00  11.79  17.57 
+         
+Accumulated income per unit 
+C units  -0.36  -0.37  -0.56  -0.62  -0.52 
+(*) “The tax credit per unit is determined on the payment date in accordance with the tax instruction of 04/03/93 (Ints.4 K-1-93). The theoretical 
+amounts calculated according to the rules applied to natural persons are shown here for guidance only. “Instruction 4 J-2-99 of 08/11/99 stipulates 
+that tax credit recipients other than natural persons are responsible for calculating the amount of tax credits to which they are entitled.” 
+ 
+Annual Report at 31 December 2019  41 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+ 
+CI-EUR [H] unit class category (Currency: EUR) 
+ 
+     
+29/12/2017  31/12/2018  31/12/2019 
+     
+Net asset value (in EUR) 
+C units  1,184.59  1,055.76  1,354.85 
+Net assets (in EUR k)  23,713.00  35,175.16  43,375.10 
+     
+Number of units 
+C units  20,017.748  33,317.211  32,014.572 
+ 
+ 
+       
+Payment date  29/12/2017  31/12/2018  31/12/2019 
+     
+Distribution of net capital gains and 
+-  -  - 
+losses per unit 
+(including interim payments) (in EUR)       
+       
+Distribution of income per unit  -  -  - 
+(including interim payments) (in EUR)       
+       
+Tax credit per unit (*)  -  -  - 
+natural persons (in EUR)       
+       
+Accumulation of net capital gains and 
+losses per unit 
+       
+C units  201.62  15.41  62.10 
+     
+Accumulated income per unit 
+C units  -3.05  -4.67  -3.56 
+(*) “The tax credit per unit is determined on the payment date in accordance with the tax instruction of 04/03/93 (Ints.4 K-1-93). The theoretical 
+amounts calculated according to the rules applied to natural persons are shown here for guidance only. “Instruction 4 J-2-99 of 08/11/99 stipulates 
+that tax credit recipients other than natural persons are responsible for calculating the amount of tax credits to which they are entitled.” 
+ 
+Annual Report at 31 December 2019  42 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ 
+ 
+CN-USD unit class category (Currency: USD) 
+ 
+   
+31/12/2018  31/12/2019 
+   
+Net asset value (in USD) 
+C units  87.83  115.35 
+Net assets (in EUR k)  9,900.51  13,917.82 
+   
+Number of units 
+C units  128,860.000  135,435.000 
+ 
+ 
+     
+Payment date  31/12/2018  31/12/2019 
+   
+Distribution of net capital gains and 
+-  - 
+losses per unit 
+(including interim payments) (in USD)     
+     
+Distribution of income per unit  -  - 
+(including interim payments) (in USD)     
+     
+Tax credit per unit (*)  -  - 
+natural persons (in USD)     
+     
+Accumulation of net capital gains and 
+losses per unit 
+     
+C units  52.05  8.09 
+   
+Accumulated income per unit 
+C units  -0.46  -0.55 
+(*) “The tax credit per unit is determined on the payment date in accordance with the tax instruction of 04/03/93 (Ints.4 K-1-93). The theoretical 
+amounts calculated according to the rules applied to natural persons are shown here for guidance only. “Instruction 4 J-2-99 of 08/11/99 stipulates 
+that tax credit recipients other than natural persons are responsible for calculating the amount of tax credits to which they are entitled.” 
+ 
+Annual Report at 31 December 2019  43 
+ 
+   ODDO BHF US MID CAP   
+ 
+Inventory of financial instruments at 31 December 2019 
+ 
+  Listing  % of n et a ssets 
+Assets and names of securities  Quantity  Price  Current value 
+  Currency  (rounded off) 
+ 
+Equities and similar securities  254,739,350.79  99.13 
+ 
+Traded on a regulated or similar market        254,739,350.79  99.13 
+AERIE PHARMACEUTICALS INC  52,209.000  24.17  USD  1,124,179.54  0.44 
+AKAMAI TECHNOLOGIES INC  30,261.000  86.38  USD  2,328,681.67  0.91 
+ALLEGHANY CORP  2,833.000  799.57  USD  2,017,979.34  0.79 
+ALNYLAM PHARMACEUTICALS INC  33,835.000  115.17  USD  3,471,516.21  1.35 
+AMERCO  6,711.000  375.82  USD  2,246,884.65  0.87 
+ASPEN TECHNOLOGY INC  18,235.000  120.93  USD  1,964,506.50  0.76 
+AXON ENTERPRISE INC  55,381.000  73.28  USD  3,615,429.56  1.41 
+BALL CORP  60,414.000  64.67  USD  3,480,599.89  1.35 
+BIO-TECHNE CORP  16,363.000  219.51  USD  3,199,859.36  1.25 
+BLACK HILLS CORP  20,114.000  78.54  USD  1,407,352.84  0.55 
+BLACK KNIGHT INC  53,493.000  64.48  USD  3,072,809.48  1.20 
+BLACKBAUD INC  40,391.000  79.60  USD  2,864,252.65  1.11 
+CABLE ONE INC-W/I  2,199.000  1,488.47  USD  2,915,942.57  1.13 
+CARGURUS INC  58,327.000  35.18  USD  1,828,012.35  0.71 
+CARMAX INC  27,820.000  87.67  USD  2,172,810.16  0.85 
+CARTERS INC  32,623.000  109.34  USD  3,177,727.23  1.24 
+CDW CORP/DE  20,161.000  142.84  USD  2,565,520.93  1.00 
+CHOICE HOTELS INTL INC  46,138.000  103.43  USD  4,251,272.46  1.65 
+CINTAS CORP  6,685.000  269.08  USD  1,602,494.25  0.62 
+COHERENT INC  19,819.000  166.35  USD  2,937,096.35  1.14 
+COMMSCOPE HOLDING CO INC  155,445.000  14.19  USD  1,965,046.37  0.76 
+COSTAR GROUP INC  4,435.000  598.30  USD  2,363,884.63  0.92 
+CREDIT ACCEPTANCE CORP  7,309.000  442.33  USD  2,880,169.24  1.12 
+CULLEN/FROST BANKERS INC  28,103.000  97.78  USD  2,448,027.92  0.95 
+DOUGLAS EMMETT INC  48,745.000  43.90  USD  1,906,374.61  0.74 
+ENCOMPASS HEALTH CORP  41,403.000  69.27  USD  2,554,998.49  0.99 
+EPAM SYSTEMS INC  13,383.000  212.16  USD  2,529,476.42  0.98 
+EQUITY COMMONWEALTH  65,367.000  32.83  USD  1,911,802.77  0.74 
+ETSY INC  47,461.000  44.30  USD  1,873,071.09  0.73 
+FACTSET RESEARCH SYSTEMS INC  7,516.000  268.30  USD  1,796,474.65  0.70 
+FAIR ISAAC CORP  11,361.000  374.68  USD  3,792,195.53  1.48 
+FASTENAL CO  79,321.000  36.95  USD  2,611,056.53  1.02 
+FIDELITY NATIONAL FINANCIAL  48,066.000  45.35  USD  1,941,909.22  0.76 
+FIRST CITIZENS BCSHS -CL A  4,445.000  532.21  USD  2,107,504.19  0.82 
+FIRST REPUBLIC BANK/SAN FRAN  30,634.000  117.45  USD  3,205,312.52  1.25 
+ 
+Annual Report at 31 December 2019  44 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+F5 NETWORKS INC  23,443.000  139.65  USD  2,916,538.93  1.13 
+GARDNER DENVER HOLDINGS INC  99,672.000  36.68  USD  3,256,987.94  1.27 
+GENPACT LTD  175,175.000  42.17  USD  6,580,961.91  2.57 
+GRUBHUB INC  24,488.000  48.64  USD  1,061,110.31  0.41 
+GUIDEWIRE SOFTWARE INC  32,218.000  109.77  USD  3,150,619.03  1.23 
+HEALTHCARE SERVICES GROUP  56,485.000  24.32  USD  1,223,799.73  0.48 
+HEICO CORP-CLASS A  17,923.000  89.53  USD  1,429,528.90  0.56 
+HILL-ROM HOLDINGS INC  31,126.000  113.53  USD  3,148,093.35  1.22 
+IAA INC  65,745.000  47.06  USD  2,756,311.54  1.07 
+IDEX CORP  28,385.000  172.00  USD  4,349,416.48  1.69 
+II-VI INC  119,290.000  33.67  USD  3,578,168.64  1.39 
+INTEGRA LIFESCIENCES HOLDING  56,611.000  58.28  USD  2,939,233.03  1.14 
+IONIS PHARMACEUTICALS INC  57,310.000  60.41  USD  3,084,273.59  1.20 
+KAR AUCTION SERVICES INC  117,729.000  21.79  USD  2,285,358.49  0.89 
+KEYSIGHT TECHNOLOGIES IN-W/I  17,972.000  102.63  USD  1,643,177.16  0.64 
+LENNOX INTERNATIONAL INC  17,607.000  243.97  USD  3,826,797.14  1.49 
+LINCOLN ELECTRIC HOLDINGS  32,538.000  96.73  USD  2,803,920.48  1.09 
+LUMENTUM HOLDINGS INC  56,501.000  79.30  USD  3,991,562.85  1.55 
+M & T BANK CORP  17,260.000  169.75  USD  2,610,142.54  1.02 
+MARKEL CORP  4,008.000  1,143.17  USD  4,081,804.33  1.59 
+MASIMO CORP  23,055.000  158.06  USD  3,246,390.47  1.26 
+METTLER-TOLEDO INTERNATIONAL  2,935.000  793.28  USD  2,074,188.69  0.81 
+MKS INSTRUMENTS INC  32,298.000  110.01  USD  3,165,347.87  1.23 
+MONOLITHIC POWER SYSTEMS INC  19,587.000  178.02  USD  3,106,349.88  1.21 
+NATIONAL INSTRUMENTS CORP  68,876.000  42.34  USD  2,597,959.77  1.01 
+NISOURCE INC  40,423.000  27.84  USD  1,002,562.42  0.39 
+NORTHERN TRUST CORP  26,138.000  106.24  USD  2,473,854.00  0.96 
+NUVASIVE INC  52,801.000  77.34  USD  3,637,977.14  1.42 
+NVR INC  1,305.000  3,808.41  USD  4,427,594.70  1.72 
+PACCAR INC  31,505.000  79.10  USD  2,220,085.08  0.86 
+PACKAGING CORP OF AMERICA  23,515.000  111.99  USD  2,346,053.32  0.91 
+PERFORMANCE FOOD GROUP CO  7,400.000  51.48  USD  339,378.17  0.13 
+PRA HEALTH SCIENCES INC  34,309.000  111.15  USD  3,397,278.71  1.32 
+PROSPERITY BANCSHARES INC  36,417.000  71.89  USD  2,332,310.14  0.91 
+PTC INC  37,382.000  74.89  USD  2,494,020.47  0.97 
+PVH CORP  28,921.000  105.15  USD  2,709,169.84  1.05 
+Q2 HOLDINGS INC  27,173.000  81.08  USD  1,962,749.97  0.76 
+REATA PHARMACEUTICALS INC-A  11,558.000  204.43  USD  2,104,946.05  0.82 
+REDFIN CORP  94,366.000  21.14  USD  1,777,191.31  0.69 
+REPLIGEN CORP  23,555.000  92.50  USD  1,941,057.91  0.76 
+ 
+Annual Report at 31 December 2019  45 
+ 
+   ODDO BHF US MID CAP   
+ 
+ 
+ROKU INC  14,144.000  133.90  USD  1,687,199.64  0.66 
+SEATTLE GENETICS INC  20,945.000  114.26  USD  2,132,005.08  0.83 
+SERVICE CORP INTERNATIONAL  96,933.000  46.03  USD  3,974,900.66  1.55 
+SILGAN HOLDINGS INC  42,687.000  31.08  USD  1,181,926.02  0.46 
+SILICON LABORATORIES INC  26,462.000  115.98  USD  2,734,131.63  1.06 
+SOUTH STATE CORP  20,405.000  86.75  USD  1,576,956.57  0.61 
+STERIS PLC  18,603.000  152.42  USD  2,526,030.52  0.98 
+TELEFLEX INC  9,579.000  376.44  USD  3,212,399.79  1.25 
+TERADATA CORP  128,197.000  26.77  USD  3,057,312.87  1.19 
+TRANSUNION  37,025.000  85.61  USD  2,823,795.32  1.10 
+UGI CORP  82,733.000  45.16  USD  3,328,483.10  1.30 
+UNDER ARMOUR INC-CLASS C-W/I  91,590.000  19.18  USD  1,564,985.48  0.61 
+VARIAN MEDICAL SYSTEMS INC  27,975.000  142.01  USD  3,539,180.18  1.38 
+VEEVA SYSTEMS INC-CLASS A  19,453.000  140.66  USD  2,437,647.20  0.95 
+VERISIGN INC  14,478.000  192.68  USD  2,485,185.78  0.97 
+WASTE CONNECTIONS INC  15,408.000  90.79  USD  1,246,229.24  0.48 
+WATSCO INC  12,450.000  180.15  USD  1,998,100.22  0.78 
+WAYFAIR INC - CLASS A  16,340.000  90.37  USD  1,315,497.37  0.51 
+WEX INC  32,748.000  209.46  USD  6,110,820.56  2.39 
+WHITE MOUNTAINS INSURANCE GP  2,247.000  1,115.51  USD  2,233,007.55  0.87 
+WPX ENERGY INC  89,431.000  13.74  USD  1,094,683.24  0.43 
+WR BERKLEY CORP  31,780.000  69.10  USD  1,956,345.66  0.76 
+YETI HOLDINGS INC  74,748.000  34.78  USD  2,316,022.66  0.90 
+     
+Receivables  45,442,877.01  17.68 
+     
+Payables  -45,973,032.86  -17.89 
+     
+Other financial statements  2,782,436.63  1.08 
+TOTAL NET ASSETS  256,991,631.57  100.00 
+ 
+ 
+Annual Report at 31 December 2019  46 

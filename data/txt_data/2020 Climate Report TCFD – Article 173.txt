@@ -1,0 +1,1993 @@
+
+2020 
+Climate Report 
+This Climate report sets out our response to the requirements of: 
+  the Task Force on Climate-related Financial Disclosures (TCFD Report)
+  the French Energy Transition for Green Growth Act (Article 173 Report)
+
+Contents
+4 Foreword
+6 Key figures
+7 Governance
+8 Oversight of ESG risks & opportunities embedded in executive responsibilities
+01
+9 A dedicated structure to monitor and manage ESG-related risks and opportunities 
+10 Resources dedicated to ESG and climate change topics
+11 Raising awareness
+12 Integration of ESG components into remuneration 
+12 Participation in international ESG and climate-related initiatives
+14 Strategy
+17 Responsible Investment 2018-2021 Action Plan - Progress
+18 Development of Climate-linked business solutions for investors
+02
+Integration and management of ESG and climate-related risk  
+20
+and criteria into Amundi’s investment strategies 
+23 Integration of biodiversity into investment strategy
+24 Exclusion policies
+25 Methods for communicating on ESG and climate with clients
+26 Overview of ESG-related communication methods with subscribers
+28 Risks
+03 29 Process for identifying and assessing ESG risks
+Focus on climate-related factors: Amundi’s process for identifying  
+30
+and assessing physical and transition risks
+32 Management of ESG and climate-related risks 
+ESG and climate-related risks integrated into Amundi’s enterprise  
+33
+risk management processes
+35 Metrics and Targets
+04
+36 Carbon footprint of portfolios under management: figures and tools
+38 Measuring portfolio alignment with decarbonisation scenarios
+40 Green/brown share
+41 Table of indicators
+Publication date: 30 June 2021
+Revised: 31 July 2021
+2020 Climate Report |3
+Foreword
+Jean-Jacques Barbéris
+Executive Committee Member,  
+Head of ESG
+As a responsible asset manager since its creation in 2010, Amundi has been 
+deeply committed to integrating Environmental, Social and Governance factors 
+in  its  investment  processes  and  supporting  sustainable  transitions  through 
+an  ambitious  stewardship  policy,  sustainable  investing  strategies  geared 
+towards climate mitigation and social cohesion, and sustainable capital market 
+development.
+Climate Change is arguably the greatest challenge of our times. Exacerbated 
+by human activities, it presents itself as one of the greatest systemic risks for 
+society with long-lasting impact for investors and financial actors. One of the 
+first meetings organized to address this challenge took place at The Rockefeller 
+Foundation Bellagio Center in April 2011, organized by Columbia University and 
+Amundi sponsored Sovereign Wealth Fund Research Initiative. 
+A key outcome of this meeting was the decision by some participants to take 
+the historic step to start decarbonizing portfolios. The meeting eventually led 
+to the creation in 2014 of the Portfolio Decarbonization Coalition, co-founded by 
+Amundi, to align Institutional Investment portfolios with a low carbon economy.
+Since the Paris Agreement in 2015, we have strengthened our ambition to support 
+climate action across geographies and asset classes. Our success and continued 
+progress on this front has been possible through the strategic partnerships forged 
+with the World Bank Group’s International Finance Corporation, the European 
+Investment Bank, the Asian Infrastructure Investment Bank, and through the 
+support of our clients across the world.
+4| 2020 Climate Report
+Acknowledging that there is an urgent need to accelerate the transition towards 
+global net zero emissions, Amundi was proud to join the Net Zero Asset Managers 
+Initiative this year, committing to supporting the goal of net zero emissions by 
+2050.
+By joining the Net Zero Asset Managers Initiative Amundi not only embraces global 
+carbon neutrality objectives, but is actively taking action to accelerate investing 
+aligned with net zero emissions by 2050 or sooner. This is a key milestone in 
+Amundi’s commitment to climate leadership, and as we embark on this journey 
+with reinforced climate ambition, here are the key convictions that will guide our 
+action:
+– The financial sector is a key catalyst for action - While maintaining a 
+stringent sector policy to phase out coal, we will focus on supporting net-zero 
+aligned investment across sectors and regions, and on ensuring investors 
+are equipped with efficient and ambitious climate investment strategies 
+supporting global neutrality. 
+– Change must be embraced at every layer of the organization - Amundi will 
+not only align its own operations with global carbon neutrality objectives, 
+but will ensure that this mission is shared throughout the organization, 
+empowering staff to be actors of change.
+– Transition will need to be socially just and respectful of our environment 
+- COP26 will be held in a context marked by the social and economic fallout 
+from the sanitary crisis. We are convinced of the need to achieve a low-carbon 
+transition that is socially acceptable, and have co-founded “Investors for a 
+Just Transition”, the first investor coalition on the just transition, to support 
+collaborative efforts addressing this complex challenge. 
+– Knowledge, data and analytics are significant drivers of change - Aligning 
+financial flows with carbon neutrality objectives requires significant 
+improvement in our ability to integrate climate change risk, transition 
+opportunities, and adverse impact on sustainability factors, when allocating 
+capital. From value chain carbon data, to implied temperature ratings and 
+exposure to physical risks, companies and investors have a common interest  
+in building meaningful and reliable analytics.
+– Engaging companies on a climate-neutral path will remain a key pillar of our 
+climate strategy. We fully integrate the emissions’ trajectory of the companies 
+we invest in in our ESG analysis. Amundi also encourages companies to have 
+increased transparency on their strategy to reduce emissions, and deeper 
+public commitments on carbon emissions reduction plans, by notably 
+declaring an alignment objective with the Paris agreements under the 
+Science-Based Targets framework.
+This report details Amundi’s ambitions, analysis, practices and operational setup 
+to tackle climate change. It is also meant to become a key reference document to 
+present Amundi’s ESG and Climate initiatives to all stakeholders.
+We wish you a good read and look forward for the 2021 edition.
+2020 Climate Report |5
+Key figures
+100%
+ of Amundi’s active  
+open-ended funds*  
+now include an environmental  
+12,000 and social profile  analysis 
+ issuers   *All open-ended funds actively managed by Amundi to which  
+covered by ESG analysis   an ESG rating methodology can be applied, as of February 2021
+as of March 2021
+Engagement with: 
+705
+447
+ bn€    companies  
+of responsible AUM   on human rights and the protection of direct  
+as of March 2021
+and indirect employees 
+472
+ companies  
+on energy transition and climate change
+Announcement of a   378
+Net-Zero Target    companies  
+on ecosystem protection
+by 2050
+ in July 2021
+Amundi joined the Finance for 
+Biodiversity Pledge in May 2021
+28
+ bn€ AUM  
+in specific Environmental initiatives  
+as of March 2021 April 2021 saw the launch of the  
+Just Transition for Climate fund
+86%
+ of climate related   526
+ m€ AUM  
+shareholder resolutions supported in 2020 
+managed by Amundi Energy Transition
+31% of opposition rate on resolutions  
+regarding remuneration
+3
+In 2020,   ETFs replicating  
+the Paris-Aligned Benchmark  
+617
+ issuers excluded by   (PAB) indices were launched
+ESG policy at the end of 2020 
+Thermal coal exclusion policy has been  
+extended to coal developers 450
+SFDR:   bn€ of assets  
+managed under Articles 8 and 9, 
+650
+or   funds and mandates  
+As of February 2021
+All number are at 31/12/2020 unless otherwise indicated
+6| 2020 Climate Report
+01
+Governance
+2020 Climate Report |7
+Governance
+Acting as a responsible financial institution is a core commitment of Amundi’s 
+strategy.  This  commitment  is  reflected  in  its  responsible  management 
+approach  and  is  integrated  throughout  its  governance  structure.  The 
+accountability and responsibilities for meeting its ESG – including climate – 
+objectives are therefore integrated into executive and manage ment roles as 
+well as remuneration policies. 
+In doing so, Amundi has integrated ESG into the core of its management approach and has introduced 
+a dedicated governance structure that has been designed to implement and monitor Responsible 
+Investment within the Group with a strong consideration of climate change impacts. 
+As such, ESG at Amundi is governed through dedicated committees reporting to the board and executive 
+committee. It has a dedicated Business Line with 4 teams to limit the exposures of its portfolios to ESG 
+and climate-related risks and to design strategies that aim to pursue climate-related opportunities.
+Oversight of ESG risks   Board of Directors
+& opportunities embedded  
+The Board of Directors is keen on ensuring that 
+in executive responsibilities Amundi fulfills its role as a responsible financial 
+player. At each board meeting, progress on ESG-
+As a responsible financial player, ESG conside- related  KPIs  are  discussed,  with  at  least  one 
+rations  are  key  within  the  strategic  decisions  meeting a year dedicated to ESG-related strategy.
+the Amundi Board of Directors makes. While it 
+The Board members receive regular training on 
+delegates  operational  elements  of  the  mana-
+climate-related matters – for instance on Amundi’s 
+gement of ESG (including climate) related risks 
+voting and engagement policy in 2020 and are 
+and  opportunities  to  specialised  committees 
+supported in their decision-making processes by 
+and  the  ESG  Business  Line,  it  oversees  the 
+in-house experts.
+implementation of strategic goals and is therefore 
+ultimately responsible for ESG-related matters at 
+Amundi.  Chief Executive Officer (CEO)
+Each year, the Board approves the CSR (Corporate  The  role  of  Amundi’s  CEO  is  central  to  the 
+Social Responsibility) report and URD (Universal  development of Amundi Group’s Climate strategy. 
+Registration Document), within which the prior  The CEO develops the Climate strategy for the 
+year’s actions related to financing the energy  entire Amundi Group, in line with the climate’s 
+transition are listed. In 2017, the Board of Amundi  objectives  of  our  parent  company,  the  Crédit 
+entrusted its ESG-related tasks to its General  Agricole Group. 
+Management Committee in order to strengthen 
+the weight of ESG within Amundi. The CEO chairs the ESG and Climate Strategic 
+Committee at Amundi and is also a member of 
+The General Management Committee of Amundi   the Climate Committee in Crédit Agricole. 
+has  overall  oversight  and  accountability  for 
+responsible  investment.  This  includes  accoun- The CEO plays an active role in engaging with 
+tability and/or management responsibilities for  companies on ESG and climate topics and sends a 
+climate-related issues.  public annual letter to the Chairs and CEOs of the 
+largest international and European companies. 
+8| 2020 Climate Report
+Chief Responsible Investment Officer  ESG Rating Committee
+(CRIO)
+This committee meets monthly. It defines Amundi’s  
+Amundi’s CRIO leads the Responsible Investment  ESG analysis methodology, exclusion rules and 
+department and is in charge of implementing  reviews ESG rating issues. It:
+Amundi’s  Responsible  Investment  policies  and  – Defines and validates Amundi’s ESG standard 
+strategy, including climate. The CRIO identifies  methodology;
+the overall climate targets to be achieved for all 
+– Reviews exclusion and sector-related policies, 
+teams belonging to the Amundi ESG Business 
+and validate application rules;
+Line. 
+– Reviews and takes decisions regarding rating 
+issues.
+A dedicated structure to 
+Voting Committee
+monitor and manage ESG-
+This committee is held on an ad hoc basis (at least 
+related risks and opportunities 
+once a year) and reports to the CEO on sensitive 
+topics. It: 
+Since its creation, Amundi has annually grown 
+its  ESG-dedicated  team,  which  is  now  made  – Advises on voting decisions for individual 
+up of 39 members, of whom 17 are focused on  cases (conflict of interest, subsidiarity  
+ESG research, 5 on voting policies and 5 are  with the voting committee); 
+quantitative analysts (as of May 2021). – Provides voting policies of the different 
+entities, ensuring their global consistency;
+To support this team, Amundi has four com-
+– Provides specific / local approaches not 
+mittees  dedicated  to  responsible  investment 
+directly covered by the voting policies;
+including climate-related considerations. These 
+committees are monitored by Amundi’s CEO on  – Provides periodical reports on voting  
+a regular basis and are supported by dedicated  or proxy-voting disclosure;
+ESG teams:  – Ensures alignment of engagement and voting 
+activities with key ESG engagement themes.
+ESG and Climate Strategic Committee 
+Chaired by Amundi’s CEO, this committee meets 
+on a bi-annual basis and define and validate the 
+ESG policy and the Amundi Group’s strategic 
+guidelines. It:
+– Steers, validates, and monitors Amundi ‘s ESG 
+and Climate strategy;
+– Validates major strategic orientations of the 
+Responsible Investment policy (Sector policy, 
+Exclusion policy, Voting policy, Engagement 
+policy);
+– Monitors key strategic projects. 
+2020 Climate Report |9
+Strategic and CSR Committee rating these companies and defining exclusion 
+rules. ESG analysts work alongside a team of 
+The remit of this Board of Directors' Committee  specialists dedicated to voting policy and pre-
+is to deepen the strategic thinking of the Group  meeting  dialogue.  Based  in  Paris,  they  define 
+across its various business lines, both in France  General Assemblies’ voting policies for companies 
+and  abroad.  It  reviews,  at  least  annually,  the  in which Amundi invests on behalf of its clients.
+actions taken by the Group with regards to CSR. 
+Chaired by an Independent Director, duly qualified 
+ESG Method and Solutions
+for the role, the Committee is also comprised of 
+the Chief Executive Officer and the Chair of the 
+This team of quantitative analysts and financial 
+Board in order to ensure the overall alignment of 
+engineers  is  in  charge  of  maintaining  and 
+the Company’s strategic vision. Work generated 
+developing  Amundi  proprietary  ESG  scoring 
+by its recurring missions includes: 
+system  and  ESG-related  data  management 
+– An analysis of the annual report in relation to  systems  (including  selecting  external  data 
+social, environmental and societal information; providers to generate proprietary ESG scores). 
+– An examination of the broad guidelines and  They  help  analysts  and  portfolio  managers 
+progress report in respect of Amundi’s ESG  integrating  ESG  considerations  into  their 
+strategy; investment decisions, as well as business develop-
+ment  teams  to  create  innovative  solutions  by 
+– A review of the Group's strategic ambitions 
+integrating  sustainability-related  data  within 
+2018-2022.
+financial products (ESG Ratings, climate data, 
+impact metrics, controversies, among other data). 
+Other committees
+They oversee the development and integration 
+Amundi participates in a number of leading global  of ESG-related tools in Amundi Portfolio Mana-
+initiatives on ESG and climate and is a signatory of  gement Systems and Client Reporting Systems 
+many public commitments (see page 12).  and are also in charge of implementing clients’ 
+specific ESG exclusion rules.
+It also participates in the Medici Committee, a 
+think-tank supported by Amundi and chaired by 
+ESG Business Development & Advocacy
+Amundi’s CEO, that reflects on the principles, 
+techniques and impacts of responsible investment. 
+This team is in charge of supporting and develop-
+Its  ambition  is  twofold:  to  analyse  ongoing 
+ing the ESG solutions offering that match investors 
+changes and issue concrete recommendations 
+needs and challenges, ESG advisory and services 
+that may guide the practices of economic and 
+for all Amundi clients. They are also in charge of 
+financial players. 
+managing ESG advocacy and collaboration efforts 
+with sustainable finance initiatives, and developing 
+training programs for our clients.
+Resources dedicated to ESG 
+and climate change topics
+COO Office
+Amundi  has  integrated  ESG  into  the  core  of  This team is in charge of coordinating the ESG-
+its  management  approach  and  has  created  a  related projects of the ESG Business line with 
+dedicated cross-function business line which is  the support functions of the Group, producing 
+organized in 4 principal teams.  the dashboards for the monitoring of the activity 
+(Business, Budget, IT, Audit, projects), and super-
+Research, Engagement and Voting vising major transversal projects. 
+This international team spans across Paris, Dublin, 
+London and Tokyo. ESG analysts meet, engage 
+and maintain dialogue with companies to improve 
+their  ESG  practices,  with  the  responsibility  of 
+10| 2020 Climate Report
+Raising awareness   External sessions: e-learning module with the 
+PRI Academy, ESG courses with the SFAF 
+Throughout 2020, Amundi organised a number  (French Society of Financial Analysts), and with 
+of training sessions and programmes for its staff  training organizations on specific topics (green 
+and clients.  bonds, ESG in private equity …);
+  Dedicated annual sessions for analysts 
+and portfolio managers on ESG issues in 
+Client sessions
+emerging markets from a partner Multilateral 
+Amundi organized multiple responsible invest- Development Bank.
+ment training sessions, events and promotional  – Sector & Thematic sessions 
+actions in 2020 for distributors, institutional and  In addition, the ESG department proposes:
+retail clients as well as issuers (investor relations,    Monthly training sessions led by ESG analysts 
+heads  of  sustainable  development)  to  explain  on specific sectors or ESG themes for 
+Amundi's ESG rating methodology and approach  Analysts and Investment teams (see table for 
+to engagement, as well as bringing awareness  ESG 2020 sessions);
+to  the  growing  importance  of  responsible 
+  Quarterly webinars to all employees 
+investment practices.
+worldwide on specific topics, for example: 
+temperature methodologies, stewardship 
+In addition, though fewer events took place due 
+practices, evolution of the regulatory 
+to COVID-related restrictions, Amundi organised 
+framework.
+a number of proprietary events and roadshows 
+dedicated to Responsible Investment including:  – Internal actions
+Amundi  World  Investment  Forum,  Amundi  Internal communication actions are also  
+Investment Day, Amundi Retail & Product Summit,  a strong lever in terms of awareness:
+Amundi Crossroads 2020.   The “MyCO2” interactive conference 
+organized with Carbone4 in 2020 was 
+Amundi also participated in a number of virtual 
+followed by 200 employees who assessed 
+conferences and training workshops in Europe, 
+their personal carbon footprint (food, 
+US  and  Asia  on  responsible  investment  and 
+accommodation, travel, consumption …);
+climate-related  topics,  including:  EMEA  PRI 
+  The “ESG Spirit Challenge” gathered 650 
+conference, Climate Bond Initiative conference, 
+participants in 22 countries who answered 
+Central  Banking  conference,  ECB  Institutional 
+questions on sustainable finance and helped 
+Investor  Dialogue,  Global  Positive  Forum, 
+plant 9,700 trees with Reforest’Action. 
+Sustainable  Finance  Conference,  CDP  Europe 
+Awards,  IFC  seminars  for  banks  in  Emerging  ESG 2020 SESSIONS 
+Markets, Carbonomics conference, Global Invest 
+Forum. Oil and Gas - Sector Review
+ESG Mining & Metals - Sector Review
+Staff sessions
+Insurance ESG sector review - Sector Review
+Amundi offers a range of external and internal  Corona crisis’ ESG implications on the insurance sector
+ESG courses for its staff.
+Banks through the ESG lenses 
+– Technical sessions Telecom services - Industry Review 
+More than 150 staff members followed one of  Biodiversity - Thematic Review 
+the following sessions:
+Food & staples retailing - Sector Review
+  Internal sessions with Amundi's ESG investment 
+Real Estate - Sector Review
+specialists  about  ESG  approaches  and 
+implementation: ESG rating process, Exclusion  Aerospace & Defence - Sector Review
+policies, Engagement, sustainable finance 
+Healthcare Equipment & Supplies - Sector Review
+labels etc;
+Pharmaceuticals Biotech Life Science ESG - Sector Review 
+2020 Climate Report |11
+Integration of ESG  ended funds have the objective to exceed their 
+benchmarks on ESG measures has automatically 
+components into remuneration 
+raised the threshold for delivery of this qualitative 
+requirement in recent years.
+The  remuneration  of  the  CEO,  Top  Managers, 
+Portfolio Managers and ESG and Voting Analysts 
+ESG analysts 
+is linked to the CSR and ESG elements within 
+the  business  performance  review,  through  the 
+The ESG team members are benchmarked against 
+following metrics: peers. Their variable remuneration is based on 
+both qualitative and quantitative analysis of their 
+CEO of Amundi  effectiveness and delivery against expectations, 
+as well as an element of broader profit sharing 
+The variable compensation of the CEO of Amundi  based on Amundi’s overall performance.
+is linked, among others, to CSR and ESG indicators: 
+For  ESG  analysts,  quantitative  criteria  are 
+– annual grant: for 2020 and 2021, 20% of the  primarily related to the number of:
+objectives that drive the achievement of the  – analyses and meetings with companies; 
+variable remuneration are based on the CSR  – sector analysis; 
+/ ESG topics (e.g. Implementation of the ESG  – and cross-sector thematic analysis.
+policy, Steering of Crédit Agricole Group’s 
+The qualitative criteria include: 
+societal project, Feminisation of management 
+– quality of analysis;
+bodies…) ;
+– understanding of companies and sectors;
+– deferred compensation: for 2020 payment  – maintenance of the analysis;
+of the deferred variable compensation is  – proficiency in ESG analysis and efforts to 
+conditioned, among other indicators, on the  continuously improve analytical skills;
+level of the FReD1 index, an internal system  – active participation in engagements;
+for managing and measuring Crédit Agricole  – active participation in thematic research.
+Group progress on CSR matters.
+Similarly, voting analysts are evaluated based 
+on  both  quantitative  and  qualitative  factors 
+Top Management 
+relevant to their responsibilities.
+Likewise, ESG is integrated into the remuneration 
+of  Top  Management.  For  illustration,  the 
+Participation in international 
+implementation of the ESG policy weights for 
+20%  in  the  performance  criteria  used  for  the  ESG and climate-related 
+Long Term Incentive plan granted to reward 2020 
+initiatives
+performance.
+Amundi is a member or signatory of many key 
+Portfolio Managers 
+international initiatives covering environmental, 
+social and governance issues. These coalitions and 
+ESG  criteria  are  fully  integrated  in  portfolio 
+other groups support the development of tools 
+managers’ role description and as such are part of 
+and methodologies to facilitate the integration of 
+their annual evaluation and their compensation. 
+ESG-related topics into overall governance and 
+In addition, our investment teams are incentivised 
+management processes.
+on  risk-adjusted  investment  performance  over 
+periods up to 5 years.
+In 2020, Amundi contributed in particular to the 
+From 2021 onwards, among the qualitative criteria  following initiatives:
+helping us assess the risk-adjusted aspects is  – Science-Based Targets: Amundi wrote to 253 
+an  assessment  of  compliance  with  the  ESG  companies in different sectors to invite them 
+policy and other risk factors. The expectation  to commit to or upgrade their Science Based 
+as part of our 2021 ambitions that active open- Targets (SBTs) to fight climate change.
+1. https://www.credit-agricole.com/responsable-et-engage/notre-strategie-rse-etre-acteur-d-une-societe-durable/pilotage-
+de-la-performance-extra-financiere-avec-le-dispositif-fred/les-resultats-de-fred.
+12| 2020 Climate Report
+– Climate Action 100+: Amundi supported  – 30% Club: Amundi participated in the creation 
+CA100+ in a collaborative engagement  of the French 30% Club, a global campaign 
+with four corporates: a Japanese capital  to take action to increase gender diversity at 
+goods company, a US construction materials  board and senior management levels.
+company, a Brazilian Oil & Gas company and a  Collective engagement actions are described in 
+Japanese auto manufacturer. Amundi’s 2020 Engagement Report.
+Global     UN PRI – Principles for Responsible Investment
+Initiatives 
+  Finance For Tomorrow
+  IFC Operating Principles for Impact Management
+Environmental    Net Zero Asset Managers initiative
+Initiatives    IIGCC – Institutional Investors Group on Climate Change
+ AIGCC (Asia Investor Group On Climate Change)
+  CDP – Carbon Disclosure Project
+  Montréal Carbon Pledge
+ Water Disclosure Project
+ PDC – Portfolio Decarbonization Coalition
+ Green Bonds Principles
+ Climate Bonds Initiative
+ Climate Action 100+
+ TCFD – Task Force on Climate-related Financial Disclosures
+ The Japan TCFD Consortium
+ OPSWF – One Planet Sovereign Wealth Fund
+ FAIRR – Farm Animal Investment Risk and Return
+ Tobacco-Free Finance Pledge
+ The CDP Science-Based Targets (SBTs) Campaign
+ Finance for Biodiversity Pledge
+ PPCA - Powering Past Coal Alliance
+Social     Access to Medicine Index
+Initiatives    Access to Nutrition Index
+  Clinical Trials Transparency
+  Human Rights Reporting and Assurance Frameworks Initiative
+  PRI Human Rights Engagement
+  WDI – Workforce Disclosure Initiative
+ F inansol
+  The Platform Living Wage Financials (PLWF)
+  Investor Action on AMR initiative (lead by both FAIRR Initiative  
+and Access to Medicine Foundation)
+  The 30% Club France Investor Group
+  Tobacco-Free Finance Pledge 
+Governance   
+  ICGN – International Corporate Governance Network
+Initiatives 
+2020 Climate Report |13
+02
+Strategy
+14| 2020 Climate Report
+Strategy
+Climate change and ESG-related considerations are central to all decisions 
+taken by Amundi. This is driven by its conviction that companies and investors 
+have a responsibility in building a more sustainable society and that ESG 
+has a positive impact on long-term financial performance through strategic 
+management of ESG-related risks and opportunities. 
+As such, since its creation in 2010, Amundi has been deeply committed to integrating Environmental, 
+Social and Governance factors in its investment processes and supporting sustainable transitions 
+through an ambitious engagement policy, sustainable capital market development and the mobilization 
+of capital globally. Amundi has placed ESG and climate-related financial risks and opportunities at the 
+heart of its raison d’être which is to be a trusted partner working every day in the interest of its clients 
+and society. 
+Over the past decade, Amundi has been an active and long-standing player in Responsible Investing. 
+In 2006, Amundi became a co-founding signatory of the Principles for Responsible Investment (PRI). In 
+the early 2010s, Amundi collaborated with a major index provider to launch some of the earliest low-
+carbon indices. In 2014, Amundi co-founded the Portfolio Decarbonization Coalition, alongside the United 
+Nations Environment Program Finance Initiative (UNEP FI), to support this objective. In recent years, the 
+development of internal climate analytics and research teams has strengthened Amundi's ability to design 
+climate business solutions for its clients and expand the availability of ESG-related funds. 
+Development of
+Amundi launched € 378 bn
+Low-Carbon indices
+2006 2017 a full range of SRI 2019 Responsible 2021
+with MSCI on behalf
+equity & bonds ETFs AuM4
+of AP4 & FRR
+By the end of 2021,
+Signatory of Launch of the largest Sustainable Finance
+ESG will be 100%
+The Principles   green bond fund innovation
+2014 2018 2020 integrated into fund
+for Responsible dedicated to emerging partnarships with
+management &
+Investment (PRI) markets with IFC2 EIB & AIIB3
+voting activities
+2. International Finance Corporation. 
+3. European Investment Bank (EIB) and Asian Investment Bank in the Infrastructure (AIIB).
+4. AuM (rounded out) as of end December 2020.
+In  July  2021,  Amundi  confirmed  the  strategic  – Explicit engagement policy on Net Zero 
+importance  of  tackling  climate  change  and  trajectories in line with our historical 
+financing  a  just  transition  by  announcing  its  commitment to climate change;
+target to be Net Zero by 2050, thereby further  – Significant capital mobilization in ambitious 
+cementing the full integration of ESG into overall  climate-strategies supporting global carbon 
+strategic goals and management processes.  neutrality goals;
+Amundi  will  support  global  carbon  neutrality  – Designing, structuring and promoting 
+goals through: highly impactful strategies that are catalytic, 
+focusing on critical technologies, regions,  
+and segments of the economy.
+2020 Climate Report |15
+Climate-related risks will play an increasing role 
+OUR COMMITMENTS TO NET ZERO
+in investment strategies in the coming decades. 
+Amundi's responsible investment strategy there-
+On July 6th 2021, Amundi joined the Net Zero Asset 
+fore revolves around several major axes:
+Managers initiative and announced in doing so its 
+– Integrating ESG into management  intention to align its portfolio and activities with 
+All investment teams have access to the ESG  a Net Zero by 2050 goal, in order to limit global 
+ratings  produced  by  the  ESG  Research  and  warming to 1.5°C by the end of the century. 
+Method teams, i.e. 12,000 issuers worldwide (as  By joining the Net Zero Asset Managers initiative, 
+of March 2020); Amundi not only embraces global carbon neutrality 
+– A targeted exclusion policy objectives, but is actively taking action to accelerate 
+investing aligned with net zero emissions by 2050 
+Amundi  applies  targeted  exclusion  rules  in 
+or sooner. This is a key milestone in Amundi’s 
+all  of  its  active  management  strategies  that 
+commitment to contribute positively to address 
+concern companies that do not comply with its  society’s global challenge, and a significant step in 
+ESG  policy,  or  with  international  and  national  our mobilization plan for climate action ahead of 
+conventions and frameworks. In addition, Amundi  COP26.
+implements sector-specific exclusions' policy for 
+AMUNDI NET ZERO CONVICTION n°1 – The finan-
+the thermal coal and tobacco industries, which 
+cial sector is a key catalyst for action.
+were strengthened at the end of 2020;
+AMUNDI NET ZERO CONVICTION n°2 – We must 
+– Engagement with issuers embrace change at every layer of our organization.
+A key pillar of Amundi's responsible investment  AMUNDI NET ZERO CONVICTION n°3 – Transition 
+vision and commitments is demonstrated in our  will need to be just, respectful of our environment, 
+engagement  activities.  Amundi's  ESG  analysts  and aim to preserve and restore.
+hold ongoing dialogue with companies and also  AMUNDI NET ZERO CONVICTION n°4 – Knowledge, 
+partake in individual or collaborative actions in  data and analytics are significant drivers of change.
+regards to specific ESG themes; What is the Net Zero Asset Managers initiative? 
+– ESG voting policy The Net Zero Asset Managers initiative is a group of 
+Amundi’s voting policy is in line with its vision  128 international asset managers with $43tn AuM 
+(as of July 2021) committed to supporting the goal 
+as a responsible investor and with the desire to 
+of net zero greenhouse gas emissions by 2050 or 
+help companies move towards more sustainable 
+sooner, in line with global efforts to limit warming 
+objectives, notably in terms of energy transition;
+to 1.5 degrees Celsius; and to supporting investing 
+– Responsible investment solutions aligned with net zero emissions by 2050 or sooner.
+Amundi  offers  its  clients  solutions  tailored  to 
+It is an initiative designed to mobilize action by the 
+the  various  ESG  and  Climate  challenges  and  asset  management  industry  that  demonstrates 
+approaches: best-in-class funds, labelled funds,  leading practice in driving the transition to net zero 
+thematic  funds  and  impact  funds.  In  2020,  and delivers the ambitious action and investment 
+Amundi continued to innovate across all asset  strategies that will be necessary to achieve the 
+classes to develop this range; goal of net zero emissions. It also provides a forum 
+to share best practice and overcome barriers to 
+– Innovative partnerships
+aligning investments to that net zero goal.
+Lastly, through innovative partnerships with major 
+The initiative is managed globally by six Founding 
+public investors, Amundi is developing solutions 
+Partner investor networks: Asia Investor Group 
+to finance the energy transition. Amundi favours 
+on Climate Change (AIGCC), CDP, Ceres, Investor 
+initiatives that stimulate both supply and demand 
+Group  on  Climate  Change  (IGCC),  Institutional 
+and  contribute  to  the  creation  of  a  dynamic 
+Investors Group on Climate Change (IIGCC) and 
+market for responsible investment instruments. Principles for Responsible Investment (PRI). 
+16| 2020 Climate Report
+Responsible Investment 2018- This ambitious three-year action plan explicitly 
+included:
+2021 Action Plan - Progress
+– the inclusion of ESG criteria in the 
+Aware of its responsibility as a leading European  management of all the Group’s open-ended 
+asset manager, Amundi launched an ambitious  funds actively managed* within 2021; 
+action plan in October 2018 to mainstream ESG  – the doubling of the amount raised to finance 
+integration across all its value chain by the end  energy transition and social initiatives; 
+2021. 
+– the integration of ESG issues in voting 
+practices (4,241 votes in 2020). 
+OBJECTIVES 2021  ACHIEVEMENTS  
+ANNOUNCED IN 2018 AS OF MARCH 2021
+ESG capabilities ambitions
+ESG Analysis Increase number of issuers covered from 
+Beyond the target: 12,000 issuers covered as of March 2021.
+5,500 to 8,000.
+Engagement Systematically include ESG issues in voting  In 2020, Amundi supported 86% of climate-related shareholder 
+policy. resolutions and 79% of social, health & human rights 
+resolutions.
+In 2020, the opposition rate was 31% on compensation and 21% 
+on dividends. Amundi argued in favour of including ESG criteria 
+in corporate officers’ variable remuneration.
+ESG mainstreaming ambitions
+Active Management 100% of open-ended funds* with an ESG  100% of Amundi’s open-ended funds* now include an 
+score higher than that of their benchmark  environmental and social profile analysis of the companies in 
+index. which Amundi invests. ESG is thus core to all Amundi’s activities. 
+Responsible investment development
+Specific Initiatives Step up Amundi’s specific Environmental 
+and Social initiatives, doubling assets  €28bn as of end of March 2021.
+under management from €10bn to €20bn.
+Solidarity Increase Amundi’s commitments to social 
+€356m AuM in the Amundi Solidarité Fund as of  
+and solidarity-based economy, increasing 
+end of March 2021.
+AuM from €200m to €500m. 
+Advisory Strengthen Amundi’s advisory role by 
+ESG Advisory Offering is finalized.  
+helping institutional investors to take into 
+Deployment ongoing. 
+account ESG criteria.
+*All open-ended funds actively managed by Amundi to which an ESG-rating methodology can be applied.
+Rated A+   GRECO & AP EGO5   Several funds  
+for the 6th year in a row   awarded Environmental Finance   have been labeled  
+RECOGNIZED in Strategy & Governance green bond of the year   SRI, Greenfin, LuxFlag, Towards 
+EXPERTISE in 2019/2020 Sustainability, Finansol
+5. GRECO: The Green Credit Continuum program and AP EGO: Amundi Planet Emerging Green One.
+2020 Climate Report |17
+Development of Climate-linked  – Launch of the Amundi Planet Emerging Green 
+One (AP EGO), with the International Finance 
+business solutions for investors
+Corporation (IFC), the world’s largest targeted 
+green bond fund focused on emerging 
+Amundi has developed a comprehensive range 
+markets ($2 bn) - March 2018;
+of investment solutions for investors seeking to 
+mitigate climate-change related risks, favour a  – Low Carbon index funds. First in 2011 with 
+transition  to  sustainable  business  models  and  AP4 (the Fourth Swedish National Pension 
+measure climate impact. Fund) for some prototypes and then AP4 and 
+FRR (French Public Pension Reserve Fund) 
+In 2020, Amundi accelerated the development of  in 2014 for mainstream solutions, Amundi 
+innovative solutions to finance climate-positive  developed innovative low-carbon ETFs and 
+developments and energy transition, in line with  index funds;
+its 3-Years Responsible Investment Action Plan. 
+– Joint Venture with EDF. Amundi and EDF 
+In doing so, Amundi prioritized initiatives that 
+partnered in 2014 and created a new asset 
+stimulate both supply and demand as well as 
+management firm dedicated to the financing 
+contribute to building a dynamic marketplace for 
+of some green infrastructures. This unique 
+responsible investment instruments. Addressing 
+partnership in the industry allows investors 
+social challenges is also a priority of Amundi, 
+to access rare green assets in a long-term 
+which has recently developed innovative social 
+perspective;
+thematic funds.
+– Green Real Estate. Amundi real estate team 
+– Launch of the “Just Transition for Climate” 
+has developed a state-of-the-art green 
+fund (see page 19), designed to finance a 
+methodology that is used for 100% of the 
+socially acceptable energy transition - January 
+assets in order to assess the climate risks in all 
+2021;
+its dimensions (physical risks, regulatory risks, 
+– Launch of AIIB (Asian Infrastructure  etc);
+Investment Bank) - Amundi Climate Change 
+– Amundi, a founding member of the One 
+Investment Framework, the first holistic 
+Planet Sovereign Wealth Fund Asset 
+approach for building portfolios resistant 
+Managers Initiative, which supports the 
+to climate risks and based on the three 
+members of the One Planet Sovereign Wealth 
+key objectives of the Paris Agreement - 
+Fund (OPSWF) in the integration of climate 
+September 2020;
+change analysis into the management of large, 
+– Amundi pioneers the adoption of EU climate  long term and diversified asset pools - July 
+benchmarks, with the creation of Paris  2019;
+Aligned Benchmark (PAB) and Climate 
+– Amundi, a co-founding member of the 
+Transition Benchmark (CTB) index strategies 
+Portfolio Decarbonization Coalition, 
+and ETFs - June 2020;
+alongside AP4, UNEP FI, and CDP, aiming 
+– Launch of the Green Credit Continuum  at gathering the asset owners leading in 
+program (GRECO), with the European  the green space and ready to commit an 
+Investment Bank (EIB) which aims to provide  alignment of their portfolios with a low carbon 
+EUR 1bn for the development of green private  economy - August 2014.
+debt in Europe - July 2019;
+– Launch of the Asia Climate Bond Portfolio 
+with the AIIB, a USD 500 million Portfolio, 
+which aims to accelerate climate action 
+in the Bank’s members and address the 
+underdevelopment of the climate bond market 
+- September 2019;
+18| 2020 Climate Report
+Launch of the Just Transition fund The Just Transition for Climate fund is the  
+very first fund to be:
+Amundi,  implemented  in  April  2021  a  new 
+– Aligned with the energy transition, by 
+investment  strategy  within  the  Amundi 
+incorporating an ambitious objective to 
+Responsible  Investing  SICAV  with  the  “Just 
+reduce its carbon footprint;
+Transition for Climate” fund. This European bond 
+– Socially inclusive, by incorporating a  
+fund has the quantifiable objective of supporting 
+“Just Transition” score that incorporates  
+the  energy  transition  while  ensuring  social 
+the various social components of a 
+cohesion.
+transition to a low-carbon economy:  
+The Paris Agreement has defined a framework  impact on workers, consumers, territories, 
+for investors wishing to respond to climate  and society in general;
+change.  As  a  pioneer  in  the  development  – Dynamic and forward-looking, based on a 
+of  responsible  investment,  Amundi  is  fully  commitment policy created to accompany 
+committed to a green and just transition, i.e.,  issuers in their transition, in line with the 
+one that considers its social dimension. environmental and social objectives of the 
+strategy.
+2020 Climate Report |19
+Integration and management  The  analysis  of  climate-related  risks  and 
+opportunities is part of Amundi’s fundamental 
+of ESG and climate-related 
+ESG analysis process. 
+risk and criteria into Amundi’s 
+Amundi’s internal reference values for analysis is 
+investment strategies 
+made up of 37 criteria, of which 16 are generic 
+criteria, common to all companies no-matter their 
+Amundi has developed detailed processes and 
+business sector, and 21 sector-specific criteria. 
+management systems to assess, integrate and 
+These criteria are constructed to either assess 
+manage ESG and climate-related risks. Full details 
+how sustainable issues might affect the issuer 
+are in Chapter 3 ‘Risk Management’.
+as well as the quality of the management of this 
+In order to quantify exposures to risks deemed  dimension. Impact on sustainable factors as well 
+material,  Amundi  has  taken  commitments  to  as quality of the mitigation are also considered. 
+measure  and  reduce  Amundi’s  exposure  to  All criteria are available in the fund managers’ 
+activities  that  are  heavily  exposed  to  climate  front office portfolio management system.
+related risks. 
+  Environment Social Governance
+16 generic   Pow er consumption and    Labour conditions and non-  Independance of board
+criteria greenhouse gas emissions discrimination  Audit and control
+ Water  Health & safety  Compensation
+ Biodiversity, pollution, and waste  Social relations  Shareholders’ rights
+ Client/supplier relations  Ethics
+ Product responsibility  ESG strategy
+  Local communities and human rights  Tax practices
+  Environment Social
+21 sector -    Green vehicles (Automotive)  Bioethics (Pharmaceuticals)
+specific     Development and production of alternative energy   Access to medicine (Pharmaceuticals)
+criteria and biofuels (Energy/Utilities)  Vehicle safety (Automotive)
+ Responsible forestry (Paper & Forests)  Passenger safety (Transportation)
+  Eco-responsible financing (Banks/Financial Services/  Healthy products (Food)
+Insurance)  Digital divide (Telecommunications)
+ Green insurance (Insurance)   Responsible marketing (Pharma/Banking/Misc. 
+  Sustainable construction (Construction Industry  Financial Services/Food and Beverages)
+Products)   Access to financial services (Banking/Misc. Financial 
+ Packaging and eco-design (Food and Beverages) Services)
+ Green chemistry (Chemistry)  Healthy product development (Food and Beverages)
+ Paper recycling (Paper & Forests)  Tobacco-related risks (Tobacco)
+ Editorial ethics (Media)
+ Personal data protection (Software)
+20| 2020 Climate Report
+Each issuer is awarded an ESG rating based on  a significant weight for evaluating an issuer’s “E” 
+7 level-scale from A to G (Where A is the best,  score. For instance, the “E” score of automobile 
+and G the worst rating, meaning exclusion). Each  manufacturers is mostly driven by their green car 
+component E, S and G is also rated from A to G. development strategy along with considerations 
+for their direct emissions (scope 1). Therefore, 
+Amundi’s  ESG  methodology  also  includes  a 
+a  general  ESG  investment,  given  the  current 
+sub-criterion solely focused on the low-carbon 
+Amundi ESG scoring process, is embedded with 
+energy  transition.  This  sub-criterion  is  fully 
+considerations for climate change.
+integrated for most economic sectors and bears 
+Example of weightings*:
+Breakdown of environmental criterion in the automotive sector
+E S G 33  %%
+WWaatteerr  mmaannaaggeemmeenntt
+99  %%
+Automotive 3377  %% 37 % 26 % 64 % EEnneerrggyy
+Vehicle ccoonnssuummppttiioonn
+sales
+Bank 24 % 29 % 47 %
+2244  %%
+WWaassttee
+Pharmaceuticals 17 % 40 % 43 % mmaannaaggeemmeenntt
+*Sector Specific. Source: Amundi. Given for illustrative purposes only, may be changed without prior notice.
+The following transition and physical risks are  Amundi  considers  that,  as  part  of  an  asset 
+considered  in  Amundi’s  climate  related  risk  manager’s  fiduciary  duty,  it  must  assess  and 
+assessments: manage ESG risks to deliver better outcomes 
+for  its  clients  and  their  beneficiaries.  In  the 
+Transition Risks Physical Risks same  vein,  Amundi  has  implemented  a  firm-
+Current regulation Acute wide Responsible Investment policy that takes 
+into account not only financial criteria, but also 
+Emerging regulation Chronic
+general  interest  criteria  into  the  investment 
+Technology  process, namely through environmental, social 
+Legal  and governance (ESG) criteria.
+Market By the end of 2021, all actively managed funds will 
+Reputation be required to offer a ESG performance above 
+the ESG rating of their benchmark indices or 
+  universes (whenever technically possible). 
+Amundi firmly believes that this approach, which 
+Integration of ESG criteria  
+provides  an  all-round  vision  of  companies, 
+into investment strategy consolidates value creation. In addition, a strong 
+sustainable development policy enables issuers 
+Through 2020, Amundi worked on implementing 
+to  better  manage  regulatory  and  reputational 
+its 3-year responsible investment action plan 
+risks  and  contributes  to  improving  their 
+launched in 2018 (see page 17). One of its main 
+operational efficiency. Strategically, this aims to 
+objectives  is  to  mainstream  ESG  integration 
+protect Amundi’s portfolios from climate-related 
+across  portfolios  by  systematically  integrating 
+risks and to design strategies that aim to pursue 
+ESG practices into active management. 
+climate-related opportunities. 
+2020 Climate Report |21
+As  such,  Amundi  has  taken  commitments  to  A systematic ESG analysis of issuers is undertaken 
+measure and reduce its exposure to activities that  through an in-house ESG rating methodology 
+are heavily exposed to climate-related risks.  which consists of:
+– assessing issuers’ exposure to ESG risks and 
+In  order  to  target  all  fossil  fuels  and  carbon 
+opportunities and understanding how they 
+intensive assets, Amundi’s approach goes beyond 
+manage these challenges; and 
+coal and Amundi has implemented a reduction of 
+50% of the carbon reserves of several portfolios  – rating issuers on their ESG practices according 
+that were the most exposed to such stranded  to their sector.
+assets. 
+Examples of ESG incorporation strategy in Fixed Income
+Screening strategy: exclusion of controversial weapons, tobacco, coal, unconventional oil & gas
+Screening and Integration strategy: ESG rating, best in class rating process, certification
+Screening and Thematic strategy: Green Bonds solutions
+Portfolio and issuer exposure Within  the  environmental  category,  the  ESG 
+analysts assess criteria that are related to climate 
+At a portfolio level, Amundi assesses its exposure  related issues. Both broad and sector specific 
+to ESG risks using approaches such as the Science- environmental criteria are fully integrated into the 
+Based Targets initiative for Financial Institutions  analysis of the majority of business sectors and 
+(SBTi-FI) methodology or temperature alignment  are over or under weighted in an issuer’s “E” score, 
+tools. depending on the impact of the issuer and their 
+industry’s activities on the environment. The “E” 
+The issuer’s exposure to climate-related risks and 
+score contributes to an issuer’s overall Amundi 
+opportunities is taken into account in Amundi’s 
+ESG rating. The Environmental pillar of Amundi’s 
+proprietary ESG analysis framework of 37 multi 
+ESG analysis not only consists of broad climate 
+ESG criteria. The framework includes broad and 
+mitigation criteria, such as GHG emissions but 
+sector-specific criteria for environmental, social 
+also includes criteria with a wider consideration 
+and governance categories. 
+for activities that have a direct or indirect impact 
+on the environment. 
+Broad Criteria Sector-specific criteria
+Power consumption and greenhouse gas emissions Green vehicles
+Water Development and production of alternative energy and biofuels
+Biodiversity Responsible forestry
+Pollution Eco-responsible financing
+Waste Green insurance
+Sustainable construction
+Packaging and eco-design
+Green chemistry
+Paper recycling
+22| 2020 Climate Report
+Assessment of sector-level   carbon budgets are meant to be consistent with 
+and client-specific transition risks limiting global warming to 2°C or below 2°C. 
+Amundi evaluates the current level of carbon  A major review of all existing methodologies on the 
+emissions of a company across its entire value- market was carried out in 2020, which has enabled 
+chain and derives the transition risk exposure of  Amundi to monitor closely the 2°C metrics on 
+companies. Amundi then assesses the company’s  the market and their ongoing development. For 
+level of commitment to reduce its footprint in  temperature scores, Amundi relied on three main 
+order to potentially correct the level of transition  providers: CDP, Iceberg Data Lab, and Trucost. 
+risk exposure.  While their methodologies differ on a number 
+of points, their ambition is the same: computing 
+To do so, Amundi uses a combination of metrics: 
+historical data on greenhouse gas emissions and/
+– carbon emissions;  or targets disclosed by issuers on future carbon 
+– carbon intensity;  reduction to obtain a single temperature metric. 
+– green and brown activities and targets.  Across  all  three  data  providers,  very  few 
+companies in global indices have a temperature 
+In addition to the traditional data providers, Amundi 
+score below 2°C. Amundi monitors the pioneering 
+also relies on open-source data to complete its 
+companies that have taken the lead in the zero-
+comprehensive  transition  risk  assessment  (e.g. 
+carbon transition by setting emissions reduction 
+Science-Based Target Initiative database).
+targets grounded in climate science through the 
+Amundi’s approach is threefold: Science Based Targets initiative (SBTi).
+1. Measure the Carbon Exposure
+Assessment of sector-level  
+Before actions can be taken to tackle risks, the 
+and client-specific physicals risks
+exposure to the risks must be measured. Amundi 
+has developed a “bottom-up” carbon footprint  Amundi’s physical risk assessments evaluate the 
+methodology  that  measures  the  CO e/M€  location of a company’s operations to determine 
+2
+invested in Amundi’s client portfolios, for both  whether  they  are  exposed  to  chronic  and/or 
+equity and fixed income.  acute climate hazards. For climate change-related 
+physical risks, Amundi considers both short-term 
+2. Assess: Energy Transition rating
+and long-term risks. 
+For each individual issuer, Amundi has developed 
+an  Energy  Transition  rating  (TE  rating)  that  Amundi’s analysis is based on the methodology 
+assesses both the exposure of a company to  developed by Trucost. 
+the energy transition risk and the way this risk 
+is anticipated and managed by the company’s 
+management  team.  The  rating  assesses  the  Integration of biodiversity  
+contribution  of  a  company  to  the  Energy 
+into investment strategy
+Transition. The rating scale ranges from A to G, 
+with A being the highest rating. As an example, an  Building on years of work of increasing integration 
+energy company involved primarily in bituminous  of biodiversity into strategic approaches and ESG 
+sands without a clear strategy to divest from the  analysis criteria, Amundi joined the Finance for 
+sector will have a TE rating of E or below. Biodiversity Pledge in May 2021. 
+3. Anticipate: estimate the impact of the 2°C  The Pledge was established in 2020 by financial 
+Alignment  risks  on  the  performance  of  an  institutions from around the globe to call upon 
+investment portfolio world leaders to reverse nature loss this decade. 
+Amundi’s  2  degrees  approach  consists  of  The  signatories  commit  to  working  together, 
+comparing  a  corporate’s  carbon  emissions  engaging, assessing their own biodiversity impact, 
+trajectory with sectorial carbon budgets. These  setting  targets  and  reporting  on  biodiversity 
+2020 Climate Report |23
+matters in relation to their own investment and  In  addition,  Amundi  implements  specific  and 
+financing activities by 2024 at the latest. The  targeted sectoral exclusion policies for coal and 
+Finance for Biodiversity Pledge has been signed  tobacco. These sectoral exclusions apply to all 
+by  54  financial  institutions,  representing  over   actively managed strategies over which Amundi 
+€ 9 trillion in total assets and 14 countries. has full portfolio management discretion.
+In 2020, Amundi examined the fundamentals of  The  exclusion  policy  principles  are  decided 
+how to better implement biodiversity into internal  by the ESG and Climate Strategic Committee 
+analysis and investment processes. Due to the  and application rules are validated by the ESG 
+current lack of concrete data around the subject,  Rating Committee. Excluded issuers are flagged 
+the  first  step  in  addressing  biodiversity  with  in Front office tools and trades on those names 
+corporates will be to push for better reporting,  are blocked on a pre-trading basis. Amundi’s risk 
+management  and  disclosure  of  biodiversity  department is in charge of the second level of 
+impacts and risks.  control.
+Amundi engaged with a range of stakeholders 
+Thermal Coal Policy
+on this topic in 2020, including but not limited 
+to NGOs - such as CDP, and corporates on how 
+The Group seeks to align its sectoral policies with 
+they  account  for  biodiversity  management.  In 
+the Paris Agreement by scheduling a 2030 exit 
+2020, Amundi engaged with 378 companies on 
+from thermal coal financing in European and 
+ecosystem protection.
+OECD countries , and by 2040 for the rest of the 
+world. 
+As coal is the single biggest contributor to climate 
+Exclusion policies 
+change derived from human activity, Amundi has 
+implemented since 2016 a dedicated sector policy 
+As part of its fiduciary responsibility, Amundi 
+related to Thermal Coal, triggering the exclusion 
+applies  targeted  exclusion  policies  across  its 
+of  certain  corporate  companies  and  issuers. 
+portfolios. These rules are applied to all active 
+Each year since then, Amundi has progressively 
+investing  strategies  over  which  Amundi  has 
+reinforced its coal exclusion policy.
+full discretion and exclude companies that do 
+not  comply  with  its  ESG  policy,  international 
+In 2020, as part of Amundi’s Thermal Coal Sector 
+conventions,  internationally  recognized  frame-
+Policy  update,  Amundi  further  extended  its 
+works, and national regulations. These general 
+exclusion policy to “Coal developers”, referring to 
+exclusions  are  implemented  unless  otherwise 
+any company developing or planning to develop 
+requested by the clients and always subject to 
+new thermal coal capacities.
+applicable laws prohibiting their implementation.
+As such, Amundi excludes the following:
+Amundi excludes the following:
+– Companies developing or planning to develop 
+– Companies involved in the production, sale, 
+new thermal coal capacities along the entire 
+storage or services for and of anti-personnel 
+value chain (mining, production, utilities, and 
+mines and cluster bombs, prohibited by the 
+transport infrastructures);
+Ottawa and Oslo treaties;
+– Companies generating >25% of their revenue 
+– Companies involved in the production, sale or 
+from thermal coal mining extraction;
+storage of chemical, biological and depleted 
+– Companies with annual thermal coal 
+uranium weapons;
+extraction of 100 MT or more without intention 
+– Companies that violate, repeatedly and 
+to reduce;
+seriously, one or more of the ten principles 
+– All companies with revenue in thermal coal 
+of the Global Compact, without credible 
+mining extraction and thermal coal power 
+corrective action.
+generation >50% of their revenue without 
+These issuers are “G-rated”.
+analysis;
+24| 2020 Climate Report
+– All coal power generation & coal mining  – Cap rules: companies involved in the 
+extraction companies with a threshold  production, the supply and retailing of 
+between 25% and 50% with a deteriorated  tobacco  thresholds for application (revenues 
+energy transition score. above 10%) are capped to E as ESG rating 
+(ranging from A to G).
+Application to passive management
+– Passive ESG funds
+All ESG ETFs and ESG index funds apply Amundi’s 
+coal exclusion policy whenever possible, with the  Methods for communicating on 
+exception of very concentrated indices;
+ESG and climate with clients 
+– Non ESG passive funds
+In  order  to  regularly  engage  with  clients 
+The fiduciary duty in passive management is to 
+regarding  ESG  and  climate,  these  issues  are 
+replicate an index as closely as possible
+integrated into different types of engagement 
+As such, the portfolio manager has limited room  and communication policies. 
+for manoeuvre and must meet the contractual 
+– Responsible Investment Policy: Amundi’s 
+objectives to achieve a passive exposure that is 
+Responsible Investment Policy is reviewed 
+fully consistent with the requested benchmark.
+annually and posted on Amundi website. 
+Therefore,  Amundi  index  funds  and  ETFs  In particular, it details the organization, 
+replicating standard (non-ESG) benchmarks may  governance, dedicated resources, ESG approach 
+not systematically apply sector exclusions. and methodology, and exclusion policies. 
+– Voting Policy: Amundi’s Voting Policy is 
+However, in the context of securities excluded 
+reviewed annually and posted on Amundi 
+from the “thermal coal policy” in Amundi’s active 
+website. It presents the general principles 
+investment universe but which could be present 
+of Amundi’s voting policy, the priority given 
+in passive non-ESG funds, Amundi has reinforced 
+to the energy transition and social cohesion 
+its voting and engagement actions which could 
+themes, and details its approach in terms 
+result in a vote “against” the management of the 
+of shareholders’rights, governance bodies, 
+companies concerned.
+financial structure and compensation policy.
+– Engagement policy: Amundi releases its 
+Tobacco policy Engagement Report every year, outlining 
+its continuous dialogue with companies 
+Since October 2018, Amundi has been capping 
+and its willingness to drive responsible 
+tobacco companies’ ESG ratings at E, on a scale 
+investment forwards. This annual report 
+from  A  to  G  (where  companies  rated  G  are 
+gathers all of Amundi’s engagement activities 
+excluded). Amundi’s policy applies to the tobacco 
+and is structured around the four areas of 
+sector in its entirety, including suppliers, cigarette 
+Engagement Amundi conducts: Ongoing 
+manufacturers and retailers.
+Engagement, Thematic Engagement, 
+Collaborative engagement and Engagement 
+In May 2020, Amundi became a signatory of the 
+through Pre-AGM Dialogue and Voting. 
+Tobacco-Free  Finance  Pledge.  Consequently, 
+Amundi has strengthened its Tobacco policy. At the issuer level, Amundi engages investees 
+or potential investees regardless of the type of 
+Amundi applies the following rules: securities held across Amundi’s portfolios. Issuers 
+– Exclusions rules: companies that manufacture  engaged  are  primarily  chosen  based  on  the 
+complete tobacco products are excluded  level of exposure to the subject of engagement. 
+(thresholds for application: revenues above 5%); Amundi makes sure that it engages with issuers 
+from different continents on a range of topics 
+which reflect the dual materiality component of 
+the ESG topics.
+2020 Climate Report |25
+Engagement can be ongoing if the issuer or its  Overview of ESG-related 
+sector face specific challenges or sustainability 
+communication methods  
+risks. Engagement may also be thematic if cross-
+sectorial and related to sustainability factors. with subscribers
+1. Thematic Engagement In order to fully inform its subscribers and broader 
+stakeholders and thereby ensure a full value chain 
+Amundi  engages  companies  both  on  topics 
+understanding of the ESG topic, Amundi regularly 
+related  to  climate  and  inequalities,  as  well  as 
+communicates publicly and privately with them. 
+on  other  environmental,  social  and  employee 
+matters,  respect  for  human  rights  and  anti- Since early 2021, Amundi reports on a monthly 
+bribery matters that are deemed to represent the  basis  its  proxy  voting  records  on  Amundi's 
+building blocks of a sustainable economy.  website. 
+2. Ongoing engagement In addition to this, the primary communication 
+channels used in 2020, and reports published to 
+Amundi  engages  on  sector  or  issuer  specific 
+support these communication channels, are listed 
+topics as well as through pre-meeting dialogues. 
+below:
+As a part of Amundi’s “ongoing engagement”, 
+Amundi  often  focuses  on  companies  where 
+opportunities  for  improvement  can  be  made. 
+These “improvers” are generally companies with 
+a borderline poor rating that have demonstrated 
+a willingness to improve on ESG practices to 
+help raise their score and open them up to wider 
+investment opportunities. Amundi may as well 
+engage prior to divestment.
+3. Engagement through voting
+Amundi votes for all holdings including those of 
+Amundi’s passive management portfolios.
+The  funds  exercise  their  voting  rights  at  the 
+companies’ meetings in which they have an equity 
+investment.
+However,  in  the  interests  of  cost  control  and 
+increased efficiency, Amundi reserves the right 
+not to exercise its voting rights when it considers 
+the economic cost to be prohibitive in relation to 
+ownership.
+Amundi has its own voting policy, which is notably 
+in favour of a sustainable level of dividends and 
+a level of executive compensation that allows 
+equity among employees. 
+26| 2020 Climate Report
+Last 
+Document  Means   publication/ 
+Content Frequency
+name used Reference 
+exercise
+Responsible  Website
+Amundi's RI policy Annual 2021
+Investment Policy Amundi.com
+Amundi Public  Amundi's annual report on its ESG reporting 
+Website
+Transparency  obligations resulting from its adherence to the  Annual 2020
+Amundi.com
+Report Principles for Responsible Investment (PRI)
+Sets out our ESG philosophy and approach, our 
+Website
+Stewardship Report  engagement policy and activities and the exercise  Annual 2021
+Amundi.com
+of our voting rights
+Details on Amundi's engagement process, 
+resulting from our dialogue and engagement  Website
+Engagement report Annual 2020
+with companies on issues related to  Amundi.com
+environmental, social and governance risks
+Website
+Voting policy Analysis framework of Amundi’s voting policy Annual 2021
+Amundi.com
+Report on the 
+exercise of 
+Website
+voting rights  Implementation of Amundi's voting policy Monthly 2021
+Amundi.com
+and shareholder 
+dialogue
+For SRI OPC: ESG ratings of the portofolio, 
+Website
+ESG reporting including benchmark and/or investment universe Monthly 2021
+Amundi.com
+Social, Governance and Environmental Indicators.
+SRI Transparency 
+Code AFG-FIR/EUROSIF transparency code for Amundi  Website
+Annual 2020
+Available only   SRI funds Amundi.com
+in French
+For OPC with social impact:
+Details of solidarity investments by theme 
+Social impact  (employment, housing, healthcare, education,  https://amundi.
+Annual 2020
+reporting services to associations, international solidarity,  oneheart.fr/
+environment), list of solidarity companies 
+financed and testimonies.
+ 
+2020 Climate Report |27
+03
+Risks
+28| 2020 Climate Report
+Risks
+Rooted in Amundi’s belief that considering long-term risks that can affect 
+performance is a matter of fiduciary duty, assessment of climate risks at Amundi 
+consists of a robust and ongoing process of stakeholder consultation, research, 
+and application. Having identified climate change as an increasingly material 
+impact on portfolio assets, Amundi has set ambitious targets for 2021 to 
+implement the widespread integration of ESG criteria in its investment practices.
+The inclusion of ESG risk factors in products and strategy is a key matter. In the past years, Amundi has 
+both strengthened and broadened its approach to embedding the identification and assessment of 
+physical and transition climate-related risks into the investment strategy. As a testament to Amundi’s 
+dedication as a responsible investor, 100% of open-ended funds now include ESG criteria (when an 
+ESG-rating methodoloy can be applied). To strengthen this commitment further, Amundi’s ambition for 
+the end of 2021 is for these funds to outperform their respective portfolio benchmark universe in terms 
+of ESG rating. In addition, Amundi has exceeded its objective to increase the number of issuers covered 
+in its ESG analysis from 5,000 to 8,000: the number of issuers covered at the end of 2020 was 10,000. 
+Furthermore, integrating ESG criteria for the general risk management processes is a key matter for 
+Amundi. This process relies on a dedicated ESG business line to ensure that ESG approaches follow best 
+practices in a fast-moving space, providing guidance on rating, assessment and scoring methodologies. 
+Beyond these dedicated teams, Amundi has embedded ESG analysis directly into its portfolio management 
+systems, across all investment platforms used by Portfolio Managers and investment analysts. In addition, 
+ESG criteria are also embedded within Amundi’s control frameworks, with the Risk teams playing a key role 
+in approving investment strategies and corresponding constraints. 
+Process for identifying   Table 1: Data sources used in Amundi’s ESG  
+rating methodology
+and assessing ESG risks
+Amundi’s process for identifying and assessing  Category Data source
+climate-related risks includes specific approaches  General Trucost
+for  both  market/transition  and  physical  risks.  MSCI
+This categorization of risks spans a multitude 
+ISS ESG
+of timeframes, namely short and medium-term 
+Vigeo Eiris
+market risks as well as long-term physical risks. 
+Amundi has developed its own methodology to  Refinitiv
+rate issuers according to ESG criteria for both  EthiFinance
+corporate issuers and sovereign issuers, outlined 
+Sustainanalytics
+below.  Amundi  has  also  developed  tailored 
+Climate change FTSE Russel
+methodologies  for  real  estate,  private  equity, 
+private debt, impact investing, in addition to specific  Climate Bonds Initiatives
+instruments such as green or social bonds. CDP
+Iceberg Data Lab
+Controversies and   RepRisk
+controversial weapons ISS-Ethix
+Sovereigns Verisk Maplecroft
+2020 Climate Report |29
+ESG rating methodology for corporate  To assess sustainability performance of sovereign 
+issuers of listed equity or debt issuers specifically, Amundi has developed a set 
+of 50 ESG indicators. These indicators, which are 
+With  an  ESG  integration  approach  based  on  designed to measure a sovereign’s performance 
+Best-in-Class  methods  for  corporate  issuers  on ESG issues, are categorized as followed:
+(regardless of equity or debt), Amundi uses data 
+– Environmental: climate change and natural 
+from reputable ESG rating providers to build a 
+capital;
+rating of each corporate issuer on themes related 
+– Social: human rights, social cohesion, human 
+to ESG. This rating builds on an assessment of 
+capital, civil rights;
+exposure to sustainability risks and opportunities, 
+in addition to the company’s commitment and  – Governance: government effectiveness, 
+ability to manage these. economic environment.
+These  indicators,  which  are  provided  by  a 
+The result is presented as a rating ranging from A 
+specialized data source, are weighed according 
+to G, with the former being the highest possible 
+to the materiality of their risk. This materiality 
+rating and the latter the lowest. Amundi defines 
+assessment  is  conducted  internally  using 
+a risk as material to an industry when companies 
+proprietary data sources as well as open-source 
+could  occur  substantial  costs  as  a  result  of 
+databases,  for  example  from  the  World  Bank 
+exposure to the risk, with the impact of this factor 
+Group and the United Nations.
+integrated as a performance vector. Combining 
+16 generic criteria and 21 sector-specific criteria, 
+Amundi’s approach weights four to five criteria 
+Focus on climate-related 
+more heavily if the associated risk is deemed to 
+factors: Amundi’s process 
+be material for the specific sector in the portfolio 
+(See Figure in Chapter 2). In addition, there is a  for identifying and assessing 
+sub-criterion that serves to rate on the low-carbon 
+physical and transition risks
+energy transition and that weighs significantly for 
+the E criteria category of all sectors.
+Processes to identify physical  
+The final ESG rating is an average of these E, S and 
+climate-related risks
+G criteria, scaled around the sector average so as 
+to not penalize issuers based on the sector (with 
+While  Amundi  has  identified  both  short-term 
+the exception of exclusion rules). Furthermore, 
+and long-term physical risks that could have a 
+the score is adjusted in the event of controversies, 
+significant impact on the investment portfolio, the 
+which are monitored by the ESG analyst team.
+level of information available to assess the financial 
+impact is limited and often lacks standardization 
+To rate companies more efficiently, Amundi has 
+across sectors and regions. Therefore, Amundi’s 
+developed  a  proprietary  tool,  the  Sustainable 
+approach to assess physical climate-related risks 
+Rating Integrator (SRI), which is a platform where 
+is applied to dedicated climate strategies. The 
+every team can find ESG ratings in addition to 
+investment portfolio is exposed to both acute 
+financial and non-financial relevant information. 
+and chronic climate hazard through depending 
+on a company’s sector and geography, where 
+ESG rating methodology   increasing  climate  hazards  could  significantly 
+for sovereign issuers impact the financial performance of sectors that 
+are heavily exposed to these risks.
+As with corporate issuers, Amundi’s ESG rating 
+methodology for sovereign issuers is summarized  Amundi’s approach to assess physical climate risk 
+in a rating ranging from A to G, with A scoring  is based on data and methodology developed 
+the highest. ESG risks can indeed affect global  by Trucost, an ESG provider. Each company’s 
+stability and it is important for investors to be able  vulnerability to physical climate risks are analysed 
+to measure countries’ ability to manage these, in  and is used to calculate Amundi’s risk exposure 
+addition to assessing their ability to repay its debt. by  way  of  its  portfolio.  Trucost  data  maps 
+30| 2020 Climate Report
+companies’ physical assets’ geographic location   
+against seven climate hazards – fire, cold wave,   
+Energy Transition (TE) Rating
+heat  wave,  sea  level  rise,  flood,  tornado,  and 
+drought – to analyse their sensitivity to these 
+At Amundi and across other Crédit Agricole Group 
+various risks. 
+entities, the Energy Transition (TE) rating has been 
+developed for the assessment of a portfolio carbon 
+footprint. 
+Processes to identify and manage 
+market and transition climate-related  Calculated for each individual issuer, the TE rating 
+assesses, in addition to the exposure to the climate 
+risks
+transition risk, its ability to anticipate and manage 
+this  risk.  For  example,  a  company  significantly 
+Transition  risks  are  completely  integrated  in 
+involved in activities that pose a material climate-
+Amundi’s ESG methodology. These risks are likely 
+related risk with no divestment strategy may receive 
+to arise as sectors and companies undergo a 
+a low TE rating of E or below. In contrast, an issuer 
+systemic shift to toward a low-carbon economy, 
+that has identified a climate-related transition risk 
+with the aim to limit emission levels to below 
+may receive a higher TE rating if there is a clear 
+2°C levels in alignment with the net-zero targets.  strategy to manage the risk. 
+Transition risks can indeed materialize in the short 
+Amundi uses open-source data to achieve this 
+to long term as a result of a change of government 
+assessment, for example using the Science-Based 
+policies  and  regulation,  innovative  technology,  Target Initiative database, and metrics such as 
+research,  and  development  and  changing  carbon emissions, carbon intensity, as well as green 
+consumer behaviour. Energy transition risks can  and brown targets. This additional layer allows to 
+result from a host of CO2-related regulations,  account for an issuer’s understanding and strategy 
+which are likely to increase compliance costs in  to mitigate the risk and is thus an important factor 
+the short to medium term.  to consider for Amundi’s investment portfolio. 
+Transition risk identification process: 
+portfolio carbon footprint Strengthened integration  
+of temperature ratings
+Climate  transition  risks  identified  by  Amundi 
+follow three key steps: To further reinforce the assessment of climate 
+transition  risks,  Amundi  performs  a  Paris 
+1. M  easure the carbon exposure of assets using 
+Alignment analysis of its investment portfolio. 
+Trucost  data,  a  trusted  carbon  data  provider. 
+To  do  so,  the  IEA’s  Sustainable  Development 
+Amundi  follows  a  carbon  footprint  approach 
+Scenario is used along with the IEA’s base case 
+that measures the COe/M€ invested in Amundi’s 
+2 scenario,  and  sector-specific  carbon  budgets 
+portfolio, for both equity and fixed income.
+are used to compare with a company’s emissions 
+2.  Along  with  the  other  Crédit  Agricole  Group 
+trajectory. Amundi regularly monitors the deve-
+entities, Amundi develop an Energy Transition 
+lop ment of emerging approaches, which have not 
+(TE) rating. This rating combines a company’s 
+yet stabilized.
+exposure to energy transition risks with their 
+ability and effort to both anticipate and manage  In  an  effort  to  improve  the  management  of 
+this risk.  portfolio  climate  transition  risks,  Amundi  also 
+3.  Finally,  Amundi  goes  beyond  this  rating  by  draws  on  temperature  scores  developed  by 
+conducting Paris Alignment analysis on the  several providers, including Trucost, Iceberg Data 
+investment  portfolio  using  a  2°C  approach,  Lab and CDP. These three providers have differing 
+through the use of data providers. methodologies and data collection scopes, for 
+example  in  the  inclusion  of  companies’  past 
+emission trends in addition to carbon reduction 
+targets, credibility discounts, and treatment of 
+non-disclosure. Amundi has chosen to include 
+this variety of methodological differences to best 
+2020 Climate Report |31
+assess portfolio temperatures. In 2020, Amundi  is one of its key transition risk mitigation 
+was the first asset manager to engage with CDP  policies and is based on scientific research 
+(formerly Carbon Disclosure Project) and integrate  and recommendations using IEA scenarios, 
+its  new  temperature  rating  methodology  and  Science-Based Targets and Climate Analytics 
+data in its ESG analysis. Co-developed with the  as well as Trucost data. For passive funds 
+WWF, CDP’s temperature ratings measure the  specifically, the ESG ETFs and ESG index 
+value chain global warming path of over 4,000  funds generally apply the coal exclusion, 
+global companies by transforming information  except for very concentrated indices. While 
+like emissions targets into temperatures, allowing  this is more challenging to achieve for non-
+investors to better manage climate transition risks  ESG passive funds due to the necessity to 
+in their portfolios. These have so far been released  be aligned with index benchmarks, Amundi 
+on four of Amundi’s equity funds and is used  has committed to strengthen engagement 
+by CPR to calculate temperatures linked to the  and voting for issuers included in passive 
+emission trajectory of the companies in the fund’s  funds that would have been excluded if rated 
+portfolio. The use of CDP temperature ratings, in  following the active management approach; 
+addition to existing Iceberg Data Lab and Trucost  – Mines and cluster munitions exclusion. In 
+ratings, has expanded Amundi’s array of tools to  line with the Ottawa and Oslo conventions: 
+prioritize and engage with companies, particularly  exclusion if the issuer is involved in the 
+in the setting of science-based targets.  manufacture, trading, stocking, or servicing of 
+anti-personnel mines or cluster munitions;
+– Weapons exclusion. Amundi excludes 
+Management of ESG  
+businesses producing, stocking, or marketing 
+and climate-related risks  chemical, biological and depleted uranium 
+weapons.
+Exclusions
+Focus on partnerships and research 
+collaborations
+To ensure that the most severe ESG risks are 
+anticipated, a set of criteria to negatively rate 
+At Amundi, partnerships with public institutions 
+and possibly exclude companies is integrated in 
+are key to driving the development of innovative 
+Amundi’s  active  management  strategy.  These 
+solutions to catalyse capital to climate-related 
+criteria, which are integrated in Amundi’s ESG 
+objectives.  Amundi’s  partnerships  with  the 
+ratings,  allow  us  to  engage  with  the  issuers 
+International  Finance  Corporation  (IFC)  on 
+and potentially exclude them if they score G on 
+the launch of a USD 2 billion emerging green 
+the rating system. These include social criteria 
+bond fund and the European Investment Bank 
+such as the respect of human rights and acute 
+(EIB) on an energy transition project fund are 
+environmental degradation (discussed in further 
+examples  of  recent  collaborations  with  public 
+detail in Section 2):
+sector  institutions.  The  AIIB-Amundi  Climate 
+– Exclusion of companies that commit a breach  Change Investment Framework developed with 
+of the United Nations Global Compact 10  the Asian Infrastructure Investment Bank (AIIB) 
+Principles by repeating serious human rights  in 2020 is an innovative holistic approach, built 
+violations without showing that they are taking  on the Paris Agreement, to building climate risk-
+measures to modify this behaviour; resilient portfolios. A full list of charters Amundi 
+– Tobacco exclusion. Amundi has enforced its  is involved in can be found in CSR Report 2020. 
+tobacco exclusion policy as a consequence of  To encourage better disclosure from companies 
+the activity’s many adverse health, social and  in its investment universe, Amundi has supported 
+environmental impacts; CDP by sending letters during the data collector’s 
+annual  non-disclosure  campaign.  This  reflects 
+– Thermal coal exclusion. Amundi’s thermal 
+Amundi’s firm belief that proper disclosure is a 
+coal exclusion strategy, which has been in 
+cornerstone of asset managers’ ability to assess 
+place since 2016 and improved annually, 
+climate-related risks.
+32| 2020 Climate Report
+Furthermore,  Amundi  is  strongly  engaged  in  ESG and climate-related risks 
+research on climate-related risk management. 
+integrated into Amundi’s 
+In 2020, Amundi co-authored the book Green 
+Swan  –  Central  banking  and  financial  stability  enterprise risk management 
+in the age of climate change with the Bank for 
+processes 
+International  Settlements,  Banque  de  France 
+and  Columbia  University.  The  book  examines 
+Processes  to  identify,  assess  and  respond  to 
+the  potential  severe  disruption  to  financial 
+ESG risks and opportunities are fully integrated 
+markets  caused  by  climate-related  events.  It 
+into  Amundi’s  company-wide  management 
+explores the methodological issues surrounding 
+processes. Amundi has taken the commitment 
+the integration of climate-related risks into risk 
+to  integrate  ESG  criteria  into  the  investment 
+management practices, which has so far followed 
+process of actively managed open-ended funds*, 
+a traditional approach using historical data and 
+with  an  objective  to  maintain,  in  addition  to 
+following a normal distribution. Discussing the 
+financial objectives, portfolio average ESG scores 
+current use of forward looking, scenario-based 
+above the average ESG score of their respective 
+approaches,  authors  conclude  that  these  do 
+investment universe. To achieve this, Amundi has 
+not  yet  overcome  the  intrinsic  challenges  of 
+worked to integrate climate-related risks in at all 
+probabilistic approaches and will not be enough 
+investment and risk levels.
+to hedge against green swan events. 
+Amundi has also contributed to other research  ESG Business Line 
+initiatives regarding climate-related risks:
+Amundi’s  ESG  Business  Line  is  an  expertise 
+– In 2021, Amundi published Measuring 
+centre  that  provides  ESG  rating,  assessment 
+and pricing cyclone-related physical risk 
+and scoring methodologies as well as qualitative 
+under changing climate, which develops 
+analysis. A large perimeter of listed companies 
+a methodology to quantify the financial 
+and issuers are evaluated based on a proprietary 
+implications associated with the physical 
+ESG rating methodology described in the section 
+risks of tropical cyclones, by providing an 
+“ESG Analysis”. It also provides research, support, 
+integrated cyclone generation approach 
+and knowledge transfer to the investment hubs 
+combined with combining sovereign risk 
+across the firm. All team members collaborate 
+exposure and vulnerability assessments to 
+with  investment  professionals  to  help  them 
+estimate the impact on bond spreads;
+integrate ESG into their investment processes 
+– In 2015, Amundi co-published an academic 
+and expertise.
+research paper, Hedging Climate Risk, 
+along with researchers at AP4 and Columbia  Furthermore,  ESG  analysis  is  embedded  into 
+University, which develops a strategy to enable  Amundi’s  portfolio  management  systems, 
+long-term passive investors to hedge climate  made available in real time in the fund manager’s 
+risk while significantly minimizing tracking  tools to provide them with a seamless access 
+error with respect to the benchmark index.  to corporate and sovereign issuers’ ESG scores 
+Finally, Amundi contributes actively to the Euro- alongside  financial  ratings.  Portfolio  Managers 
+pean Union Green Taxonomy Working Group, in  and  investment  analysts  from  all  investment 
+addition to the European Green Deal. While the  platforms have therefore access at all times to 
+EU Taxonomy represents a commendable effort  issuers’ ESG scores, and related ESG analytics 
+in  standardizing  categorization  of  activities,  it  and metrics. This set-up enables fund managers 
+is Amundi’s belief that the Taxonomy should be  to factor in Sustainability risks in their investment 
+more flexible in including new green technologies  decision  process  and  apply  Amundi  exclusion 
+and take into account social aspects, to ensure a  policy whenever applicable. They are also able to 
+fair and equal transition to a low-carbon economy. design and manage their portfolio in compliance 
+*All open-ended funds actively managed by Amundi to which an ESG-rating methodology can be applied.
+2020 Climate Report |33
+with  specific  ESG  rules  and  ESG  objectives  ESG rules are monitored by the Risk teams the 
+that  may  apply  to  the  investment  strategies  same way as any rule falling into their control 
+and products that fall under their remit. Tools  perimeter,  relying  on  the  same  tools  and  on 
+include the Sustainable Rating Integrator (SRI),  the same procedures. The ESG rules consist of 
+a proprietary platform that aggregates financial,  exclusion policies, as well as of eligibility criteria 
+extra-financial  and  ESG  ratings  data  and  is  and  rules  specific  to  funds.  Regarding  these 
+connected to Amundi’s risk control tools. rules, compliance controls are automated in a 
+proprietary compliance tool with pre-trade alarm 
+At risk level, ESG criteria are embedded within  or blocking alerts, notifying fund managers when 
+Amundi’s control framework, with responsibilities  potential breaches occur, and they are required 
+spread  between  the  first  level  of  controls 
+to bring portfolios back into compliance. This is 
+performed by the Investment teams themselves 
+in particular applied with regards to exclusion 
+and second level of controls performed by the 
+policies.
+Risk  teams,  who  can  monitor  the  compliance 
+with ESG objectives and constraints of a fund  Amundi  has  chosen  to  totally  integrate  ESG-
+at all time. The Risk department is part of the  related  matters  in  risk  management  teams. 
+“Responsible Investment” governance (described  In addition, Amundi sends out an annual ESG 
+in section “Dedicated Governance”). They oversee  questionnaire to companies as part of the due 
+the adherence to regulatory requirements and  diligence  process  for  private  equity  and  debt 
+management of risks related to these topics. issuers  for  which  data  is  not  available.  This 
+questionnaire  includes  questions  regarding 
+topics such as carbon footprint calculation and 
+coal activities.  
+34| 2020 Climate Report
+04
+Metrics and Targets
+2020 Climate Report |35
+Metrics and Targets
+Amundi has determined metrics and targets to effectively identify, qualify 
+and manage climate-related risks and opportunities. Using a wide range of 
+metrics, Amundi is able to set targets in the short, medium, and long-term. 
+In the past year, Amundi has worked to increase the variety of metrics used to integrate climate-related 
+risks and opportunities. These include portfolio temperature scores and Paris Agreement alignment 
+metrics, in addition to green and brown share metrics. As complementary tools to carbon footprint 
+transition risk calculations, introducing these new indicators will provide Amundi a more forward-
+looking and complete perspective of the climate-related investment portfolio performance. Amundi is 
+indeed continuing to refine its approach by using a wide range of data providers and methodologies, 
+as well as participating in emerging methodologies such as the new temperature scores developed by 
+CDP and the WWF. 
+carbon  footprint  indicators:  carbon  emissions 
+Figure 1. Scope of AuM under analysis, by 
+in million euros invested, and carbon emissions 
+asset class (€M) as of December 31, 2020
+in  million  euros  of  turnover.  These  data  and 
+methodologies are used in the reporting of funds 
+Total: 959 €M
+and to inform Amundi’s strategy to reduce the 
+carbon footprint of the investment portfolios. 
+Other* 
+115
+Fixed  Measuring company emissions
+Income 
+Equity  331
+Amundi  uses  companies’  carbon  emissions  to 
+267
+estimate the carbon footprint of equities and bonds 
+issued by private issuers companies and financial 
+companies. Trucost data and methodology is used 
+FI-Govies 
+in order to measure the portfolio’s greenhouse gas 
+246
+emissions. See Figure 2 for a breakdown of the 
+* Other govies, Convertible bonds, Forex, Money Market, OTC, 
+Figure 2. Carbon footprint of corporate 
+Reference Entity, Term deposit.
+issuers by asset class (tCO e/€M invested)
+2
+Total: 
+200 175 tCO2e/€M invested
+Carbon footprint of portfolios 
+8
+Other Corporates
+under management:  
+150
+figures and tools 57 Fixed Income
+Amundi’s ESG analysis to measure the carbon 
+100
+footprint of corporates relies on private issuers’ 
+carbon emissions data from Trucost, the global 
+110 Equity
+leader  in  environmental  and  climate  data.  If 
+50
+necessary, data gaps are supplemented by data 
+from  the  parent  company.  Rateable  portfolio 
+assets (excluding derivatives or securities issued  0
+by States, for instance) are used in calculating the  Other: Convertible bonds, Forex, Money Market, OTC, Reference 
+Entity, Term deposit. EcoAct based on Amundi analysis and Trucost 
+portfolio carbon footprint. Amundi develops two 
+data.
+As of December 31, 2020 - Covered perimeter: Please refer to Fig.1
+36| 2020 Climate Report
+portfolio carbon footprint, by GHG intensity, and  With  respect  to  greenhouse  gas  emissions, 
+Figure 3 for the coverage of the carbon footprint. the scope of analysis across equity, bond and 
+diversified funds includes the following emissions 
+(see Figure 4):
+Figure 3. Coverage of carbon footprint  
+by asset class (% of Total AuM) – Scope 1: Direct emissions originating from 
+sources owned or controlled by the company;
+– Scope 2: Indirect emissions from energy 
+purchases (electricity, heat, etc.);
+Fixed Income 53
+– Scope 3 Upstream: Emissions from indirect 
+upstream activities. 
+Amundi’s methodology is based on the Green-
+Equity 97 house Gas Protocol, and includes the follo wing 
+GHG emissions: carbon dioxide (CO2), methane 
+(CH4), nitrous oxide (N2O), hydrofluoroc arbons 
+(HFCs),  perfluorocarbons  (PFCs),  and  sulfur 
+Other
+46
+Corporates hexafluoride (CF6).
+0 20 40 60 80 100
+EcoAct based on Amundi analysis and Trucost data. 
+As of December 31, 2020 - Covered perimeter: Please refer to Fig.1
+Figure 4. Amundi’s carbon footprint perimeter
+CO2 CH4 N2O HFCs PFCs SF6
+Scope 2 Scope 1 
+INDIRECT DIRECT
+Scope 3 Scope 3
+INDIRECT INDIRECT
+Purchased goods
+and services Company 
+facilities
+Transportation 
+Pstueracmha, sheeda teinlegc t&ri city,  Leased  and distribution Investments
+Capital goods cooling for own use assets
+Company 
+Employee  vehicles Processing  Franchises
+commuting of sold products
+Fuel and energy 
+related activities
+aTnrda ndsipstorribtauttiioonn Waste  Butrsainveesls  Upsero odfu scotlsd  End-of-life  Laesasseetds 
+generated  treatment of 
+in operations sold products
+Upstream activities Reporting company Downstream activities
+Source: Greenhouse Gas Protocol
+2020 Climate Report |37
+Measuring country emissions A large portion of fixed income is not covered 
+due to the large portion of supra- and para- 
+Furthermore,  Amundi’s  methodology  is  based  public entities. 68% of Govies in the portfolio 
+on  a  Consumption  Based  Carbon  Accounting  were covered for the calculation of the carbon 
+(CBCA)  approach,  which  includes  both  direct  footprint in Figure 5.
+domestic emissions and indirect, imported and 
+exported emissions. This approach was chosen 
+Figure 6. Amundi’s approach to estimate 
+for its comprehensiveness and for its ability to 
+countries emissions
+factor in carbon leakage to emerging economies. 
+The State considered 
+as a regulator
+Figure 5. Carbon footprint –  
+Takes into account the impact 
+Govies (tCO e/€M invested) of the government on the 
+2 decisions of the economic 
+agents of a country
+600
+Consumption-Based Emissions
+500 Consideration of emissions 
+resulting from the ﬁnal use 
+of goods and services 
+in a national economy
+400
+Direct 
+Domestic emissions
+300 Emissions
+476 Govies
+Indirect (Imported Emissions – 
+200 Emissions Exported emissions)
+Possible denominators for 
+100 calculating carbon intensity
+- Public Debt
+- GDP
+0 - Population
+As of December 31, 2020 - Covered perimeter: Please refer to Fig.1 Source: Amundi
+Measuring portfolio alignment with decarbonisation scenarios
+SBTi alignment
+Figure 7. Outstanding aligned by scenario (M€ and % of total AuM ex-Govies)
+31,020 (5%)
+15,363 (2%)
+Fixed Income
+15,929 (2%)
+70,297 (10%)
+42,001 (6%)
+12,125 (2%)
+Equity
+10,295 (1%)
+35,880 (5%)
+1.5°C
+4,103 (1%) WB2°C
+1,115 (0%) 2°C
+Other
+2,143 (0%) Commitment
+21,157 (3%)
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000
+Source: EcoAct based on Amundi analysis and Science-Based Target initiative data 
+As of December 31, 2020 - Covered perimeter: Please refer to Fig.1
+38| 2020 Climate Report
+Amundi  calculates  the  alignment  of  portfolio  is calculated. To do this, Amundi’s approach is 
+companies using data from the Science Based  based on the Sectoral Decarbonization Approach 
+Targets  Initiative  (figure  7),  where  the  gap  (SDA), a method endorsed by the SBTi.
+between  company  and  benchmark  emissions 
+Temperature score metrics
+Figure 8. SB2A methodology to calculate 
+To calculate the portfolio’s alignment to Paris  temperature score
+Agreement  objectives  as  well  as  temperature 
+scores, Amundi follows Icerberg Data Lab’s SB2A  Historical carbon emissions of the issuer ISSUER 
+TEMPERATURE 
+methodology, resulting in a metric that indicates  Carbon reduction targets disclosed  SCORE
+by the issuer
+an  entity’s  alignment  to  Paris  Agreement 
+objective of limiting global temperature increase  Canodm cplaimriasoten  sbceetnwaerieons issuer trajectory  > 4°C
+to  well  below  2°C  when  compared  to  pre- Historical data and carbon reduction targets allow  3°C - 4°C
+to compute the carbon trajectory of an issuer.
+industrial levels. To obtain a temperature score,  Trajectory can be compared to overall climate 
+scenarios.  2°C - 3°C
+we compute a company trajectory based on its  This comparison with a climate scenario gives us 
+an implied temperature rise for a speciﬁc 
+past performance in terms of physical carbon  issuer trajectory. < 2°C
+intensity and its carbon reduction commitments. 
+Carbon 
+emissions
+This trajectory is compared to reference sectorial 
+scenarios to calculate an alignment metric under 
+the form of a temperature score (see Figure 8).
+2010 2020 2050
+Source: Amundi and Iceberg Data Lab data
+Figure 9. Temperature score of portfolio,   Figure 10. Coverage of portfolio temperature 
+by asset class, and index benchmark (°C) score (% of total AuM ex-Govies)
+Total temperature score: 2.84
+Fixed
+Income 2.84 Fixed Income 76
+Equity 2.84
+Equity 89
+Other 2.84
+Other 77
+MSCI
+World 2.97
+Index
+65 70 75 80 85 90
+2.6 2.7 2.8 2.9 3.0 3.1 3.2
+Temperature coverage (%)
+Temperature, Iceberg Data Lab (°C)
+Source: EcoAct based on Amundi analysis and Iceberg Data Lab data  Source: EcoAct based on Amundi analysis and Iceberg Data Lab data 
+As of December 31, 2020 - Covered perimeter: Please refer to Fig.1 As of December 31, 2020 - Covered perimeter: Please refer to Fig.1
+Temperature scores have been adopted as a key  Amundi’s temperature scores are derived from 
+tool for investors to align investment portfolios  those developed by Iceberg Data Lab (Figure 9 
+with the goal of net zero global emissions by 2050.  and 10), as well as CDP and Trucost.
+2020 Climate Report |39
+Amundi  has  worked  to  increasingly  integrate  Amundi uses temperature scores for monitoring, 
+criteria based on company trajectory metrics and  to  compare  against  benchmark  temperatures 
+temperature scores into responsible investment  and ensure that the portfolio temperature scores 
+strategies, used as a complement to other climate  remain below. 
+data and indicators. 
+Amundi  analysis  indicates  that  maintaining 
+Based on Iceberg Data Lab’s SB2A Approach,  portfolio temperature scores below 2°C or 1.5°C 
+these  temperature  scores  are  calculated  by  remains a challenge. Iceberg Data Lab metrics 
+estimating  the  impact  on  temperature  of  the  show that more than 60% of companies in the 
+cumulated  emission  gap  calculated  for  the  MSCI  World  index  have  temperature  scores 
+alignment metric (Figure 9 and 10). These are then  ranging from 2.5°C to 3.5°C (as of 10/03/2021). 
+used in conjunction with other metrics to define  While  Amundi’s  portfolio  temperature  score 
+a strategy: for example, a company performing  remains below the MSCI World index, it remains 
+poorly on temperature scores may be downrated  above the reference scenario of 2°C.
+and excluded from the portfolio. Furthermore, 
+Green/brown share
+Figure 11. Green and brown share of revenue, 
+adjusted by data coverage (% of revenue)
+To measure the green and brown shares of the 
+investment portfolio – with the former invested 
+Green share 6
+into activities that contribute positively to Paris 
+Brown share* 2
+Agreement objectives, while the brown share of 
+the portfolio is said to contribute negatively – 
+Amundi relies on methodologies developed by 
+three data providers: MSCI, FTSE and Trucost. To 
+calculate the green share, the activities of issuers 
+in the portfolio are categorized as “green” – and 
+conversely for the brown share*. This breakdown 
+is  illustrated  in  Figure  11  as  a  percentage  of 
+revenue with the addition of a “other ” share,  Other 
+92
+which corresponds to data that could not be 
+categorized as green or brown. 
+* Brown share: This criteria encompasses all thermal coal related activities  Source: EcoAct based on Amundi analysis and MSCI/FTSE/Trucost data. 
+(mining and power generation) as well as the production and exploration  As of December 31, 2020 - Covered perimeter: Please refer to Fig.1
+of oil & gas and fossil fuel related power generation.
+40| 2020 Climate Report
+Table of indicators
+Table for reference as disclosed in Amundi 2020 Universal 
+Registration Document
+Responsible Finance Indicators Unit 2020 2019 2018
+Total assets under management € billion 1,728.8 1,653.4 1,425.1
+Assets under management € billion 378.3 323.5 275.8
+Multi-ESG integration solutions € billion 355.9 310.9 267.3
+Responsible 
+Specific solutions related to 
+investment € billion 21.9 12.3 8.2
+Environment and Social features
+Fund "Finance et Solidarité" € million 331 256 219
+Issuers rated on ESG criteria Number > 10,000 > 8,000 > 5,000
+Number of issuers excluded Number 617 319 214
+ESG analysis Specialists in ESG Analysis, Voting and 
+Number 24 20 18
+Quantitative Analysis
+Commitment with issuers Number 871 - -
+Assets subject to a carbon footprint 
+€ billion 574.33 545 479.1
+calculation
+Assets carbon 
+Carbon emissions in million euros  
+footprint of the  tCOe 243.82 254.2 231.3
+of revenue 2
+portfolios
+Carbon emissions in millions  
+tCOe 147.19 149.1 151.4
+of euros invested 2
+Portfolios’  Weighted exposure of portfolios € billion 0.6702 1.006 -
+exposure to   Proportion of portfolios exposed  
+% 0.07 0.09 -
+thermal coal to thermal coal
+Methodology and scope for calculating the carbon footprint of 
+portfolios under management
+Amundi has retained the provider Trucost for  For public issuers, this data relates to domestic 
+carbon emission data (expressed in tonnes of  emissions  (territorial  emissions)  and  emissions 
+CO e) from private and public issuers. resulting  from  international  trade  (imported 
+2
+emissions – exported emissions). 
+For private issuers, this data relates to scopes 
+1 and 2 and a part of scope 3 corresponding to  The calculation of a portfolio’s carbon footprint 
+indirect emissions related to the first-tier suppliers  initially  consists  of  calculating  the  amount  of 
+(“Scope 3 upstream first tier”). The data received  rateable assets in the portfolio. Non-rated and 
+is then incorporated into the Amundi information  non-rateable  securities  (securities  issued  by 
+system and assigned to an issuer. For companies  States, derivatives, UCITS-type funds, etc.) are 
+for which we have not received a value from  excluded. The amount of rated assets is then 
+Trucost,  these  are  supplemented  by  inherited  determined,  i.e.  the  amount  of  the  assets  for 
+data from the parent company, where applicable.  which we have Trucost data.
+2020 Climate Report |41
+Carbon emissions in million euros invested for corporate issuers
+This indicator is used to quantify the carbon emissions resulting from the investment in the portfolio.  
+It is calculated according to the following formula:
+Portfolio’s emissions       (           t  C   O   2  e          )   =  ni  Company's emissions in the portfolio (tCO2e)
+€m invested Rated portfolio assets (€m)
+with:
+Company's emissions in the portfolio(tCO e) = Participation share (%) × Company's emissions (tCO e)
+i  2 i i 2
+And
+Amount invested in a company (shares or debt) (€m)
+Participation share (%)  = i
+i Company value (shares+debt) (€m)
+i
+Carbon emissions in million euros invested for sovereign issuers
+This indicator is used to quantify the carbon emissions resulting from the investment in the portfolio.  
+It is calculated according to the following formula:
+( tCO e ) ni  Country's emissions in the portfolio (tCO e)
+Portfolio’s emissions                 2             =   2
+€m invested Rated portfolio assets (€m)
+with:
+Country's emissions in the portfolio = Participation share (%) × Country's emissions (tCO e)
+i i i 2
+And
+Amount invested in country  (€m)
+Participation share (%)  = y
+i Company public debt (€m)
+y
+Carbon emissions in million euros of turnover for corporate issuers
+This indicator is used to quantify the carbon intensity of the value chain of issuers in the portfolio.  
+It is equal to the weighted sum of the carbon footprints of the securities of wich it is comprised, i.e.:
+Portfolio’s emissions (tCOe/€m of revenue) =  ni  Company's relative overall weighting in the portfolio(%) xCompany's emissionsi (tCO2e)
+2 i  Revenue (€m)
+i
+42| 2020 Climate Report
+Methodology for calculating the coal exposure of portfolios 
+under management 
+Based on data supplied by Trucost, Amundi identifies the issuers having activity (electricity generation, 
+extraction) linked to thermal coal.
+In the absence of Trucost data, a rate of 0% is allocated to companies not identified as being linked 
+to coal (as a result of the sector in particular) or otherwise the percentage declared by the company 
+(public report, website or direct information).
+Two indicators are calculated, the methodology of which is detailed below:
+Weighted exposure of portfolios in billions of euros
+For each of the issuers identified, its coal exposure (i.e. the percentage of revenue from coal-related 
+activities) is multiplied by the amount invested in the company in question:
+ni  Company’s exposure (€) x X% of coal in the sales revenue of the company
+i i
+Proportion of portfolios exposed to thermal coal as %
+The weighted exposure of portfolios is compared to the total amount of Amundi Group investments  
+in order to calculate the share of portfolios exposed to thermal coal:
+ni  Company’s exposure (€) x X% of coal in the sales revenue of the company
+i i
+Total amount of Amundi Group investments
+These methodologies apply to the perimeter of assets covered  
+in the Amundi 2020 Universal Registration Document
+This report was written in partnership with EcoAct, an Atos company.  
+EcoAct is an international climate consultancy and project developer.
+2020 Climate Report |43
+This document is not intended for citizens or residents of the United States of America or to any “U.S. Person”, as this term is defined in SEC Regulation S under the 
+U.S. Securities Act of 1933.
+This material is communicated solely for information purposes and neither constitutes an offer to buy, an investment advice nor a solicitation to sell a product. This 
+material is neither a contract nor a commitment of any sort.
+The information contained in this material is communicated without taking into account the specific investment objectives, financial situation or particular need of 
+any particular investor.
+The provided information is not guaranteed to be accurate, exhaustive or relevant: although it has been prepared based on sources that Amundi considers to be reliable 
+it may be changed without notice. Information remains inevitably incomplete, based on data established at a specific time and may change.
+All trademarks and logos used for illustrative purposes in this document are the property of their respective owners.
+Amundi accepts no liability whatsoever, whether direct or indirect, that may arise from the use of information contained on this material. Amundi can in no way be 
+held responsible for any decision or investment made on the basis of this information.
+Investment involves risk. Past performances and simulations based on these, do not guarantee future results, nor are they reliable indicators of futures performances.
+The information contained in this material shall not be copied, reproduced, modified, translated or distributed without the prior written approval of Amundi, to any 
+third person or entity in any country or jurisdiction which would subject Amundi or any of its products, to any registration requirements within these jurisdictions or 
+where it might be considered as unlawful.
+Amundi Asset Management, French “Société par Actions Simplifiée”- SAS with capital of €1 086 262 605 - Portfolio ManagementCompany approved by the AMF 
+under number GP 04000036 - Registered office: 90, boulevard Pasteur - 75015 Paris – France - 437 574 452 RCS Paris. www.amundi.com
+The information contained in this document is deemed accurate as at July 2021.
+Design and production: Studio Graphique Amundi - Direction de la Communication - Design: Atelier Art’6 - 10/2021.
+amundi.com

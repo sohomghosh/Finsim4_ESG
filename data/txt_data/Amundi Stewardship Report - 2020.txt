@@ -1,0 +1,2822 @@
+
+Stewardship Report   
+2020
+This Report aims to comply with the EFAMA Stewardship Code  
+and the relevant codes and principles for Australia, Canada, Italy, 
+Japan and the UK.
+Material reserved for professional investors only
+Preface
+Amundi and stewardship
+ESG and stewardship have been a core part of Amundi’s investment approach since creation.
+We fully acknowledge our role as stewards on behalf of our clients, working to maintain and increase the value 
+of assets in which we invest for them, and using the full range of rights and influence that investment brings 
+to help us to do so effectively. We recognise the role that finance can play in delivering real world impacts, 
+and look to minimise harms and to work to address key issues, in particular the two major contemporary 
+challenges: climate change (visible in the climate transition and the need to protect ecosystems), and social 
+cohesion and fairness. 
+We therefore welcome the development of Stewardship Codes around the world, and the recommendation of 
+the Shareholder Rights Directive II that each EU country should have its own such Code. We see Stewardship 
+Codes as an important reminder to institutional investors of the influence that they wield and the need for them 
+to wield it wisely to deliver real world outcomes that operate in the interests of their clients and beneficiaries. 
+We seek to adhere not just to the words of those Codes but also to their spirit. 
+This report sets out our response to the requirements of a number of different Stewardship Codes, and we 
+believe that it is a full answer to the questions that each Code raises. As an appendix, we provide a guide to how 
+this report delivers on the expectations of the EFAMA Stewardship Code, and the relevant codes and principles 
+for Australia, Canada, Italy, Japan and the UK. 
+2 | Stewardship Report 2020
+Introduction
+Foreword 
+“Amundi believes that having a strong stewardship policy and making a positive 
+contribution to society’s key global challenges is part of its fiduciary duty as a 
+responsible asset manager. Since 2015 in particular, progressive alignment with 
+the framework set out in Paris Agreement has been paramount to our overall 
+strategy and relationship with the companies we invest in. 
+As stewards on behalf of our clients, we use Amundi’s influence as a Global 
+Asset Manager to seek to deliver real world impact. We integrate ESG risks and 
+opportunities in our investment decisions, engage with companies on ESG issues, 
+and take ESG considerations into account in our voting activities. We believe 
+these actions not only drive long term value for our clients’ portfolios, they 
+provide an impetus for positive change in our society. We focus our efforts on two 
+major contemporary challenges: climate change (visible in the climate transition 
+and the need to protect ecosystems), and social cohesion and fairness.
+The socioeconomic inequalities exacerbated by the Covid-19 crisis is a brutal 
+reminder that all around the world, vulnerable populations, companies and 
+countries, are extremely sensitive to shocks. This pandemic also highlighted 
+the fact that international collaboration and solidarity are the only effective 
+responses to address global challenges. This is applicable to governments, but 
+also to the private sector and the financial community above all.
+For the companies we invest in, adapting their business models to the climate 
+challenge as well as aligning with the Paris Agreement is not just desirable 
+anymore, but a necessity to ensure long-term growth and profitability. 
+Furthermore, in the context of the current pandemic, equitable sharing of added 
+value is more important than ever: there will be no profitable companies in which 
+to invest on a planet ravaged by climate change, or in societies torn apart by 
+inequality. Asset managers cannot be a substitute for government and public 
+authorities however, we have an important role to play.
+It is not easy to foster positive change. We aim to play our part through the 
+active dialogue we have with the companies we invest in as well as through 
+our voting activity. We shall be modest. Ultimately, these companies are 
+the real manufacturers of a fair transition and we cannot replace the role of 
+company management. Nevertheless, we hope to contribute positively to this 
+transformation through our responsible climate and social stewardship.”
+Jean-Jacques Barberis
+Executive Committee Member, 
+Head of ESG
+3 | Stewardship Report 2020
+Index
+Amundi and ESG: our philosophy and approach..............................................................................................................................................................................................5
+– Ongoing improvement: our three-year action plan.....................................................................................................................................................................................7
+Tailoring our approach to client needs ............................................................................................................................................................................................................................8
+– Understanding and responding to specific client needs .....................................................................................................................................................................9
+– Reporting openly and transparently to our clients .....................................................................................................................................................................................11
+How our structures support and enable ESG and stewardship work ..............................................................................................................................13
+– Review and assurance of our ESG approach ......................................................................................................................................................................................................15
+– Conflicts: how we ensure client interests always come first .......................................................................................................................................................16
+– Resourcing of ESG: our team, training and skills ...........................................................................................................................................................................................17
+– Incentives and ESG ...................................................................................................................................................................................................................................................................................18
+– Resourcing of ESG: external research providers ..........................................................................................................................................................................................18
+Integrating ESG into our analysis and investment processes ..................................................................................................................................................20
+– Exclusionary approach.......................................................................................................................................................................................................................................................................23
+– Enhancing investment integration: 2021 ambitions and climate .........................................................................................................................................24
+– Compliance with constraints .....................................................................................................................................................................................................................................................25
+Active and value-focused engagement ......................................................................................................................................................................................................................26
+– Thematic engagements ....................................................................................................................................................................................................................................................................28
+– Ongoing engagements ......................................................................................................................................................................................................................................................................33
+– Collaborative engagements ......................................................................................................................................................................................................................................................34
+– Escalated engagements...................................................................................................................................................................................................................................................................36
+Considered and intelligent voting .......................................................................................................................................................................................................................................37
+– Top level voting statistics for 2020 .................................................................................................................................................................................................................................37
+– Voting oversight and process ..................................................................................................................................................................................................................................................38
+– Pre-AGM dialogue statistics .......................................................................................................................................................................................................................................................38
+– Application of voting approach............................................................................................................................................................................................................................................39
+Promoting long-termism in markets ................................................................................................................................................................................................................................42
+– Active participation with regulatory bodies  .....................................................................................................................................................................................................42
+– Further industry organisations of which Amundi is an active member  .................................................................................................................44
+– Recent ESG and Stewardship collaborative statements .................................................................................................................................................................45
+– Support for research into responsible investment matters ........................................................................................................................................................45
+Appendix 1 ............................................................................................................................47 Appendix 4 .........................................................................................................................50
+Delivery against the expectations of the EFAMA  Delivery against the expectations of Assogestioni’s 
+Stewardship Code 2018 Italian Stewardship Principles 2016
+Appendix 2 ...........................................................................................................................48 Appendix 5 .............................................................................................................................51
+Delivery against the expectations of Australia’s  Delivery against the expectations of Japan’s 
+Financial Services Council Standard 23 Principles of  Stewardship Code 2020
+Internal Governance and Asset Stewardship 2017
+Appendix 6...........................................................................................................................52
+Appendix 3 ...........................................................................................................................49 Delivery against the expectations of the UK 
+Delivery against the expectations of the Canadian  Stewardship Code 2020
+Coalition for Good Governance’s Stewardship 
+Principles 2017
+4 | Stewardship Report 2020
+Amundi and ESG: our philosophy  
+and approach
+Amundi is the leading European asset manager, and seeks to be a trusted partner that acts every day in the 
+interest of its clients and society. Our ability to earn the trust of a wide variety of private and institutional 
+investors all over the world has led us to have a global client base of over 100 million retail clients through 
+our distribution partners as well as our direct institutional and corporate clients.
+ESG has always formed a key part of our values and  Since its creation in 2010, from the merger of Crédit 
+has been built in to Amundi from the company’s  Agricole’s fund management business with that of 
+creation. We are 70% owned by Crédit Agricole (CA),  Société Générale, Amundi has always been a pioneer 
+France’s largest bank and insurer. CA was founded by  in  ESG.  Responsible  investment  was  one  of  our 
+French farmers as a cooperative and a mutual financial  founding pillars and remains central to our approach, 
+institution more than a century ago. We are proud of  a core commitment of our ongoing strategy. This 
+this heritage, which makes it natural for Amundi to  commitment  is  reflected  both  in  our  responsible 
+think first of clients’ best interests and to be responsive  investment process and the solutions range Amundi 
+to social needs and the environment. Our role is to  has developed, helping clients define and implement 
+deliver long-term value for our clients while being  their own approach to responsible investment.
+conscious of the needs of the world around them.
+Our core investment beliefs are founded on the understanding that long-term and sustainable success lies in 
+collective effort and solid processes. Those beliefs are:
+“In a non-stationary world,  “Investing for the long term  “Risk is multi-faceted”
+Investment theory is a support  is an advantage” Risk goes beyond market risk 
+not a dogma” Risk Premia are an important  to encompass other dimensions 
+Economic and financial models  source of growth to be captured  such as liquidity, credit or 
+should be used with a clear  over the long term reputation
+awareness of their limits
+“Long-term & sustainable  “Optimality is not universal”
+“Only a prepared mind can  success lies in collective effort  Opportunities should be 
+react” & solid processes” assessed within the investor’s 
+Investment requires the  Teamwork and idea cross- context
+adaptation of widely-accepted  fertilization are sources of added 
+assumptions to navigate  value “Value creation goes beyond 
+increasingly frequent markets  performance”
+disruptions Being asset owners and 
+managers brings responsibilities
+Understanding that risk is multi-faceted (and operates  Furthermore, our view that value creation goes beyond 
+over different time-periods), and that investing for the  performance requires us to consider major systemic 
+long term is an advantage, makes the integration of  risks, such as climate change and growing inequalities. 
+ESG into our investment approach a natural element  We recognise our responsibility to contribute to efforts 
+of these beliefs. Our investment teams look beyond  to address systemic issues, as well as to efficiently 
+market risk, recognising that risk encompasses credit,  allocate  capital  for  the  future.  Our  role  in  raising 
+liquidity,  or  reputational  risks,  as  well  as  ESG  risk  standards, not least in terms of ESG performance by 
+generated by a company’s activities. They analyse this  the companies in which we invest, is a key part of this 
+range of risks with the support of an independent risk  responsibility. In general, we recognise that the private 
+department with a broad scope, and an ESG team that  sector  must  integrate  environmental,  societal  and 
+accesses specialist research and can provide its own in- governance issues for four main reasons:
+depth analysis of ESG risks likely to impact portfolios. 
+5 | Stewardship Report 2020
+1.  In a more liberal economy, economic and financial actors have a greater responsibility towards society.
+2.  As long-term investors, asset managers have a major role to play in directing capital towards. Such as 
+projects related to the energy transition. 
+3.  We must also influence the strategies of companies, especially when we are among their main 
+shareholders. ESG is a means of channelling money to the leading actors on these criteria, or on the 
+contrary to put pressure on laggards, as part of a constructive dialogue.
+4.  We have a responsibility to our customers: we must deliver performance over the long term. And in a 
+world where intangible assets represent an important part of the overall valuation of companies, ESG 
+makes it possible to capture the decisive criteria over the long term.
+The third item here makes clear how central steward ship is to our ESG mindset, and to our overall investment 
+approach. We recognise that we are part-owners of the companies in which we invest and have an obligation 
+to influence their strategies towards approaches that more effectively take account of ESG issues. We seek 
+constructive dialogue to help drive change by laggards, and to support those which are already delivering 
+positively in terms of their ESG approaches.
+This mindset of long-term part-ownership and collaboration with our investee companies means that our 
+stewardship approach is framed by our understanding of five key factors:
+–  Integrated approach: social responsibility and  – Priority of major societal issues: we place 
+sustainability, just as much as governance, are  particular importance on (1) the energy transition 
+integral to an understanding of a company as  and decarbonisation; and (2) social cohesion 
+an operating business. Our focus on ESG factors  through fair treatment of the workforce (including 
+allows a holistic view of intrinsic value and long- issues such as pay ratios across each company, 
+term economic performance. employee share ownership and employee 
+– Regular dialogue: we maintain close contact with  involvement in corporate governance). These are 
+companies to understand their progress against  systemic risk issues that companies must take into 
+leading practice over time. We support companies  account.
+that improve over time and we recognise that not  – Pragmatic approach: we take account of each 
+everything can change at once. individual company’s specific context. The regula-
+– Transparency: our approach of dialogue and conti- tory, cultural or economic environment in which a 
+nuous progress presupposes relationships of trust  company operates can be decisive for some of its 
+with the companies in which we invest. This is built  choices, notably in societal areas.
+on foundations of transparency and honesty from 
+companies in their dialogue with us, and of our 
+own transparency to companies about our analysis 
+and the conclusions that we draw from it.
+We are confident that this approach leads over time to significant change at investee companies that is fully in 
+clients’ best interests as well as having positive real world impacts. Some examples of these positive successes 
+are discussed in detail in the engagement section of this report and in our annual engagement report available 
+on the website.
+6 | Stewardship Report 2020
+Ongoing improvement: our three-year action plan
+Though we believe that we are already delivering effectively in clients’ interests, we recognise that there is a 
+need to challenge ourselves towards constant improvement and that every ESG approach can be enhanced. 
+Therefore in October 2018, Amundi adopted an ambitious three year action plan to increase our commitment 
+to responsible investment.
+Under this action plan, by the end of 2021:
+– All actively managed open-ended funds will  – We will double the passive management 
+have to maintain a higher ESG score than their  footprint of our ESG approach by enhancing the 
+benchmark index. We will also work towards the  Responsible Investing ETF and open-ended index 
+adoption of ESG within passive management  funds range, implementing a systematic exclusion 
+strategies. of the worst-rated companies in all open-ended 
+– All securities held in Amundi portfolios and  funds and developing innovative ESG overlay 
+benchmark indices (more than 8000 companies)  solutions.
+will be covered by our ESG analysis. –  We will strengthen our ESG strategic advisory 
+– All of our votes (at around 3500 company general  activities for institutional clients and retail partners 
+meetings a year) will take account of our bespoke  to support them in their own initiatives on ESG 
+ESG analysis. matters.
+– We will accelerate our development of innovative  – We will share knowledge and best practices with 
+solutions for financing climate-positive  clients through our Amundi Executive Program.
+development and the energy transition. – Through the Medici Committee think tank, we will 
+– We will extend the reach of our social impact  continue to contribute to thought leadership on 
+investing approach from France to the rest  the major societal challenges confronting global 
+of Europe and will more than double current  businesses, and contribute to ongoing reflection 
+investment levels. about the principles, applications and impacts of 
+responsible investment.
+As can be seen from this table, we are making strong progress towards delivering on these ambitions ahead 
+of schedule:
+Objectives 2021 announced in 2018 Achievements as of december 2020
+ESG CAPABILITIES AMBITIONS
+Increase number of issuers covered 
+Analysis from 5,500 to 8,000 – Beyond the target: 11,000 issuers covered
+Systematically include ESG issues in voting  – 2 020: we voted in favor of 67% of the ESG shareholders’ 
+Engagement policy proposals (of which 86% in favor of the climate proposals)
+– A  mundi arguing in favour of including ESG criteria in 
+corporate officers’ variable remuneration
+ESG MAINSTREAMING AMBITIONS
+100% of open-ended funds* with an ESG  Operational set up made available beginning of 2021 across all 
+Active 
+score higher than that of their benchmark  investment platforms to enable portfolio managers to include 
+Management index an environmental and social impact analysis of the companies 
+in which we invest in their investment process, for 100% of our 
+open-ended funds*
+RESPONSIBLE INVESTMENT DEVELOPMENT
+Step up our specific Environmental and 
+Specific 
+Social initiatives, doubling assets under  € 21,9 bn as of end of December 2020
+initiatives
+management from €10bn to €20bn
+Increase our commitments to social and 
+€331 m AuM in the Amundi Solidarité Fund as of end of 
+Solidarity solidarity-based economy, increasing AuM 
+December 2020
+from €200m to €500m
+Strengthen our advisory role by helping 
+ESG Advisory Offering drafting is being finalized. 
+Advisory institutional investors to take into account 
+Deployment ongoing.
+ESG criteria
+* All open-ended funds actively managed by Amundi to which an ESG-rating methodology can be applied.
+7 | Stewardship Report 2020
+Tailoring our approach to client needs
+Geographical spread of our clients
+Europe ex-France and Middle 
+East client-base (€B)
+Retail 245
+Institutional 159
+Americas client-base (€B) Total 404
+Retail 45
+Institutional 19
+Total 64 French client-base (€B)
+Retail 141
+Institutional 792 Asia client-base (€B)
+Retail 253
+Total 933
+Institutional 45
+Total 298
+Global client-base (€B)
+Rest of the world client-base (€B)
+Retail 688
+Retail 5
+Institutional 1041
+Institutional 26
+Total 1729
+Total 31
+We are honoured by the trust that our clients place in us, and seek to act in a reputable way to deserve that 
+trust. We recognise the fiduciary duty placed on our shoulders by clients entrusting us with their money, and 
+we work to deliver on that duty by investing always with their long-term interests at heart. 
+As “Investing for the long term is an advantage” is one  – Broad best in class approach: we manage €356 
+of our core investment beliefs, we believe that all clients  billion that take into account E, S, and G criteria 
+benefit  from  our  long-term  investment  approach,  simultaneously in addition to traditional financial 
+looking out multiple years into the future  to deliver  analysis. These solutions meet the vast range 
+value for them. Hence, it is natural for us to consider ESG  of clients’ RI needs, objectives and motivations. 
+issues within all of our active engagement approaches  These solutions combine a best-in-class approach 
+given that these are factors with long-term impact that  (selecting within each sector the issuers with the 
+short-term markets often neglect. best ESG practices) with a unique engagement 
+approach.
+For all active management for which we have full 
+– Environmental solutions: solutions which support 
+discretion, we also apply a sectoral exclusion policy, 
+the energy transition and green growth total 
+and bar investment in assets from issuers that we 
+€22 billion. These solutions (low-carbon index 
+deem of lowest ESG quality (rated G in our A-G scale). 
+solutions, green bond funds, thematic funds, joint 
+This rating scale is discussed in more detail later in 
+management company with EDF, etc.) form part 
+this report, under Integration.
+of a series of actions aiming to mobilise investors 
+Our shareholder engagement approach applies across  in the transition to a low carbon economy. 
+all of our assets under management. Depending on  – Social impact solutions: solutions which support 
+particular client needs, we have devel oped a series  the social and solidarity economy through an 
+of specialist Responsible Investment (RI) solutions.  impact investing fund of €488 million, including 
+These  encompass  the  following  approaches  that  Finance et Solidarité. This fund focuses on five 
+can be exclusive or combined: negative screening,  impact investing themes: access to decent 
+best-in-class  screening,  norms-based  screening,  housing; access to recognised work; access to 
+sustainability themed investing, Impact investing, and  healthcare, education and appropriate training; 
+corporate engagement and shareholder action. protect the environment; and support international 
+solidarity activities. Investing in these themes 
+As of end December 2020, Amundi managed €378 
+aligns with certain of the Sustainable Development 
+billion assets in the following three areas:
+Goals (SDGs) and can help towards building 
+stronger social cohesion.
+8 | Stewardship Report 2020
+In addition, we are in the process of switching as much  such screened funds amounted to 85% of all our ETF 
+as possible of our passively managed business into  launches. We also continue to develop more specialist 
+funds that apply a thermal coal industry exclusion.  ESG passive offerings to ensure that clients across 
+We  are  proactively  converting  our  ETF  offerings  our investment offerings can benefit from our ESG 
+(including in the last year e.g. the flagship MSCI EMU  expertise. In total, of the €158 billion assets on our 
+and  S&P  500  ETFs)  into  coal-screened  versions,  ETF, Indexing & Smart Beta platform as at the end of 
+and are seeking to ensure that any new ETF that we  December 2020, 37% (or €58 billion) is managed with 
+launch also applies a thermal coal exclusion (unless  an ESG or climate dimension.
+there is specific client demand otherwise). In 2020, 
+Understanding and responding to specific client needs
+We seek to build close relationships with clients to  lagging behind and yet where there is a crucial need 
+understand their needs and to ensure that products  to meet environmental challenges. 
+are tailored appropriately to them. Amundi supports 
+clients by providing tailor-made ESG solutions, and  We have taken forward these efforts across three 
+depending on individual client ESG integration goals  frontiers, with relevant partners for each one:
+and constraints, we offer the following support: – Geographic Frontier – Emerging markets. 
+– Defining an ESG charter In partnership with the International Finance 
+Corporation (IFC) we have developed an approach 
+– Creating a database of ESG criteria and 
+that seeks to address the costly gap between 
+calculating ad hoc ESG ratings
+the low-yield environment in developed markets 
+– Using the ESG ratings in the portfolio 
+that investors face and the extensive green 
+management
+infrastructure financing need in developing 
+– Designing an ESG reporting system economies.
+– Engaging with companies on specific themes – Issuer Frontier – Public and Private. In partnership 
+with the Asian Infrastructure Investment Bank 
+One of our 2021 ESG ambitions has been to strengthen 
+(AIIB), we have developed an emerging market 
+our ESG strategic advisory activities for institutional 
+corporate debt strategy focused on real economy 
+clients and retail partners to support them in their 
+issuers of labelled and unlabelled green bonds, 
+ESG development initiatives. We have moved forward 
+leveraging AIIB’s Climate Change Assessment 
+with  this  and  now  offer  customised  training  for 
+Framework and addressing the under-
+senior  investment  professionals  from  institutional 
+development of the climate bond market
+clients, covering various aspects of ESG such as ESG 
+integration methodologies, scoring systems, voting  – Instrument Frontier – New debt segments to 
+and the SDGs. Where requested, we will also provide  be developed. In partnership with the European 
+advisory and consulting support to assist institutional  Investment Bank (EIB), we are seeking to 
+clients to develop their own ESG philosophy, policy  provide €1 billion for the development of green 
+and programme. fixed income in Europe, by investing into green 
+high yield bonds, green private debt and green 
+Our  close  relationships  with  our  key  distribution  securitized credit.
+partners (especially in France, Italy and Spain) enable 
+We are also committed to building an active market 
+us to have a close understanding of retail investor 
+for social bonds.
+needs.  This  ensures  that  we  can  tailor  our  ESG 
+offerings to respond to developing demand in key 
+In a similar way, we have worked closely with clients to 
+markets. We constantly test the effectiveness of our 
+develop appropriate products to respond to climate 
+response to retail investor demand, through assessing 
+change. We have prioritised the transition to a low-
+net promoter scores, formal testing of new ideas, 
+carbon economy through an extended investment 
+independent surveys, mystery shopper programmes 
+offering  of  off-the-shelf  and  bespoke  climate 
+and so on. 
+solutions. Amundi aims to accompany investors in the 
+design, management, and monitoring of their efforts 
+An example of our responsiveness to client needs is 
+to  integrate  climate  change  into  their  investment 
+our ongoing effort to foster the green bond market 
+approaches. We use a structure of two major goals 
+globally,  opening  new  frontiers  and  so  enabling 
+in constructing climate change-related investment 
+clients  to  invest  in  climate  aware  fixed  income 
+solutions:  managing  risks  and  encouraging  the 
+instruments in under-served markets as well as where 
+transition. This table shows the main strategies that 
+green bonds have been established for longer. Given 
+we have developed alongside our clients: 
+that the green bond market has developed unevenly, 
+our strategy is to respond to the segments that are 
+9 | Stewardship Report 2020
+Because we work so closely with clients to understand and respond to their needs, we do not believe that 
+we fail to manage or deliver funds that fully comply and respond to client needs. Further, we ensure that our 
+contractual relationships with clients explicitly set out our delivery of ESG and stewardship on their behalf, and 
+we work diligently to deliver against those client requirements. 
+Equity Fixed Income Illiquid Assets
+Low Carbon Index  
+strategies & ETFs
+Managing Risks Climate Action Strategy1
+Decarbonisation, Divestment strategies
+Partnership
+AIIB Climate Change Investment Framework
+European Equity Green   Global Green Bond  
+Joint Ventures
+Impact Strategy Strategy
+Global Sustainable  Global Impact Green   Amundi Energy  
+Infrastructure Strategy2 Bond Strategy Transition
+Encouraging   Global Natural   Emerging Green   Supernova Invest
+the Transition
+Resources Strategies2 Bond Strategy
+Water Strategy Partnership
+IFC Emerging Green  
+Bond Strategy
+Energy Solutions  
+Strategy
+Partnership
+EIB European Green Credit
+1. Strategy managed by CPR Asset Management
+2. Strategy managed by KBI Global Investors
+Source: Amundi
+10 | Stewardship Report 2020
+Reporting openly and transparently to our clients
+Amundi welcomes the opportunity to be fully transparent and open with its clients, and maintains clear channels 
+of communication. This includes providing investors with a wealth of documentation on its RI approaches and 
+response to ESG issues. This table summarises the documentation available:
+Document name Contents Frequency Transmission method
+Amundi ESG, SRI  Amundi's philosophy and approach Annual Website amundi.com
+and Impact
+ESG Corporate  Amundi’s Responsible Investment ambitions to be  - Website amundi.com
+Ambition 2021 completed by 2021
+RI transparency  Amundi's annual report regarding its ESG reporting  Annual Website amundi.com
+report obligations arising from its adherence to Principles 
+for Responsible Investment (PRI)
+Engagement report Details of Amundi's engagement process, results of  Annual Website amundi.com
+our dialogue and engagement with companies on 
+topics related to ESG matters
+Responsible  Amundi's Responsible Investment policy Annual Website amundi.com
+Investment Policy
+Voting policy Analytical framework for Amundi's voting policy Annual Website amundi.com
+Report on  Implementation of Amundi's voting policy Annual Website amundi.com
+voting rights 
+and shareholder 
+dialogue
+ESG reporting For SRI funds: the portfolio's ESG ratings, those of  Monthly Website amundi.com
+its benchmark and/or the investment universe 
+Environmental, Social, and Governance Indicators
+SRI transparency  AFG-FIR/EUROSIF transparency code for Amundi  Annual Website amundi.com
+code SRI funds
+Social impact  For social-impact funds: details of social impact  Annual Website amundi.com
+reporting investments by topic (employment, housing, health 
+care, education, non-profit services, international 
+solidarity, environment), list of social impact 
+companies funded, and testimonials
+Furthermore, Amundi is able to provide both generic and customised ESG reports depending on individual 
+client needs. These can include the following components:
+AMUNDI ACTIONS EURO ISR - I
+Standard ESG reporting Standard ESG report: sample F3A1C/1T0S/H20E2E0T
+EQUITY ■
+Provided for Amundi’s open SRI funds and also for  SRI Terminology SRI according to Amundi
+Rating scale from A (best score) to G (worst score)
+Socially Responsible Investment (SRI) ESG criteria
+diTnhe fiidsn iscataantncedidaa lr fdrue nEpdSosGr t airnengpdo  amrnt dainn cpdluuadbteelisss h tohened   freoealqlocuwhe imsntgo.  sInnetcchlt.ui odnesd:  grTiGﬁ SaewnennnohRhovsadteveavIpi nte  settoSieecerhtrnnnRmvisnuavsae aIslwe iin rrb necn aochtxclrteihneiimp ect dem ee rahs(ieercrEne  ic scatobSndosio.sntu G e anb iobsos)ltemai   nrnicshimlsbaeyruai .unsptsbvestctaiyeora ec is uaia tnteeo r daibc cn odbstyo ofiual n neﬁrssd.go n ttddB amaaEeikyintnnivie cociavehn inibplnorﬂo olegtulepdonr e mfc edmontorheercsemmevni,nn e tpSatt glraooanRa lbntpc,dIh  ijemSieepet ioscareoo tcnnanimvidtnaae oldls sat o epnicnsudi aballic TEc  “rw“s“eESGaohnas”f”mev”tep  e  ifftrfcepooryoo rcarr arni i tt nnESnm eGfi nderootoeihvsa crvwn ie, isr eaato sahawrlrt/nsnelaaS,otm a rteSeoeren kexhcomscpntioc ereolatalia  tdarn((y-ci eleﬁnal  eona(rndgr,scene aee’eards nmpgtrlp cc ieyGgaeei. nah)unaoc.dl ttnttv sh,c eed f,oreno r iertgtncricet teaahci.re ns)iu.o.a)s c mc  f:eu  oba snponesra daruri cdgmtot hiopc tafste is,dos sh inreoee sflaecslvt tothehrl ssea,,nd A123i4n   nd----    eEEOOSxSxRvv/ciGeeInl rrupvaarseoallllis  torppittnnmfoogo rroettlffiffnoo ooEtr ll iif,uoo9 oFn  0lrr liaa%avottenwiinnrdmssgg eG i  tn oahr ibsfame cotCsiuonv emoreg err  ts uoah lf¹bee p osbov e:rent fcohliomsatrokck²
+– Definitions of the ESG criteria Average ESG rating
+Environmental, social and governance rating
+– The average ESG rating in the portfolio
+Of Portfolio² From the universe of reference³
+– The assessment for each ESG criterion 7.49% A 3.47% A
+– The ESG analysis coverage 3457..8166%% B C B- 3414..1580%% B C C+
+8.69% D 15.24% D
+0.67% E 5.36% E
+It reveals the portfolio’s ESG ratings (from A to G)  0% F 0% F
+0% G 0% G
+and compares the portfolio to other ratings in the  0.13% not rated 0.25% not rated
+investment universe.  Evaluation by ESG criteria Benchmark : MSCI EMU
+Environment C+
+Social C
+Governance B-
+Overall Rating B-
+Coverage of ESG analysis
+Number of issuers in the portfolio 131
+% of the portfolio with an ESG rating² 99.87%
+11 | Stewardship Report 2020
+ISR Label
+¹ If an issuer's rating is downgraded to E, F or G, the manager has a period of three months in which to sell the security. A tolerance is authorized for buy and hold funds. 
+² Outstanding securities in terms of ESG criteria excluding cash assets. 
+³ The investment universe is deﬁned by the fund's reference indicator. If the fund does not have an indicator, it is deﬁned by type of security, geographic zone and investment themes and
+business sectors. 
+CorporaAtAmeM uTanhFddi dsai r pmeApssasrsto:ee v9rte i0aMd,l   aBiPsnoo asurogtlwfeleoevimltliayhoe r  fdanMo  trPc,a  taaSnhpsaAeitgt Seaaeu lt(m trFoe -refne  n71tnit5 oc 0C0nh81 o 6o:5m  fS 2 P“po6paac2rrni oié6syft-0e-é  5sF Gp sr€Paaio nr nn cAaueclm ”t4 ibio3nen7vrs e 5 0sS74ti4om0 r04sp05.li02ﬁ3 éR6eC ) S  Paris
+AMUNDI ACTIONS EURO ISR - I
+F3A1C/1T0S/H20E2E0T
+EQUITY ■
+Focus on Environmental, Social and Governance key performance indicators
+Reporting with indicators RIitnnwd oaeicd oadft iottihprosen  o intfo dE oitcnhaveti rooorrvnse.m.ratelln Eti,S SGno caisaslg,e Hssumm eannwt  Roifg thhtesi  patonrdt fhGoloiov ea rnndia nthncee  Eh,a dSve a bnedie Gnc  iddiemnaetniﬁseitdon. sTo,h teh em rmanaansgaegre':sr  mu sienssim imuampa ocbmt jiencdtiicvaet poisr sto t odl eaelsivseers as  tqhuea ElitSyG s cqourael ihtyig ohfe hr itsh pano rtthfoalti oo.f  Ftoheu ri nredperxe*s oenn taatt ilveeast
+Environnement¹ Social²
+Produced monthly for the four SRI-labelled funds. This  Carbon footprint per euro million of sales Managers’ Diversity
+form of reporting can also be provided to customers who  Total carbon portfolio footprint (Portfolio/Index) : 261 / 278 40 %
+request it in the context of discretionary management. 300 69 72 SSScccooopppeee   321* 30 % 31.32 % 30.37 %
+200 34 42 20 %
+The report covers the following indicators: 100 158 164 10 %
+– Erenvveinrounement: Carbon footprint per million euros in  o Tv* afhﬁ lirauss e tci- noctdi0hmeiarcp iasnatu onopryfp  'mtslhi eeerrea scvs ooeunmnreulyPpseoa  tr(nh€tifee om slaio ivilnlei ortahnge o epf  oesmratlfieosslsi)oi.o .T nhsi sin i sm aeBnter niicnc dhtoimcnaantrokers  ooff  tchaer bcoanrb eoqnu iinvtaelennstit yp eorf  uthneit Averag0 e% percentage of women manaPgoerrtsfolioWomen MBaennacghemrsark
+– Social: Manager Diversity (average percentage of  GCoovuevreargnea rnatcee (³Portfolio/Benchmark) : 97.93% 96.72% H%uRmataend /RRiagtehatsb leC -o Wmopmliaenn cMea⁴nagers 86.83% 85.65%
+Board Independence Percentage Decent working conditions and freedom of association
+female managers) 100 % 150 %
+75 % 72.90 % 71.72 % 100 % 99.31 % 98 %
+– Governance: Board Independence Percentage 
+50 % 50 %
+(percentage of directors that meet the designated  25 %
+criteria for independence) 0 % Independent Board Members 0 % PortfolHiouman RiBgehtnsc Phomliacyrk
+– Human Rights Compliance: Decent working  T%heR aatveedr/aRgaet epaebrclee n- tIangdee poef nddireenctt obrosa Ptrhodar ttmf omelimeoebt etrhse dBeesnigcnhamteadrk criteria for9 i8n.d4e9p%enden9c8e.3.1% gP%ueaRrcraaetnnettdea/egR efar etoeefa dbcoolemm - op Hfa uanmsiesaso ncw iRaitithgio hpnts,o  alPicpoipelilscie ydth uatn ievxecrsluadllye  rfeogrcaerddl eosrs  oobf lliogca9at8ol. 4lray9w %csh.ild lab9o8r. 3o1r% that
+Sources and definitions
+conditions and freedom of association 
+(ethpxacetlru cgdeuena tfraoagrncete eodef   ofcrroe moedbpoliagmnai etoosfr  ways icsthho iclpdiao ltlaiicobineo,su a rtp hoparlt i ed  b*4mc-D--A1c3u2I   oa...p.ettSSSe    o  rmHEGStsiﬁ1cccbsrtteenno2ooouo pron eri/vcpppmvtgan 3oaiiaieeeeon lra1naomdso   rnil/213eenbsni 2n  oI:::steoe aan   0mhRx AAAsmflnwd1 ei sidmlllsecg9illlliim   ecscetneido hehnsstao te tieaht sdiraIhtpposnenqseo ilee pnort cud uCre irissolnotrm  iiic Pve:ocic sfdGn lta  piiamrs fnoediHlGeucaiteskfbipovrnc aGnH eetlitlrtedthtoidh cG  o.a eiaUe ua ntt(rn tmhm  Ctendso Gac Uam eciid OesHceitﬁnnxhn vsai2r tGsccIdatsahitenoaslohtn iniu)s-celdin.r coagdt  hmsasiiItennceeet ua t mrsfigrao dcrsmerf  gotesorso:aepo ae:mudirrvnao ocrnitape:svtr  n  e  vmPtsprieCronsedseiorlrgf,aagid ar  e eutoahwyur  ghrvrbfurg tpscreeooi snoooeo.es  m c dsnpm ibtFusspcri eee xilsesi areitnrrtgn sh auwschrgit atcnameeiewer-oetetesdntn o  nniipn.eaateistr ctahatuDnrynir atelai tgr hlydnsahygcc te oo u teo hThetda nuwph oir aho floos:epdpofsni wts ef al reli e cil lno bwenvoad gdodoveersbwaoa smirer otdotsm a irapapnarepreecg   egerracrasioheoes:nn mo n ric  d ieRd  tpdnpyBhth uve.heietera nooceronDﬁarnon stcdavtntttialg eh oeril.idiﬁgedtdte ennaiewidue vsr t  mdeva oad p:ibt ac rgf rehiay bolnteemu o nywv a letreot ibh sThde ccfcee r ieetoocuehr r rsKhmnmcfia:cr    oyieRNittpnptohhseye.ealtt eeod,ﬁFw,no    yosncBTyo  etPm.iiohreotn e rimiar vadossoem r i tpacfdrco ea saao coponotsrorofrryns  leehr D osw shsea ciepaoraisitensoafth  c.ft tnd  rseiteoodaopdmmnstre asi  icn ats .1or i nsaCoc2 diclboo/h  r3oulnwael1messnlha/ct gp2cnittciei0aoeovh 1nnsneo 9isav sfeb ,:er sd  eaaira’na tn rvaea gtdteapdnah r p cniiapinsnlaugri ietonnraeoedgv l  i pp ing.gdu oeﬂrNlneoerrutercibevei nweanaengnshlr c is t wonewfaarud agoledlsireymc imehr  aero  aeigt1cnfovg a2tgwerlas/ y  3ao rp.ced 1smohml /eotf2eerisso0snnsesm1 t mniio9oa  f:1taln   oRl2n(soG /a euc3eWgﬁsa1xenelp/P r i2ltoras)ie0 v nwiTns1 lsysh 9C. ei: ps TdOp aih en2rinitrd s ec o imicqenf anuedsttitcivoarcioagrca pleg ettoe inoov rtn3 ef.es:sn  oaafbles
+universally regardless of local laws.)
+■ www.amundi.com
+AMUNDI INDEX EQUITY GLOBAL LOW CARBON T-hi sX mEaterial is solely for the attention of “professional” investors.
+Carbon footprint reporting Carbon footprint reporting: sample 33M11R//OE00NP11TO//22HR00LT11Y77
+PPoorrttffoolliioo''ss  ccaarrbboonn  ffoooottpprriinntt
+We have also developed carbon footprint measurement  CCaarrbboonn  ffoooottpprriinntt  ppeerr  eeuurroo  mmiilllliioonn  iinnvveesstteedd CCaarrbboonn  ffoooottpprriinntt  ppeerr  eeuurroo  mmiilllliioonn  ooff  ssaalleess
+150 Scope	3* 300 Scope	3*
+tools. This enables reporting that can be delivered  Scope	2 Scope	2
+41 Scope	1 62 Scope	1
+according to individual negotiation, including the follo- 100 20 200 40
+39
+wing indicators: 54
+50 16 78 100 28 169
+– Carbon emissions per €M invested 44 80
+0
+Portfolio Benchmark 0
+– Carbon emissions per €M of revenue Portfolio Benchmark
+Benchmark : MSCI WORLD 
+This indicator measures the portfolio's carbon emissions in metric tonnes of carbon This indicator measures the average emissions in metric tonnes of carbon equivalent per unit
+– Sector-based breakdown of carbon emissions   beqy uinivvaelsetnmt e(tnCtO in2 eth) ips epro erutfrool iom.illion invested. This is an indicator of the emissions generated voaf lau ec ocmhapina noyf' sth ree vceonmupea (€n iemsi lilnio tnh eo fp osartlfeosl)io. T.his is an indicator of the carbon intensity of the
+* first-tier suppliers only * first-tier suppliers only
+(as a %) SSeeccttoorraall  ccoonnttrriibbuuttiioonn  ttoo  ccaarrbboonn  eemmiissssiioonnss GGeeooggrraapphhiiccaall  ccoonnttrriibbuuttiioonn  ttoo  ccaarrbboonn  eemmiissssiioonnss
+40	% 80	%
+– Geographical breakdown of carbon emissions   30	% 60	%
+(as a %) 20	% 40	%
+10	%
+– Carbon reserves per €M invested 20	%
+0	%
+InfFoirnmaanticioaln	sCToencshunmoleor	gdyiscretionaryHealth	careInduCsotrnisalusmer	staples EnergyMTaetleericaolsmmunicationReal	estate Utilities 0	U%nited	States Japan Other FranceNetherlandsGermaUnnyited	Kingdom Australia CanadaSwitzerland
+Portfolio	weight Contribution	to	carbon	emissions Portfolio	weight Contribution	to	carbon	emissions
+This chart compares the weight of each sector relative to its contribution to the portfolio's This chart compares the weight of each country relative to its contribution to the portfolio's
+carbon emissions. carbon emissions.
+CCoovveerraaggee  ooff  ccaarrbboonn  aannaallyyssiiss
+   PPoorrttffoolliioo BBeenncchhmmaarrkk
+IIssssuueerrss  nnuummbbeerr 1256 1633
+Weight of rated issuers¹ 98.62% 98.65%
+¹ This measurement corresponds to the portion of private issuers for which we have carbon
+data as a percentage of all private issuers.
+SSoouurrcceess  aanndd  ddeeffiinniittiioonnss
+The carbon emissions data is supplied by Trucost. It corresponds to companies' annual emissions expressed in tCO2e, which covers the six greenhouse gases defined in the Kyoto protocol
+whose emissions are converted into global warming potential (GWP) in CO2 equivalent 
+DDeeffiinniittiioonn  ooff  ssccooppeess::  
+--  SSccooppee  11  :: all emissions that arise directly from sources that are owned or controlled by the company.
+--  SSccooppee  22  :: all indirect emissions generated by the purchase or production of electricity, steam or heat.
+--  SSccooppee  33  ::all other indirect emissions, both upstream and downstream in the value chain. To ensure the robustness of the data, in this report we have chosen to use only part of scope 3,
+i.e. upstream emissions linked to first-tier suppliers. First-tier suppliers are those with which the company has a strong relationship and on which it can exercise direct influence. 
+■ wwwwww..aammuunnddii..ccoomm
+This material is solely for the attention of “professional” investors.
+12 | Stewardship Report 2020
+How our structures support and enable ESG 
+and stewardship work
+As ESG is built in to the nature of Amundi and the service we offer to our clients, oversight of both ESG 
+and stewardship runs from the very top of the organisation, including our CEO and other members of the 
+executive leadership. ESG sits at the core of Amundi. In a very real sense, it is who we are: Amundi is both a 
+responsible investment doer and a responsible investment enabler:
+Amundi, Responsible Investment Doer Amundi, Responsible Investment Enabler
+–  Leading expertise: founding pillar at the  –  Spreading the word: through pro-active 
+creation of Amundi, giving us a 10-year track- engagement to promote your beliefs in your 
+record ESG methodology. portfolios.
+–  Evolutive approach: from tools to  –  Expanding your reach: through innovation by 
+methodologies, to integrate new ESG concerns. supporting supply & demand and creating new 
+–  Comprehensive ESG one-stop-shop: for  markets.
+analysis, off-the-shelf investment solutions,  –  Tailoring our know-how: to your ESG journey 
+engagement & tailor-made design. through our range of expertise, from active to 
+–  Concrete solutions provider: across asset  passive management, across the whole asset 
+classes and financial markets. spectrum.
+–  Fostering meaningful change: our scale gives 
+scope for real influence.
+Jean-Jacques Barbéris, an Executive Director of Amundi and Director of the Institutional and Corporate Clients 
+division & ESG, has overall responsibility for ESG and stewardship. We have made a deliberate effort in recent 
+years to reinvigorate the management and oversight of ESG and stewardship. Élodie Laugel, a senior member 
+of the investment team, was recently appointed Chief Responsible Investment Officer to lead our ESG efforts. 
+In addition to her appointment in 2020, the following significant appointments have also been made recently: 
+Timothée Jaulin, Head of ESG Advisory, Business Development and Advocacy (appointed 2020), Caroline 
+Le Meaux as the Head of ESG Analysis, Engagement & Voting (appointed 2019); Tegwen Le Berthe as Head 
+of ESG Scoring, Methodologies & Financial Engineering (appointed 2019); and Stéphane Taillepied as Head of 
+Voting (appointed 2018). This broad refreshment leaves the team as follows:
+Responsible investment business line
+NB: Yves Perrier has 
+Yves Perrier
+Amundi CEO recently announced 
+that he will be stepping 
+down from the role of 
+Jean-Jacques Barberis CEO at Amundi. 
+Member of the Executive Committee and  
+Head of Institutional Clients Coverage & ESG He will be replaced by 
+Valerie Baudson on the 
+10th of May 2021.
+Élodie Laugel
+Chief Responsible Investment Officer
+Hélène Nanty
+COO
+Tegwen Le Berthe Caroline Le Meaux Timothée Jaulin
+ESG Method and Solutions Research, Engagement & Voting Development and Advocacy
+ESG scoring methodology, engineering & ESG  ESG advisory, bespoke ESG solutions 
+ESG Research (Caroline Le Meaux)
+database monitoring development, advocacy & external 
+communication
+– Proprietary ESG analysis methodology
+– ESG Engagement policy
+– ESG Exclusion policy
+Voting (Stéphane Taillepied)
+Source: Amundi. As of March 2021
+– Assess resolutions and Vote at AGMs
+– Pre-AGM discussions with companies
+13 | Stewardship Report 2020
+In the last year,  we also made the decision to separate out the Responsible Investment team into an inde-
+pendent business line separated from the investment department. As we hoped it would, this formal distancing 
+has enabled us to ensure that relationships are strengthened across the whole business, and the responsible 
+investment team is clearly available at the service of all business lines and across all investment platforms. 
+As the organisation chart indicates, the responsible  ESG analysis team from the investment management 
+investment approach is built on three pillars, each  and financial analysis teams ensures the quality and the 
+with its own senior leadership: ESG data; qualitative  independence of the ESG analysis. Nevertheless, ESG 
+research,  engagement  and  voting;  and  advisory,  analysts work in close collaboration with Amundi’s 
+development and advocacy.  The independence of the  portfolio management teams.
+To provide formal oversight of our ESG and stewardship approach and its effectiveness, we have five key 
+committees in place. These are monitored by Amundi’s CEO on a regular basis.
+ESG Strategic Committee
+Chaired by Amundi’s CEO, this committee approves and monitors Amundi’s ESG and climate strategy. It approves 
+major strategic positioning of the Responsible Investment policy and monitors key strategic projects. The committee is 
+responsible for:
+–  Approving Amundi’s ESG and climate strategy
+–  Approving the strategic positioning of the Responsible Investment policy (exclusion, engagement and voting policies)
+–  Steering and monitoring the ESG 2021 ambition project
+–  Deciding on issues escalated from the ESG Rating, Voting or Social Impact Committees
+The committee meets on a biannual basis.
+ESG Rating Committee Voting Committee
+Including senior managers from investment, financial,  Including senior managers from investment, financial 
+extra financial, sales, marketing and risk departments. and extra-financial departments, as well as external 
+advisors. It supervises the different entities’ voting 
+The committee is responsible for:
+policies to ensure their consistency and acts as an 
+–  Defining Amundi’s ESG standard method, tools, 
+adviser for voting decisions on individual cases.
+processes and resources
+This committee is in charge of reviewing and validating 
+–  Approving the rules on exclusion and sectoral 
+the following key voting activities: 
+policies
+–  Principles of Amundi as an active and responsible 
+–  Reviewing and taking decisions regarding ESG 
+shareholder, and interaction with issuers
+rating issues 
+–  Periodic reports on shareholder dialogue or on 
+–  Approving changes to the standard ESG method 
+voting activities
+requested by investment managers
+–  Local or individual issues not specifically covered by 
+–  Developing Amundi’s ESG jurisprudence
+voting policies
+The Committee also deals with ESG subjects related  –  Escalation process with issuers presenting specific 
+to climate and the energy transition (such as our coal  risks
+policy, carbon footprint methodology, rating of issuers  –  Voting decisions for individual cases where the 
+facing climate related controversies), and social and  implementation of the voting policy could not in the 
+societal issues. best interest of the holders of the funds
+The committee meets monthly. The committee also ensures alignment of voting 
+activities with key ESG engagement themes.
+The committee is held on an ad hoc basis as necessary, 
+ESG Management Committee as well as on demand by members, and with a peak 
+frequency rate during the voting season. It reviews the 
+voting policy annually.
+Including the senior leadership of the ESG function. 
+It approves investment strategies for private equity 
+and private debt in the field of social and solidarity 
+investments. This committee is responsible for:  Social Impact Committee
+– Setting objectives and priorities for the ESG and 
+voting teams
+This committee includes senior staff in the ESG and 
+– Building a consolidated view of ESG capabilities and  investment functions, and is chaired by the Chief of 
+resources across the Group Social Impact Investing. 
+– Promoting ESG across the business, addressing key 
+It approves investment strategies for private equity 
+client requests and business opportunities
+and private debt in the area of social investment and 
+The committee meets weekly.
+inequality.
+The committee meets every two months.
+14 | Stewardship Report 2020
+Review and assurance of our ESG approach
+We keep our ESG approach under regular review.  Furthermore, every month, in order to calculate ratings, 
+Each of the committees has the responsibility to  a ratings simulation is sent to the entire team. Each 
+review at least annually our policies and processes  analyst then validates the ratings of the companies 
+under their remit. They also oversee our progress  that they oversee. In each step in the process, multiple 
+towards delivering the changes necessary to fulfil our  quality controls are performed, including: (1) controls 
+nine ambitions by the end of 2021. Amongst other  on stability of the analysis universe, identifying entries 
+changes in 2020, we developed our approaches on  and departures from the universe or those that are 
+engagement and voting to more fully reinforce our  excluded,  as  well  as  companies  coming  close  to 
+two key ESG priorities of climate change (the energy  doing so; and (2) controls analysing the rotation rate, 
+transition and the need to protect ecosystems), and  verifying the dynamic of the rating breakdowns by 
+social cohesion and fairness to the workforce.  quintile  between  different  months,  and  performed 
+with respect to the overall rating (ESG) as well as each 
+Specifically, we have further tightened our exclusion 
+individual component (E, S, and G).
+policies in relation to thermal coal production and use, 
+and in relation to tobacco (the latter a reflection of  Internal audit and risk play a key role in our oversight 
+having signed the Tobacco-Free Finance Pledge). We  of ESG processes and systems, providing confidence 
+also made key changes to our voting policy, including  and assurance about quality and consistency of our 
+now requiring that long-term incentives for executives  approach and delivery. The risk team is independent 
+include ESG key performance indicators (KPIs), and  and provides challenges and input across the business. 
+standards that made it more likely we would support  As an example of their input into our Stewardship and 
+shareholder  resolutions  (particularly  on  climate  ESG work, there has been an annual assessment of our 
+change). We continue to evolve our approach: for the  voting processes for each of the last three years (with 
+2021 year, we have agreed to vote against director  the fourth still under way), which has made a series of 
+elections  or  discharge  at  companies  operating  in  concrete recommendations for improvement. Despite 
+sectors heavily exposed to climate change which do  an increase over that time (because of mergers and 
+not have satisfactory strategies to align with the Paris  consolidation of our workload) of more than 30% in 
+Agreement, and in our passive funds we will do the  the number of AGMs at which we voted, and of more 
+same for all companies excluded from active portfolios  than 25% in the number of resolutions considered, the 
+for climate reasons. We continue to challenge ourselves  review process noted only a small number of issues. 
+to do better on behalf of our clients, and expect further  Nonetheless, over the last two years we have been 
+enhancements in future years. implementing a set of recommendations to enhance 
+our  procedures  and  remove  the  risk  of  human 
+On specific funds, we also have in place French SRI 
+error, across a range of areas including ensuring all 
+labels  and  IFC  Performance  Standards,  and  will 
+portfolios are covered by our voting approach, all 
+look to put in place other certifications as relevant. 
+appropriate holdings are voted, powers of attorney 
+We  reinforce  these  external  certifications  through 
+are up to date and stock recalls are successful, and 
+our  internal  assurance  and  oversight  processes.  In 
+ensuring  our  record-keeping  covers  every  vote 
+particular, ESG constraints are verified daily by our Risk 
+against management. We continue to make progress 
+Department. This ensures compliance with the Amundi 
+against the action plan; this progress is itself subject 
+exclusion policy and ESG-specific portfolio rules. Our 
+to regular review by our risk team.
+ESG processes and systems are also audited internally 
+by the Amundi Internal Audit Department. In addition to this internal review process, we also 
+benefit from annual independent assurance under 
+There are two levels of quality controls on the ESG 
+ISAE 3402, carried out by PricewaterhouseCoopers. 
+data input into our systems: the first relates to data 
+This provides independent assurance in relation to our 
+(project management), and the second to business 
+key internal processes, with a particular focus on our 
+lines.  The  first,  data-related  quality  control,  is 
+delivery effectively on behalf of clients and in line with 
+performed on the files provided by suppliers. It covers, 
+our client agreements. Among other key elements 
+in particular: (1) checking the files’ contents, not least 
+covered by our ISAE 3402 report is client reporting, 
+to ensure scores are up-to-date; and (2) checking 
+where the assurance confirms that our processes are 
+the format quality of the files provided by suppliers. 
+effective in their aim of delivering fair reporting to 
+The second-level controls in the business line ensures 
+clients. This bolsters our confidence that our work to 
+the integration quality and scoring of the criteria. It 
+check and assess the fairness of our reporting, and 
+is particularly used to detect missing criteria, as well 
+then to apply controls and checks overlaying that 
+as insignificant or anomalous scores. Relevant alerts 
+work, does in fact deliver fair and honest reporting on 
+require members of the analyst team to intervene.
+our activities to the benefit of all our clients.
+15 | Stewardship Report 2020
+Conflicts: how we ensure client interests always come first
+We are conscious that the assets we manage are our  The following conflict mitigation and management 
+clients’ money, and we therefore recognise that we  measures are in place:
+are fiduciaries on their behalf, needing to exercise 
+– Organisational measures - Amundi maintains 
+any rights or influence wholly in their best interests. 
+strict independence of the voting and stewardship 
+To help respond to this, we have active processes 
+function from the client relationships area to 
+to minimise and manage any conflicts of interest. 
+segregate stewardship from any possible conflicts.
+Our approach seeks to identify, prevent and manage 
+any conflicts of interests that may arise in the conduct  – Procedures and controls – we have in place 
+of our activities. the following mechanisms: (1) internal policy on 
+conflicts and code of ethics, requiring employees 
+The approach to stewardship conflicts sits within a  to identify, mitigate and manage conflicts; (2) 
+broader approach to the management of conflicts  strict procedures asserting the primacy of clients’ 
+which encompasses: best interests; and (3) an ad-hoc committee 
+– An internal policy for managing conflicts of  can be called to deal with the approach to any 
+interest detailing employees’ responsibilities to  appropriate conflict. For example, any voting 
+identify, prevent and manage conflicts; decision in relation to Amundi’s partner and joint 
+venture companies is automatically escalated to 
+– Strict procedures and rules governing the primacy 
+the Voting Committee and the decision-making 
+of the client interest;
+on all votes is fully documented – with particular 
+– Strict procedures and rules governing the 
+attention to any situation where the vote is not in 
+selection and remuneration of intermediaries;
+accord with the usual Amundi voting policy.
+– Internal committees (broker/dealer, products, risk 
+management, compliance, audit, compensation), 
+which take full account of ethical considerations  Case study on management of conflicts
+in their decisions; and
+– Appropriate training of relevant employees  During 2020, the voting committee was 
+to ensure that they are fully aware of their  asked to confirm a proposed voting decision 
+responsibilities and obligations. on behalf of Amundi’s clients at a finance 
+company that is one of Amundi’s business 
+Amundi has long had in place protections regarding 
+partners – a local distributor of our products. 
+stewardship  conflicts  arising  from  Amundi’s 
+While most of the resolutions were mundane 
+commercial relationships with key business partners, 
+and uncontroversial and therefore deserved our 
+and recognising the potential for an appearance of 
+support, we were concerned by the resolution 
+conflicts from cross-directorships of senior Amundi 
+regarding executive remuneration. In particular, 
+staff. We maintain a register of such situations and 
+it seemed that decision-making was wholly at 
+particularly detailed record-keeping to ensure that the 
+the discretion of the supervisory board of the 
+management of conflicts is kept in mind. In all cases 
+company and that there was no clear alignment 
+we seek to ensure the primacy of clients’ best interests.
+of pay with disclosed performance conditions.
+The register of specific companies where Amundi has 
+We concluded that it was not appropriate to 
+a partnership or joint venture relationship that leads 
+support the proposed remuneration on behalf 
+to a particular conflict, or risk of conflict, is reviewed 
+of clients without greater clarity regarding the 
+annually and active consideration is given to whether 
+link of pay to performance. 
+there  are  additional  companies  that  ought  to  be 
+The voting committee confirmed this decision 
+added to the list (or, more rarely, removed). The team 
+to vote against, notwithstanding the existence 
+also considers these issues and applies judgement 
+of the conflict of interest. 
+during the year, so for example during 2020 the 
+voting team noted that there had been partnerships 
+announced between Amundi and Sabadell in Spain 
+Following a review during 2020 by an independent 
+and Bank of China. These partnerships did not exist 
+stewardship specialist, with regard to our stewardship 
+when the last annual review was carried out but both 
+activities,  Amundi  has  decided  to  enhance  the 
+partners were added to the list during the year such 
+formal documentation of the prevention of potential 
+that any appearance of conflicts could be managed. 
+conflicts of interest to fully reflect that we record, 
+monitor, manage and mitigate all conflicts under the 
+three following categories:
+16 | Stewardship Report 2020
+– Conflicts where an investee company is related  to corporate transactions (such as restructuring 
+to a large client: Amundi is in the process of  or bankruptcy) by escalating all such stewardship 
+enhancing the prevention of potential conflicts of  decisions to the arbitration of the voting 
+interest where Amundi exercises voting rights at  committee to ensure a fair and independent 
+the AGMs of its largest clients. The implementation  stewardship decision.
+of this process will follow the same approach as  – Conflicts involving individual employees (such 
+where Amundi exercises voting rights at the AGMs  as where stewardship staff have personal 
+of its main distribution partners: by escalating  relationships with individuals at investee 
+all such stewardship decisions to the arbitration  companies, going beyond the current approach 
+of the voting committee to ensure a fair and  of monitoring situations where there are common 
+independent stewardship decision. directorships): Amundi is in the process of 
+– Conflicts between the interests of different clients  enhancing the prevention of potential conflicts of 
+(such as where they have different interests in a  interest related to its employees (including voting 
+corporate transaction or different exposures to a  and engagement teams) by additional specific 
+company subject to bankruptcy or restructuring):  reporting and an annual review of the conflicts of 
+Amundi is in the process of enhancing the  interest of employees.
+prevention of potential conflicts of interest related 
+We will continue to keep the issue of conflicts under review in relation to ESG and stewardship activities, and 
+will look to enhance our approach over time to ensure that clients have full confidence that we continue to 
+operate solely in their best interests.
+Resourcing of ESG: our team, training and skills
+Our ambition that every open-ended fund should beat its benchmark in ESG terms means that we now expect 
+all of our investment teams to integrate ESG and consider it actively, and all investment professionals are 
+moving forwards to develop their skills and work to ensure they have the necessary insight to deliver on this 
+expectation. They are supported in these efforts by a dedicated resource of 36 people in our global stewardship 
+team. Of the 36 people in the stewardship team:
+5 16 5 6 4
+people are  people are  people cover advocacy  people offer  
+responsible for data  people are  responsible   and the development  central leadership  
+provider selection  responsible for  for voting &   of new products and  and oversight
+& ESG rating  ESG research &  pre-meeting   approaches through 
+methodology engagement dialogue close dialogue with 
+clients about their needs
+These specialists work alongside and support the  ESG  research.  There  is  strong  experience  across 
+decision-making  of  all  of  our  investment  teams.  the  team  in  analysis,  both  on  the  sell-side  and  
+Every portfolio manager is expected to consider ESG  buy-sides, but also a range of experience in audit and 
+issues as a normal part of their investment analysis;  in ESG and CSR consultancy, as well as direct industry 
+this expectation has particular emphasis since we  experience in a variety of businesses, from fashion 
+introduced  the  requirement  that  every  actively  to insurance, and from construction to IT software. 
+managed open-ended fund should have an ESG rating  This breadth of experience helps shape the industry 
+above that of its benchmark. Investment integration is  specialisms within the team, and gives strong insight 
+discussed fully in Integrating ESG into our analysis  into  the  operational  challenges  of  the  business, 
+and investment processes below. enabling more thoughtful understanding of the issues 
+faced by the companies in which we invest on clients’ 
+The profiles of the ESG analysts are diverse and we 
+behalf. Our ESG analysts broaden their knowledge 
+continue to seek to maintain a balance of diverse 
+and enjoy ongoing training and development on ESG 
+skills and backgrounds within the team. They are of 
+matters through:
+six nationalities and based in four offices around the 
+– Monthly training meetings between analysts 
+world, having had work experience in 10 different 
+(informal workshops)
+countries. We believe this diversity is one of the 
+key features that contributes to the quality of our 
+17 | Stewardship Report 2020
+– Online course platforms or MOOCs   Moreover, as well as ad hoc and customised training 
+(Massive Open Online Courses) as  required,  Amundi  offers  two  internal  ESG 
+– Third-party conferences (e.g. OECD, brokers) training modules to all employees, enabling the ESG 
+team to share their knowledge and expertise and 
+Additionally, annually a group of four analysts and  ensure a baseline understanding of ESG matters is 
+portfolio managers benefit from dedicated training  shared broadly across the organisation. Mandatory 
+on ESG issues in emerging markets from a partner  presentations  are  organised  to  train  all  staff 
+Multilateral Development Bank. concerned with ESG integration, including RI analysts, 
+management, marketing, control, compliance, risks 
+and governance. 
+Incentives and ESG
+ESG is integrated into remuneration structures across  raised the threshold for delivery of this qualitative 
+the organisation, from the CEO downwards. For the  requirement in recent years.
+CEO  and  top  management,  non-financial  criteria, 
+including various ESG criteria, form around 35% of  The salaries of ESG team members are benchmarked 
+the annual performance assessment. In addition, the  against peers. Their variable remuneration is based 
+deferred element of annual variable compensation  on both qualitative and quantitative analysis of their 
+is only fully released on the basis of success against  effectiveness and delivery against expectations, as 
+ESG criteria.  well as an element of broader profit-sharing based 
+on Amundi’s overall performance. For ESG analysts, 
+ESG criteria are fully integrated in portfolio managers’  quantitative  criteria  are  primarily  related  to  the 
+role description and as such are part of their annual  number of: analyses and meetings with companies; 
+evaluation and their compensation. In addition, our  sector analysis; and cross-sector thematic analysis. 
+investment teams are incentivised on risk-adjusted  The qualitative criteria include: quality of analysis, 
+investment performance over periods up to 5 years.  understanding of companies and sectors, maintenance 
+Among the qualitative criteria helping us assess the  of the analysis; proficiency in ESG analysis and efforts 
+risk-adjusted aspects is an assessment of compliance  to  continuously  improve  analytical  skills;  active 
+with  the  ESG  policy  and  other  risk  factors.  The  participation in engagements; and active participation 
+expectation as part of our 2021 ambitions that active  in thematic research. Similarly, voting analysts are 
+open-ended funds have the objective to exceed their  evaluated based on both quantitative and qualitative 
+benchmarks  on  ESG  measures  has  automatically  factors relevant to their responsibilities.
+Resourcing of ESG: external research providers
+Our ESG expert research team leverages off data  different ESG or climate-related data providers, and 
+provided  by  external  providers.  The  information  (in addition to our standard ESG analysis) conduct a 
+received covers ESG scores, ESG controversies, and  deeper analysis ourselves.
+other  ESG-related  information.  Our  ESG  Analysis 
+draws on this data to generate internal ESG scores/ ESG data is verified internally to assure its consistency. 
+ratings, ESG controversies analysis, and processes the  As well as this ability to cross-refer, the use of multiple 
+data to serve clients’ specific exclusion requirements.  data providers has several additional benefits: 
+Some  external  research  providers  have  also  been 
+– It allows for a greater overall coverage of issuers 
+chosen for their climate-related data with regards to 
+by combining different footprints (some providers 
+climate risk management and CO2 data.
+have better coverage of particular regions/
+We  source  inputs  from  market-leading  sources  sectors/asset classes).
+globally.  We  recognise  that  each  of  the  leading  – It allows us to have multiple perspectives on the 
+research  providers  has  its  own  methodology  and  analysis of an issuer on a specific criterion. As data 
+inbuilt biases, but by taking inputs from a range of  providers take different approaches to analysing 
+sources and applying our own proprietary analysis  a particular criterion, the use of multiple data 
+and approach we believe that we can gain a fuller  providers’ information gives the ESG analysis team 
+understanding  of  companies  and  provide  our  a 360° view on critical ESG topics and relevant 
+investment teams with unique and valuable insights.  issuer behaviour.
+Comparing the data we receive is crucial for us in order  – It gives Amundi access to more frequent analysis 
+to assess the quality of the underlying information that  updates, as each data provider updates their 
+we deploy in our strategies. We seek to identify any 
+analyses according to different schedules.
+significant discrepancies in terms of the outputs from 
+18 | Stewardship Report 2020
+At present, the different data providers we use are as follows:
+Team of ESG experts External data providers Proprietary ESG tools
+General scope –  Internal ESG database to 
+collect, analyze & process 
+data from providers
+–  Quality check done in two 
+Controversies / controversial weapons
+steps: an automated and 
+40+
+ESG analyst review
+specialists responsible for  –  Dissemination of ESG 
+ESG development, research  Climate ratings on Amundi’s 
+and methodology in a portfolio management 
+system ALTO* for 
+Dedicated Responsible  
+management / control / 
+Investment Business Line
+reporting teams to access
+Sovereigns
+> 11,000 issuers ESG rated
+ESG coverage expands across main equity & fixed income indexes
+Source: Amundi, March 2021. ALTO*: Amundi Leading Technologies & Operations
+We use these data sources to inform our proprietary  check information and data on specific topics, as 
+ESG analysis and rating methodology. This applies  quality and reliability of information is essential.
+37 quantifiable and measurable criteria reflecting key 
+All the information provided by external managers, 
+challenges by sector. Of these, 16 are applied across 
+once  quality  checked  and  filtered  through  the 
+all sectors and 21 are specific criteria only applied 
+professional assessment by our analysts, feeds our 
+to one or more sectors. These criteria are weighted 
+internal IT tool (ALTO). This insight in ALTO facilitates 
+using performance drivers (reputation, operational 
+all of our Portfolio Managers to deliver thoughtful and 
+efficiency and regulation), and the weights assigned 
+active ESG fund management.
+to each criterion translate its importance into the 
+final ESG ratings. Our ESG analysts retain discretion 
+We continually monitor the market for developments 
+and are expected to use independent professional 
+and to ensure access to quality information. This 
+judgement before agreeing the Amundi ESG ratings. 
+ensures we are aware of increases in coverage and 
+We update our ratings on a monthly basis.
+scope of the ESG data that is available, including 
+making sure we have access to innovative products, 
+Our ESG analysts also have access to information 
+including raw data and forward-looking assessments. 
+from additional sources beyond these extra-financial 
+We constantly monitor ongoing development projects 
+data providers, including:
+at important and innovative ESG data providers. 
+– Dialogue with companies’ management and 
+stakeholders We  also  continuously  monitor  the  quality  of  its 
+– Companies’ publicly disclosed documents  ESG research and data from external sources. This 
+monitoring includes an automated quality check (set 
+– Equity and credit analysts of the Amundi Group
+out under Review and assurance of our ESG approach), 
+– Sectoral experts
+as well as an ongoing qualitative check from our ESG 
+– NGOs, scientists, unions, media, brokers sell-side  analysts, who are specialists in each of their sectors. 
+reports  Comparing the data is crucial for us in order to assess 
+– Bloomberg, Reuters the quality of the underlying information that we use 
+for our strategies. Typically, if ESG or climate-related 
+There is therefore a direct feedback from engagement 
+data  gives  us  very  different  outputs,  we  observe 
+activity into the ESG ratings and analysis – and so into 
+these discrepancies, and conduct a deeper analysis in 
+the integration of ESG matters into the investment 
+addition to our principal ESG analysis. 
+decisions of our portfolio managers. These sources of 
+information form an essential component in the ESG  In order to successfully monitor ESG data suppliers 
+analysis process. They allow ESG analysts to cross- and select the appropriate data, the ESG Rating & 
+19 | Stewardship Report 2020
+Methodologies  team  and  the  ESG  analysts  carry  assessment of services;
+out the following actions, producing annual reports  – Monitoring table of regular supplier meetings and 
+on  each  for  consideration  by  the  ESG  Ratings  discussions, including the main points covered; 
+Committee: and
+– Complete annual review of each major ESG  – Annual supplier assessment report updated by 
+supplier and production of a detailed assessment; the ESG Analysis team, integrating the views of 
+– Summary table of supplier offers in relevant ESG  different analysts on all ESG data suppliers.
+categories, updated regularly and including an 
+Integrating ESG into our analysis 
+and investment processes
+The environmental, social, and governance issues that face companies have a major impact on society. 
+They also have financial consequences for businesses, both in terms of risk and opportunities. Amundi wishes 
+to better understand these factors in order to fulfil its role as a good corporate citizen and to incorporate 
+those risks and opportunities when making its investment decisions on behalf of our clients. 
+We firmly believe that ESG analysis consolidates value  Thus for us, the aim of ESG analysis is to raise awareness 
+creation as it provides an all-round vision of companies.  and  encourage  companies  to  do  business  with  a 
+This view has led us to integrate ESG criteria across all of  sustainable development approach, while assigning 
+our active management processes, and to implement  them  an  ESG  (Environmental,  Social,  Governance) 
+an engagement policy. Underlying ESG integration is  rating. Our analysis makes it possible to incorporate risks 
+the conviction that a strong sustainable development  related to the company’s activity, enabling us to reduce 
+policy enables issuers to manage their regulatory and  the overall level of risk our clients face. We therefore 
+reputational risks better and in addition to improve  constantly monitor our investee companies, across all 
+their operational efficiency. By integrating such issues  E, S and G factors as well as more traditional financial 
+fully, investors can therefore take into account long- metrics. We seek to identify problems and concerns 
+term risks (financial, operational, reputational, etc.)  early before they damage company performance and 
+and also fully exercise their responsibility to clients  affect our clients’ investment performance.
+and society as a whole.
+1. Criteria & Weights 2. ESG rating calculation 3. Qualitative input
+Using a Best-in-Class approach,  –  ESG Rating are calculated by  In addition to ESG ratings, our ESG 
+the ESG analysts are in charge of: using the ESG criteria and  analysts integrate qualitative input 
+–  Defining the most relevant criteria  weights assigned by the analysts  retrieved from:
+for each sector and combining the ESG scores  –  Meetings with companies
+obtained from our external data 
+–  Weighting the criteria and the  providers –  Meetings with industry experts
+underlying data by sector –  Strict calculation process –  ESG data/research from external 
+–  Assessing the quality of data  providers and open source 
+providers & improving the  –  Monthly update materials
+methodology –  Over 10-year track record in ESG 
+ratings
+Qualitative Approach Quantitative Approach Qualitative Approach
++11,000 issuers ESG rated
+ESG coverage expands across main equity & fixed income indexes
+Source: Amundi as of December 2020.
+20 | Stewardship Report 2020
+Our ratings are based on insights from the range of  This enables them to integrate sustainability issues 
+data providers set out above under Resourcing of ESG:  into their investment decisions and apply any relevant 
+external  research  providers.  Once  quality  checked  constraints for their portfolios.
+and with an overlay analysis from our sector specialist 
+Our ESG analysts also annually review the application 
+ESG analysts, these inform our 37 quantifiable and 
+and weightings of the 37 criteria to each sector. 
+measurable criteria reflecting key challenges by sector. 
+This enables us to maintain quality and ensure that 
+Of these, 16 are applied across all sectors and 21 are 
+we continuously seek to improve our analysis by 
+specific criteria only applied to one or more sectors. 
+considering the materiality of the criteria and their 
+These criteria are weighted using performance drivers, 
+weights. Our ESG analysts are sector specialists and 
+and the weights assigned to each criterion translate 
+within each sector are tasked with:
+its importance into the final ESG ratings. We update 
+our ratings on a monthly basis.  – Tracking trends (macroeconomic, regulatory, etc.)
+– Establishing weights based on the materiality of 
+The outcome of this aggregation and analysis of 
+ESG factors
+a range of sources is our proprietary rating, now 
+– Interviewing a representative panel of companies 
+applicable to 10,000 issuers. This ranges from A to 
+G, with G considered the worst. Different funds are  – Writing sector analysis reports
+permitted to hold different stocks – for example,  – Selecting the most qualified external data 
+almost all portfolios (the only exceptions being some  suppliers meeting the definition of our criteria 
+passively managed portfolios) are required to exclude 
+– Defining the weights to each data supplier that 
+G rated stocks. These ratings, and the calculations of 
+represent the level of contribution of each supplier’s 
+the 37 criteria that are relevant to arriving at the ratings, 
+ESG score to the final ESG score of an issuer.
+are available to all of our portfolio managers through 
+their investment portfolio management software tool. 
+The outcome of this analysis in terms of headline A-G ratings is as follows:
+## s sttoocckkss G F E D C B A ESG Rating Scale
+is based on a letter rating scale from A to G (where A 
+250
+is the best, and G is the worst). The ESG Rating is the 
+translation of the Z-score into an alphanumeric scale 
+200 of 7 segments from A to G.
+150 ESG score
+Weighted average of the issuer’s E, S and G scores. Each 
+pillar is the weighted averaged of the scores obtained 
+100
+from each criteria that the E, S, or G pillar is composed of.
+50 Single ESG rating per issuer,  
+applicable to all asset classes
+0 G-rated issuers are assessed manually 
+-3.1-2.9-2.7-2.5-2.3-2.1-1.9-1.7-1.5-1.3-1.1-0.9-0.7-0.5-0.3-0.10.10.30.50.70.91.11.31.51.71.92.12.32.52.72.93.1 and submitted to the ESG rating committee 
+Z-ZS-cSocorreess for examination and approval.
+*Calculation methodology which transforms ESG criteria into Z-scores (deviation in the security’s score compared with the average score for the sector, 
+by number of standard deviations).
+Issuers are monitored on an ongoing basis and any news on controversies is factored in the ESG analysis. 
+Controversy analysis can lead to a change of rating either at the level of the relevant criterion or at the final 
+ESG rating level.
+21 | Stewardship Report 2020
+Our proprietary Stock Rating Integrator (SRI) tool also enables total transparency. At any time, the rating 
+assigned to a given company can be explained using a flower graph based on the company’s scores on the 
+various criteria. Here is an example of an ESG rating of a company displayed in the SRI tool:
+A transparent and granular ESG rating system  
+Board Structure
+D Audit & Control
+C
+ESG Strategy Green Investing
+B B
+8% 10% Green Insuring
+7% B
+9%
+Ethics
+C
+8% E 23%
+C
+A
+6% G 43%ESG 35% 3% C Emissions and energy use
+B
+Remuneration C 5%
+23% B Responsible Marketing
+S 9%
+B
+C 3% B
+Shareholder’s rights Labour Relations
+2% 1%
+8%
+C C
+Employment practices Health & Safety
+B
+Financial inclusion Source: Amundi
+In addition to the standard calculation of ratings, an active and in-depth analysis is carried out on a number of 
+issuers selected by the ESG analysts. Such coverage of a company can be triggered by:
+– specific requests from portfolio managers;
+– the overall level of exposure of Amundi to a given issuer;
+– our annual engagement campaigns;
+– issuers with a particularly weak ESG rating for a given criterion; and 
+– the quarterly controversies screening.
+The above approach to rating issuers applies independent of the instruments that are issued, whether equity 
+or fixed income, and is therefore relevant to both asset classes. A similar approach is applied in a tailored 
+way to other asset classes. For example, with regard to sovereign debt issuers, our approach again seeks to 
+consider the main ESG issues to which an investor is exposed. We seek to assess the ESG issues embedded in 
+governments’ current and past policies, which could be reflected in a country’s ability to reimburse its debt in 
+the mid to long-term, and so thus represent a risk for investors. We also seek to assess how countries handle 
+the major sustainability issues that contribute to the stability of global society. Our methodology relies on 
+about 50 indices or factors, each of which represents one ESG issue. These are constructed from an external 
+data provider which bases them on information from various sources including the World Bank and the UN as 
+well as proprietary databases and expert scorecards. These are combined into an Amundi ESG sovereign index, 
+grouped into eight categories under the pillars E, S and G:
+Environment Social Governance
+Climate Change Human Rights Government  
+Effectiveness
+Natural Capital Social Cohesion
+Economic  
+Human Capital
+Environment
+Civil Rights
+22 | Stewardship Report 2020
+With regard to other types of instruments or issuers,  of the exclusion process. The separation of the ESG 
+we have developed specific methodologies to assess  analysis  allows  our  portfolio  managers  to  benefit 
+the ESG quality of different instruments and issuers.  from different skills sets (both financial analysis and 
+These methodologies respond to issues arising from  ESG analysis) and to make their investment decisions 
+the nature of the relevant instruments or because  independently.  Except  for  G-rated  issuers,  our 
+our existing external data providers do not provide  portfolio managers have the final say on whether or 
+relevant coverage. These methodologies cover private  not they should invest in a given issuer’s securities.
+equity, private debt issuers, impact investing and real 
+We believe this structure and separation provides the 
+estate, as well as specific instruments such as green 
+highest value to our clients, who can benefit from the 
+or social bonds. Each methodology is specific, but 
+full expertise of our ESG analysis, financial analysis 
+they all share the same target: the ability to anticipate 
+and investment management teams, collectively and 
+and manage sustainability risks and opportunities, as 
+individually.
+well as the ability to mitigate their potential negative 
+impacts on sustainability.
+Amundi  regards  its  active  engagement  approach 
+as an integral part of its ESG integration policy. One 
+The  ESG  analysis  team  is  independent  from  the 
+aim of engagement is to assist companies in making 
+investment  management  and  financial  analysis 
+progress in terms of our ESG ratings analysis. This 
+teams. This organisation ensures the quality and the 
+enhances their impact on the real world, and also 
+independence of the ESG analysis and opinions. In 
+widens  the  investment  universe  for  our  portfolio 
+addition, all issuers rated G are validated by the ESG 
+managers and for our clients.
+Rating Committee, directly or through the approval 
+Exclusionary approach
+Amundi applies a strict exclusion policy of the worst 
+ESG-rated companies across all actively managed  Case study on exclusions
+portfolios. We regard such targeted exclusions as 
+arising directly from our fiduciary duty to protect 
+In late 2020, the ESG Rating Committee 
+clients’ interests. These exclusion policies apply to 
+considered the possible exclusion of three 
+all our active investment strategies and lead us to 
+companies from all Amundi active portfolios 
+exclude  companies  that  do  not  comply  with  our 
+because of human rights issues related to their 
+ESG policy, international conventions, internationally 
+involvement in the private provision of prisons 
+recognised frameworks, and national regulations. Our 
+and immigration detention centres. Two of 
+exclusion policy is kept under active consideration, 
+these companies are US-listed, one is UK-listed, 
+and is formally reviewed annually and approved by 
+and the operations in question are in the US, UK 
+the ESG Committee.
+and Australia. 
+The current exclusion policy bars any of our funds  The committee concluded that the allegations 
+from investing in: of human rights issues was so significant that 
+– Issuers involved in the production, sale, storage  it was not appropriate to expose clients to the 
+or services for and of anti-personnel mines and  risk of investment in these businesses, and 
+cluster bombs, prohibited by the Ottawa and Oslo  the profitability of these operations was itself 
+treaties; inconsistent with client best interests as the 
+profit margin arises only from providing poor 
+– Issuers involved in the production, sale or storage 
+conditions for inmates, and from undercutting 
+of chemical, biological and depleted uranium 
+the equivalent wages for staff in the public 
+weapons; and
+sector provision of such services. 
+– Issuers that violate, repeatedly and seriously, 
+one or more of the 10 principles of the Global  The Committee also agreed to keep two 
+Compact.  additional companies (one French, one 
+from the UK) under review because of their 
+operations in this controversial sector.
+23 | Stewardship Report 2020
+In addition, Amundi applies specific sectoral exclusions to controversial industries: coal and tobacco. These 
+sectoral exclusions apply to all actively managed strategies in which Amundi has full portfolio management 
+discretion and always subject to applicable laws prohibiting their implementation. These apply unless clients 
+specifically request otherwise in the context of individual mandates or tailored funds (or fully passive strategies):
+Thermal Coal
+The following companies are excluded from all active strategies:
+– Any companies developing or planning to develop new thermal coal capacity along the entire value 
+chain (mining, production, utilities and transport infrastructure).
+– Companies generating more than 25% of their revenues from coal mining, or with annual coal 
+extraction of 100 Mt or more, without having declared an intention to reduce this.
+– Companies with revenues from coal mining and coal-fired electricity production equal to or greater 
+than 50% of their total revenues.
+– Coal-fired power generation and coal mining companies with revenue between these thresholds of 
+25% and 50% which do not have an improving energy transition score.
+Tobacco
+As a signatory of the Tobacco Free Finance Pledge, in 2020 we further strengthened our tobacco exclusion 
+policy. This applies as follows:
+– We exclude any investment in companies that manufacture complete tobacco products (applying a 
+revenue threshold of 5%).
+– We cap our ESG rating of an issuer with more than 10% of its turnover from tobacco (this includes 
+suppliers, manufacturers and distributors) at E. As a result, such companies are excluded from our SRI 
+funds range, which is historically subject to the exclusion of issuers rated E, F or G.
+Enhancing investment integration: 2021 ambitions and climate
+To fulfil Amundi’s 2021 ESG ambition that all actively  – TEE ratings: energy transition ratings.
+managed open-ended funds will have to maintain  – Carbon data: CO2 scope 1, 2, 3; CO2 reserves; coal 
+a  higher  ESG  score  than  their  benchmark  index,  shares; etc.
+we are working to enhance the skills and processes 
+– All data and information relevant to client specific 
+of our investment teams. All investment hubs are 
+exclusion lists or exclusions criteria (such as 
+upgrading  their  investment  processes  in  order  to 
+alcohol, civil arms, fur producers, etc.).
+move from exclusionary screening toward full active 
+and systematic integration of ESG factors in their  This  ALTO  ‘Extra-Financial-Analysis’  module  is  an 
+respective management platforms.  asset allocation module that displays not only the data 
+for each security held in a portfolio but also calculates 
+To facilitate this, we have implemented a Straight 
+the average ESG rating of a portfolio and compares it 
+Through Processing tool that enables managers and 
+to the one of the benchmark or universe of reference, 
+risk control teams to access companies’ ESG ratings, 
+among  other  ratios  and  information.  Amundi’s 
+alongside their access to financial ratings and credit 
+portfolio managers thus benefit from our internal ESG 
+ratings. This Stock Rating Integrator tool guarantees 
+ratings, and at all times know the financial and ESG 
+the consistency and transparency of information at all 
+ratings of the securities held in their portfolio, and 
+times. A security’s rating may be justified at any time 
+its benchmark index(es), if any. Portfolio managers 
+using a decision tree based on scores assigned to the 
+monitor the financial and ESG profiles of the issuers 
+security for each of the reference system’s criteria. 
+in which their funds invest and can liaise with the ESG 
+The following ESG data is now uploaded as standard  analysts to get their insights to assist with buy, sell or 
+into the ALTO analysis tool used by all of our portfolio  hold decisions.
+managers: 
+Depending on the investment strategy and the ESG 
+– ESG ratings: overall rating and component ratings  approach of the fund, the portfolio manager may 
+(E, S and G pillars), as well as all underlying criteria. focus on:
+24 | Stewardship Report 2020
+– The overall ESG rating of the issuer. For example,  objectives set under the Paris Agreement) and the IEA 
+SRI portfolio managers take both financial analysis  base case scenario. This allows us to identify which 
+and ESG analysis of an issuer into consideration  activities face more upside/downside as regulators 
+before making a buy or sell decision. In most  tighten  CO2  regulations.  We  draw  heat  maps  by 
+cases, this translates into a matrix of decision  sector to take into account risks both at the top line 
+across both financial and ESG factors. The lower  level (price/volumes) and bottom line (CO2 costs). 
+the ESG rating, the higher confidence in future  For instance, in the oil & gas sector, some activities 
+financial performance is needed. appear more at risk than others, with the modelled 
+– The rating on specific criteria. For example,  downside much greater for oil prices (30% lower in 
+in our Green Bond strategies we focus on the  IEA SDS than in the base case) than for gas (6% lower 
+environmental and energy transition sub-criteria  in Europe). We then compare the exposure of issuer 
+in order to assess the ability of an issuer fully to  portfolios against these heat maps.
+embrace the energy transition.
+We try to use 2°C scenarios modelled by different 
+Naturally, the weighting of the ESG Scores and Ratings  institutions or by issuers themselves in their TCFD 
+within each investment process varies by asset class  reporting to increase our understanding of areas of 
+and by strategy. uncertainty. After this exercise, we may end up having 
+a  different  opinion  on  the  sustainability  benefits 
+Given our particular focus on climate change issues,  of  certain  technologies  and  their  contribution  to 
+our approach in this area is especially developed.  the low-carbon transition; but overall we consider 
+Specifically, we use scenario analysis to: that using scenario analysis allows us to go a step 
+1. estimate the impact of CO2 regulations ahead of  beyond the initial carbon-intensity analysis of sectors, 
+their implementation in order to anticipate potential  activities and issuers in our understanding of supply 
+disruptions to investment cases; and  and demand shifts caused by carbon constraints. For 
+instance, scenario analysis allows us to understand 
+2. stress test the outlook for different types of 
+the likely pressure from the ramp up of electric cars 
+activities under a carbon-constrained world. 
+on the supply of key battery materials such as nickel. 
+As an illustration of the latter, we compare trends  This  is  not  captured  by  current  carbon  footprint 
+between the IEA Sustainable Development Scenario  methodologies.
+(which factors in a carbon constraint aligned with 
+Compliance with constraints
+ESG ratings are also among the tools available to the risk department. This enables ESG topics to be integrated 
+within Amundi’s control framework. Under this framework, responsibilities are spread between the first level 
+of controls performed by our investment teams and the second level of controls performed by our risk teams. 
+The risk department oversees adherence to regulatory requirements and management of risks related to these 
+topics, as well as monitoring adherence to ESG constraints (whether exclusions or other rules) within mandates 
+– which are regarded in the same way as any other contractual requirements. Alerts as to potential breaches 
+are automated both pre and post-trade.
+25 | Stewardship Report 2020
+Active and value-focused engagement
+Amundi engages issuers regardless of the asset class through which we have investment exposure to the 
+business. The issuers with which we engage are primarily chosen based on the extent of their exposure 
+to the relevant engagement issue. As a global investor (see map of investments), we engage across the 
+world, taking account of local realities but with the same level of ambition and gradual expectations across 
+geographies. 
+We regard divestment as a last resort. By divesting, an asset manager gives up any opportunity to exert 
+influence over a company’s or sector’s ESG practices. By staying invested in companies that are committed to 
+improving their ESG practices, investors can promote the best sustainable practices within a sector. This is why 
+Amundi has put in place a strong engagement policy. It is an essential part of our fiduciary duty to our clients, 
+and our role as responsible investor.
+Amundi publishes an annual report on our engagement  The issues covered by our engagement arise from an 
+activities on the website1. Engagement is not simply  understanding of the double materiality perspective. 
+meeting companies and asking questions about ESG.  This means that engagement with issuers should not 
+We are clear that proper engagement should: only be based on how sustainability issues may affect 
+– Have a pragmatic, realisable goal or outcome   the company (sustainability risks), nor the material 
+and an agenda issues  that  affect  financial  measures  of  business 
+performance. Engagement is also based on how the 
+– Be specific
+company affects society and the environment. This 
+– Be evolutionary or be based on a series of 
+means that we may choose to engage on issues 
+milestones
+even where they not be material for the financial 
+– Have KPIs, either qualitative or quantitative statements of the company, in the short- to medium-
+– Have a clear end, a defined timeframe and  term, if those issues have material impacts on society.
+objectives
+We  do  not  seek  material  non-public  information 
+through our engagement work.
+Where our assets are invested
+Europe asset exposure (€B) 
+Equities 208
+Fixed income 571
+Americas asset exposure (€B)  Money market 218
+Equities 27 Multi-asset 249 Asia asset exposure (€B) 
+Fixed income 34 Other 90 Equities 61
+Money market 1 Total 1,337 Fixed income 179
+Multi-asset 2 Money market 31
+Other 0 Multi-asset 20
+Total 64 Other 6
+Total 298
+Other emerging asset 
+exposure (€B) 
+Global asset-base (€B)
+Equities 22
+Equities 318
+Fixed income 6
+Fixed income 791
+Money market 2
+Money market 252
+Multi-asset 1
+Multi-asset 272
+Other 0
+Other 96
+Total 31
+Total 1,730
+1. https://www.amundi.com/int/ESG/Documentation
+26 | Stewardship Report 2020
+We engage with issuers on different topics identified  We  carry  out  a  number  of  different  forms  of 
+through a range of routes: engagement:
+– Topics that are related to major systemic risks 
+1. Thematic Engagement
+and sustainability risks or factors. In particular, 
+Thematic  engagement  refers  to  cross-sectorial 
+Amundi believes that the following two priorities 
+engagement on key topics such as climate-related 
+represent systemic risks for companies as well 
+issues or on matters related to inequalities, as well 
+as opportunities for those who wish to integrate 
+as  on  other  environmental,  social  and  employee 
+them in a positive way: (1) Climate change 
+concerns, respect for human rights, anti-corruption 
+and ecosystems protection, which threaten to 
+and  anti-bribery  –  matters  that  are  deemed  to 
+provoke destructive chain reactions; and (2) 
+represent building blocks of a sustainable economy. 
+Growing inequalities that generate social divisions, 
+Engagement  streams  are  launched  for  a  period 
+endangering the economic and political stability of 
+of  several  years.  Thematic  engagement  revolves 
+democracies.
+around themes common to several sectors, aiming to 
+– Topics that are important for the success of the 
+understand existing practices, promote best practice, 
+UN Sustainable Development Goals, and in line 
+recommend improvements and measure progress. 
+with our clients’ and regulation’s areas of focus. 
+For  emerging  themes,  the  objective  is  to  raise 
+– Topics that are related to our responsible  awareness among issuers and highlight best practice. 
+investment or sector policies, or to some  For established themes, we target specific outcomes. 
+commitment related to specific products or clients.
+2. Ongoing engagement
+2020 Engagement broken down by topic Ongoing engagement is typically company or sector 
+focused engagement (also sometimes called company 
+dialogue). Ongoing engagement can cover multiple 
+  E nergy transition &  issues or themes (and by consequence result in a variety 
+climate related issues
+21% 20%   N atural capital &  of performance benchmarks for companies to meet). 
+ecosystem protection Specific reasons for ongoing engagement include: 
+  D irect & Indirect employees 
+protection, Human Rights – engagement around specific challenges, 
+14% 16%   C lients, product & social  sustainability risks or opportunities, either for 
+responsability the company or its sector as a whole. Our aim 
+  G overnance practices for  is to encourage enhanced performance and the 
+10% sustainable development
+19% delivery of specific performance benchmarks.
+  E ngagement related to 
+the proxy voting’s season
+– engagement around controversies, responding 
+to a failure properly to manage a sustainability risk. 
+Our aim is to encourage proper remediation and 
+Engagement issue Number of  ensure that changes are made so as to prevent a 
+dialogues 
+repeat occurrence.
+(2020)
+– engagement with leaders, to encourage them to 
+Energy transition & climate related  472 continue to pursue leading practice, recognising 
+issues that best practice is always evolving. Our aim is 
+Natural capital & ecosystem  378 to encourage improvement and also to identify 
+protection leading practices and future directions of travel.
+– engagement with improvers, working closely with 
+Direct & indirect employees  447
+protection, Human Rights companies that wish to learn how to enhance their 
+approach. Our aim is to help identify short- and 
+Client, product & social responsibility 251
+long-term targets for improvement.
+Governance practices for sustainable  341 – engagement with laggards, working with those 
+development
+companies with poor performance on one or more 
+Engagement related to the proxy  489 ESG criteria. Our aim is to press for improvements 
+voting's season in the specific areas where these companies lag 
+behind and where change is most needed.
+– engagement around Amundi policies prior 
+to possible divestment, because we regard 
+divestment as a serious matter meaning we need 
+to engage with companies that are at risk, to make 
+sure that our policy is clear and the company 
+27 | Stewardship Report 2020
+has time to make the necessary changes before  We are pleased to discuss the 
+any possible exclusion – see case study under  details of some of our engagement 
+Escalation: divestment below. activities below. Because we 
+regard trust as very important 
+3. Engagement through pre-AGM dialogue
+for our positive relationships 
+We carry out pre-AGM dialogue to encourage sounder  with the companies in which 
+corporate  governance  and  management  of  E&S 
+we invest, we only specifically 
+matters  in  line  with  our  Voting  Policy.  Our  voting 
+identify companies in our public 
+reflects our overall approach to stewardship, meaning 
+reporting where we have obtained 
+that we are committed to long-term relationships with 
+their permission to do so. We 
+the companies in which we invest, and strive to have 
+believe that anonymised reporting 
+active dialogue with them. Amundi is committed to 
+nevertheless provides useful 
+transparency and, where possible, we will inform issuers 
+of planned negative votes. This is discussed in more  insights into our engagement 
+depth in considered and intelligent voting, below. activities on behalf of clients.
+Thematic engagements
+We are pleased to highlight some of our most active thematic engagements in response to our priority systemic 
+issues: climate change and ecosystems protection; and growing inequalities.
+THEME: CLIMATE CHANGE AND ECOSYSTEMS
+Climate change: Science-Based Targets of companies in the process of committing to the 
+SBTs and others agreeing to consider it.
+In 2020, we wrote to 253 companies across a range 
+of sectors, inviting them to commit to or upgrade 
+their Science-Based Targets (SBTs) to fight climate  Climate change: CA100+
+change. SBTs are targets that are in line with what the 
+Amundi  continues  to  be  an  active  participant  in 
+latest climate science considers necessary to reach 
+CA100+ collaborative engagements, with the world’s 
+the goals of the Paris Agreement., specifying by how 
+most carbon-intensive public companies. We were 
+much and how quickly a company needs to reduce its 
+directly  involved  in  specific  engagements  with 
+greenhouse gas emissions to limit global warming to 
+four companies in 2020: a Japanese capital goods 
+well below 2°C. We regard Science-Based Targets as a 
+company, a US construction materials company, a 
+robust, credible standard for companies and investors 
+Brazilian oil and gas company and a Japanese auto 
+alike, and we also welcome the transparency that they 
+manufacturer. We have been encouraged by some 
+bring to disclosures and progress.
+positive developments (see our focus on Petrobras 
+below), but also note that some points of concern 
+Our objective with these engagements is to encourage 
+have not yet been resolved. 
+companies to set validated scientific objectives to 
+reduce their GHG emissions in line with the 2015 Paris 
+We firmly believe that corporate lobbying and public 
+Agreement. As for all of our engagements, we set 
+affairs efforts should refrain from providing direct 
+clear and tangible objectives for the campaign:
+or indirect support to regulatory initiatives that risk 
+1.  Request 203 companies that have not yet committed  slowing down the energy transition. We therefore, 
+to Science-Based Targets to do so; maintain our full support to the CA100+ investor 
+2.  Invite 31 companies that have made the commitment  group effort to encourage Toyota to evolve its support 
+to have their targets validated; for rolling back new car greenhouse gas emission and 
+fuel efficiency standards. With regards to Daikin, it is 
+3.  Encourage 19 companies that have validated 2°C 
+necessary to keep a close eye on whether its next mid-
+targets to commit to tougher 1.5°C targets.
+term action plan will advance the company towards 
+This campaign will last 3 years, involving close enga- delivering its 2050 net zero target.
+gement with companies to persuade them to address 
+Petrobras (Brazil): In August 2020, we took part in 
+these  recommendations.  Should  companies  still 
+a joint investor call where Petrobras provided an 
+consider it not necessary to commit to SBTs, we will 
+update on its energy transition. We welcomed the 
+consider expressing concerns at companies’ AGMs. 
+company’s  further  positive  progress  with  regards 
+We are heartened by progress so far, with a number 
+28 | Stewardship Report 2020
+to implementing TCFD, in particular publishing its  30% from adjusted 2020 levels. 
+oil price assumptions, and how they compare with 
+– RWE (Germany): We engaged with RWE on 
+scenarios drawn by the International Energy Agency 
+multiple occasions in 2020. We emphasised the 
+(IEA), and the valuation sensitivity of its assets to the 
+importance of decarbonisation, especially the 
+IEA Sustainable Development Scenario (SDS). We 
+2030 coal phase-out for OECD companies. While 
+agreed to maintain dialogue with the company on 
+RWE was already on a journey of decarbonisation, 
+disclosure of emissions from its value chain (including 
+the speed of the transition became the core of our 
+Scope 3, related to the use of its products). 
+discussions. By the end of the year, we saw two 
+For 2021, we have committed to increase our efforts  sizeable developments:
+in support of CA100+:
+1.  RWE participated in the first German auction 
+– As lead CA100+ investor for a US construction  to decommission coal-fired power plants in 
+materials company, while we are encouraged  H2 2020. The company applied for, and won, 
+by the first disclosure of group-wide Scope 1  compensation to close two sites, enabling it to 
+emissions and CO2 reduction targets, we will 
+close all its German hard coal plants by the end 
+continue to press the company to address wider 
+of 2020.
+low-carbon transition challenges.
+– We have also agreed to join the group of investors  2.  RWE expanded its decarbonisation targets from 
+collaborating on engagement with two further  just Scope 1 to include both Scope 2 and 3. Its 
+large oil and gas companies. commitments to cut Scope 1 and 2 greenhouse 
+gas emissions by 50%, and Scope 3 emissions 
+by 30%, both by the year 2030 against a 2019 
+Climate change: energy transition  
+baseline, have been certified by the Science 
+and thermal coal
+Based Targets initiative to be Paris Agreement 
+In accordance with the IEA’s recommendations for 
+aligned. 
+alignment with the Paris Agreement, Amundi has 
+pledged that coal must be phased out by 2030 for  These moves are very welcome, though we aim to 
+European and OECD countries and by 2040 for the  continue our discussions regarding RWE’s coal exit 
+rest of the world. It is a key conviction for us that  strategy.
+companies must organise their own energy transition. 
+We recognise that engagement is essential to achieve 
+Climate change: Insurance  
+this Paris-aligned exit from coal. 
+and fossil fuel policies
+We have thus asked companies to provide us with a 
+We have begun active dialogue with insurers on their 
+detailed plan to phase out their thermal coal mining 
+fossil fuel exit strategies. We believe that a change 
+and generation operations, by 2021, in accordance 
+in this sector’s policies can significantly contribute 
+with  the  2030/2040  timetable.  Companies  that 
+to  the  energy  transition.  Specifically,  the  industry 
+have yet to announce a clear coal exit strategy or 
+has two key levers: both its investment approach 
+companies  that  do  not  demonstrate  a  coal  exit 
+and its underwriting policies. An insurer’s coal policy 
+strategy in line with the Paris Agreement have been 
+will be consistent with the IPCC’s 1.5°C pathway if it 
+a focus of our engagement efforts. We have made 
+stipulates:
+clear that a failure to develop such a strategy puts 
+companies at risk of divestment.  – an exit from coal-related investments
+– an end to underwriting new coal projects and coal 
+In  2020,  we  engaged  with  31  OECD-domiciled 
+companies
+companies recognised as having the highest thermal 
+– an end to insurance cover of existing coal projects 
+coal exposures. By the end of 2020, four of these 
+and companies, unless the latter are engaged in a 
+companies had confirmed that their coal exit is in line 
+rapid transition away from coal to clean energy
+with the 2030 timetable. Other companies – those 
+that have not communicated a coal exit or have one 
+As of November 2020, 23 insurance companies had 
+that is not in line with our 2030 timelines – required 
+committed to end or limit the underwriting of coal 
+more detailed engagement. These included: 
+projects. Additionally, at least 65 insurance companies 
+– BHP (Australia/UK): At the time of our  had adopted a policy to divest from coal or to end 
+engagement in May 2020, BHP had not announced  further investments in the coal industry. We have been 
+a coal exit strategy, nor any medium-term climate  asking insurers to announce a fossil fuel exit policy 
+strategy; we highlighted both as areas of key  and for this policy to be specific. We believe that it 
+concern. By September, BHP had revealed not only  is not sufficient for an insurer simply to announce 
+a thermal coal exit in the next few years but also a  an exit from coal. Instead, a robust fossil fuel policy 
+target to reduce operational emissions by at least  should include the following:
+29 | Stewardship Report 2020
+– A clear definition of coal mining and coal- Last year we provided specific recommendations for 
+fired power plants (a relative threshold based  each sector, with the aim of tracking performance 
+on revenues or electricity generation and an  over subsequent years:
+absolute threshold based on annual thermal coal 
+– Household & Personal Products: More granular 
+production or coal capacity);
+reporting on the impacts of a company’s plastic 
+– A date for the full exit from coal (which should be  packaging including breakdowns of the recycling 
+at the latest by 2030 in EU and OECD countries,  rates as well as breakdowns by geography with 
+and by 2040 worldwide); and a focus on impacts in areas with poor recycling 
+– The exclusion of coal developers. infrastructure. 
+– Healthcare Equipment & Pharmaceuticals: 
+We also argue that the fossil fuel policy should apply 
+Making plastic a higher priority in environmental 
+to the investment side (including assets managed for 
+management with an increase in focus, 
+third parties as well as the insurer’s own assets) as 
+transparency, and reporting to better shape a 
+well as underwriting activities.
+strategy on plastic that focuses on the specific 
+In this respect, we pressed a number of insurers,  needs and concerns of the sector. 
+from European, Japanese and US markets, to agree,  – Tires & Automobile Components: Increased 
+establish and publish a coal exit policy. We welcome  transparency and reporting on how companies 
+announcements by these and other companies, or  work with their suppliers to address plastic issues 
+work towards preparing such announcements. We  as well as increased reporting on environmental 
+also took forward these points in individual dialogues  impacts of components. 
+with companies. For example, when meeting with 
+a European insurer, we asked the company to fully  Our engagement with Novo Nordisk (Denmark), a 
+phase out from coal (it continues to insure a number  global pharmaceutical company specialised in chronic 
+of  Eastern  European  coalmines  and  coal  power  diseases such as diabetes, was typical. Novo Nordisk 
+stations). We also asked the company to extend its  is significantly exposed to plastics through injection 
+coal policy to the third-party assets managed by its  devices, such as insulin pens, of which it produces 
+investment arm. The insurer has put an engagement  more than 550 million a year. We recommended that 
+policy in place for its remaining exposure to coal. the company:
+– include the topic of plastic in its sustainability 
+At meetings with a second European insurer, we 
+communications; and
+asked the company to adopt a more restrictive coal 
+policy (an end to the insurance of existing coal plants,  – expand its circular economy mindset to its plastic 
+of coal-related projects and corporates in emerging  pens, by making the end-of-life of these devices 
+markets, the exclusion of coal developers, and the  more environmentally friendly, through better 
+commitment to a full phase out). The company has  disposal and ideally through recycling.
+now developed a robust methodology and announced 
+Our  dialogue  has  borne  fruit  in  many  ways  and 
+a  broad  decarbonisation  strategy  in  December 
+confirmed the company’s nascent ideas on the issue. 
+2020, shifting away from coal, oil and natural gas 
+In  mid-2020,  the  plastic  issue  was  addressed  on 
+for its investments, (re)insurance transactions and 
+the company website, from where it was previously 
+own business operations. The strategy includes a 
+absent. The environmental section of its CSR website 
+commitment to exit thermal coal fully by 2040.
+now describes how the company plans to tackle its 
+plastic challenge as part of its aspiration to have zero 
+Ecosystems: plastic engagement environmental  impact.  It  also  has  taken  concrete 
+Plastic’s flexibility and durability, as well as its cheapness,  actions with the recent launch of two pilot initiatives 
+mean it is used widely. However, some of these same  on its plastic pens. The first consists of recycling pens 
+characteristics make plastic pollution a major issue  discarded after production; it is now looking into how 
+for the environment, requiring in-depth thinking by  to scale-up the solution so it can be applied to used 
+companies using it heavily. This is the reason why we  insulin pens. The second initiative, which is notably 
+launched a 3-year engagement that aims to examine  required for a large-scale recycling of the pens, was 
+companies’ plastic exposure and how they manage  the launch in 2020 of a pilot take-back programme to 
+plastic in the context of increasing regulation and  effectively collect used pens. First tested in Denmark, 
+public pressure – a particular challenge as few viable  this pilot programme is due to be further expanded 
+alternatives currently exist. Our engagement focuses  to other countries. As Novo Nordisk takes its plastic 
+on 3 sectors: household personal products, automobile  exposure more seriously into consideration, we are 
+components,  and  healthcare/pharmaceuticals,  with  encouraging the group to expand its communication 
+the aim of not only looking at sectors that are the most  on this topic going forward by providing more KPIs 
+visible in the public eye but sectors that overall have  and targets (such as KPIs around packaging, internal 
+significant exposure to plastics. plastic use, and end-user products).
+30 | Stewardship Report 2020
+Ecosystems: Biodiversity and deforestation To increase the quality of biodiversity data, investors 
+must  engage  on  the  topic.  This  can  include 
+Biodiversity loss is a risk that can no longer be ignored. 
+engagement with corporates on specific biodiversity 
+According  to  the  World  Economic  Forum’s  2020 
+related topics such as deforestation or a more general 
+annual survey, biodiversity loss has now been cited 
+engagement  on  how  a  company  is  reporting  on 
+as one of the top 5 global risks for the next 10 years 
+biodiversity risks and impacts to push for overall more 
+along with other environmental risks such as extreme 
+robust and granular reporting. In 2020, we engaged 
+weather and climate action failure. However, measuring 
+with 96 companies on the topic, across a wide range 
+and accounting for biodiversity risks and impacts is 
+of sectors from extractives to consumer goods. For 
+incredibly complex. With biodiversity, there is no one-
+many of these engagements the key priority is getting 
+size-fits-all metric (such as CO2 equivalent emissions 
+companies  to  better  understand  and  report  on 
+for climate change) nor long-term scenario analysis. 
+biodiversity-related risks and impacts. 
+Furthermore, a wide variety of corporate actions (from 
+waste  to  over-consumption  of  resources)  impact  Due to the overall weak disclosure on biodiversity, 
+biodiversity loss. Finally, the implications of biodiversity  a current key KPI on the subject is simply increased 
+loss are not uniform, with certain geographies and  reporting. What is required differs considerably by 
+species being particularly vulnerable. sector (e.g. supply chain transparency for palm, soy 
+and cattle, versus more asset-level biodiversity data 
+Corporate disclosure is limited with only a handful of 
+at mining sites). Regardless of the sector, it is clear 
+companies demonstrating efforts on robust biodi-
+that solving the issue requires more collaboration with 
+versity disclosure. While there are some initiatives to 
+experts and stakeholders to address the reporting 
+boost nature related disclosures such as CDP Forests 
+difficulties and reporting needs. 
+(see Promoting long-termism in markets below), we 
+are a long way off from a clear investment framework 
+on biodiversity reporting. 
+THEME: GROWING INEQUALITIES
+Growing inequalities: Pay Ratios We carried out an engagement campaign with US 
+companies with some of the most unequal CEO pay 
+It is a conviction at Amundi that companies must 
+ratios. These companies were, for the most part, in 
+participate in the social cohesion of the countries in 
+the retail, food retail, and consumer services sectors, 
+which they operate. One way they do so is through their 
+and had median pay levels well below a living wage. 
+wage and profit-sharing policies. More specifically, we 
+The pay ratios of the companies we targeted were 
+prioritise a fair pay ratio – the gap between CEO pay 
+well over 1,000:1, with median salaries often below 
+and the median pay level among employees (often 
+$15,000 a year. 
+known as the CEO pay ratio). In 2020, Amundi started 
+engagement with a focus on the US for two reasons: Our aim was to encourage companies to deliver a 
+– First, US publicly traded companies are required to  more equitable pay ratio, particularly relevant given 
+disclose the pay ratio between CEO and median  the financial difficulties arising from Covid-19. We 
+employees, making it easier to collect this data; and encouraged remuneration strategies that ensure a 
+– Second, in the US, CEO pay has outpaced  living wage for lowest paid employees in addition to 
+increases in worker pay. The CEO worker pay ratio  incentivising  sustainable  long-term  value  creation. 
+was 21:1 in 1965, 61:1 in 1989, and 320:1 in 2019. CEO  While overall these aims are broad, the initial goal of 
+pay grew by 337% between 1978 and 2018 whilst  the campaign is to begin dialogue on this particular 
+typical worker pay grew by just 13.7%. issue and set benchmarks for targeted companies 
+going forward in 2021. We will continue to push for 
+Companies’  compensation  strategies  need  to  put 
+more a more equitable pay ratio in 2021 and, if we do 
+more focus on delivering a fair pay ratio, particularly 
+not see any developments, we are likely vote against 
+in sectors where median salaries are far below a living 
+executive pay. 
+wage. Factoring living wage considerations into staff 
+pay has been observed to decrease turnover rates and 
+increase productivity. Furthermore, a fair pay ratio can  Growing inequalities:  
+indicate that the company prioritises high wage job  Workforce Disclosure Initiative
+creation and recognises that investing in employees is 
+Amundi is a signatory of the Workforce Disclosure 
+key to the long-term health of the company. 
+Initiative (WDI), which provides a universal reporting 
+system for social issues in line with various disclosure 
+31 | Stewardship Report 2020
+standards. The WDI platform allows companies to  that their workforce remains employable and to limit 
+demonstrate  to  their  investors,  clients  and  other  redundancies as far as possible. The objective of our 
+stakeholders how they manage their staff and supply  engagement is to assess the capacity of companies 
+chain  workers,  and  show  how  their  approach  to  to guarantee the employability of their workforce 
+workforce  management  aligns  with  their  business  and support them through the structural changes the 
+strategy. While the overall list of questions can seem  industry faces. 
+overwhelming, they are classified into tiers so that 
+companies can start at the foundational level and work  During 2020, we contacted 11 automobile companies 
+to increase social reporting disclosure every year.  that have ambitious targets for the manufacturing 
+and marketing of EVs, and 2 automobile components 
+Given the general issue of a lack of information on the  companies that are heavily involved in combustion 
+S in ESG, we see collaboration with groups such as  engine  parts.  We  tested  company  training  and 
+WDI as the best way to help achieve uniform, granular  career management policies, and asked companies 
+data  that  can  be  used  to  benchmark  company  about their social dialogue processes to help prevent 
+performance  across  and  between  sectors.  WDI  social conflicts and disruptions to production. Our 
+also benefits issuers by potentially streamlining the  engagement with Volkswagen (Germany) offers a 
+demand for disclosures, which at present are highly  useful case study:
+varied.  Corporate  time  could  be  better  spent  on 
+actually addressing the concerns raised by investors  Volkswagen, who employs more than 600,000 staff 
+rather than just reporting issues.  worldwide, has pledged to spend €33 billion on its 
+EV business over the next few years. The company 
+For the aims of WDI to be achieved, companies must  recognises that a large proportion of the workforce 
+be convinced to begin reporting through WDI. To  will be impacted by the electrification of its fleet and 
+support the initiative, we helped by writing to more  that relocation of employees will be required. However, 
+than 10 target companies identified by the WDI to  it reported that there are no major redundancies 
+demonstrate our support for the initiative. Among  planned before 2025; there will be job reductions 
+this list, only one has so far confirmed its support for  but mostly through retirement. Volkswagen argues 
+the initiative, but we will continue to engage with the  it is well prepared for the electrification of its fleet 
+others to help increase support for WDI reporting.  and recognises that employees need very different 
+Overall, though, 141 global companies took part in the  qualifications  for  that  challenge.  Employees  are 
+WDI initiative in 2020, which was a 20% increase from  continuously trained through targeted programmes: 
+2019. We will continue to help promote WDI disclosure  for example, the company has initiated a compre-
+among issuers with the goal of one day having a  hensive qualification programme for around 3,500 
+comprehensive dataset of ESG social indicators.  employees for the successful ramp-up of the new 
+electric  models  at  the  pilot  site  for  e-mobility  in 
+Zwickau in Germany.
+Growing inequalities: Just transition  
+in the automobile sector
+Growing inequalities: PLWF, Living Wage  
+Before the Covid-19 pandemic and its dire economic 
+and Covid-19
+implications,  the  automobile  industry  was  already 
+facing  considerable  structural  change,  with  both  The year 2020 was our second year as a signatory of 
+automation  and  electrification.  As  CO2  emissions  Platform Living Wage Financials (PLWF), a growing 
+regulations continue to tighten globally, it is estimated  alliance  of  currently  15  financial  institutions  that 
+that electric vehicles (EVs) will represent 32% of the  encourages investee companies to address failures 
+total market share for new car sales in 2030 compared  to pay living wages in their global supply chains. As 
+to 2.5% in 2019. This shift will have important and  an investor coalition with over €3.2 trillion of assets, 
+disruptive consequences, not least in terms of the  we collectively engage with over 30 listed garment 
+workforce – especially as EVs are significantly less  and footwear brands, 11 food producing companies, 
+complex and have far fewer electromechanical parts.  and 10 food retail companies (with added targets 
+It is estimated that the assembly of an EV will require  each year). The PLWF evaluates companies based 
+around 30% less work.  on  an  externally  assured  living  wage  assessment 
+methodology. 
+The concept of a Just Transition (which is acknow-
+ledged in the Paris Agreement) aims not only at  The impact of Covid-19 on the garment industry – 
+ensuring that the benefits of the transition to a greener,  store closures and changes in consumer preferences 
+low carbon economy are shared, but also to secure  away from discretionary spending – has had knock-
+solutions for those who, in the process, might suffer  on consequences for global supply chains. Brands 
+economically; these may include countries, regions,  have re-shuffled inventories, slowed production and 
+industries and individual workers. In the automotive  cancelled orders. Global suppliers, and their workers 
+industry, this implies the need for companies to ensure  in particular, have felt the consequences. 
+32 | Stewardship Report 2020
+Therefore  we  have  supported  PLWF’s  work  to  – promoting core ILO labour standards as well as a 
+emphasise that Covid-19 reinforces the need for an  safe and healthy workplace; and
+acceleration in the payment of living wages in global  – continuing to strengthen social protection systems 
+supply  chains.  The  core  foundation  of  the  PLWF  for workers globally.
+methodology in this regard, was based on the ILO Call 
+to Action. This statement created by the ILO called  Of  the  brands  under  engagement,  50%  publicly 
+on brands, retailers, financial institutions and other  endorsed the ILO Call to Action. Overall, results were 
+stakeholders to take immediate action to protect  mixed, with some companies revealing good practices 
+garment workers’ income, health, and employment.  and others unable to give investors confidence that 
+The PLWF publicly endorsed the Call to Action and  they are protecting suppliers from the worst impacts of 
+issued an investor expectations letter to brands in  Covid-19. Companies that demonstrated more robust 
+April and May 2020, emphasising our expectation  measures in this respect also ranked higher in our living 
+that they should publicly commit to a range of actions  wage  study,  demonstrating  a  strong  link  between 
+outlined in the ILO statement including: companies  implementing  appropriate  practices  to 
+– paying manufacturers for finished goods and  improve wage levels in their supply chain and strong 
+goods in production; management  practices  to  account  for  Covid-19 
+impacts. These practices include building long term, 
+– maintaining effective and open communication 
+resilient relationships with manufacturers and greater 
+with supply chain partners about the status of 
+collaboration with stakeholders such as global unions 
+business during the pandemic;
+to help workers achieve collective bargaining. 
+– direct financial support to factories when possible;
+Ongoing engagements
+We welcome the opportunity to highlight a few examples of our ongoing engagement activities, giving an 
+indication of the range of geographies covered and issues discussed with companies. In some cases, we have 
+chosen not to name the companies in question because of specific sensitivities.
+European financial services company   traditionally monitored under the brand protection 
+ESG in executive pay programmes and is key to the service provided to 
+their  customers.  We  stressed  the  importance  of 
+We engaged with the company on multiple occasions 
+strengthening audits in this regard and the possibility 
+regarding the need to integrate ESG criteria into 
+for increased transparency on breaches. Just as the 
+executive pay. We discussed the nature of appropriate 
+social media companies publish transparency reports 
+ESG targets for the business that could be integrated 
+including the number of occurrences of violations of 
+in this way. We also talked through how this could 
+their terms of service, and how much content they 
+be delivered both in the short-term bonuses and the 
+had to remove, we believe the advertising industry 
+longer-term  incentive  structures,  noting  our  view 
+should build a proper framework to report on this 
+that this is best done in the long-term incentives. 
+critical facet of their business model. This would also 
+We  also  pressed  the  company  to  make  progress 
+reduce the risk of any negative externality in this area, 
+regarding diversity because the gender split among 
+supporting their overall record on sustainability.
+the executive team is currently poor. We took the 
+opportunity to welcome the company’s decision to 
+cancel its dividend and make conservative decisions  European business services SME  
+on executive pay in the light of the Covid-19 pandemic. Business ethics
+We recognise that small and medium-sized enterprises 
+European advertising business   (SMEs) play a key role in the global economy and 
+Social media responsibility often operate in difficult environments, making them 
+vulnerable to corruption in all its forms. With more 
+As part of a range of engagement activities in relation 
+limited resources, knowledge, and experience than 
+to the challenges facing the social media industry, 
+larger businesses, they may be less likely to have in 
+particularly in relation to disinformation and damage 
+place  effective  anti-corruption  measures,  and  so 
+to  public  trust,  we  engaged  with  an  advertising 
+we  seek  assurance  around  their  approaches.  For 
+business. In particular, we noted their responsibility 
+example, in 2020 we engaged with a European SME 
+with  regard  to  inadvertently  financing  harmful 
+offering business services. The company has enjoyed 
+content through ad buys. This is an aspect which is 
+several years of strong growth across several markets, 
+33 | Stewardship Report 2020
+reaching a point where its governance needed to  as  the  nomination  and  remuneration  committees. 
+evolve, both in terms of structures and the hiring of  We also encouraged the creation of an independent 
+new skilled individuals. We stressed the importance of  audit committee for the first time. Finally, we argued 
+the company extending its bribery and anti-corruption  that the company should transparently integrate ESG 
+controls to third parties such as partners and suppliers  issues into executive remuneration, providing clear 
+to help shore up the credibility of its governance.  visibility on the delivery of each of the relevant KPIs.
+The company understands the acute need for such 
+improvements, which should be implemented as soon 
+Japanese financial services company  
+as practically possible. The strengthening of internal 
+Corporate governance 
+risk procedures around its anti-corruption policy for 
+third parties as well as the establishment of a formal  We urged the company to enhance the independence 
+whistle-blowing  mechanism  with  legal  protection  of  its  board,  which  is  currently  dominated  by 
+for employees are two steps that we argued were  executive directors. We asked for an increase in the 
+necessary for a robust anti-corruption framework.  transparency around executive pay, and in particular 
+the  incorporation  of  ESG  targets  within  incentive 
+structures. The company acknowledged both of these 
+European telecoms company  
+issues. We also talked through its approach to financing 
+Sustainability and climate-change
+controversial  weaponry,  as  it  is  included  in  some 
+We  held  in-depth  discussions  with  the  company  reports from NGOs on these issues, and discussed 
+regarding its need for significant enhancements to  broader issues around ESG and green finance where 
+its sustainability approach, not least in light of its  the company recognises it has work to do.
+increased scale following a transformative merger. 
+We  discussed  climate  change-related  issues  and 
+Chinese technology company  
+the use of renewable energy sources, and won an 
+Human rights issues
+undertaking that the company will disclose its carbon 
+intensity data to CDP in the future. Given its business  We pressed the company regarding human rights 
+model is heavily reliant on outsourcing, we also called  concerns,  and  encouraged  them  to  produce  a 
+on the company to consider its role in pressing for  transparency report, in the same way that some of 
+high employee relations standards among its supply  its US peers do, covering the removal of content 
+chain, and urged for better reporting in this area. because it did not meet terms of service and visibility 
+on requests from host governments. We welcomed 
+plans to review its public disclosures and seek ways 
+Japanese insurance company  
+to enhance them. We also argued that the company 
+Thermal coal policy 
+needs to enhance the independence of its board and 
+We urged the company to develop a policy fully to  integrate ESG issues into executive pay. We discussed 
+exit from all exposure to the thermal coal industry,  in  particular  the  company’s  efforts  to  enhance 
+and discussed how and when such a policy should  employee relations and staff retention.
+be  made  public.  We  discussed  a  full  range  of 
+governance issues, including significantly enhancing 
+the independence of the board as a whole, as well 
+Collaborative engagement 
+Collective efforts can often have a greater impact. Just as we encourage issuers to act collectively on key 
+sustainability issues, investors also often collaborate. Collaborative initiatives can provide additional scope for 
+engagement or provide opportunities for greater impact. 
+We highlight here examples of our collective engagement activities (beyond those already referenced under 
+thematic engagements), where we work actively with other institutional investors through formal and informal 
+groupings to influence change at issuers. In some cases, we take leading roles in specific engagements, while 
+in others it is a better use of our overall resources simply to lend our support to activities. We typically prefer 
+to play an active role, generally meaning that Amundi takes the role of lead investor to engage with one or 
+more companies. By contrast, occasionally, we are simply a participant in a collective initiative, often where the 
+initiative is dynamic and impactful without particular direct assistance other than lending our support.
+34 | Stewardship Report 2020
+Among the industry organisations through which Amundi participates in collective engagement with issuers are:
+Responsible Investment initiatives Geography
+Principles for Responsible Investment (PRI) Global
+Climate Action 100+ Global
+Farm Animal Investment Risk & Return (FAIRR) Global
+Platform Living Wage Financials (PLWF) Global
+Access to Medicine Foundation Global
+Asia Investor Group on Climate Change (AIGCC) Asia
+Institutional Investors Group on Climate Change (IIGCC) Europe
+Leading engagements: Access to Medicines (ATM)
+Amundi has been an active supporter of the Access  based on the Index results. As part of this, Amundi 
+to Medicine (ATM) Foundation, an independent non- is lead investor for two companies, Sanofi (France) 
+profit organisation with the mission of encouraging  and Astellas (Japan). The 2021 edition of the index, 
+pharmaceutical companies to do more for the people  published  in  January,  shows  the  companies  are 
+who live in low and middle-income countries, since  enhancing the integration of access to medicine into 
+2010. Roughly, every other year, ATM publishes the  their  governance  structures,  R&D  processes,  and 
+Access to Medicine Index, a ranking of 20 of the world’s  monitoring efforts. This improvement is surely due 
+largest pharmaceutical companies, based on the steps  to the increased engagement between investors and 
+they take to improve access to medicine. The Index is  companies on these topics.
+based on a framework of 33 indicators that together 
+Improvements are particularly obvious for the two 
+capture the core role of pharmaceutical companies in 
+companies where Amundi was lead engager: 
+improving access to medicine, as confirmed through a 
+wide-ranging multi-stakeholder dialogue.  – Sanofi has progressed by 2 notches to 5th position 
+thanks to multiple new initiatives resulting in a 
+The Index is viewed by investors as one of the most  stronger performance in R&D planning and in 
+credible sources of information for assessing how  product delivery management.
+pharmaceutical  companies  can  strengthen  their 
+– Astellas jumped 5 notches to 14th position, thanks 
+licence to operate globally and expand in international 
+to improved governance of access (including 
+markets. It is endorsed by a more than 100 investors, 
+through implementing access-related incentives 
+including Amundi, which have signed the Access to 
+for senior executives) and the launch of a couple 
+Medicine Index Investor Statement and committed 
+of dedicated initiatives. While improvements 
+to using the Index in their investment analysis and 
+were made in 2020, there is scope for further 
+engagement with companies.
+improvement, as initiatives to address access 
+When the 2018 Access to Medicine Index was laun- to specific needs remain focused on too few 
+ched, investors expressed strong interest in a collabo- products and countries.
+rative engagement with pharmaceutical companies 
+Supporting initiative: FAIRR
+Animal Protein remains a major ESG concern for  An ecological transition, as desired by Amundi, will 
+both the climate and impact to health. Meeting future  not be possible without an agricultural transition. 
+demand  for  animal  proteins  (meat,  fish  or  dairy  This agricultural transition must focus: (i) on protein 
+products) will require an unfeasible amount of natural  reductions  and  raising  meat  alternatives,  (ii)  on 
+resources (in terms of both water and land) as well as  animal welfare, and (iii) on drastically reducing the 
+leading to a boom in GHG emissions. Furthermore, the  antibiotics given to animals. In July 2019, we became 
+use of antibiotics in intensive farming is responsible  a signatory of FAIRR, an innovative peer network for 
+for the emergence of antibiotic-resistant bacteria,  institutional investors, who use their influence to help 
+which threaten their effectiveness in human medicine. global livestock, fish and dairy companies change 
+their behaviour and build a more sustainable global 
+food system.
+35 | Stewardship Report 2020
+Amundi has signed up to three of FAIRR’s engagements: supply chains (started in 2019);
+– The Sustainable Proteins Engagement which asks  – The Investor Action on Antimicrobial Resistance 
+companies (food producers and food retailers)  initiative which is supported by investors managing 
+publicly to disclose information on their long- over $4.8 trillion worth of assets. The coalition 
+term approach to transitioning protein portfolios  has committed to assessing and integrating risks, 
+to include plant-based/alternative proteins to  opportunities and impacts related to antimicrobial 
+support a dietary transition in line with a 2-degree  resistance when making investment decisions and 
+world (started in 2019);  engaging with investee companies. 
+– The Global Meat Sourcing Engagement 
+encourages restaurant companies to develop a 
+strategic, forward-looking approach to managing 
+the climate and water risks in their meat and dairy 
+Escalated engagement 
+On occasions, it is necessary to escalate engagement with companies through a number of more powerful 
+tools such as making concerns public, proposing shareholder resolutions, litigation, divestment and exclusion 
+from the active investment universe. We use each of these tools only sparingly, because most use significant 
+resources, and for us divestment is a last resort. However, retaining the option to escalate plays an important 
+part in our ability fully to influence issuers. The following are a sample of our escalated activities. 
+Escalation: making concerns public  funding  decisions  by  major  banks  can  have  a 
+Barclays (UK) climate shareholder resolution key  influence  on  the  carbon  intensity  of  relevant 
+businesses and potential emissions. We were therefore 
+In February 2020, we revealed publicly our intention 
+pleased to work with ShareAction in 2020 to be part 
+to vote in support of the shareholder resolution on 
+of the shareholder coalition that in early January 2021 
+climate change at Barclays. Barclays is Europe’s leading 
+publicised it had proposed a shareholder resolution at 
+bank financier of fossil fuels, and had set out no clear 
+HSBC (Europe’s biggest bank) calling on the firm to 
+plan to transition its business away from this segment 
+develop a strengthened approach to climate issues. 
+of the market. ShareAction, a campaigning group for 
+We hope this proposal may replicate the success of 
+more responsible investment, had facilitated a group 
+the one put forward at Barclays.
+of investors proposing a shareholder resolution that 
+called on the company to make this transition. We 
+regarded this resolution as a sensible one, which had  Escalation: divestment 
+already obliged the company to start a fuller strategic  Japanese manufacturer (Japan)
+debate on its future. In the end, while it gained 24% 
+We have been engaging with this Japanese company 
+votes in favour (and a further 15% abstentions), the 
+since 2019, when we met with an external director. We 
+shareholder resolution was defeated at the May AGM; 
+supported moves to improve governance, in particular 
+however, a parallel resolution put forward by the 
+the departure of the ageing chair, who was replaced 
+company setting out its plans to change its strategy 
+by his son. In spite of the ongoing family dominance, 
+to address climate issues received resounding (near 
+this  change  seemed  likely  to  encourage  stronger 
+100%) support from shareholders. We believe that 
+ESG practices, including increased transparency and 
+this resolution would not have been proposed, but 
+enhanced governance. During 2020, we continued 
+for the ShareAction resolution and the public support 
+to  press  for  increased  board  independence  and 
+it gained, and note the significant improvement over 
+transparent, effective corporate governance. While 
+this year in Barclays’ approach to climate issues.
+the company has indicated some intention to improve, 
+no actual changes have yet been observed, leading us 
+Escalation: shareholder resolutions  to downgrade our ESG rating. We have made it clear 
+HSBC (UK/Hong Kong) climate shareholder  that if no changes are observed in the near future, we 
+resolution may need to consider divesting from the company. 
+We  are  willing  to  consider  the  need  for  specific 
+resolutions  to  help  persuade  target  companies 
+(and  indeed  their  peers)  of  the  importance  that 
+shareholders in general place on particular issues. 
+Climate change is a systemic issue in which Amundi 
+takes a close interest, and we recognise that the 
+36 | Stewardship Report 2020
+Considered and intelligent voting
+We regard the considered and intelligent exercise of investor voting rights as a central aspect of our role 
+as a responsible investor. Our voting policy responds to our holistic analysis of all the long-term issues that 
+may influence value creation, including material ESG issues. Furthermore, our voting reflects our overall 
+approach to stewardship, meaning that we are committed to long-term relationships with the companies 
+in which we invest, and to active dialogue with them. Amundi is committed to transparency and, where 
+possible, it informs issuers of planned negative votes. 
+As part of our regular dialogue with issuers, Amundi  shareholders’ rights and ensure fair treatment of 
+informs companies of our proprietary methodology  all shareholders, including minority and foreign 
+for ESG analysis and rating and the rating assigned to  shareholders.
+them, as well as explaining any changes. The positions  – Boards, committees and governing bodies: Boards 
+we express in our votes should not take companies  have strategic authority and their decisions 
+unawares. They are the result of our analysis and  affect the future of their company, both in the 
+dialogue, based on fully transparent criteria. short and long-term; all board members have 
+individual responsibility. Boards are accountable 
+The nature of the commitments made by companies 
+to the company and its shareholders, but must 
+on  our  two  priority  societal  issues  (the  energy 
+also have due regard to, and respect the interests 
+transition and social cohesion) and the existence of 
+of other stakeholders, in particular employees, 
+positive momentum on these issues will over time 
+creditors, customers and suppliers. Compliance 
+be reflected in our voting decisions. Our perspective 
+with social and environmental standards is also 
+will be expressed either by a vote on resolutions 
+a board responsibility. Amundi is fully backing 
+directly related to these priority themes, such as the 
+the 8 principles of the World Economic Forum’s 
+approval of executive pay, or indirectly, such as how 
+Climate Governance Initiative, including the 
+we vote on the appointment of directors who oversee 
+climate accountability.
+such  issues.  Furthermore,  our  voting  approach  is 
+informed by how companies have responded to the  – Financial structure: Unless the company sets out 
+challenges of the Covid-19 pandemic. We recognise  a clear and substantial plan, cumulative capital 
+that company approaches take time to evolve and  increases should not constitute more than 60% 
+look to see progress and momentum as much as  of the capital. 
+achievement; our dialogue with companies aims to 
+– Compensation policy: We analyse executive 
+encourage ongoing improvement over time.
+compensation holistically and vote based on 
+We have a common basis for our voting policy, applied  two main criteria: the CEO’s compensation 
+on all five continents. Nonetheless, the implemen- must be reasonable, and also economically 
+tation of this policy adapts to local contexts. Our  justified. Further, we are vigilant to ensure that 
+decisions are always made with a view to protecting  the company’s pay approach, and more broadly, 
+the interests of our clients as investors and with the  its sharing of value overall, do not generate 
+aim of being as effective as possible in supporting  unacceptable situations of social inequality. 
+long-term value creation by issuers. Amundi is vigilant on the inclusion of ESG criteria 
+in the variable remuneration.
+The key elements of our voting policy include:
+– Shareholder rights: A corporate governance  A fuller version of our Voting Policy is available on our 
+regime must protect and facilitate the exercise of  website: www.amundi.com/int/ESG/Documentation
+Top level voting statistics for 2020
+Voting statistics (global)
+Number of meetings voted 4,241
+Meetings where opposed management on at least one resolution 71%
+Number of individual resolutions voted 49,968
+Number of resolutions voted against management 10,031
+% age of resolutions voted against management 20.1%
+37 | Stewardship Report 2020
+Proportion of votes against management per issue Share of total votes against management by issue
+60
+50
+12%
+40 5%   Structure of the board
+30   R emunerations
+47%   C apital transaction
+20 20%
+  Shareholder Resolutions
+10   O  ther
+0 16%
+Total across  Board  Compensation Financial Shareholders’ Other
+all resolutions structure structures proposals
+(votes cast 
+in favour)
+Voting oversight and process
+Our Voting Committee is chaired by a member of the executive committee, head of institutional clients 
+coverage & ESG and includes senior managers from the investment, financial and extra-financial, as well as 
+external advisors. The Committee oversees an annual review of the company’s voting policy. 
+One of our ESG ambitions set in 2018, to be completed  ongoing dialogue with companies pre and post-AGM 
+by the end of 2021, is to integrate ESG issues into  with the aim of better understanding their strategy 
+our voting policy. It is in this context that we further  and pushing for continuous improvement in practices. 
+tightened our voting approach for the 2020 season,  These dialogues are also an opportunity to exchange 
+requiring the inclusion of ESG factors in executive pay  with companies on the practices that we would like 
+and becoming much more likely to vote in support  to see developed in order to foster a dynamic of 
+of  shareholder  resolutions  (leading  us  to  support  progress. We recognize that company approaches 
+fully 85% of climate resolutions and 72% of those in  necessarily  take  time  to  evolve  and  look  to  see 
+relation to human rights issues). Our changes for the  progress and momentum as much as achievement; 
+2021 season, to oppose director elections or discharge  our  dialogue  with  companies  aims  to  encourage 
+at companies operating in sectors heavily exposed  ongoing  improvement  over  time.  The  application 
+to climate change which do not have satisfactory  of the general principles of the voting policy allows 
+strategies to align with the Paris Agreement, and in  Amundi to adjust its vote according to the quality of 
+our passive funds to do the same for all companies  the shareholder dialogue.
+excluded from active portfolios for climate reasons, 
+are the latest evolutions to respond to the ambition. The team is fully integrated in the global engagement 
+effort of Amundi. Apart from the themes specific to 
+The committee also has an oversight role on all voting  a sound corporate governance, as well as a strong 
+matters.  It  reviews  files  presented  by  the  voting  voting exercise, we emphasise in our dialogues the 
+and engagement analysts and agrees key votes, in  need for the board to discuss and be accountable for 
+particular maintaining oversight of any votes where  corporate social responsibility and climate strategy. 
+there might be a perception of conflict of interest. The  We have also highlighted the need to include ESG KPIs 
+committee meets monthly, and on a bi-monthly basis  in executive compensation, if possible including KPIs 
+during the peak of the voting season, but can also be  related to climate. Social cohesion, wage balance and 
+summoned as need be. involvement of a large number of employees in the 
+company’s growth have long been engagement topics 
+On a day-to-day basis, voting is delivered by Amundi’s 
+for Amundi. Since 2019, we have reinforced our voting 
+voting & corporate governance team, which consists 
+and engagement efforts on those, and redoubled our 
+of 5 people who analyse resolutions and carry out 
+focus since the advent of the Covid-19 crisis.
+Pre-AGM dialogue statistics
+The Amundi ESG Voting team conducted dialogue 
+Pre-AGM dialogue statistics
+with 489 issuers in 2020. Of this, 322 alerts were sent 
+Europe 295
+out concerning the Amundi voting exercise which 
+Rest of the world 194
+triggered 70 dialogues. We also conducted dialogue 
+with 167 issuers outside the voting season. Total 489
+38 | Stewardship Report 2020
+Proxy-voting flowchart
+Access to internal expertise, 
+The Corporate Governance team (the Team) analyzes the compatibility  
+Access to external expertise 
+of the proposals with the voting policy so as to determine the best voting intentions 
+& custom recommendations, 
+for every proposal
+Dialogue with issuers
+If the issue is not covered by  If the initial voting intention 
+If the Team identifies a conflict 
+the voting policy (ex. non routine  based on policy does not seem 
+of interest: preparation of an 
+financial operations), then the  to be in the client’s interest, then 
+explanatory file for the Voting 
+Team asks the fund managers  the Team asks the fund managers 
+Committee
+for their opinions for their opinions
+If voting intentions in line  If all fund managers agree and 
+If fund managers disagree or if 
+with the voting policy can be  the voting intention is not in 
+they agree on a voting intention 
+determined without question,  breach of the voting policy, then 
+in breach of the voting policy
+the vote is instructed the vote is instructed
+Voting Committee: Chaired by the ESG Supervisor, member of the Amundi Management 
+Commitee, it includes Senior Managers from investment, financial and extra-financial analysis, 
+as well as external advisors. The Committee determines the vote which is then instructed
+Proportion of votes in favour of shareholder resolutions by issue (2020)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Shareolder  Compensation Governance Board Climate Environment Social/Health Other
+resolutions  structures /Human Rights
+over all
+Application of voting approach
+This voting approach applies to all Amundi managed funds, apart from some whose overall value is less than 
+€15 million, because we have concluded that the costs of voting on such funds outweigh the benefit to clients. 
+In the same way, voting rights are exercised on the entirety of the shares held, unless the required period during 
+which trading is blocked by the market or custodian risks an adverse impact on our clients because it would 
+hinder portfolio manager trading discretion. Exceptionally, we may not be able to ensure effective voting for 
+some or all of the shares held. 
+For the 2020 voting campaign, for European companies,  when it considers the economic cost to be excessive in 
+our funds exercise voting rights at the meetings of all  relation to value invested. At non-European meetings, 
+companies in which they have an equity investment.  voting rights are exercised only where our consolidated 
+However, again in the interests of cost control, Amundi  vote will represent more than 0.05% of the company’s 
+reserves the right not to exercise the voting rights  share capital. This criterion is not applied for General 
+39 | Stewardship Report 2020
+Meetings that are of particular importance, nor for  on appropriate fees. Clients in pooled funds cannot 
+funds that specifically require all holdings to be voted. vote differently, not least as we believe that their 
+interests  are  best  served  by  aligning  voting  with 
+For 2021 we have agreed that we will vote on all 
+investment and stewardship. We welcome discussions 
+holdings when it is economically rational to do so, and 
+with all clients on their perspectives on voting issues, 
+will ensure that we vote at least at 90% of the AUM 
+outside of the peak season.
+of any given fund (which means we will be voting on 
+more than 4500 issuers). Voting  rights  are  exercised  for  securities  held  in 
+portfolios at the time of the General Meeting. To fully 
+When  the  management  of  an  equity  portfolio  is 
+exercise these rights, securities that have been subject 
+trusted to an outside manager, that manager may 
+to  stock  lending  are  recalled  in  accordance  with 
+hold the voting rights, as provided in the delegation 
+local laws, technical constraints, and the perceived 
+contract. The delegated manager is free to exercise 
+importance of the meeting. Shares are automatically 
+the voting rights pursuant to a general voting rights 
+recalled for all meetings considered sensitive and for 
+policy  defined  at  the  outset  of  the  agreement. 
+all French meetings. For ESG labelled funds, all stocks 
+Amundi ensures that the elements included in this 
+are recalled sufficiently in advance of shareholder 
+voting policy are not in contradiction with our own 
+meetings so that we ensure that all voting rights can 
+guidelines,  and  that  the  delegated  manager  can 
+be exercised. 
+provide a report of votes cast at General Meetings.
+Full disclosure of all our latest voting decisions is 
+Clients with segregated mandates can require us to 
+available on our website.
+apply their own voting policy, subject to an agreement 
+Examples of our voting are below:
+Chevron Corporation (US)
+We recognise that governments will play the key role in setting the trajectory for a carbon-constrained world 
+and that companies on their own cannot determine whether the goals of the Paris Agreement are met. However, 
+this makes it particularly important that companies are careful in their approach to lobbying on these issues 
+so that they are not seen to hinder governments from taking appropriate decisions. A number of European oil 
+and gas majors have severed ties with certain trade associations because of this, among them AFPM (American 
+Fuel & Petrochemical Manufacturers). Chevron remains a member of this organization and has no clear policy to 
+constrain lobbying on climate, and so we voted in favour of a shareholder resolution encouraging alignment of the 
+company’s lobbying activities with the Paris Agreement.
+Deutsche Bank (Germany)
+Having voted against the discharges of both the Supervisory Board and the Management Board in 2019, because 
+of concerns about excessive remuneration and its disconnection from the economic and financial performance 
+of the bank (there being no resolution more relevant to remuneration matters), we held active dialogue with 
+the company twice in 2020. First, before the AGM we discussed the forthcoming resolutions, and pressed for 
+an evolution of the compensation policy, not least by integrating ESG criteria into variable pay. We spoke to the 
+bank a second time at the end of 2020 to discuss a proposed new remuneration policy, which will be brought 
+forward for approval at the 2021 AGM. We welcomed the move in integrate ESG: ESG criteria (including diversity 
+and climate-related KPIs) will influence up to 20% of long-term variable remuneration. We also welcomed moves 
+to make pay ratio disclosures in 2021.
+Fortum (Finland)
+Following the acquisition of Uniper, Fortum faces greater climate change transition risks as the deal substantially 
+increased its exposure to fossil fuels (including lignite, coal and natural gas). A large share of Fortum’s fossil fuel 
+based generation is concentrated in Russia, where decarbonisation may prove challenging; notably, Fortum 
+has no decarbonisation strategy or relevant targets for that market. Because of the deal and the lack of a 
+clear plan to phase out coal aligned with the Paris Agreement, we participated in a collective engagement 
+with company, including a dialogue directly with the CEO to discuss the strategy for emissions reduction. To 
+reflect and reinforce our continuing concerns, we voted in favour of a resolution seeking the inclusion of a Paris 
+Agreement compliant 1.5 degree Celsius target as part of Fortum’s Articles of Association.
+40 | Stewardship Report 2020
+JP Morgan (US)
+We engaged the US bank regarding its climate change strategy, which we believe lags behind industry peers. 
+Even though JP Morgan indicated that it was considering what its next steps ought to be, we did not gain 
+confidence that the bank was likely to announce ambitious targets in the near term. We therefore took the 
+decision to vote in favour of two shareholder proposals put before the AGM: the first seeking a policy on 
+lending to unconventional oil and gas businesses, and the second calling on the bank to establish a target for 
+emissions reductions in line with the Paris Agreement.
+Macquarie Group (Australia)
+We voted against the remuneration report at this Australian financial institution. Amundi calls for executive 
+pay that is ‘reasonable’ and fully aligned with shareholder and also stakeholder interests, including being 
+‘acceptable’ from a societal perspective. Given that the proposed annual base salary of the CEO amount to a 
+10% increase over the prior year, and CEO pay is more than two times the median CEO pay at peers, we do not 
+believe that these standards are being respected.
+Microsoft Corporation (US)
+We voted in favour of a shareholder resolution calling for a report into employee representation on the board. 
+This reflects our general view in support of employee involvement in corporate governance and employee share 
+ownership, because these practices help align the interests of shareholders and employees over the long term. 
+Swedbank (Sweden) 
+We felt it necessary to vote against the discharge of board members at Swedbank following the Baltic money 
+laundering scandal. The Swedish FSA had concluded that the board members failed to keep themselves 
+sufficiently informed about the Baltic operations and didn’t request the information they would have needed 
+to understand the risks of money laundering there. Given the reputational and business cost of this failure, we 
+were clear that the board needed to be held accountable. 
+Television Broadcasts (Hong Kong)
+In a pre-AGM alert to the company we clearly stated that our voting intentions were not in favor of the dividend 
+resolution. TVB was proposing a dividend even though it had made a net loss in both 2019 and 2018, and we 
+were strongly of the view (particularly in light of the Covid-19 pandemic) that dividends should be paid only 
+if the company’s financial strength was maintained, in the interests of shareholders, employees and other 
+stakeholders. Following dialogue we were unable to gain comfort that the dividend was appropriate and 
+maintained our negative vote on the proposal.
+Walmart (US)
+We were pleased to vote in support of a shareholder resolution seeking a report on supplier antibiotics use 
+standards. We recognise the importance of controls on antibiotic use in the farming sector, given the risk it 
+poses of creating antibiotic resistance – a major emerging health concern. As one of the largest buyers of meat 
+products in the world, Walmart has scope to be significantly influential on this issue. As the proposal would 
+enable shareholders to assess how the company’s policy on the matter operates, and also to flag up investor 
+concern about the issue, we felt support for the resolution was warranted.
+41 | Stewardship Report 2020
+Promoting long-termism in markets
+As a responsible investor with a clear understanding of the role and importance of ESG criteria, Amundi 
+participates in numerous initiatives as a member and signatory. We are an active participant in working groups 
+at a range of market bodies – both regulatory and industry-led organisations – aimed at moving responsible 
+finance, sustainable development and corporate governance forward in the interests of our clients.
+These international initiatives include institutional investors and asset management professionals. Their goal is 
+to encourage businesses to improve their practices and transparency in the fields of fighting climate change 
+and deforestation, protecting water resources, health, nutrition in developing countries, and so on. We actively 
+participate in the development of standards and initiatives where we believe the additional effort will be 
+important to client outcomes, and lend our weight to other initiatives where we feel this is the most positive 
+contribution we can make.
+Active participation with regulatory bodies
+Organisation Geography Nature Role
+Autorité des Marchés Financiers  France Securities  Member of Climate and Sustainable 
+(AMF) Regulator Finance Commission
+Autorité des Marchés Financiers  France Securities  Member of consultative committee 
+(AMF) Regulator on asset management and 
+institutional investors
+Autorité de Contrôle Prudentiel et  France Central bank Member of scientific committee
+de Résolution, Banque de France
+Ministère de la Transition  France Government  Member, Finance Lab
+Écologique ministry
+Paris Europlace France Industry  Vice-chair; Member of working 
+promotion groups on Taxonomy and European 
+green deal, and Just transition
+Euronext Europe Securities  Member of expert committee on low 
+exchange carbon indices
+European Financial Reporting  Europe Reporting  Member of Lab Task Force on 
+Advisory Group (EFRAG) standards adviser Reporting of non-financial risks and 
+opportunities
+Governmental  Member of Trust in Business 
+OECD Global
+association Network (TriBuNe)
+42 | Stewardship Report 2020
+Examples of regulatory work
+EU Green Bond Standard
+As part of our broader work in fostering the development of green bond markets, we have been actively 
+participating in the EU work to develop a green bond standard. To encourage the development of the market 
+we are arguing for voluntary application of any standard that is developed to enable a range of different 
+products to be offered to investors. We believe that to qualify, a bond should maintain its status through to 
+maturity. Further, we would welcome alignment of the standard with the broader EU sustainable investment 
+taxonomy, though we recognise the challenges that this may pose.
+EFRAG lab task force
+The task force began its work in September 2020, preparing the ground for a significant enhancement of EU 
+non-financial reporting standards. Our involvement allows us to seek greater coherence among the current 
+wide range of reporting standards in this area, and to press for much more consistency between the reporting 
+of financial and non-financial matters. 
+ICMA Sustainability-Linked Bonds Principles
+Following the substantial efforts of the working group of which Amundi is a member, the International Capital 
+Market Association released its first Sustainability-Linked Bonds Principles in June 2020. These aim to extend 
+the concept of green bonds to also encompass the financing of social impacts. By requiring transparency and 
+a verification process we hope that the principles will build investor confidence in these instruments and so 
+enable increased capital allocations to such investments – and their end benefits.
+Industry bodies on which Amundi staff members hold formal roles
+Organisation Geography Nature Role
+International Capital Market  Global Capital markets  Executive committee and working 
+Association (ICMA) association group member, Green Bonds 
+Principles and Social Bonds 
+Principles
+European Fund and Asset  Europe Fund  Co-chair of Stewardship, Market 
+Management Association (EFAMA) management  Integrity and ESG Investment 
+association committee
+Association Française de la Gestion  France Fund  Member of responsible investing 
+financière (AFG) management  committee
+association
+Institut du Capitalisme Responsable  France CSR association Board member
+Forum pour L’Investissement  France ESG investment  Chair of dialogue and engagement 
+Responsable association committee
+Finansol France ESG investment  Board member
+association
+43 | Stewardship Report 2020
+Further industry organisations of which Amundi is an active member
+Responsible Investment initiatives Geography
+Principles for Responsible Investment (PRI) Global
+International Corporate Governance Network (ICGN) Global
+Embankment Project for Inclusive Capitalism Global
+Pensions for Purpose Global
+Portfolio Decarbonization Coalition (PDC) Global
+Montreal Carbon Pledge Global
+Climate Bonds Initiative Global
+CDP Global
+One Planet Sovereign Wealth Fund Framework  Global
+Farm Animal Investment Risk & Return (FAIRR) Global
+Platform Living Wage Financials (PLWF) Global
+Access to Medicine Foundation Global
+Asia Investor Group on Climate Change (AIGCC) Asia
+Invest Europe Europe
+Institutional Investors Group on Climate Change (IIGCC) Europe
+30% Club France
+Japan TCFD Consortium Japan
+SIFs – Sustainable and Responsible Investment Forums for various markets Australia, Canada, Italy, 
+Japan, Spain, Sweden, 
+Switzerland
+Examples of work promoting best practice
+Fondation de la Mer: promoting greater corporate reporting on Ocean impacts and SDG 14 
+One aspect of Amundi’s overall work on biodiversity is specifically Sustainable Development Goal (SDG) 14, 
+‘Life Below Water’. Oceans face many threats including climate change, acidification, pollution (including 
+plastic pollution), overfishing, destruction of marine biodiversity, and so on. Yet SDG 14 is among those least 
+prioritised by businesses worldwide. We regard preserving the oceans and their biodiversity as a key part of 
+addressing biodiversity loss and climate change. 
+This is why, in 2019, we started a close collaboration with the Fondation de la Mer (FDLM). The FDLM is a 
+French NGO that works with civil society including sailors, corporates, scientists, and investment institutions 
+to help protect marine ecosystems, fight pollution, support ocean-related research, encourage innovation, 
+and educate audiences on protecting the oceans. FDLM is working actively in collaboration with the French 
+Ministry for the Ecological and Inclusive Transition to help corporates better assess their impact on the ocean. 
+We actively participated in the development of the methodology, both in its initial design and by engaging with 
+French corporates, encouraging them to participate to test the approach.
+We are now working to promote the framework further to companies. We will also begin using the framework 
+on selected corporates to begin impact assessments pertaining to SDG 14. 
+44 | Stewardship Report 2020
+30% Club
+The 30% Club is a global campaign to take action to increase gender diversity at board and senior management 
+levels. The campaign was launched in the UK in 2010 when women represented just 12% of FTSE 100 boards; 
+30% was set as an aspirational target and it was confirmed by research that 30% represents a critical mass 
+form which point minority groups can impact boardroom dynamics. The target is a floor not a ceiling with the 
+ultimate goal to strive overall for a more equitable gender and diversity balance. Companies should address 
+imbalances in their talent pipelines and strategies to drive long-term progress and this ultimately must come 
+from top management.
+We share the 30% Club belief that gender balance on boards and senior management encourages better 
+leadership and governance. We also believe that diversity and inclusion further contribute to all-round board 
+performance and ultimately enhance business performance. This is why we participated in the creation of the 
+French chapter in 2020. 
+The French investor group has two main early objectives:
+– conduct a soft email engagement campaign with the SBF 120 to communicate the launch of the initiative 
+and investor expectations on gender diversity; 
+– launch an engagement campaign targeted at the top 15 ‘worst offenders’ in the CAC40. 
+These engagements, which started in 2020 and will continue in 2021, cover why this initiative was set up, what 
+the initiative’s expectations are for each company, and seek clarity on what the company’s current efforts are 
+to address its gender imbalance. 
+CDP Forest Engagement Campaign
+Organisations like CDP (formerly the Carbon Disclosure Project) can help provide a starting point to assess 
+corporate performance on key sustainability issues. Pushing for further collaboration with experts such as 
+through the CDP Forest survey is for Amundi a key way to encourage companies to find solutions to biodiversity 
+reporting until a clear standard emerges. CDP Forests provides a framework for companies to measure and 
+manage forest-related risks and opportunities, transparently report on progress, and commit to proactive 
+action for the restoration of forests and ecosystems.
+We started an engagement campaign to encourage companies with large deforestation exposures (according 
+to Forest500 and Canopy), encouraging 32 companies to make disclosures to CDP Forest. So far, the response 
+rate has not been what we have hoped so going forward in 2021, we will commence deeper engagement on 
+the topic of limited biodiversity disclosure including further engagement to push for increased reporting as 
+part of CDP Forest. 
+Recent ESG and Stewardship collaborative statements  
+Date  Name  Topic  Geography
+2020 PLWF Luxury Statement  Living wage in the luxury goods sector Global
+2019 IFC - Operating Principles for  Principles for impact investing market Global
+Impact Management 
+2019 TCFD initiative Enhancing issuers’ reporting on environmental  Japan
+matters
+Support for research into responsible investment matters
+Amundi actively supports academic research and has  researchers, in particular in offering a series of 
+forged several partnerships with university chairs in  research seminars on specialized topics to Amundi 
+green finance:  collaborators and institutional clients and diffusing 
+– ESSEC Amundi Chair in Asset & Risk Management  the results of academic research towards these 
+aims at promoting academic research in the field  collaborators. 
+of Asset and Risk management and stimulating  – Academic Chair on Sustainable Finance and 
+the cooperation between ESSEC and Amundi  Responsible Investment, created in 2007, 
+45 | Stewardship Report 2020
+sponsored by the Association Française de  To this end, the Committee is studying four major 
+Gestion (AFG) and led by the École Polytechnique  projects:
+and the Institut d’Économie Industrielle (IDEI) in  – Environment: how can economic and financial 
+Toulouse.  players contribute to a socially just energy 
+– Climate Economics Chair, an initiative of CDC  transition?
+Climate and Paris-Dauphine University under  – Social: how responsible capitalism can address the 
+the aegis of the Institut Europlace de Finance  social question.
+Foundation. We support its research initiative 
+– Governance: how responsible shareholders can 
+“Carbon Prices and Markets”.
+contribute to improving corporate governance.
+Amundi is also an active participant in the St Gallen  – The responsibility of economic and financial 
+Symposium, the Louis Bachelier Institute and Les  players as part of a more general social 
+Rencontres  Économiques  d’Aix  –  Le  Cercle  des  transformation.
+économistes. Further, the ESG Analysis team regularly 
+The aim is to help inform our approach to responsible 
+hosts doctoral students researching matters relevant 
+investment,  including  considering  broader  and 
+to ESG-related investment.
+emerging ESG criteria the firm should be taking into 
+Furthermore, the Medici Committee is a think-tank  account, as well as to contribute to the wider public 
+dedicated to responsible finance created by Amundi.  debate. Our aim is to enable Amundi fully to accept 
+Chaired by our CEO, the Committee draws on the  its social role and be a different kind of financial firm.
+skills and knowledge of a network of academics, 
+Amundi is also an active participant in other think-
+intellectuals, business leaders and prominent figures 
+tanks, such as the Institut de L’Economie Positive, the 
+from various sectors of civil society. The Committee 
+Institut Montaigne and the Institut de l’Entreprise.
+considers the principles, techniques and impacts of 
+responsible investment, with a two-fold ambition: (1) 
+to analyse ongoing changes and (2) to issue concrete 
+recommendations that may guide the practices of 
+economic and financial players. 
+46 | Stewardship Report 2020
+Appendix 1
+Delivery against the expectations  
+of the EFAMA Stewardship Code 2018
+# Principle Coverage in this report Page
+1 Asset managers should have an  – Amundi and ESG: our philosophy and  5,  
+engagement policy available to the public  approach 13
+on whether, and if so how, they exercise  – How our structures support and enable 
+their stewardship responsibilities.  ESG and stewardship work
+2 Asset managers should monitor their  Integrating ESG into our analysis and  20
+investee companies, in accordance with  investment processes
+their engagement policy.
+3 Asset managers should establish clear  Active and value-focused engagement 26
+guidelines on when and how they will 
+escalate engagement with investee 
+companies to protect and enhance value of 
+their clients’ investments.
+4 Asset managers should consider acting  Collective engagement 34
+with other investors, where appropriate, 
+having due regard to applicable rules on 
+acting in concert.
+5 Asset managers should exercise their  Considered and intelligent voting 37
+voting rights in a considered way.
+6 Asset managers should disclose the  Reporting openly and transparently to our  11
+implementation and results of their  clients
+stewardship and voting activities.
+47 | Stewardship Report 2020
+Appendix 2
+Delivery against the expectations of Australia’s Financial Services 
+Council Standard 23 Principles of Internal Governance and Asset 
+Stewardship 2017
+# Principle Coverage in this report Page
+1 Organisational and investment approach  Amundi and ESG: our philosophy and  5
+approach
+2 Internal governance How our structures support and enable  13
+ESG and stewardship work
+3 Asset stewardship – Integrating ESG into our analysis and  20,  
+investment processes  26,  
+– Active and value-focused engagement 37
+– Considered and intelligent voting
+48 | Stewardship Report 2020
+Appendix 3
+Delivery against the expectations of the Canadian Coalition 
+for Good Governance’s Stewardship Principles 2017
+# Principle Coverage in this report Page
+1 Develop an approach to stewardship.  Amundi and ESG: our philosophy and  5
+approach
+2 Monitor companies. Integrating ESG into our analysis and  20
+investment processes
+3 Report on voting activities. Considered and intelligent voting 37
+4 Engage with companies. Active and value-focused engagement 26
+5 Collaborate with other institutional  Collective engagement 34
+investors.
+6 Work with policy makers. Promoting long-termism in markets 42
+7 Focus on long-term sustainable value. – How our structures support and enable  13, 
+ESG and stewardship work 20
+– Integrating ESG into our analysis and 
+investment processes
+49 | Stewardship Report 2020
+Appendix 4
+Delivery against the expectations of Assogestioni’s Italian 
+Stewardship Principles 2016
+# Principle Coverage in this report Page
+1 IMCs should have a documented policy  – Amundi and ESG: our philosophy and  5, 
+available to the public on whether, and  approach 13
+if so how, they exercise their ownership  – How our structures support and enable 
+responsibilities. ESG and stewardship work
+2 IMCs should monitor their investee  Integrating ESG into our analysis and  20
+companies. investment processes
+3 IMCs should establish clear guidelines on  Active and value-focused engagement 26
+when and how they will intervene with 
+investee companies to protect and enhance 
+value.
+4 IMCs should consider cooperating with  Collective engagement 34
+other investors, where appropriate, having 
+due regard to applicable rules on acting in 
+concert.
+5 IMCs should exercise their voting rights in a  Considered and intelligent voting 37
+considered way.
+6 IMCs should report on their exercise of  Reporting openly and transparently   11
+ownership rights and voting activities  to our clients
+and have a policy on external governance 
+disclosure.
+IMCs are investment management companies
+50 | Stewardship Report 2020
+Appendix 5
+Delivery against the expectations of Japan’s Stewardship Code 2020
+# Principle Coverage in this report Page
+1 Institutional investors should have a clear  Amundi and ESG: our philosophy and  5
+policy on how they fulfil their stewardship  approach
+responsibilities, and publicly disclose it. 
+2 Institutional investors should have a clear  Conflicts: how we ensure client interests  16
+policy on how they manage conflicts  always come first
+of interest in fulfilling their stewardship 
+responsibilities and publicly disclose it.
+3 Institutional investors should monitor  Integrating ESG into our analysis and  20
+investee companies so that they can  investment processes
+appropriately fulfil their stewardship 
+responsibilities with an orientation towards 
+the sustainable growth of the companies.
+4 Institutional investors should seek to  Active and value-focused engagement 26
+arrive at an understanding in common 
+with investee companies and work to 
+solve problems through constructive 
+engagement with investee companies.
+5 Institutional investors should have a clear  Considered and intelligent voting 37
+policy on voting and disclosure of voting 
+activity. The policy on voting should not be 
+comprised only of a mechanical checklist; 
+it should be designed to contribute to the 
+sustainable growth of investee companies.
+6 Institutional investors in principle should  Reporting openly and transparently to our  11
+report periodically on how they fulfil their  clients
+stewardship responsibilities, including their 
+voting responsibilities, to their clients and 
+beneficiaries.
+7 To contribute positively to the sustainable  How our structures support and enable  13
+growth of investee companies, institutional  ESG and stewardship work
+investors should develop skills and 
+resources needed to appropriately engage 
+with the companies and to make proper 
+judgments in fulfilling their stewardship 
+activities based on in-depth knowledge 
+of the investee companies and their 
+business environment and consideration 
+of sustainability consistent with their 
+investment management strategies.
+8 Service providers for institutional investors  [Not directly relevant to Amundi,  18
+should endeavour to contribute to the  nonetheless the following highlights 
+enhancement of the functions of the  our relationship with service providers] 
+entire investment chain by appropriately  Resourcing of ESG: external research 
+providing services for institutional investors  providers
+to fulfil their stewardship responsibilities.
+51 | Stewardship Report 2020
+Appendix 6
+Delivery against the expectations of the UK Stewardship Code 2020
+# Principle Coverage in this report Page
+1 Signatories’ purpose, investment beliefs,  Amundi and ESG: our philosophy and  5
+strategy, and culture enable stewardship  approach
+that creates long-term value for clients and 
+beneficiaries leading to sustainable benefits 
+for the economy, the environment and 
+society.
+2 Signatories’ governance, resources and  How our structures support and enable  13
+incentives support stewardship. ESG and stewardship work
+3 Signatories manage conflicts of interest  Conflicts: how we ensure client interests  16
+to put the best interests of clients and  always come first
+beneficiaries first.
+4 Signatories identify and respond to market- – Thematic engagements 28, 
+wide and systemic risks to promote a well- – Promoting long-termism in markets 42
+functioning financial system.
+5 Signatories review their policies, assure  Review and assurance of our ESG approach 15
+their processes and assess the effectiveness 
+of their activities.
+6 Signatories take account of client and  Tailoring our approach to client needs 9
+beneficiary needs and communicate 
+the activities and outcomes of their 
+stewardship and investment to them.
+7 Signatories systematically integrate  Integrating ESG into our analysis and  20
+stewardship and investment, including  investment processes
+material ESG issues, and climate change, to 
+fulfil their responsibilities.
+8 Signatories monitor and hold to account  Resourcing of ESG: external research  18
+managers and/or service providers. providers
+9 Signatories engage with issuers to maintain  Active and value-focused engagement 26
+or enhance the value of assets.
+10 Signatories, where necessary, participate  Collective engagement 34
+in collaborative engagement to influence 
+issuers.
+11 Signatories, where necessary, escalate  Other escalations: Making concerns public  36
+stewardship activities to influence issuers. and shareholder resolutions
+12 Signatories actively exercise their rights and  Considered and intelligent voting 37
+responsibilities.
+52 | Stewardship Report 2020
+Composition: Art6 - Photo credit: 123rf

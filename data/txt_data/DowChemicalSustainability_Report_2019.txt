@@ -1,0 +1,3470 @@
+
+Sustainability 
+Report 
+2019
+Table of Contents
+Introduction Energy ........................................................30 Our Supply Chain
+Contents .................................................................2 Emissions ...................................................32 Approach .............................................66
+About This Report ..................................................3 Water ..........................................................35 Transportation Stewardship ................68
+Message from Our Chief Sustainability Officer ......4 Waste ..........................................................39 Procurement/Logistics ........................70
+Q&A with Our Chairman and CEO .........................5
+Our People Governance
+New Targets ............................................................9
+Approach ....................................................41 Values ..................................................73
+Our Business Ethics ...................................................74
+Inclusion & Diversity ...................................42
+Company Highlights .............................................10 Oversight .............................................77
+Benefits ......................................................46
+Business Overview ...............................................12 Defined Benefit Plan Obligations ........78
+Learning & Development ............................48
+Risk Management ...............................79
+Talent Attraction & Management ................49
+Sustainability Overview
+Materiality ............................................83
+Employee Health & Safety ..........................52
+Sustainability Priorities .........................................17
+Stakeholder Engagement ....................85
+Focus Areas ..........................................................18
+Global Citizenship
+2025 Sustainability Goal Updates ........................23 Additional Information
+Focus Areas ................................................60
+Alignment to UN Sustainable  Report Information ..............................88
+Advancing Sustainable Solutions ...............61
+     Development Goals .........................................25 Independent Assurance Statement .....89
+Building Inclusive Communities .................62
+GRI Content Index ...............................91
+Developing Tomorrow’s Innovators ............63
+Environmental Impact
+Empowering Sustainable and  
+Management Approach ........................................26
+    Resilient Communities ............................64
+Summary Metrics .................................................27
+Engaging for Impact ...................................65
+Materials ...............................................................28
+2
+About This Report
+The 2019 Sustainability Report is Dow’s 17th annual report.    Additional reporting that may be of interest to the reader can be 
+GRI 102-52
+This report reflects the Company’s performance for the calendar year  found at corporate.dow.com:
+ended December 31, 2019. This Sustainability Report is a combined 
+• Downloadable version of this report
+report being filed by Dow Inc. and The Dow Chemical Company and 
+• Dow’s most recent previous report, covering the year ending 
+its consolidated subsidiaries (“TDCC” and together with Dow Inc., 
+December 31, 2018, and archive of earlier annual sustainability 
+“Dow” or the "Company"). 
+GRI 102-50 
+reports 
+GRI 102-51
+This report has been prepared in accordance with the Global  • 2019 Annual Report
+Reporting Initiative (GRI) Standards Comprehensive option.   
+GRI 102-54 • 2019 Dow Form 10-K
+The Comprehensive option requires that the Company report all of 
+• 2020 Proxy Statement
+the General Disclosures described in the GRI Standards as well as 
+• 2019 Shine Inclusion Report
+all of the Specific Disclosures related to issues material to us. This 
+document also serves as Dow’s UN Global Compact Communication  GRI 102-53
+on Progress for 2019. Mary Draves, chief sustainability officer and  Thank you for your interest in our report. We welcome your 
+vice president, Environment, Health & Safety, provides formal internal  questions, comments and feedback. You may contact us at:
+approval of the report followed by review by the Environment, Health, 
+Jennifer Princing 
+Safety & Technology Committee of the Board.    We have also 
+GRI 102-32
+Dow Sustainability Reporting 
+sought independent assurance to verify compliance with the GRI 
+j.l.princing@dow.com 
+standards. See the Independent Assurance Statement near the 
+989-496-7154
+end of this report.
+3
+LEADERSHIP MESSAGES
+Message from  Mary Draves
+Our Chief  Chief Sustainability Officer and 
+Vice President of Environment, 
+Sustainability  Health & Safety
+Officer
+Delivering 
+on Our 
+Commitments
+Find out how we 
+continue to make 
+positive impact in our 
+focus areas of Circular 
+Economy, Climate 
+Protection and Safer 
+Materials. 
+4
+Helping Lead the Transition to a Sustainable Future
+LEADERSHIP MESSAGES
+Chairman and CEO Jim Fitterling shares how Dow is accelerating its sustainability strategy to meet 
+Q&A 
+tomorrow’s challenges, and how newly announced sustainability targets will help drive us forward.
+with Our  Q
+As you look ahead – 5, 10, 20 years down the road – what do you see as Dow’s main 
+sustainability challenges?  
+Chairman 
+A The greatest sustainability challenge for Dow is ensuring that our actions continually reflect the 
+and CEO  world’s sustainability needs. In every way, we need to align our business with the world around 
+GRI 102-14 us …  and provide leadership where we can. 
+The next decade will be critical in how we respond to environmental challenges and limit global 
+temperature rise. Making the most informed, sustainable and systemic decisions now will ensure 
+we have clean air, clean water, a stable climate and safe food tomorrow. We think a sustainable 
+future is attainable, but it will take collaboration across all sectors of society, including business.
+That’s why we’ve built Dow’s sustainability strategy on three focus areas that are not only critical 
+to our business but where we believe we can make a difference: climate protection, advancing 
+a circular economy … and innovating safer materials for our world. These areas get right to the 
+heart of our license to operate … plus they represent substantial opportunities to grow value for 
+Dow and society. 
+The challenge going forward is to remain focused on addressing these big, critical and complex 
+issues – like climate change and ocean waste – that demand answers. And then find a way to use 
+our scale, science and collaborations to help.
+Q
+So, you’re not just talking about inside-the-fenceline solutions?
+A Implementing sustainability solutions inside the fenceline is important. And we’re working on 
+those and we’ll continue to find ways to make our manufacturing facilities more efficient and 
+aligned with our larger sustainability efforts.
+But increasingly we’re thinking bigger and more broadly. We want to drive transformational 
+change. Our ambition is to be the most innovative, customer-centric, inclusive and sustainable 
+materials science company in the world. And we can’t do that if we only focus on inside-the-
+fenceline solutions.
+So, we’re taking a long look throughout our value chain. Our approach to creating a more circular 
+economy is a great example. We want to close the loop on plastic waste by ensuring our products 
+Jim Fitterling 
+have the potential to be recycled. But that’s just part of the equation. To be truly successful, we 
+also need to help find a way to stop the waste in the first place by ending the linear “take-make-
+Chairman and  
+and-dispose” economy that’s so common today. 
+Chief Executive Officer
+We can’t do that by ourselves. That’s why we’re collaborating with value chain partners, 
+governments, and other stakeholders across the globe for waste management solutions and 
+advanced recycling solutions that can be tested and scaled.
+5
+Q
+Dow just announced new sustainability targets. How do these new sustainability 
+LEADERSHIP MESSAGES
+targets help address our sustainability priorities and move us forward?
+Q&A 
+A
+The new targets we just announced are all about advancing a circular economy and climate 
+protection. The targets build on our commitment to lead the transition to a more sustainable 
+with Our 
+future by putting Dow on a path to achieve carbon neutrality and eliminate plastic waste in our 
+environment. You can read more about our targets here.
+Chairman 
+Q
+Talk a little about Dow’s path to realizing these new targets. How will Dow get there?
+and CEO
+A These targets are ambitious. Realizing them is going to be challenging. It will take investment, 
+innovation and collaboration, and it will require a real step-change in how we work. For example, 
+meeting our commitment to reduce our 2030 annual emissions by 5 million metric tons from our 
+current baseline, which is about a 15% reduction, will only be possible through technological 
+innovation.
+Dow already has had a lot of success in reducing emissions. In the past 15 years, we’ve reduced 
+our overall greenhouse gas emissions by 15%. Dow is among the top 25 global corporations 
+in terms of renewable power use. We have contracts for wind, solar, biomass, landfill gas and 
+hydropower. In fact, Dow is on track to achieve our 2025 Sustainability Goal target of sourcing 
+750 MW of renewable power capacity. But to achieve the reliability and efficiency we need to 
+meet our future energy needs and reduce our emissions, we’ll need new solutions that we haven’t 
+designed yet. 
+To meet our targets, we’re accelerating our work to implement and advance technologies 
+to manufacture our products using fewer resources. For example, at our Plaquemine site in 
+Louisiana, we are retrofitting a mixed-feed cracker to produce propylene with our proprietary 
+fluidized catalytic dehydrogenation technology. The project will reduce energy use and 
+greenhouse gas emissions by up to 20% versus conventional technology. We also will work to 
+increase the share of our products that enhance environmental performance for our customers 
+and society.  
+Honing our focus: Introducing  
+targets aimed at:
+Today’s  Circular Economy
+Ambitious  
+Carbon  
+challenges 
+2025  Reduction
+demand  
+Climate Protection
+Sustainability  accelerated 
+Goals  action Eliminating  
+Safer Materials Plastic Waste
+Jim Fitterling 
+Chairman and  
+Continuing 
+Chief Executive Officer
+our 
+progress:
+Leading the  Delivering  Advancing  Valuing  Safe  Engaging  World-Leading 
+Blueprint Breakthrough  a Circular  Nature Materials for  For Impact:  Operations 
+Innovations Economy a Sustainable  Communities,  Performance
+Planet Employees,  6
+Customers
+LEADERSHIP MESSAGES Q
+Has the COVID-19 pandemic changed Dow’s immediate focus on sustainability? 
+Q&A 
+A Not at all. I’ve seen some people predict that sustainability efforts worldwide may suffer 
+setbacks as organizations reprioritize. But our view is that our work on sustainability simply 
+with Our 
+cannot wait. We are leaning in.
+Chairman  If anything, this pandemic has amplified how important it is to put our corporate sustainability 
+principles into action. It’s demonstrated how interdependent we all are, and how we all depend 
+and CEO on one Earth for our prosperity. And it’s showcased the role business can play in solving real-
+world challenges.
+More than anything, it’s underlined how meaningful collaborations are necessary to tackle 
+tough challenges. A crisis of this magnitude needs everyone working together, and business 
+plays an important role. I couldn’t be prouder of Team Dow and how we’ve responded to the 
+needs of our customers, suppliers, communities and government partners to supply materials 
+for life-critical applications, such as hand sanitizer, disinfectants, IV bags and personal 
+protective equipment. 
+When we emerge from this pandemic, I hope we all carry forward the lessons of how sharing 
+our skills, compassion and know-how makes society stronger and our collective actions more 
+effective – whether we face a pandemic or a global challenge such as climate change.
+Q
+Why is Dow rolling out these targets now, especially with the immediate business 
+challenges of the COVID-19 pandemic? 
+A Even as we operate business in this new reality, we can’t lose sight of challenges such as 
+climate change and plastic waste. These are issues that affect all of us. 
+In fact, we can learn from the high levels of collaboration and information-sharing that we’re 
+seeing to meet the challenges of this pandemic and apply that mindset to sustainability. 
+The world needs leadership in environmental sustainability. As a global materials science 
+company, we have the responsibility to help reduce carbon emissions and use our science to 
+lead into a carbon-neutral future.
+Our materials science expertise can help brand owners design and manufacture more 
+sustainable, circular-driven products. And because of our scale, we also can lead collaborations 
+that drive positive value for the environment, society, and our business.
+Jim Fitterling 
+Setting aggressive targets like this help us demonstrate and drive our commitment. They 
+challenge us to use our innovation and expertise to find scalable and replicable business 
+Chairman and  
+Chief Executive Officer solutions that will support systematic, sustainable transformation.
+7
+Q
+LEADERSHIP MESSAGES You often talk about how the issues of climate protection and a circular economy are 
+intertwined. How do Dow’s targets around plastic waste also help address carbon 
+Q&A  neutrality? 
+A They’re definitely inter-related. A circular economy — keeping materials in use — can reduce 
+with Our 
+emissions and plastic pollution. Research shows that recycling a metric ton of plastic can reduce 
+carbon emissions by 1-3 metric tons of carbon dioxide equivalents, compared to virgin plastic 
+Chairman 
+production.  
+and CEO
+Plastics, too, are an indispensable part of a lower-carbon economy. Think about the auto industry 
+alone – where lighter-weight plastics have helped increase auto fuel efficiency by 29% while 
+decreasing related greenhouse gas emissions by 23%. Plastics also provide the world’s growing 
+population with more access to fresh foods and safe drinking water while reducing food spoilage 
+and waste. That translates directly into lower carbon emissions in the supply chain, plus a better 
+and healthier quality of life for people.
+In that regard, plastics have been a tremendous positive for mankind. But there’s a negative side 
+to this success – and that’s plastic waste. It not only is harming our Earth’s biosystems, it’s doing 
+so at a steep economic cost. The amount of plastic the world wastes every year has an inherent 
+raw material value ranging from $80-120 billion. 
+As a society globally, we lack the infrastructure to deal with the amount of waste that 
+we generate, and that’s what we’re trying to tackle. We’re working with and standing up 
+organizations like the Alliance to End Plastic Waste to invest in proof-of-concept projects to 
+drastically improve waste collection, particularly in South Asia where the issue is so critical. We’re 
+also looking for ways to create demand for recycled plastics. In fact, Dow was named to Forbes’ 
+2019 “Change the World” list of companies for our use of recycled plastics in roads. We’ve 
+worked with partners across the world to make polymer-modified asphalt roads with recycled 
+plastic. 
+Q
+Do you think that Dow will meet its ambition to become the most sustainable 
+materials science company?
+A Absolutely. We’re going to be carbon neutral. We’re going to close the loop on water. We’re going 
+to reduce our energy intensity. We’re going to use renewable or recycled feedstocks instead of 
+using virgin feedstocks from a natural gas well. And we’re working on projects that are advancing 
+these goals today. 
+Jim Fitterling 
+The many projects you’ll read about in our 2019 Sustainability Report are based on decades of 
+practical experience in sustainability. We are currently on our third set of sustainability goals – and 
+Chairman and  
+from each set of goals, we've improved, we’ve learned and we've decided to challenge ourselves 
+Chief Executive Officer
+even further.
+I have complete faith that Team Dow will find the answers to meet our targets – and, more 
+importantly, advance the solutions we need to achieve the sustainable future we desire. 
+8
+INTRODUCTION
+New 
+Targets
+Accelerating Our Sustainability Agenda
+With the publication of this report, we are announcing new, progressive, multi-decade targets around 
+advancing a circular economy and climate protection. Building on our 2025 Sustainability Goals, these 
+targets are designed to put us on a path to achieve carbon neutrality, eliminate plastic waste in our 
+environment and increase our positive impacts for our customers, society and our business. We understand 
+Learn more about 
+that achieving these ambitious targets will take commitment, investment, innovation and collaboration. 
+our approach 
+New Targets
+to eliminating 
+Today, more than ever, the world needs leadership in environmental sustainability. That is why we are 
+plastic waste and 
+focusing on reducing our impact on the environment by working simultaneously on two closely linked issues: 
+reducing carbon  reducing carbon emissions and eliminating plastic waste.
+emissions.
+Climate Protection Advancing a Circular Economy
+We are committed to implementing and advancing technologies  We set these ambitious targets around a central idea: to 
+to manufacture our products using less resources. make the world’s plastic waste problem a thing of the past. 
+Find out more 
+about our 
+2019 progress 
+against our 2025 
+Sustainability 
+Goals.
+Protect the Climate Stop the Waste Close the Loop
+9
+OUR BUSINESS
+Company 
+Highlights
+Company Profile 
+  GRI 102-1, GRI 102-5, GRI 102-7, GRI 201-103
+At Dow, our people use science and collaboration to create what matters most to our customers, society 
+and the planet. Our ambition to be the world’s most innovative, customer-centric, inclusive and sustainable 
+materials science company drives best-in-class performance and a culture where new ideas thrive. We 
+combine global breadth, asset integration and scale, focused innovation and leading business positions 
+to achieve profitable growth. Our portfolio of plastics, industrial intermediates, coatings and silicones 
+businesses delivers a broad range of differentiated, science-based products and solutions in high-growth 
+market segments such as packaging, infrastructure and consumer care.
+2019 NET SALES
+Dow Inc. had 741,678,966 shares of common stock outstanding at January 31, 2020.
+$43B
+INNOVATIVE CUSTOMER-CENTRIC
+Alongside our customers, we create materials  We collaborate closely with our customers 
+and solutions for a better tomorrow. to help invent solutions to their toughest 
+challenges and strive to make it easier, more 
+enjoyable and more effective to do business 
+C
+I N N O V A T I V E GOALU:STOMER-CENT with us – in person or virtually.
+RI
+C
+VALUE GROWTH
+EMPLOYEES
+& BEST-IN-CLASS
+I PERFORMANCE B L E
+~36,500 We champion a fully  NCLUSIV U S T A I N A We are committed to 
+E S
+inclusive workforce that reflects  leading the transition to a 
+the world in which we do business.  more sustainable planet – through our 
+Bringing the best minds to the table empowers  operations, product innovations and 
+our employees to exceed customer expectations  partnerships – as we strive to make a 
+every day. positive impact on society and the world.
+INCLUSIVE SUSTAINABLE
+10
+OUR BUSINESS
+Company 
+Highlights
+2019 Business Highlights
+In 2019, Dow delivered net sales of $43.0 billion, down 13% from $49.6 billion in 2018.
+APR 2
+Financial Highlights (Millions of Dollars) GRI 102-7, GRI 201-1
+2019
+Economic value generated, distributed and retained 2019 20181
+Net sales $42,951 $49,604
+Pro forma net sales $42,998 $49,852
+Dow Inc. begins  Operating costs $31,534 $35,774
+Wages/benefits $5,322 $5,708
+trading on the 
+Payments to providers of capital $3,098 $4,862
+NYSE
+Payments to governments $1,386 $2,003
+Community investments $342 $41
+Economic value retained $1,758 $1,216
+after the 
+Total debt $16,996 $19,889
+Materials  Total equity $14,094 $33,621
+Total capitalization $31,090 $53,510
+Science Division 
+1 Applicable values for 2018 have been updated in accordance with the Current Report on Form 8-K for Dow Inc. and TDCC, filed with the U.S. Securities and Exchange Commission on July 25, 
+2019, which recast portions of the TDCC Annual Report on Form 10-K for the year ended December 31, 2018 to reflect the results of Dow and its consolidated subsidiaries, after giving effect to 
+separates from 
+the distribution to DowDuPont of TDCC’s agricultural sciences business and specialty products business and the receipt of DuPont's ethylene and ethylene copolymers businesses (other than its 
+ethylene acrylic elastomers business) from the closing of the Merger on August 31, 2017.
+DowDuPont 2 Includes charitable cash and in-kind donations and represents only a portion of the total value of Dow community contributions, which also includes volunteer time as well as other forms of 
+financial support.
+Pro Forma Net Sales by Geographic Region (Millions of Dollars) 2019 Taxes (Payments to Governments)
+$4,115
+Latin America 543 U.S. & Canada
+$15,582 493
+$8,683 EMEAI
+U.S. & Canada
+Asia Pacific
+$42,998 195 Asia Pacific
+155
+Latin America
+$14,618 0 100 200 300 400 500 600
+ EMEAI Millions of Dollars
+11
+109 12
+OUR BUSINESS
+Company 
+manufacturing sites  Innovation Centers in  
+Highlights
+in 31 countries 10 countries on 4 continents
+Location of Operations
+   GRI 102-3, GRI 102-4
+With global headquarters in Midland, Michigan, Dow operates 109 manufacturing sites in 31 countries. Major manufacturing operations are 
+located in Argentina, Brazil, Canada, China, Germany, The Netherlands, Spain, Thailand, United Kingdom, and the United States.
+Europe, Middle East, Africa & India
+37 manufacturing sites 
+in 15 countries
+North America
+35 manufacturing sites  Asia Pacific
+in 2 countries
+19 manufacturing sites 
+in 10 countries
+Latin America
+18 manufacturing sites 
+in 4 countries
+12
+OUR BUSINESS Business Segments and Products 
+GRI 102-2, GRI 102-6
+Dow combines chemistry, biology and physics to create innovative products in several key markets. We 
+Business 
+work with experts in almost every industry to help solve materials science challenges that help advance 
+our customers’ business goals and contribute to a more sustainable world. Our portfolio includes six global 
+Overview
+businesses that are organized into the three following operating segments: 
+Innovating 
+Breakthrough, 
+Sustainable 
+Products
+Plant-based emulsions 
+that enable paints 
+with higher renewable 
+content. Reworkable 
+silicone gels that allow 
+for easy disassembly 
+so smartphones can 
+$42,998MM
+be repaired or their 
+components recycled. 
+Polyols made from 
+end-of-life mattresses 
+that find new life in 
+construction applications. 
+These new Dow products 
+were recognized as 
+breakthrough, sustainable 
+innovations by Business 
+Insider in 2019.  
+LEARN MORE
+2019 Pro Forma Net Sales
+Results for the first quarter of 2019 and periods prior are prepared on a pro forma basis. Results for the second quarter of 
+2019 and subsequent periods are prepared on an as-reported basis. 2019 Corporate Segment pro forma sales were $343MM. 13
+OUR BUSINESS
+Business 
+Overview
+Packaging & Specialty Plastics
+Our Plastics franchise consists of two highly integrated global businesses:
+14
+OUR BUSINESS
+Business 
+Overview
+Industrial Intermediates & Infrastructure
+Industrial Intermediates & Infrastructure consists of two customer-centric global businesses that develop important 
+intermediate chemicals that are essential to manufacturing processes, as well as downstream, customized materials 
+and formulations that use advanced development technologies.
+15
+OUR BUSINESS
+Business 
+Overview
+Performance Materials & Coatings
+Performance Materials & Coatings includes industry-leading franchises that deliver a wide array of solutions into 
+consumer and infrastructure end-markets. The segment consists of two global businesses:
+16
+SUSTAINABILITY 
+OVERVIEW
+Sustainability 
+Priorities
+Partnering to Solve Global Challenges
+The world is changing. As populations increase, consumption patterns change and resources diminish, societies across the globe 
+need to find new ways to balance economic progress with sustainability. One of the great challenges of our time is reconciling 
+the needs of a growing population for food, clean water and energy with our planet’s limited resources. We believe a sustainable 
+future is attainable, but only if we all come together to drive forward science- and technology-based solutions to address global 
+challenges. 
+We are doing this by connecting and collaborating to find new options for materials that make life better for everyone. Our 2025 
+Sustainability Goals continue to guide us in driving meaningful change and scaling business solutions that will help lead the 
+transition to a sustainable planet and society, and our World-Leading Operations performance is foundational to our progress.
+Our Focus Areas
+Our sustainability efforts are focused on three areas that are critical to our business and where we believe we can make a 
+difference.
+Circular  Climate  Safer
+Economy Protection Materials
+17
+SUSTAINABILITY 
+OVERVIEW
+Focus 
+Areas
+Advancing a Circular Economy
+Because of our leadership position in manufacturing and materials technology, as well as our global reach 
+across many sectors, we have the opportunity to take a leading role in supporting the development and 
+implementation of the circular economy, taking into account a product’s lifecycle – from creation to use 
+to disposal – in everything we do and create. As we transform to a circular economy, we’re thinking about 
+waste as a resource and investing in new product technology, value chain partnerships, business models, 
+logistics and infrastructure to help discover and scale sustainable solutions.
+Our Successes
+Innovating  Partnering to  Working Across the 
+Sustainable  Recycle Wastewater Value Chain
+Packaging
+See how we’re working with  Find out how we’re taking 
+our partners to reuse and  steps to put an end to 
+Learn how we’re designing 
+recycle water so there’s more  mattress waste. 
+products for recyclability.
+for communities.
+18
+SUSTAINABILITY 
+OVERVIEW
+Focus 
+Areas
+Advancing a Circular Economy
+Working to Create a Circular World for  Our Approach
+Plastic As the world’s largest producer of plastics, we are committed to find 
+ways in which we can continue to provide the convenience, protection, 
+Plastics have revolutionized the lives of people everywhere by helping 
+affordability and safety of plastics, while also ensuring that none of the 
+make goods lighter weight and thus saving emissions, improving 
+plastic ends up in the environment or is lost to the landfill.
+health and hygiene, extending the freshness of food and dramatically 
+reducing food waste. However, insufficient global waste management  In the past year, Dow has engaged in more than 100 projects to 
+and recycling infrastructure and low recycling rates have resulted in too  promote a more circular economy for plastics, including those 
+much plastic being lost to waste and entering our natural environment.  described below.
+Keeping Plastic Out of the Environment Increasing Impact Through Partnerships Delivering Circular Economy Solutions
+Hefty® EnergyBag® Program:  
+LEARN  Fuenix Ecogy Partnership:  
+Teaming up with Keep America 
+MORE Partnership for the supply of a  
+Beautiful, Reynolds Consumer Products 
+new feedstock made from recycled 
+to collect hard-to-recycle plastics at  Founding member of the Alliance to End Plastic Waste, 
+plastic waste to  
+curbside and convert them to resources  an initiative to accelerate efforts to drive innovation, 
+produce new  
+LEARN 
+such as fuel >400,000 households provide much-needed resources and take decisive 
+Dow polymers MORE
+LEARN  458 tons to U.S. waste action to put an end to plastic waste in the environment
+MORE
+UPM Biofuels Partnership: 
+Circulate Capital Ocean Fund: 
+Recycled Plastic Roads: Collaborating 
+Partnering to commercialize a 
+Founding investor in $100MM effort 
+across the globe to construct polymer-
+plastic for packaging made from  
+to incubate and finance companies 
+modified asphalt roads with post-
+a bio-based  
+and infrastructure that prevent 
+consumer recycled plastic LEARN 
+renewable feedstock
+LEARN  ocean waste MORE
+MORE
+#PullingOurWeight:  
+RecycleReady Technology:
+Project MASARO: Combining  Working with the Ocean Conservancy, 
+Worked with Kellogg’s Bear 
+education, technology and  Dow employees, customers and other 
+Naked® granola division and 
+infrastructure to turn waste into  partners are cleaning up trash in their 
+Berry Global to develop the 
+valuable materials for   communities
+first fully-recyclable stand-up 
+local communities   >18,000 participants LEARN 
+LEARN  MORE barrier pouch made for food 
+in Indonesia MORE 175 cleanups globally packaging 19
+SUSTAINABILITY 
+OVERVIEW
+Focus 
+Areas
+Contributing to Climate Protection
+Addressing climate change is one of the major challenges to achieving a sustainable future. As both a major user of energy and a producer 
+of technologies that are essential to a lower-carbon economy, we have a responsibility to act. Within our own operations, we are optimizing 
+efficiency, investing in renewable energy sources and innovating new low-emission production processes. We also are collaborating with our 
+customers to produce products that contribute to a lower carbon footprint. 
+Our Successes
+Optimizing Our  Increasing  Evaluating  Developing  Deploying 
+Facilities and  Renewables in  Investments in  Low-Carbon  Materials to Help 
+Processes Our Purchased  Carbon Capture,  Technologies  Reduce Emissions 
+Power Mix Usage and Storage  for Emission  for Customers and 
+We continue to look 
+for ways to improve  (CCUS) Reductions Industries
+We are the No. 1 user 
+energy and emissions 
+of clean energy in our  CCUS is a critical  We’re working to  We’re collaborating 
+savings in our 
+industry. transitioning technology  innovate next- with the International 
+operations.
+that will assist in the  generation technologies  Olympic Committee to 
+transition to a lower- that could potentially  harness the power of 
+carbon economy  enable us to make  sports and science to 
+while new low- a step-change in  accelerate the adoption 
+emission technology is  reducing our emissions. of lower-carbon 
+developed. technologies across 
+various industry value 
+chains.
+20
+Our Climate Strategy: Reducing Our Impact 
+GRI 201-2
+SUSTAINABILITY 
+We aspire to become carbon neutral* by 2050. Through our 2025 Goals, we are seeking to keep our 
+OVERVIEW
+absolute greenhouse gas (GHG) emissions below our 2006 baseline, although we continue to grow our 
+Focus  company globally. In addition, we are committed to obtaining 750 MW of our power from renewable 
+resources by 2025. In the past 15 years, we have reduced our overall GHG emissions by 15%. 
+Areas
+While we have made progress with our 2025 Sustainability Goals, we are taking bigger and bolder actions 
+to lesson our impact moving forward. In June 2020, we announced a new, multi-decade carbon target 
+to reduce our net annual carbon emission by 5 million metric tons versus our 2020 baseline, which is 
+approximately a 15% reduction. Learn more.
+Our Approach
+The Executive Sustainability Team ensures progress is made against our 2025 Sustainability Goals. In 
+Highlight
+addition, our carbon focus group aligns senior leadership from across our businesses and functions, and 
+drives all aspects of our initiatives around carbon emissions. Specific steering teams under the carbon focus 
+group's direction address all aspects of Dow’s strategy to achieve these objectives. Read more about our 
+We’re planting seeds to 
+risk management strategy.
+slow climate change.
+Partnering for Progress
+In addition to optimizing our own operations, we are working on next-generation GHG management 
+technologies and strategies for mitigating climate change. Collaboration in this space is essential, as 
+four-fifths of our Scope 1-3 emissions are indirect. As both a major user of energy and a producer of 
+technologies that are essential to a lower-carbon economy – and as the No. 1 user of clean energy in our 
+industry – we can bring a unique perspective. Among our actions:
+Climate change has 
+serious consequences 
+for the global economy 
+and people’s health 
+and well-being. We 
+also support the Paris 
+Agreement and are  Climate 
+committed to achieving  CCaarrbboonn     Industry 
+Mitigation 
+its goal of keeping 
+PPrriicciinngg Collaborations
+global temperature rise 
+Strategies
+well below 2ºC, and to 
+pursue efforts to limit the 
+increase to 1.5ºC.  
+* Scopes 1, 2, 3, plus product benefits
+21
+SUSTAINABILITY 
+OVERVIEW
+Focus 
+Areas
+Innovating Safer Materials
+Did You 
+A sustainable future can’t be achieved without considering chemistry – the foundation upon which countless 
+Know?
+products are built. More than 96% of the world’s manufactured goods are enabled by chemistry, and the 
+potential of chemistry to bring social and environmental value is limitless. We are committed to innovating 
+sustainable materials and improving the way the world understands and considers science in decision-
+48%
+making to maximize benefits to businesses, society and the planet.
+  
+Read more about how we continually look for improvement opportunities at each stage of the life cycle of 
+OF SALES are from 
+our products.
+products that address 
+world challenges
+Our Successes
+76%
+  
+OF R&D PROJECTS 
+address world challenges
+2019 results based on SCI reporting
+Innovating  Advancing  Promoting Open 
+Sustainable  Product Safety  and Transparent 
+Materials Chemistry
+Find out how we’re 
+collaborating with diverse 
+We’re using our materials  Discover how we’re working 
+stakeholders to advance 
+science to help innovate  with value chain partners to 
+product safety information.
+more sustainable solutions  advance product safety and 
+for our customers and the  transparency.
+planet.
+22
+SUSTAINABILITY 
+OVERVIEW
+Goal 
+Updates
+2025 Sustainability Goals
+In 2015, we announced our 2025 Sustainability Goals, a set of strategic 10-year goals that aim to expand our positive impact around the 
+world by driving unprecedented collaborations to facilitate the transition to a sustainable planet and society. These goals, the Company’s third 
+set of sustainability-related goals since 1995, build upon its previous two decades of goals. Our 2005 Environment, Health & Safety Goals 
+resulted in $5 billion in waste, water, energy and safety-related savings. Our 2015 Sustainability Goals focused on providing more sustainable 
+products and solutions addressing global challenges related to food waste and security, energy, sustainable water supply and health.
+Our Sustainability Journey
+Our 2025 Sustainability Goals support progress against our focus areas of Climate Protection, Circular Economy and Safer Materials. We’ve 
+also continued to refine the goals and targets as our business and the expectations of our stakeholders has changed.
+2025 Sustainability Goals
+Dow’s Thought Leadership and Actions
+2015 Sustainability Goals
+Dow’s Blueprint
+Product Solutions to World Challenges Changes in technology, public policy and the value
+chain that lead human society toward sustainability
+2005 EH&S Goals
+Dow’s Handprint
+Journey to EH&S Excellence
+Products and services that help customers meet their challenges
+Dow’s Footprint and EH&S Culture
+World-leading operations and supply chain performance
+1995 2006 2016 2025
+23
+SUSTAINABILITY 
+OVERVIEW
+Goal 
+Updates
+2025 Sustainability Goal Updates
+Nearing the halfway point of our 2025 Sustainability Goals, we have made significant progress.
+24
+SUSTAINABILITY 
+OVERVIEW
+Alignment 
+to UN SDGs
+Alignment to UN Sustainable Development Goals (SDGs)
+Dow’s 2025 Sustainability Goals were developed at the same time and with an awareness of the process for defining the UN SDGs. The 
+UN SDGs help us identify several different paths to support business goals and our ambition to be the most sustainable materials science 
+company in the world. At some level, our 2025 Goals impact each of the 17 UN Development Goals. Dow’s high-level alignments to the SDGs 
+are described here.
+SDGs that are an opportunity 
+for Dow to lead
+SDGs that are an opportunity 
+to engage and contribute
+BUSINESS OPPORTUNITY BUSINESS RISK
+SDGs that present business 
+opportunities and risks
+SDGs that Dow currently 
+negatively impacts
+25
+ENVIRONMENTAL 
+IMPACT
+Management 
+Approach
+A Commitment to World-Leading Environmental Performance
+   
+ENVIRONMENT, HEALTH  GRI 305-103, GRI 307-103
+AND SAFETY POLICY
+Dow is committed to world-class environmental, health and safety (EH&S) performance, as demonstrated 
+At Dow, protecting people  by industry-leading results, a long-standing commitment to Responsible Care® and a strong commitment to 
+and the environment is a  achieve the Company’s 2025 Sustainability Goals.
+part of everything we do 
+To meet the Company’s public commitments, as well as the laws and government regulations related to 
+and every decision we 
+environmental protection and remediation to which its global operations are subject, Dow has well-defined 
+make. Each employee 
+policies, requirements and management systems. 
+has a responsibility in 
+ensuring that our products 
+Managing EH&S Performance
+and operations meet 
+applicable government or  Dow’s EH&S Management System (EMS) defines the “who, what, when and how” needed for the 
+Dow standards, whichever  businesses to achieve the Company’s policies, requirements, performance objectives, leadership 
+is more stringent. Our  expectations and public commitments. To ensure effective utilizations, the EMS is integrated into a 
+goal is to eliminate all  company-wide management system for EH&S, Operations, Quality and Human Resources.
+injuries, prevent adverse 
+Responsible Care
+environmental and 
+Dow believes third-party verification and transparent public reporting are cornerstones of world-class EH&S 
+health impacts, reduce 
+performance and building public trust. Numerous Dow sites in Europe, Latin America, Asia Pacific, the 
+waste and emissions, 
+United States and Canada have received third-party verification of Dow’s compliance with Responsible Care 
+and promote resource 
+and with outside specifications such as ISO-14001. Dow continues to be a global champion of Responsible 
+conservation at every 
+Care and has worked to broaden the application and impact of Responsible Care around the world through 
+stage of the life cycle 
+engagement with suppliers, customers and joint venture partners.
+of our products. We will 
+report our progress and be  Waste and Emissions Inventory
+responsive to the public.
+Dow manages environmental data for reporting with a Waste and Emissions Inventory system. All emitting 
+manufacturing sites globally record their emissions into the system annually. The data is reviewed at the 
+facility level and then by global coordinators before being aggregated for corporate reporting.
+26
+ENVIRONMENTAL 
+IMPACT
+Summary 
+Metrics
+Summary Metrics
+Metric Unit 2018 2019
+Energy intensity Btu per lb of production 4,756 4,711
+Scope 1 GHG emissions Millions of metric tons CO e 28.7 27.6
+2
+Scope 2 GHG emissions Millions of metric tons CO e 6.82 6.05
+2
+Combined Scope 1 and 2 GHG intensity Lb of CO e per lb of production 0.76 0.74
+2
+Scope 3 GHG emissions Millions of metric tons CO e 76.3 91.4
+2
+Ozone-depleting compound emissions Metric tons as CFC-11e 1.74 1.51
+Nitrogen oxide emissions Metric tons 19,864 18,534
+Sulfur oxide emissions Metric tons 2,614 2,573
+Volatile organic compounds (VOC) emissions Metric tons 7,583 7,534
+Chemical emissions to air and water Metric tons 12,625 13,914
+Emissions of priority chemicals to air and water Metric tons 258 248
+Freshwater intake Millions of cubic meters 2,040 2,075
+Wastewater Millions of metric tons 130.6 129.3
+Wastewater intensity Lb of wastewater per lb of production 2.80 2.83
+Waste Millions of metric tons 1.44 1.32
+Waste intensity Lb of waste per lb of production 0.031 0.029
+27
+ENVIRONMENTAL 
+IMPACT
+Materials
+Materials Used 
+GRI 301-1, GRI 301-2, GRI 301-103
+The Company operates in an integrated manufacturing environment. Basic raw materials are processed 
+through multiple operations to make products that are sold to external customers and used as intermediates 
+to further downstream Dow operations. The major raw material stream that feeds the production of the 
+Company’s finished goods is hydrocarbon-based raw materials.
+Dow’s Integrated Manufacturing Environment
+High-Throughput 
+Siloxanes & Silicones 
+Ethylene Oxide
+Research
+Acrylic Acid 
+GAS Catalyst Discovery &  s Packaging
+n Architectural Coatings    
+Propylene Oxide Ligand Synthesis r
+s o o
+ms Polyolefins &  itie Polymer Science ositi PPrrooppyylleennee  GOlxyicdoel ns fets
+erials atfor Elastomers apabil Materials Science bal P Purified PEothlyyolelsn e Oxide  olutioMark
+t OIL Pl Silicones C o Se  Infrastructure
+Ma s  y  Formulation Sciences Gl Amines e iv
+  al g g  Solvents vct
+Raw ateri Polyurethanes nolo Process Engineering adin Ethylene  ovatiAttra
+M h e Polyethylene  n
+c L n
+Acrylics e High-Performance    Ethylene Copolymers I
+T 1
+MINERALS Computer Modeling # Consumer
+Elastomers & Plastomers
+Cellulosics Application Development  Polyethylene Licensing
+28
+ENVIRONMENTAL 
+IMPACT
+Materials
+Raw Material Efficiency 
+Did You 
+Total quantity of raw material is not aggregated across the corporation, as it would not provide a metric 
+Know?
+that would drive improvements. We do track raw material efficiency as one of the metrics that comprise the 
+Environmental Stewardship Index, one of the four indices tracked under our World-Leading Operations 
+Performance Goal. To assess the raw material efficiency index, each of the company’s business units 
+In 2019, businesses  determines a relevant material efficiency metric, sets annual commitments that translate into monetary 
+savings, and reports regularly on progress to business and corporate leadership.
+achieved raw 
+material savings of Measuring material efficiency provides a direct driver to improve activities such as:
+•  Process parameter adjustments to improve yield
+$65.3MM
+•  Increased frequency of tracking and internal reporting of specific materials use
+•  Raw material quality improvements that result in more efficient use
+•  Waste minimization through equipment reliability improvements
+A circular economy is one of the three sustainability focus areas that we've identified as critical to our 
+business and where we can make a difference. In June 2020, we announced new targets aimed at 
+eliminating plastic waste:
+•  By 2030, Dow will STOP THE WASTE by enabling 1 million metric tons of plastic to be collected, reused 
+or recycled through its direct actions and partnerships.
+•  By 2035, Dow will CLOSE THE LOOP by enabling 100% of Dow products sold into packaging 
+applications to be reusable or recyclable.
+We will report on progress toward these targets in future reports.
+29
+Energy and Greenhouse Gas (GHG) Emissions Management
+ GRI 302-103
+Dow operates our manufacturing assets safely and reliably, and to create value for all our stakeholders. Our 
+ENVIRONMENTAL 
+Energy Business, as a part of the Feedstocks & Energy business, manages the commercial relationships 
+IMPACT
+for the power, steam, emission credits and industrial gases required for Dow’s operations. Many of Dow’s 
+Energy initiatives around carbon and emissions are also managed by the Energy Business. The business is led by a 
+Global Energy & Climate Change Director, and a team of regional directors and energy managers who define 
+the best integrated asset and commercial strategies for major sites and the company exposures. The Energy 
+Technology Center supports the efforts to optimize energy use and emissions through the implementation 
+of energy efficiency projects within Dow’s sites. Dow’s Energy Business manages a portfolio of power and 
+steam production assets, as well as fuel, steam and power purchases.
+Most of the power  Energy Consumption Within the Organization  GRI 302-1
+and steam consumed  In 2019, our energy intensity was 4711 Btu/lb produced. This represents total energy, power, steam, 
+compressed air, cooling water pumps and other equipment used by manufacturing facilities. Energy intensity 
+for operation of 
+has remained relatively flat since 2005. 
+our manufacturing  GRI 302-3
+Purchased electricity includes renewable sources
+processes comes from 
+Fuel Source Capacity (MW) Consumption (Million GJ)
+combined heat and 
+Source Million GJ
+Wind 375 4.356
+power (CHP) plants. 
+Purchased Natural Gas  373
+Hydro 147 4.222
+The CHP plants 
+Off Gas from Feedstock 261
+Biomass 17 0.134
+provide power and 
+Purchased Electricity  38
+Landfill Gas 3 0.045
+steam to production 
+Power Sold 29
+Solar 0.5 0.002
+facilities using  
+Net Purchased Power 9
+Total 542 8.760
+20-40%  Purchased Steam 41
+Net Use 684
+Purchased steam includes renewable sources*
+less fuel Fuel Source Consumption (Million GJ)
+Biomass 5.958
+ 
+Total 5.958
+than conventional power 
+External Energy Consumption (Million GJ)
+* Previous year’s representation did not separate purchased sources of 
+generation – emitting 
+renewable electricity and renewable steam.
+11
+fewer GHGs.
+24 44 Energy Consumption Outside of the Organization
+ GRI 302-2
+142
+Energy consumption outside of the organization is estimated 
+Fossil
+using primary data for purchased quantities of raw materials 
+Nuclear
+and representative datasets for cumulative energy demand from 
+Biomass
+2173
+Wind, Solar, the Ecoinvent v3 database. In previous estimates based on 
+Geothermal secondary data, purchased goods was identified as the largest 
+Hydro
+contributor to energy consumption outside of the organization. 
+For 2019, only this category was calculated.
+1952
+30
+ENVIRONMENTAL 
+IMPACT
+Energy
+Clean Energy
+Did You 
+Under our 2025 Sustainability Goals, Dow has committed to obtain 750 MW of its power demand from 
+Know?
+renewable sources by 2025. Dow purchases renewable energy in Europe, Latin America, U.S. and Canada. 
+Because the economics for renewables vary, we utilize wind, solar, hydropower, biomass and land fill gas, 
+depending on the location. All projects are selected based on the lowest long-term cost of power or steam 
+Dow is the No. 1 user 
+from available alternatives. We support contract-based additionality of renewable power where our assets 
+of clean energy in the 
+operate, helping industry and residents alike. 
+chemicals industry 
+and ranks among the  In 2019, we added to our renewable capacity by implementing a wind power contract for 20 MW to support 
+our Bahia Blanca site in Argentina. We also laid groundwork for an additional 25 MW of solar power capacity 
+TOP 25
+to support our Carrollton, Kentucky, site beginning in 2022, and for approximately 143 MW of wind power 
+capacity to support our Aratu, Brazil, site beginning in 2021. By the end of 2019, we had in place contracts 
+global corporations 
+for 542 MW of renewable power, as well as 244 MW of renewable steam.
+in terms of renewable 
+power use.
+In 2019, Dow engaged with the World Business Council for Sustainable 
+Development’s (WBCSD) REscale team, which brings together leading 
+companies representing the full renewable energy value chain to 
+accelerate deployment of renewables and the transition to a low-
+carbon electricity system. Dow participated in REscale Brazil deep-dive 
+workshops designed to increase the understanding and use of corporate 
+renewable power purchase agreements.
+31
+ENVIRONMENTAL 
+IMPACT
+Emissions
+Emissions and Carbon Intensity
+  GRI 305-4
+In 2019, our greenhouse gas intensity was down approximately 3% from 2018 and by a total of approximately 13% since the baseline year of 2006. In 
+pursuit of our 2025 Sustainability Goals target to hold our absolute greenhouse gas emissions to our 2006 baseline, we are focused on a wide range of 
+strategies to reduce emissions in our operations while increasing our energy efficiency. 
+Scope 1 and Scope 2 GHG Emissions 
+GRI 305-1, GRI 305-2
+Greenhouse gases are accounted for in accordance with the Greenhouse Gas Protocol Corporate Accounting and Reporting Standard and using 
+emission factors from the IPCC Fifth Assessment Report. Historic data takes into account any divestitures, mergers and acquisitions, and may change 
+to reflect those activities.
+Scope 1 and 2 Greenhouse Gas Emissions GHG Emissions Intensity
+50 1.000
+n
+  o 0.900
+2
+f  42.1 Goal Maximum    ti .80
+ o 40 (2006 baseline) pe uc 0.800 .77 .76 .76 .74
+s
+tric Tonvalents 30 6.0.055 IE(nMmdiliilrsieoscniots nG osrf e aMesn eChtrOoicu2 esT eo nGsa)s  1 + Sco nit Prod 00..760000 TItnhotetea nsl usGimtHy  Goisf   
+Mequi 27.5 Non-Kyoto GHGs as CO2e  pe  r U 0.500 direct and 
+of  E 20 (Millions of Metric Tons) co pe 0.400 indirect 
+s O2 Kyoto GHGs as CO e  S s  0.300 emissions 
+onC (Millions of Metric To2ns) of  on (Scope 1 + 
+Milli 10 Sum  missi 00..210000 Specro punei t2 o) f 
+E
+production.
+0
+0
+2015 2016 2017 2018 2019 2015 2016 2017 2018 2019
+32
+ENVIRONMENTAL 
+IMPACT
+Emissions
+Scope 3 Emissions 
+Scope 3 Greenhouse  GRI 305-3 
+Gas Emissions Other indirect (Scope 3) GHG emissions occur from sources not owned or controlled by Dow. We have assessed 
+all Scope 3 categories according to the GHG Protocol’s Corporate Accounting Standard and the Corporate 
+(in Million Metric Tons CO e)
+2 Value Chain (Scope 3) Accounting and Reporting Standard, and the World Business Council for Sustainable 
+Development’s Guidance for Accounting and Reporting Corporate GHG Emissions in the Chemical Sector Value 
+8
+4 Chain. The results are summarized in the chart on the left. Differences from values reported in 2018 are largely 
+Purchased Goods & Services
+4 a result of updated calculation methodologies. Purchased raw materials continues to be the largest category of 
+FueSlc &o pEen e3r egmy iRsseiloantesd f oAr cDtiovwiti.e Tshe most significant change from prior calculations is in the absolute quantity and 
+7
+fraction of the total for the end-of-life treatment category. This is due to replacing a broad assumption about end-
+End-of-Life Treatment of 
+of-life treatment method with more precise information collected from our business units as part of the Sustainable 
+Sold Products
+Chemistry Index survey process.
+8 Investments
+DoRwnesdtreuamc tTiroannsp oorfta Etionn e  rgy Consumption and GHG Emissions 
+GRI 302-4,GRI 305-5 
+& Distribution
+Dow tracks energy and GHG intensity and consumption year over year as key metrics. While many projects 
+60 Othimerplemented throughout the year have an impact in reducing both energy consumption and GHG emissions, the 
+8
+following table outlines projects executed in 2019 that have had a material impact:
+4
+Purchased Goods & Services
+4
+Type of Energy  Amount (in millions of  Scope in Which  Approx. Amount of GHG 
+Fuel & Energy Related Activities
+Project Summary Location Reduced kJ/Yr) Reduction Took Place Reduced (Metric Tons/Yr)
+7
+End-of-Life Treatment of 
+Use of hydrogen byproduct  Hahnville Fuel 2,100,000 Scope 1, Scope 2 100,000
+Sold Products
+from ethylene cracker in 
+8 Investments
+site gas turbines
+Downstream Transportation  
+Steam venting optimization  Oyster  Purchased power  1,100,000 Scope 2 160,000
+& Distribution
+project Creek and fuel
+60 Other
+Amines and butanol energy  Hahnville Purchased power  640,000  Scope 1, Scope 2 32,000
+efficiency improvements and fuel
+Flare reduction from  Multiple  Fuel, raw material,  3,100,000 (net  Scope 1 290,000 (net reduction 
+Ethylene Crackers Locations product flaring reduction across  across cracker fleet)
+cracker fleet)
+Total 6,940,000 582,000
+Note: Energy and emission savings were determined by comparing plant operating conditions before projects were implemented to conditions 
+after implementation. 33
+In addition to the reduction of energy consumption and GHG emissions, in 2019, an industrial 
+demonstration project of a steam re-compressor was implemented at our Terneuzen site. The project 
+ENVIRONMENTAL 
+upgrades excess low-pressure steam, generated as a byproduct of an exothermal polymerization reaction, 
+IMPACT to useful steam that can support the site. The use of this technology on a larger scale has the potential to 
+reduce energy usage for steam generation in boilers and thus GHG emissions.
+Emissions
+Air Emissions 
+GRI 305-6, GRI 305-7
+Ozone-Depleting  NOx SOx
+Substances
+In 2019, Dow was a key 
+2017 2017 2017
+contributor in providing 
+2.87 20,117 2,837
+insights into reports 
+published by the Center 
+for Climate and Energy  2018 2018 2018
+Solutions (C2ES), a nonprofit  1.74 19,864 2,614
+environmental organization.
+2019 2019 2019
+•  The first report, 
+Pathways to 2050:  1.51 18,534 2,573
+Alternative Scenarios for 
+Decarbonizing the U.S. 
+Metric tons CFC-11e Metric tons Metric tons
+Economy, is the product 
+of a collaborative exercise 
+led by C2ES that sought 
+to examine potential 
+VOC Chemicals to Air and  Priority Compounds 
+scenarios that could 
+enable the achievement 
+Water to Air and Water
+of mid-century 
+decarbonization goals.
+2017 2017 2017
+•  The second report, 
+7,205 11,717 257
+Getting to Zero: A U.S. 
+Climate Agenda, outlines 
+2018 2018 2018
+a comprehensive agenda 
+for decarbonizing the U.S.  7,583 12,625 258
+economy by 2050, with 
+an emphasis on priority  2019 2019 2019
+actions needed over the 
+7,534 13,914 248
+coming decade.
+Metric tons Metric tons Metric tons
+34
+ENVIRONMENTAL 
+IMPACT
+Water
+Water Use Across Dow Facilities 
+GRI 303-103
+As one of the largest manufacturing companies in the world, we depend on a steady supply of water to create the 
+products that are essential for everyday life and human progress. The global challenge of protecting this supply 
+is addressed through a broad range of activities by the company – from understanding the specific watershed 
+stressors to recognizing the needs of other water users and required base environmental flows. In 2019, we 
+made significant progress in quantifying the full value of water to our operation and embedding it in business 
+decisions. We also prioritized water conservation and reuse investments based on site-specific water risks. These 
+actions are required to define the path and costs associated with meeting our 2025 Sustainability Goals target of 
+reducing freshwater intake at key water-stressed sites by 20%.
+This section focuses primarily on the water footprint of our global operations. It also highlights examples of where 
+we leverage solutions from our own portfolio of business offerings and partner with others to improve sustainable 
+water management.
+Sustainable Water Management
+Developing sustainable water management practices is critical to our business. Establishing a long-term vision 
+for water is also a key part of our water management strategy and is reflected in several of our 2025 Dow 
+Sustainability Goals.
+Dow 2025 Goal  Alignment with Water Strategy
+Leading the Blueprint Blueprint for Sustainable Watershed Management
+Enabling a Circular Economy Water recycle projects at Dow manufacturing sites
+Valuing Nature Projects that deliver value for Dow and for ecosystems
+World-Leading Operations Performance Goal to reduce freshwater intake intensity by 20% at key water-stressed sites
+Water-Stressed Sites
+The Company has identified six of our manufacturing sites as key water-stressed sites. These sites are 
+designated based on a number of factors, including their location in a water-stressed watershed, water quality, 
+competition among users of the same watershed, local experience at the site and long-term projections. 
+Because water supply issues are evolving and not isolated to water-stressed sites, Dow also keeps track of 
+sites that are under a “watch list” where water challenges may occur.
+35
+ENVIRONMENTAL 
+IMPACT
+Water
+Water Stewardship in Action   
+GRI 303-1, GRI 306-5
+A Ramsar site is a wetland site designated to be of international importance under the Ramsar Convention, 
+an international treaty for the conservation and sustainable use of wetlands. Among Dow’s six designated 
+water-stressed sites, two sites withdraw river water near sensitive wetlands areas listed in the Ramsar 
+wetlands database. In both cases, Dow has collaborated with a variety of stakeholders, including nearby 
+municipalities, to put in place strategies to reduce water stress in these regions.
+Utilizing an “every drop counts” mindset, we are contributing to water resilience in the areas of Terneuzen, 
+The Netherlands, and Tarragona, Spain, by recycling and reusing wastewater in our operations to reduce 
+our water footprint. Currently, our recycle and reuse rate is about 20%. Because Dow has been working on 
+these endeavors for many years, we continue to look for innovative approaches to further progress.
+Highlight
+Constructed 
+wetlands still 
+performing after 
+25 years.
+36
+ENVIRONMENTAL 
+IMPACT
+Water
+Water Withdrawals   
+Total Water Intake, All Sources
+GRI 303-3
+Water is used for a variety of purposes in Dow production facilities across the globe. Surface 
+3,300
+water withdrawals are 65% freshwater and 35% seawater/brackish. The majority of the 
+s 3,189
+freshwater intake is used for cooling and most of it is evaporated in cooling towers, returning  er 3,200
+t
+e
+the water to the environment. In locations such as coastal production facilities where sea/ M 3,100
+ 
+c
+brackish water is readily available, it is used for cooling and accounts for the high proportion of  bi 3,000
+u
+seawater/brackish water in use at some locations. Rainwater is recovered in multiple locations  C
+  2,900
+and reused for firewater and other purposes, but its volume compared to other intakes is  of
+ 
+s
+relatively small.  n 2,800
+o
+Only a small proportion of the water intake ends up in product (e.g. consumption). Past  Milli 2,700
+assessment of water use in the sites with the highest freshwater intake showed that more than  2,600
+2015 2016 2017 2018 2019
+85% of the source water was returned within the watershed at equal or better quality than at 
+withdrawal. The total volume of water intake globally has been relatively consistent as a result 
+of the combined impact of process efficiencies, business portfolio changes and growth.
+Freshwater Withdrawals, Breakdown by Source, 
+Freshwater intake intensity is tracked for the Dow’s six water-stressed sites described here. In 
+Millions of Metric Tons
+2019, the freshwater intake intensity at these sites was 12.64, an increase of 7% over the 2015 
+Total All Sites Water-Stressed Sites
+baseline. As seen in the graph showing our freshwater goal, we had made many improvements 
+in this area. However, 2019 water intensity is up due to a series of turnarounds that decreased  Groundwater 36 0.5
+production while still requiring water (mainly used for cooling purposes). In addition, less 
+Purchased 
+98 29
+rainwater was captured in our reservoirs due to drier conditions in 2019. This speaks to the  water
+sensitivity of the water metric to parameters that are within our control, such as required 
+Surface water 1,876 205
+maintenance of assets, and those that are not, such as rain availability and evaporation 
+Total 2,010 234.5
+from reservoirs. (An analysis of our Freeport site, our largest manufacturing facility, indicates 
+available water storage can have a significant impact on water intensity, roughly 20% from a 
+dry year to wet year.) To highlight our major efforts to improve water resiliency at the watershed 
+level at our key water-stressed sites, additional breakdowns of water withdrawals that reflect 
+basin context also are being considered. As noted on the previous page, the company has 
+implemented mitigation strategies to reduce freshwater intake at those facilities or leverage 
+new technologies allowing recycling of various sources of impaired water both within Dow’s 
+fenceline and externally.
+37
+ENVIRONMENTAL 
+IMPACT
+Water
+Water Discharges    Wastewater Intensity
+GRI 306-1 (2016), GRI 306-103
+Once water has been used in Dow facilities, it is typically 
+3.5
+treated at a wastewater treatment plant and discharged. The 
+total volume of wastewater discharged in 2019 was 129 million  b.  3.0 2.91 2.90 2.89 2.80 2.83
+L
+r 
+metric tons. The majority of the water is discharged as surface  e 2.5
+p
+n
+r o
+water, with a small portion returned to oceans. At a few sites,  atecti 2.0
+wu
+Dow site wastewater goes to a third party for treatment before  d
+e
+stro 1.5
+discharge (typically to surface water).  aP
+Wf 
+o
+f  1.0
+o
+Wastewater intensity is the ratio of pounds of wastewater  s. 
+b 0.5
+per pound of production. Over many years, our wastewater  L
+intensity has been relatively consistent at approximately three  0
+2015 2016 2017 2018 2019
+pounds of wastewater discharged per pound of product.
+ 
+Major Wastewater 
+  Wastewater quality is strictly governed by local  Key Water-Stressed Sites
+GRI 303-2 Discharge Sites
+regulations, and parameters are set specifically for each 
+Plaquemine, LA Terneuzen, The Netherlands
+watershed. Dow’s operations abide by these local regulations.  Stade, Germany Böhlen, Germany
+Therefore, wastewater discharge quality is not reported  Freeport, TX Freeport, TX
+consistently across all Dow sites. Total Suspended Solids  Aratu, Brazil Tarragona, Spain
+(TSS) and Biochemical Oxygen Demand (BOD) are reported  Midland, MI Bahía Blanca, Argentina
+Deer Park, TX Seadrift, TX
+for the sites listed here, which account for more than 85% of 
+Texas City, TX
+Dow’s wastewater discharge. 
+Our seven major wastewater discharge sites were identified 
+Discharge Destination
+to establish the baseline for the 2015 Sustainability Goals 
+and account for more than 80% of our total discharge. The  3%
+14%
+six key water-stressed sites were added to the wastewater 
+discharge quality reporting with the inclusion of the 2025 
+Surface Waters
+Sustainability Goal to reduce freshwater intake intensity at key  Ocean
+POTW
+water-stressed sites by 20%. The TSS discharge concentration 
+across the sites has been relatively consistent (2016 TSS was 
+0.005%, and the BOC concentration was 0.004%.) 83%
+38
+ENVIRONMENTAL 
+IMPACT
+Waste
+Waste 
+GRI 306-2 Waste Intensity
+It is Dow’s policy to adhere to a waste management hierarchy that minimizes the impact 
+0.045
+of wastes and emissions on the environment. First, we work to eliminate or minimize the 
+n 0.04
+o
+generation of waste and emissions at the source through research, process design, plant  ucti 0.035 0.032 0.032 0.033 0.031
+operations and maintenance. Second, we also find ways to reuse and recycle materials.  d 0.029
+o
+r 0.03
+Next, unusable or non-recyclable hazardous waste is treated before disposal to eliminate or  P
+of  0.025
+reduce the hazardous nature and volume of the waste. Treatment may include destruction  t 
+ni 0.02
+U
+by chemical, physical, biological or thermal means. Disposal of waste materials in landfills is  r 
+e 0.015
+p
+considered only after all other options have been thoroughly evaluated. Total waste disposed  e 
+t 0.01
+s
+of in 2019 was 1.32 million metric tons. a
+W 0.005
+0
+Most 2015 2016 2017 2018 2019
+Source reduction Preferred
+Waste Distribution
+Use, reuse or recycle at or near
+the point of waste generation
+0.8 Non-Hazardous
+Use, reuse or recycle external 0.7
+s
+to the site or company   n Hazardous
+o 0.6
+T
+generating the waste c 
+ri 0.5
+t
+e
+M 0.4
+of 
+s  0.3
+Waste treatment n
+o
+Milli 0.2
+0.1
+0
+Proper
+Combustion Landfill
+disposal
+Underground Injection Other Treatment
+Energy Recovery Waste to Wastewater
+Least
+Preferred
+39
+ENVIRONMENTAL 
+IMPACT
+Waste
+Significant Spills 
+GRI 306-3
+Beginning in 2016, Dow began using a new metric, Process Safety Containment Event (PSCE). Our PSCE metric is derived from an industry 
+best practice, API RP-754. As an industry leader in sustainability performance, Dow has been heavily involved in the development of this 
+metric. We believe aligning to this measure will help us achieve an even higher level of performance related to the containment and control of 
+the materials we handle and produce.
+Similar to the approach we are now taking with injury and illness measurement, our PSCE metric focuses on both incidents that have the 
+greatest impact, as well as incidents with the greatest potential for significant impact, including process damage, interruption or possible 
+impact on our surrounding communities. We have defined levels 1–4, with Level 1 incidents having the highest actual or potential impact. By 
+2025, our goal is to reduce the number of Level 1 and Level 2 events by more than 80% from our 2015 baseline. 
+• In 2019, the company had 27 significant process safety containment events, achieving a 30% performance improvement over the prior year. 
+This represents truly breakthrough performance in the overall number of events. Unfortunately, this total included two very significant events 
+that led to extended downtime. 
+• The breakthrough in overall number of events is realization of the shift in focus  Process Safety Containment Event 2025 Goal Curve
+to put more energy into understanding near misses with greater potential. The 
+100
+two significant events are stark reminders that work remains to be done to 
+Target
+recognize and address potential risk before an unplanned event occurs. The 
+80
+events in 2019 remind us of the critical nature of the interface between work  PSCE L1 + L2 Count
+and process control, especially when maintenance and unplanned outages 
+60
+impact the availability of safety systems. A project was initiated in 2019 to 
+expand the scope of our Safety System Impairment standard while simplifying 
+40
+language to drive more robust implementation.  
+20
+0
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Baseline
+40
+OUR PEOPLE
+Approach
+Our Approach 
+GRI 401-103
+Every Dow story starts with our people. Together, our 36,500 employees form an inclusive community 
+of problem-solvers that help us deliver innovative solutions and an optimal customer experience, while 
+transforming industries and shaping a sustainable future. We’re invested in fostering a culture of inclusion, 
+diversity and continuous learning to ensure every Dow employee is respected, valued and encouraged to 
+make their fullest contribution. A commitment to safety, employee health and world-leading environmental 
+performance is engrained in our culture and central to how we work.
+Highlights
+In 2019, we continued to make progress against key areas to improve our employee experience.
+Employee Sentiment Employee Resource Group Diversity Representation
+(ERG) Participation
+Female representation on our  
+84%
+of employees agree
+Leadership Team increased from
+Dow is a safe &  10  42% 
+healthy workplace 9% 31%
+ to 
+Dow ERGs employee participation 
+rate in ERGs in 2017 in 2020
+78% agree the  
+workplace is fair
+Percentage of U.S. minorities on our  
+Leadership Team increased from
+increase in employee 
+10%
+9% 31%
+participation in ERGs 
+73% agree the  
+from 2018  to 
+work is meaningful
+in 2017 in 2020
+41
+OUR PEOPLE
+Inclusion 
+& Diversity
+Inclusion & Diversity
+In an increasingly global business environment, we consider inclusion and diversity (I&D) to be a competitive 
+driver. I&D is the smart thing to do, but it is also the right thing to do. It not only helps make Dow a great 
+place to work, but it enhances our innovation, customer experience and understanding of the communities 
+we serve. In 2017, we took actions to make our I&D efforts more strategic and intentional. We appointed our 
+first inclusion officer, established an Office of Inclusion and implemented a three-tiered governance structure 
+that engages employees at all levels of the company. Our inclusion strategy is based on seven foundational 
+pillars and includes supporting behaviors and actions. Additionally, our I&D metrics are embedded in the 
+same scorecard where we measure our financial and safety results.
+Governance Customers Talent
+Institutionalize an inclusive culture Deliver an unparalleled  Increase engagement and create an 
+customer experience  environment where everyone can thrive 
+People Leaders Suppliers Communities Reputation
+Cultivate an inclusive culture Achieve top benchmark performance  Strengthen communities where we live,  Establish a leadership position and be 
+in supplier diversity  work and do business  recognized as a great place to work  
+42
+OUR PEOPLE
+Inclusion 
+& Diversity
+Board Diversity
+Diversity of Employees and Governance Bodies
+   GRI 405-1, GRI 405-103
+0%
+As of June 1, 2020
+At Dow, we believe a diverse, experienced, independent and active board leads to improved decision-making, 
+27%BY GENDER:
+financial performance and shareholder value. As of June 1, 2020, the Dow Board was comprised of Chairman 
+0%
+and Chief Executive Officer Jim Fitterling and 10 independent directors who represent different professions and 
+27%
+industries, and a diversity of ethnicity, gender and global experience. In addition to five continuing heritage Dow 
+independent directors, five new independent directors have joined the board.
+73%
+Employee Diversity
+73%
+Male
+INDIVIDUAL SENIOR
+Female Male
+Not DeclaFreemdale CONTRIBUTOR MANAGEMENT LEADERS TOTAL
+Not Declared
+BY AG0E% GROUP: EMEAI 73% 27% 70% 30% 83%17% 73% 27%
+9%
+0%
+LATIN 
+9% 74% 26% 63% 37% 44% 56% 73% 27%
+AMERICA
+U.S. &
+74% 26% 67% 33% 69% 31% 73% 27%
+CANADA
+ASIA 
+66% 34% 65% 35% 56% 44% 66% 34%
+91% PACIFIC
+91%
+Under 30 Under 30
+30-50
+30-50
+Over 50 UNDER 35% 65% 35% 65% 0% 0% 0% 36% 64%
+Over 50
+AGE 30
+BY U.S. MINOR2IT7Y%:
+AGED
+27% 29% 71% 36% 64% 40% 60% 29% 71%
+30-50
+OVER
+73% 21% 79% 25% 75% 20% 80% 21% 79%
+73% AGE 50
+U.S. minorUit.yS. minority
+Non-minority Male Female Not Declared
+Non-minority
+43
+OUR PEOPLE New Hire Diversity Indicators 
+GRI 401-1
+Inclusion 
+& Diversity
+New Employee Hires  New Employee Hires 
+by Gender by Age
+New Employee Hires – Gender and Job Category by Region
+EMEAI LATIN AMERICA U.S. & CANADA ASIA PACIFIC
+0% 0% 0% 0%
+r
+e 27%
+d
+n 36% 35%
+e
+G 48% 52%
+ 
+y
+B 64% 65%
+73%
+Male Female Not Declared
+0% 0% 0% 0%
+y
+r 2% 0% 1% 2%
+o
+g
+e
+t
+a
+C
+ 
+b
+o
+J 98%
+  98% 100% 99%
+y
+B
+Individual Contributor Management Senior Leaders
+44
+OUR PEOPLE
+Inclusion 
+& Diversity
+Diversity of Employees by Full- and Part-Time Status
+Workforce Representation by Gender – 
+TEMPORARY AND PERMANENT BY GEOGRAPHY
+Workforce Representation by Gender –  
+FULL TIME AND PART TIME BY GEOGRAPHY
+There is not a significant portion of the organization’s activities performed by workers that are non-employees. Dow does utilize contract employment for some functions where the temporary roles 
+due to projects or production may turn into full-time Dow roles if the demand is there or performance is exceptional. There are no significant variations in employment due to tourism or agricultural 
+industries; however, based on economic fluctuations, employment may decline or increase.
+The workforce data is gathered through a centralized database containing all employee information. The employee data is updated by Human Resources and managers when employee 
+information changes occur. The data represent the global employee population as of December 31, 2019, and include all permanent, full-time and part-time employees. Temporary employees, 
+contractors and manual additions are excluded unless otherwise stated.
+45
+Benefits Provided to Full-Time Employees that Are Not Provided to 
+Temporary or Part-Time Employees 
+ GRI 401-2
+OUR PEOPLE
+Regular full-time and less-than-full-time employees are provided a wide variety of benefits,* while only 
+Benefits temporary employees are not eligible to receive these benefits. Dow’s benefit plans are designed to build on 
+the social security benefits provided in each country and, as a result, vary by country. In all significant Dow 
+locations, we offer the following benefits to employees:
+• Pension plans – either defined benefit or defined  • Disability protection
+contribution plans
+• Accident insurance
+• Medical plans – often including prescription drug 
+• Paid vacation, holiday and leave programs
+coverage and dental
+• Business travel accident insurance
+• Life insurance
+Collective Bargaining Agreements 
+GRI 102-41
+Approximately 10.5% of Dow’s workforce was covered by either formal collective bargaining agreements or 
+works councils in 2019. The percentage decrease from last year’s report is primarily due to reduction in the 
+union workforce in the United States as a result of the changed composition of the Company following the 
+separation from DowDuPont.
+Parental Leave 
+GRI 401-3
+Dow’s Global Parental Leave Policy is intended to provide greater flexibility and work-life balance for 
+mothers and fathers. Birthing parents have a minimum 12 weeks of paid leave, and the non-birthing parent 
+has two weeks of paid leave, which can be taken during the 12 months following the birth of a child.
+Return from Leave Rates Male Female Not Declared Total
+Number of employees who were entitled to parental leave 19,624 7,989 2 27,615
+Number of employees who took parental leave 500 312 0 812
+Number of employees who returned to work in the reporting period 
+499 279 0 778
+after parental leave ended
+Due to the transfer to Workday, our Human Capital Management system, in 2019, the reporting was not available to compare all of the return to 
+work and retention rates. Data reflects U.S. & Canada, Asia Pacific and Latin America (excluding Colombia and Mexico) and excludes EMEAI.
+*Note that in all Latin American countries, there is no difference in benefits packages offered to regular and temporary employees. Colombia only 
+offers a savings plan (no pension), and Costa Rica, Peru and Chile do not have pension or savings plans. 
+46
+Ratio of Basic Salary and Remuneration of Women to Men 
+GRI 405-2
+Global pay equity studies have been conducted at Dow for over 20 years to assess fair treatment and ensure 
+OUR PEOPLE
+our pay practices are being implemented appropriately. The most recent full analysis was conducted in 2018, 
+following our annual global pay planning cycle. The impact of gender on pay decisions is examined globally, 
+Benefits
+and the impact of ethnicity is examined in the United States. Dow’s three components of compensation are 
+reviewed (base pay, annual performance award and long-term incentives). The study examines impact on pay 
+differences that cannot be explained by legitimate factors (e.g., performance ratings, job level, education, years 
+of service, time since promotion and/or geography). 
+The 2018 pay equity study found no meaningful difference in base pay, performance award or long-term 
+incentives between genders or between U.S. minorities and non-minorities for employees within the same job 
+level. Pay differences were attributable to the legitimate factors listed above and were not related to gender or 
+ethnicity. These results demonstrate that compensation guidelines are being applied appropriately. The 2020 
+analysis was delayed until the end of 2020 due to the COVID-19 pandemic.
+2018 Pay Equity Summary Results1  Base Pay2  Performance Award3  Long-Term Incentives4 
+Global Female Pay to Male Pay Ratio 1.005 : 1.000  1.000 : 1.000  1.003 : 1.000 
+U.S. Minority Pay to Non-Minority Pay Ratio 1.005 : 1.000 0.999 : 1.000  0.996 : 1.000 
+1 The reported ratios are based on the standardized mean differences when controlling for legitimate business reasons for the differences (e.g., geography, job level) in accordance 
+with the applicable laws. 
+2 Base pay is calculated based on average position in the pay range. 
+3 Performance award is calculated based on the actual value granted. 
+4 Long-Term Incentives (LTI) analysis includes only those eligible and excludes other roles. LTI is calculated based on the actual value granted. 
+Annual Total Compensation Ratio 
+GRI 102-38
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 
+402(u) of Regulation S-K, Dow is providing the following information:
+ For 2019: 
+• The annual total compensation for the median employee was $109,556.
+• The annual total compensation of Chairman and CEO Jim Fitterling, as reported in the Summary 
+Compensation Table of our Annual Proxy, was $15,878,639.
+Based upon the calculation for both the CEO and median employee, the ratio of the CEO pay to median 
+employee pay for 2019 was approximately 145:1.
+The pay ratio presented above is a reasonable estimate. To determine the median annual total compensation for all employees other than 
+the CEO, a median employee was identified from the population of all employees worldwide as of November 30, 2019, utilizing base pay and 
+annual incentive at target as the consistently applied compensation measure. The company calculated annual base pay based on a reasonable 
+estimate of hours worked during 2019 for hourly workers, and upon salary levels for the remaining employees. The company used a valid 
+statistical sampling methodology to identify employees who the company expected to be paid within a 0.1% range of the median. The company 
+selected a representative employee from that group as the median employee for purposes of preparing the ratio of CEO pay to median employee 
+pay. Because SEC rules for identifying the median employee and calculating the pay ratio allow companies to use different methodologies, 
+exemptions, estimates and assumptions, the pay ratio may not be comparable to the pay ratio reported by other companies.
+47
+OUR PEOPLE
+Learning & 
+Development
+Learning and Development 
+GRI 404-1, GRI 404-103
+According to our 2019 Our world is changing at a pace never seen before. To continue to compete and lead, we need to think and 
+act in new ways. A successful future for Dow and our employees will be built on learning. Throughout an 
+employee’s career, the Company supports people in their personal development through a mix of online and 
+digital learning platforms, on-the-job training and a series of leadership development academies. Employees 
+ Annual Survey, 
+are encouraged to invest in themselves, and the technologies we deliver enable employees to access 
+resources in real-time through mobile applications. 
+73% 
+Digital Learning
+of Dow employees 
+With a strong continuous improvement and learning culture, and in alignment with the Company’s focus 
+felt encouraged to 
+on technology and innovation, digital platforms are continuing to be incorporated and expanded. Diamond 
+continuously learn and  Learning, the company’s global learning management system, offers a simple, engaging user experience 
+develop in their role. and integrates modern learning technology solutions to digitalize and enhance employee learning 
+capabilities. Diamond Learning supports Dow’s strategy of providing learning that is simple, continuous and 
+On average, there were value-added. It emphasizes our desire to recognize and appreciate employee growth.
+63.5 hours
+Our employees select and manage curriculum that aligns with their core role responsibilities and personal 
+development interests. Dow can also ensure compliance on any necessary safety training. More than 30,000 
+of training logged per  courses are currently available, from internal content to LinkedIn Learning courses, keeping our learning 
+employee in 2019. experience diverse and engaging.
+Dow issues training by role and not by gender. Gender statistics for learning are not within our learning 
+system; however, as part of our process to close any diversity gaps for employee and leadership readiness, 
+underrepresented individuals may be invited to specific trainings to increase the diversity pool.
+48
+OUR PEOPLE
+Talent 
+Attraction & 
+Management
+Programs for Upgrading Employee Skills 
+GRI 404-2 My HR
+Dow supports employee engagement through My HR Portal, an online people 
+resource launched in 2019. My HR Portal allows all employees to access 
+development resources, online internal job postings, compensation and benefit 
+Top Employer 
+information, and health and wellness programs. Employees take advantage of 
+Recognition these offerings to develop their careers, enhance their employee experience 
+and plan for career changes. In addition, Dow supports lifelong learning through specific skill building 
+Dow’s efforts and 
+provided through functions, externally licensed development tools and an internal talent review process 
+commitment to creating 
+focused on differentiated development.  
+a workplace that fosters 
+Examples of development resources include:
+innovation, collaboration, 
+inclusion, safety and 
+well-being for all Dow  • Diamond Learning, a learning management  • Global Educational Assistance that supports 
+employees is reflected  system, for tailored learning curricula aligning to  employees in pursuing external training/
+through 2019’s Top  role responsibilities and personal development  educational opportunities for career 
+Employers Institute  development 
+• Total health, nutrition and wellness centers and 
+accolades in 11 countries.
+associated programs and counseling  • Access to Human Resource (HR) call centers for 
+personalized answers to HR questions for both 
+EGYPT NETHERLANDS
+• Employee Resource Groups that support a 
+employees and retirees
+GERMANY NIGERIA variety of development opportunities 
+• Benefits counseling for employee retirement 
+GHANA RUSSIA
+• Employee toolkits exploring personal and career 
+planning purposes 
+KENYA SAUDI ARABIA values, preferences and orientations 
+• Financial planning seminars for all employees 
+NETHERLANDS  SOUTH AFRICA
+• Toolkits to prepare for employee career 
+DOW BENELUX 
+SWITZERLAND development discussions  • Career transition assistance benefits including 
+INTEGRATED 
+CENTER (DBIC) outplacement counseling services
+UAE
+49
+OUR PEOPLE
+Talent 
+Attraction & 
+Management
+Percentage of Employees Receiving Regular Performance and Career 
+According to our 2019  Development Reviews 
+GRI 404-3
+Both leaders and employees play a key role in ensuring the effectiveness of our performance culture (PC) 
+by establishing SIMple (specific, important, measurable) goals, encouraging continuous development 
+feedback and dialogue, and reviewing progress on an on-going basis throughout the year. Our leaders 
+Annual Survey, 
+are encouraged to partner with their employees to identify their strengths as well as opportunities for 
+development. The PC cycle concludes with an annual review. In preparation, leaders gather multi-rater 
+82% 
+feedback throughout the year to enhance the quality of the discussion and ensure multiple inputs before 
+making compensation decisions.
+of employees reported 
+In 2019, 92.8% of employees were eligible to receive an Annual Performance Review, and 89.4% of those 
+they have had a 
+employees received one. There is no difference in eligibility by gender. There were 7.2% of employees who 
+meaningful performance 
+were ineligible including students, interns, co-ops, those who were part of divestitures and specific joint 
+conversation with their  ventures, and other Dow employees based on local contractual agreements. 
+leader in the past three 
+months. Dow adapted a new HCM, Workday, which is still in the roll-out phase. Some data is not available due to the transition to Workday. 
+77% 
+of employees reported 
+discussing goals with 
+their leaders throughout 
+the year.
+50
+Programs for Transition Assistance 
+OUR PEOPLE GRI 404-2
+In 2019, employees separated from Dow were offered support services including career coaching, resume 
+Talent 
+optimization, networking and interview preparation at no cost. 
+Attraction & 
+Total number and rate of employee turnover during the reporting period, by age group, gender and 
+Management
+region
+ GRI 401-1
+Total Attrition
+VOLUNTARY   58% 42%  INVOLUNTARY
+Voluntary Attrition
+By Gender By Region By Age Group
+1%
+13%
+19%
+22%
+29%
+35%
+6%
+70%
+59%
+46%
+Male EMEAI U.S. & Canada Under 30
+Female Latin America Asia Pacific 30-50
+Not Declared Over 50
+Involuntary Attrition
+By Gender By Region By Age Group
+7%
+17%
+0% 27%
+35%
+56% 37%
+8%
+48%
+65%
+EMEAI U.S. & Canada Under 30
+Male Latin America Asia Pacific 30-50
+Female
+Over 50
+Not Declared
+Involuntary attrition includes the impact of divestitures
+51
+OUR PEOPLE Employee Health and Safety 
+GRI 403-1, GRI 403-103
+Worker protection has been a priority at Dow since the Company’s earliest days. With the goal of having 
+Employee 
+every worker go home safely at the end of their work shift, Dow uses a comprehensive, integrated 
+operating discipline management system that includes policies, requirements, processes, best practices 
+Health & 
+and procedures associated with Environment, Health and Safety, as well as Quality, Operations and related 
+external standards. Within this system, we lay the foundational expectations of hazard assessment and risk 
+Safety
+mitigation, aligned to Responsible Care®. 
+At the highest level, we expect each organization within Dow to implement and use Health and Safety 
+Programs to: 
+• Identify, assess, and eliminate or mitigate hazards
+• Prevent unsafe acts and conditions 
+• Maintain and improve the health of personnel 
+• Foster communication on health and safety issues
+Our Global Health & Safety Management System 
+Our management system is grounded in requirements of the U.S. EPA and OSHA, but incorporates ideas 
+from other global regions, as well as our own more stringent requirements.
+Global and 
+Stringent Comprehensive
+Site-Specific
+52
+OUR PEOPLE Leading Indicators  
+GRI 403-2
+Leading indicators of Occupational Health and Safety performance are a cornerstone of Dow’s worker 
+Employee 
+protection program. A consistent set of globally applied leading indicators is complemented by locally 
+defined leading indicators.
+Health & 
+Globally applied leading indicators include: Our routine hazardous analysis programs 
+Safety
+include:
+• Non-injury (near miss) situations with potential 
+to cause a life-altering impact or fatality had the  • Periodic health exams informed by the 
+situation been only slightly different (“non-injury  employee’s role and potential exposure to 
+pLIFE event”)  specific workplace hazards 
+• Percent completion of training for Life Critical  • Qualitative exposure assessment for chemical, 
+Standards  physical, ergonomic and biological hazards 
+overseen by professional industrial hygienists 
+• Internal EH&S management system audit results 
+• Regular evaluation and periodic re-evaluation 
+• Open actions from Reactive Chemical and 
+of process safety hazards via our Layers of 
+Process Hazard Analysis reviews 
+Protection Analysis 
+• Loading rate for management of change 
+• Personal safety risk analysis performed as a 
+actions – a measure of the amount of change 
+part of numerous work processes (e.g., permit 
+work managed by a work group, normalized by 
+to work, safe work permit, pre-task analysis and 
+worker capacity to implement such actions 
+pre-startup safety reviews)
+Teaching Safe Behaviors through Technology
+Can technology identify an injury before it occurs? At our Kendallville, Indiana, site, workers 
+used wearable sensors that alerted them if they were using an unsafe posture during an 
+eight-week pilot. At the end of their shifts, they received a safety score summary and 
+recommendations to improve their score. During the pilot, safety scores improved over the 
+testing period, and workers reported they took the information they learned to improve their 
+ergonomic behavior and apply it to daily living tasks outside the job. Data analytics also 
+allowed for insights into trends by time of day, job and shift. Dow is now testing a broader 
+proof of concept to see if the technology can help identify high-risk ergonomic job tasks 
+and identify controls for improvement.
+53
+OUR PEOPLE Reporting and Investigating  Workers Covered by an 
+Safety Issues Occupational Health and Safety 
+Employee 
+Management System 
+Workers have direct line of sight to potential 
+GRI 403-8
+Health &  hazards. They are expected and encouraged 
+All employees and workers who are not employees 
+to identify, report and intervene when unsafe or  but whose work and/or workplace is controlled by 
+Safety unhealthy work conditions are observed. They also  Dow are required to comply with 100% of health 
+positively recognize coworkers making safe choices.  and safety management system requirements. We 
+Worker input on hazards and solutions is part of  employ a comprehensive permit-to-work system 
+local near-miss programs and leveraged where  that facilitates a robust dialogue around hazards and 
+appropriate. Workers are protected from reprisal  mitigation of such hazards for each task. 
+via our global Ethics policy, part of our Diamond 
+Regular review of our health and safety management 
+Standard. 
+is built in to evaluate its efficacy. Additionally, we 
+Apollo™ Root Cause Investigation methodology  maintain an independent internal audit process, with 
+is used for all recordable injuries and near-miss  accountability flowing directly to our chief executive 
+situations where potential existed for a LIFE- officer, independent of the Operations organization. 
+impacting injury had something been different.  The audit process ensures that every Company 
+Consistent use of the methodology ensures we  location, regardless of purpose, is audited every 
+3-5 years. Audit frequency is determined based on 
+understand the cause and take corrective actions 
+the relative risk of the activities at each location. 
+at the point of the problem, as well as at the 
+Auditors are trained and certified in each topic area 
+strategy and management system levels. Significant 
+that they evaluate. Gaps identified in these internal 
+learnings are shared globally through our Learning 
+audits are addressed via corrective or preventative 
+Experience Report process. 
+actions captured in our global corrective and 
+Once hazards are identified, we follow the hierarchy 
+preventive action (CAPA) repository, with gap 
+of controls to identify feasible and effective  closure encouraged within 12 months of the audit. 
+solutions. Two loss-of-life incidents in 2018 triggered 
+In addition, more than 85% of our manufacturing 
+a global response and changes to our management 
+sites globally receive some periodic external 
+system in 2019. A truck-rail collision at a crossing 
+audit. These vary broadly depending on specific 
+at one of our sites led to significant adjustments 
+government requirements. For example, more than 
+to our rail crossing warning and barrier systems, 
+85% of our large U.S. & Canada manufacturing 
+and the use of technology to monitor and improve 
+sites participate in either OSHA Voluntary Protection 
+traffic behaviors at our sites. An improved machine-
+Programs or Canadian Federation of Construction 
+guarding risk-assessment methodology was put in 
+Safety Associations’ Certificate of Recognition 
+place globally in response to the second loss-of-life 
+program (COR™). More than 50% of external audits 
+incident.
+globally cover most topics within the Responsible 
+Care Code or ISO-14001.
+54
+OUR PEOPLE
+Employee 
+Health & 
+Safety
+Every Dow employee  Employee Health and Well-Being  
+GRI 403-3 
+has access to 
+With more than a century of experience in occupational health, Dow is committed to worker health 
+occupational services at 
+protection. We have honed an effective, systematic approach to Total Worker Health™ that comprehensively 
+no cost through an on- controls workplace health risks, protects workers and improves the health of Dow people:
+site, Company-managed 
+clinic or an offsite 
+Recognizing  Reducing  Screening  Confirming the 
+provider managed by 
+Hazards Risks for Illness Effectiveness 
+Dow Health Services.
+of Our System
+Clinical treatment 
+is available to all 
+employees for work-
+related injury or illness, 
+and employees can 
+Crisis Planning: Putting Worker Safety First
+access occupational 
+health care on paid 
+We maintain active crisis planning teams to monitor needs and 
+Some of the measures put in place 
+worktime.
+ensure appropriate plans are in place for emerging health risks 
+included: 
+and/or pandemic. Crisis plans are activated when necessary and 
+In 2019, we had • Redoubling cleaning efforts across our 
+may include direct support for the community. With the COVID-19 
+sites
+60 clinic  pandemic in 2020, we took action to implement strict hygiene 
+practices and take precautionary practices to protect the health  • Temperature screening
+locations and safety of our employees. Because the chemical sector is 
+• Providing hand sanitizers and anti-
+. designated as critical infrastructure in many of the world's largest 
+bacterial surface wipes
+economies, our manufacturing sites were widely excluded from 
+• Promoting personal hygiene
+governmental shutdown orders. We followed all guidelines issued by 
+the World Health Organization and U.S. Centers for Disease Control  • Ensuring ongoing stock and supply 
+and Prevention as we managed daily operations. Local laws and  of employee personal protection 
+restrictions in specific countries around the world also were followed. equipment
+55
+OUR PEOPLE
+Employee 
+Health & 
+Safety
+Employee Health and Safety Teams 
+GRI 403-4
+At all Dow locations globally, workers can participate in Health and Safety teams at the facility and site level. 
+At the local level, employees participate in incident root cause investigations, “fresh eyes” assessments, 
+internal audits and numerous other continuous improvement activities. In most cases, these committees 
+meet at least monthly with the primary purpose of reviewing and acting upon worker safety data and 
+concerns, and developing implementation plans for new or improved government or Company health and 
+safety requirements. 
+More than 80% of Dow workers globally are represented in joint-management worker safety committees 
+as a result of government requirements or Company union agreements. In most cases, these committees 
+meet at least monthly to review and act upon worker safety data and concerns, and develop implementation 
+plans for new or improved government or Company health and safety requirements. 
+Employee 
+Feedback for 
+Safety Training
+Continuous 
+GRI 403-5
+Improvement
+56
+OUR PEOPLE
+Employee 
+Health & 
+Safety
+Employee Wellness 
+GRI 403-6 
+Our commitment to worker health is not limited to occupational health risks. We started a comprehensive 
+wellness program more than 30 years ago because we recognized the value of good health to our 
+employees, their families and our communities. 
+Our well-being strategy is framed across four dimensions – physical, mental, community and financial well-
+being – for an approach that is holistic, global, employee-centered and outcome-driven. 
+A Multi-Faceted Approach to Employee Well-Being
+We support well-being across four pillars:
+WORK PEOPLE PLACE WORLD
+Change job  Foster supportive and  Create a supportive  Realizing we can’t 
+characteristics  valued relationships  and thriving  achieve optimal 
+detrimental to well- between employees  environment  well-being alone, we 
+being and help  and between  that enables the  seek to create and 
+employees use their  employees and  well-being of all  implement solutions 
+work to optimize   leaders; protect  employees and is  with our vendors, 
+well-being. workers. conducive to healthy  communities, peers, 
+choices. customers and 
+governments.
+57
+OUR PEOPLE
+Employee 
+Health & 
+Safety
+Supporting Employee Well-Being
+Our well-being objective is that 100% of Dow employees are their best self for work, home and play. Here’s 
+a look at a few ways that we support employee well-being.
+Employee Assistance 
+Healthy Culture Index Case Management Health Benefits
+Program (EAP)
+We track each site’s  EAP is available to all  We help employees  We seek to improve the 
+alignment with evidence- employees and their  maneuver the healthcare  health of Dow employees 
+based best practice well- families globally for help  systems, return to health  by removing barriers 
+being strategies, including  with general stress,  as soon as possible  to access and pay for 
+access to healthy foods,  substance use, financial  and maintain their  appropriate, quality 
+relaxation spaces,  struggles and family  progress. This is offered  healthcare around the 
+lactation support, peer and  relations. Our EAP  globally through Dow  world. This is done 
+leader support for health,  program also provides  Health Services and  through both medical 
+and access to physical  on-site emotional health  where available by local  insurance and other health 
+activity.  support in response to a  insurance or worker  offerings for employees. 
+personal or work-related  compensation providers.  The level of support is 
+incidents.  determined based on the 
+needs of our workforce 
+within a given geography.
+58
+OUR PEOPLE
+Employee 
+Health & 
+Safety
+Work-Related Injury and Illness 
+GRI 403-9, GRI 403-10
+It is core to our injury measurement and prevention efforts that we classify incidents by their potential to 
+result in LIFE-altering consequences. This allows us to see and focus our prevention efforts on hazards 
+that pose a greater likelihood of a high-consequence injury. We have a robust, globally tracked near-miss 
+program for situations that did not result in an injury but could have been high consequence had something 
+been slightly different. This non-injury potential LIFE event (pLIFE) data is reviewed weekly at the corporate 
+level to ensure adequate investigation and to identify broadly leverageable learnings. This data is visible 
+to all employees and built into dashboards along with actual injury information for every site, region and 
+business across the Company. Our Corrective and Preventative Action (CAPA) program ensures that each 
+incident investigated, including all that have a high-consequence potential, has robust corrective and 
+preventative actions applied.
+Employee Opinion on Health & Safety
+Highlight
+Our annual employee opinion survey shows that employees have high confidence in Dow’s approach to 
+safety and health. 
+In 2019, the top 130 
+leaders of Dow traveled to 
+various Dow sites globally 
+as part of our Global 
+Leadership Team safety 
+visit initiative.
+% % %
+97 92 69
+     
+indicated that they are held  of people in my work area are  indicated that the Dow culture 
+accountable for doing their  protected from health and  encourages employees to 
+work in a manner that is safe safety hazards be their best self both 
+mentally and physically
+59
+GLOBAL 
+CITIZENSHIP
+Focus 
+Areas
+Global Citizenship
+Through social investments, shared purpose and meaningful engagement, we are collaborating across the globe to build more 
+sustainable and resilient communities where we live and work. Aligned to Dow’s ambition and fueled by volunteer service, our 
+global citizenship strategy seeks to apply our innovative technology, employee expertise and culture of inclusion to generate 
+transformational social impact. 
+Our Areas of Focus:
+How We Make an Impact
+CHARITABLE INVESTMENTS are one of  EMPLOYEE VOLUNTEERISM is 
+the ways Dow gives back. In 2019, Dow  supported across the Dow world to 
+gave more than $32 million in grants and  advance economic and social progress 
+$1.5 million in gift-in-kind donations. in our communities.
+60
+GLOBAL 
+CITIZENSHIP
+Focus 
+Areas
+Advancing Sustainable Solutions
+We believe that sustainable business creates positive social 
+change. By combining Dow products, technology and expertise  $2.5 10
+with social impact, we create value for both business and 
+$2.0 8
+society.
+s $1.5 6
+n
+o
+Dow Business Impact Fund  Milli $1.0 4
+The Dow Business Impact Fund unlocks business opportunities 
+$0.5 2
+by solving social problems through our technology and 
+expertise. Launched in 2016, the fund provides Dow businesses 
+$0 0
+and partners significant seed funding to support social impact  2016 2017 2018 2019
+projects. In 2019, Dow distributed nearly $1.5 million in seed 
+Total Disbursed Grants Awarded
+money through its Business Impact Fund.
++ + =
+SOCIAL IMPACT BUSINESS IMPACT EXTERNAL PARTNERS CONCEPT IDEA
+• Food waste • Value chain  • Nonprofits (e.g., Habitat for  • New uses for recycled 
+enhancements Humanity, Food Bank, USAID, etc.) plastics
+• Waste infrastructure
+• New/improved  • School systems • Sustainable practices in 
+• Digital access
+partnerships the textile industry
+• Local governments
+• Recycling/upcycling
+• New markets • Telecommunications 
+• Universities
+• Entrepreneur support
+access to impoverished 
+• New uses for Dow 
+• Customers
+• Safety communities
+innovation
+• Brand owners
+• Carbon mitigation • Sustainable and affordable 
+• Affordable housing • Industry partners housing
+• Value chain partners
+• Quality education
+• Suppliers
+• Consultants 61
+GLOBAL 
+CITIZENSHIP
+Focus 
+Areas
+Building Inclusive Communities
+By generating awareness of diversity-related challenges and supporting organizations that respect unique differences and  
+perspectives, we cultivate inclusion in our communities. We also support future key community change makers – educators and students –  
+in creating more inclusive environments in schools.
+ALL IN ERG Fund
+The ALL IN ERG Fund provides Dow Employee Resource Groups (ERGs) with $200,000 in seed grants to support inclusion programming in 
+Dow communities across the globe. ERGs compete for funds and submit grant requests on an annual basis. In its first year, the ALL IN ERG 
+Fund generated strong interest among our ERGs, with more than 140 grant requests submitted from across the globe. Twelve projects were 
+chosen as finalists. 
+• Entrepreneurship Support for  • Plastic for Wheelchairs (South Africa):  • LGBTQ+ Strategy/Approach (Texas): This 
+Immigrants (Switzerland): Dow ERGs  Together with the support of corporations,  project supports and guides the creation 
+are partnering with the Capacity Launch  schools and volunteers, the Sweethearts  of the first Brazoria County LGBTQ+ 
+Programme, an entrepreneurship  Foundation provides wheelchairs to those  organization in partnership with the 
+program for people with refugee and  in need through a Tops & Tags initiative, in  nonprofit Montrose Center to support all 
+migrant backgrounds. Through pro  which plastic bottle tops and bread tags  intersectional groups of the local LGBTQ+ 
+bono volunteerism as career coaches  are recycled in exchange for wheelchairs.  community, including youth, seniors and 
+and mentors, Dow employees will  Dow employees will work with local  families.
+provide support and expertise to early- schools to expand collection sites, educate 
+stage businesses. and build awareness of the plastics waste 
+crisis, and help support the diversity and 
+inclusion needs of people with disabilities.
+62
+GLOBAL 
+CITIZENSHIP
+Focus 
+Areas
+Developing Tomorrow’s Innovators
+Developing the Workforce of Tomorrow 
+Increasing access to science, technology, engineering and math (STEM) can inspire students and foster 
+problem-solvers who will help create answers to tomorrow’s world challenges. We aim to develop a diverse 
+and ready workforce by increasing interest and preparedness in skilled manufacturing careers and by 
+creating the next generation of diverse chemists and engineers.
+Boosting the Manufacturing  Encouraging Tomorrow’s 
+Workforce Problem-Solvers
+63
+GLOBAL 
+CITIZENSHIP
+Empowering 
+Sustainable 
+and Resilient 
+Communities
+Empowering Sustainable and Resilient Communities 
+Across the world, we are taking action to spark positive and meaningful change in our communities, and we’re 
+collaborating with a variety of stakeholders to increase our impact and support local needs. We are committed 
+to increasing the resiliency and vibrancy of the communities in which our employees and their families live, 
+work, learn and play. In each community, our employees act as a catalyst for this positive change.
+Strengthening Community Resilience
+In every geography, Dow volunteers are contributing to projects that are helping catalyze more inclusive and 
+resilient communities. 
+64
+GLOBAL 
+CITIZENSHIP
+Engaging 
+for Impact
+#TeamDow Engaging for Impact
+We believe that an engaged team of employee volunteers can not only transform our communities but also 
+positively impact our company culture and advance Dow’s ambition. Dow’s volunteer strategy, designed 
+to support our 2025 Sustainability Goal Engaging Employees for Impact, activates our Global Citizenship 
+priorities and investments, and promotes a positive employee experience.
+CASE STUDY: #PullingOurWeight
+In 2019, more than 18,000 volunteers collected more than 175,000 pounds of trash at 175 different locations 
+during our #PullingOurWeight campaign, a unique initiative that aims to increase awareness around 
+responsible waste management and engage our employees and communities in addressing plastic pollution. 
+This was the largest employee volunteer event for a single cause in Dow’s history and demonstrated our 
+View the video here.
+company’s commitment to a cleaner environment and a better world. 
+65
+OUR SUPPLY CHAIN
+Approach
+GRI 102-9
+Sustainability is one of the four key tenants of our Integrated supply chain strategy and is a guiding factor 
+in driving improvements throughout our global value chain. It guides how we source raw materials, manage 
+the storage and transportation of our intermediates and products, and select, engage and manage our 
+supplier partnerships. With operations across the globe, supply chain sustainability is critical to our success 
+and core to our customer experience.
+Strategy in Action
+We continue to put our supply chain strategy into action by driving forward our Green Transportation 
+Strategy, executing our Transportation Stewardship Program, and advancing digitalization. We also 
+recognize the importance of collaboration for long-term success and have further enhanced our already 
+deep-rooted relationships with our logistic service providers, suppliers and customers by proactively 
+identifying opportunities for sustainability-related supply chain projects and initiatives.
+>1,300 >400 100B 9,000
+SERVICE PROVIDERS  WAREHOUSES POUNDS
+AND TERMINALS DELIVERIES
+ACROSS ALL  PER YEAR
+PER DAY
+GEOGRAPHIC REGIONS
+Following separation from DowDuPont, our total volume of shipments has reduced, but our network remains as a global integrated supply chain 
+servicing a similar geographic footprint. GRI 102-10
+Partnering through the Value Chain
+Our supply chain success depends on partnerships throughout our end-to-end value chain with all of our 
+stakeholders, from suppliers and logistics service providers to customers. By engaging in collaborations, we 
+can drive sustainable business practices while improving supply chain capability and transparency through 
+opportunities for sustainability-related supply chain projects and initiatives.
+66
+OUR SUPPLY CHAIN
+Approach
+Green Transportation
+Dow’s Green Transportation strategy consists of both internal activities to actively manage and reduce our 
+impact, as well as external engagement to drive and promote sustainable logistics.
+• Sustainability Awards
+Present a United Front on • Global Framework (GLEC)
+• Public-Private Partnerships
+Transportation CO  
+2 • Logistics Purchasing
+• ISC Sustainability Training
+Measure and Actively 
+• Modification of internal tools to include CO  
+2
+Manage Emissions  as KPI
+• Embedding Sustainability into ISC Project 
+Footprint
+Trackers
+Leverage Long-Term  • Stay informed on industry trends
+• Partner with carriers on advanced 
+Regulation and Technology 
+technologies
+Improvements
+There are a number of different ways that Dow is advancing this strategy:
+67
+OUR SUPPLY CHAIN
+Transportation 
+Stewardship
+World-Leading Transportation 
+Transportation Stewardship Culture
+Stewardship and Performance
+Dow’s Transportation Stewardship Program is an 
+extensive, holistic program focused on driving the 
+industry toward a new standard of transportation 
+Leading-Edge Programs
+safety and security. Dow achieved a number 
+to Inﬂuence the Industry
+of milestones in 2019 by implementing several 
+initiatives that support our commitment to strengthen  Risk Management Across
+transportation safety to reduce risk to people and the 
+the Value Chain
+planet.
+Incident-Free Performance
+There are a number of different ways that Dow is advancing this strategy:
+68
+OUR SUPPLY CHAIN
+Transportation 
+Stewardship
+Breakthrough Innovations in  
+Supply Chain Design 
+At Dow, a key pillar of our Integrated Supply Chain strategy is our 
+next-generation end-to-end supply chain capabilities. We are focused 
+on revolutionizing our supply chain by investing in exploratory 
+solutions that make big step changes, while seamlessly integrating 
+these solutions with our traditional way of improving processes and 
+operating models. To accomplish this, we are exploring, evaluating 
+and experimenting with new and innovative technologies that will help 
+us transform, while also continuing to provide stability and implement 
+incremental solutions to meet the needs of today. Providing our 
+employees with the resources and tools available to think outside of 
+the box is key to advancing this strategy.
+Advancing Transportation Safety and Sustainability with Technology
+Dow is an industry recognized leader when it comes to safety and sustainability. In order to maintain our 
+leadership role in industry, Dow is utilizing technology in new ways to quantify and improve our safety and 
+sustainability metrics. These tools and technologies will improve the customer experience through increased 
+transparency and identification of improvement opportunities.
+69
+OUR SUPPLY CHAIN
+Procurement/
+Logistics
+Engaging Our Supply Chain Partners
+Dow has approximately 38,000 suppliers in its supply chain and in approximately 100 countries, with a 
+purchased managed spend of approximately $20 billion. Our Procurement organization manages supplier 
+relations, and we have Procurement Centers across the world to help establish effective relationships with 
+global and local suppliers of goods and services. We work with our suppliers to pursue the principles of 
+sustainability through Responsible Care®.
+2019 Supplier Diversity Highlights
+>$1B Tier II Reporting captured Supplier Diversity
+delivered  
+$80MM+
+in spend with small or 
+$7MM
+diverse suppliers since 
+inception of program Driving diversity through the value chain
+in EBIT
+1,000+
+Expanded International Presence
+Increased  
+10 countries
+engagement
+small and diverse suppliers
+through  
+sponsorship  Benchmarked  
+and event   Advanced Process
+attendance 4 out of 5
+with Ralph G. Moore  
+DiversityInc.
+& Associates
+Top 50  
+Companies for 
+Increased Certified Spend 
+Diversity
+37
+50%+
+Ranked
+70
+OUR SUPPLY CHAIN
+Procurement/
+Logistics
+Supplier Diversity
+We are committed to promoting supplier diversity to advance equitable and sustainable business practices, 
+support economic growth in the communities in which we work and live, and unlock innovative business 
+practices and bottom-line value. Dow’s Supplier Diversity initiative includes small businesses and diverse 
+businesses identified as being owned by minorities, women, veterans (including service-disabled), LGBTQ+ 
+and persons with disabilities. 
+Our Supplier Diversity initiative is part of our overall Inclusion & Diversity efforts with defined deliverables 
+and key measures of success aligned to Corporate objectives. In 2019, we implemented a Tier II Reporting 
+Program, influencing diversity throughout our value chain. We launched regional advisory councils to drive 
+supplier diversity across 10 countries in which we live, work and do business. We also created a balanced 
+scorecard, with a focus on the value proposition of Supplier Diversity, resulting in an approximately 50% 
+increase in spend with third party Certified Diverse Suppliers. We will continue to measure, track and report 
+our small and diverse business spend, which currently represents nearly $1 billion of our total spend in the 
+United States. 
+Code of Business Conduct for Suppliers
+Through the Dow Code of Conduct, we continue to engage new suppliers globally and communicate 
+our expectations that all suppliers are compliant with regulations and Dow’s values. We also continually 
+review and refresh the Code of Business Conduct for Suppliers, completing a full analysis of our current 
+standards and industry best practices to ensure that we’re holding our suppliers to the highest standards 
+regarding sustainability, human rights and environmental health and safety. The requirements of the Code 
+of Business Conduct for Suppliers are built into all new and existing supplier contracts, to ensure they are 
+contractually enforceable. Dow reserves the right to audit supplier compliance at any time. In the case where 
+we identify less than adequate supplier practices, we reserve the right to discontinue business with the 
+supplier. Annually, we’ve identified compliance issues in less than 0.1% of our supplier base, resulting in the 
+immediate cessation of business.
+71
+OUR SUPPLY CHAIN
+Procurement/
+Logistics
+External Manufacturing
+External Manufacturing (EM) refers to manufacturing services that are performed by an outside party on 
+Dow’s behalf using Dow’s intellectual property. All external manufacturing suppliers are managed through 
+a robust, risk-based work process that begins at project conception and extends through the conclusion 
+of the business agreement. This work process includes a screening of process risks, a supplier selection 
+process in which an initial on-site Environment, Health & Safety (EH&S) assessment is conducted, and 
+regular EH&S audits. Criteria reviewed in these audits include the implementation of safety management 
+systems and safe work practices, compliance with local regulations and permits, environmental and waste 
+management practices, and incident history. EM contract agreements also specify that the manufacturer 
+comply with Dow’s Code of Business Conduct and the Fundamental EH&S Expectations for External 
+Manufacturers.
+Logistic Service Providers
+Leveraging our approach to our suppliers and external manufacturing suppliers, we also set high standards 
+for our Logistic Service Providers (LSPs) by having in place an extensive risk-based program in order to 
+qualify providers and established periodic follow-up assessments. These assessments include reviewing 
+health and safety practices, labor practices, and environmental compliance and security. Assessments 
+Highlight
+are conducted via work processes and external initiatives such as the Safety & Quality Assessment 
+System, Chemical Distribution Institute Responsible Care® and Anti-Corruption Due Diligence. We also 
+operate a detailed Distribution Risk Review process to ensure risks are adequately mitigated. Through our 
+In 2019, Dow collaborated 
+collaborative partnerships with our upstream and downstream stakeholders, we are able to implement 
+with >200 external 
+sustainable business practices across our entire value chain.
+manufacturers globally, 
+spending >$0.5B on 
+a diverse portfolio of 
+technologies.
+72
+GOVERNANCE 
+GRI-102-46
+Values
+Providing a Framework for Engagement and Progress
+In everything we do, we are committed to respecting people, working with integrity and protecting the 
+world’s resources. These are the values that inspire us daily and shape how we work with one another 
+and with our partners. We integrate sustainability deeply into our business to create greater value for our 
+company, society and the planet, and we engage a wide variety of stakeholders to ensure we’re focused 
+on what matters most. To help us fulfill our commitments, we’ve put in place a strong governance structure 
+to ensure our global sustainability program meets our business needs and support our company’s 
+environmental and social goals.
+Dow Values
+Respect  Protecting 
+Integrity
+for People Our Planet
+73
+GOVERNANCE
+Ethics
+Values, Principles, Standards and Norms of Behavior
+  GRI 102-16
+Our people hold themselves and each other accountable to operate with integrity. As the global economy 
+expands and the business environment increases in complexity, the Dow Code of Conduct provides a 
+framework to focus our employees, officers and directors on our Values of Integrity and Respect for People, 
+abide by the law and be highly principled and socially responsible in all of our business practices.
+Dow Code of Conduct
+Dow’s Code of Conduct (Code) summarizes the ethical principles and policies intended to deter and prevent 
+corrupt activity such as bribery, and models appropriate ethical conduct. It also provides Dow’s position on 
+a wide array of topics including equal employment opportunity, respect in the workplace, and environment, 
+health and safety. All Dow employees are expected to understand and comply with all Company policies 
+and applicable laws, and must certify compliance with the Code annually. The Code was developed by the 
+Office of Ethics and Compliance (OEC) and key stakeholders, and approved by Dow’s Board of Directors 
+upon the separation of Dow as an independent company on April 1, 2019. The Code is available in 
+16 languages. 
+Office of Ethics and Compliance (OEC)
+Dow established its OEC in September 1998 to reinforce the Company’s long-standing commitment to 
+ethical business conduct. The OEC communicates the Company’s standards, provides guidance on issue 
+related to ethical conduct and has oversight over mechanisms for action. This includes promoting lawful 
+activity everywhere we do business, as well as helping the Company to manage risk, maintain a positive 
+reputation and avoid litigation. 
+74
+GOVERNANCE
+Ethics
+Mechanisms for Advice and Concerns about Ethics
+  GRI 102-17
+Our employees are expected to behave in a way that protects our business interests, our reputation and 
+each other. This includes taking action to promptly report any conduct inconsistent with our Code of 
+Conduct, our values or the law. The Office of Ethical Conduct (OEC) is responsible for communicating to 
+all stakeholders the mechanisms that are in place to seek advice and report potential misconduct. These 
+options are listed on Dow’s website and intranet page, on the OEC’s ethics and compliance training website, 
+and in many other communications. We respect those who raise concerns about potential misconduct, and 
+we will not tolerate retaliation against anyone who reports a potential violation in good faith.
+2019 Ethics Reports
+396
+58%
+ of matters unsubstantiated
+matters 
+27%
+ of matters substantiated
+reported to 
+OEC 15%
+ unsubstantiated but other 
+issues requiring action were uncovered
+317
+Types of issues: Conflicts of Interest, Environmental Health 
+& Safety, Human Resources, Misuse of Assets and Others. All 
+issues that require corrective action are appropriately addressed.
+warranted an 
+investigation
+NOTE: Data excludes matters investigated or reported in the first quarter of 2019 
+related to DuPont or Corteva businesses.
+75
+GOVERNANCE
+Ethics
+Conflicts of Interest 
+GRI 102-25
+All employees and others working for Dow are expected to avoid personal activities and financial interests 
+that could conflict with their Company responsibilities.
+Code of  Annual 
+Corporate 
+Conduct/Code  Ethics and 
+Governance 
+of Financial  Compliance 
+Committee
+Ethics Certification
+LEARN MORE LEARN MORE LEARN MORE
+Delegating Authority 
+GRI 102-19
+Dow employs a systematic delegation of authority structure from the Dow Executive Leadership Team 
+through the Company through a chain of command. Generally, this occurs from vice presidents to business 
+directors, to leaders and then to specialists.
+The full text of Dow’s Code of Conduct and Code of Financial Ethics is available here.
+76
+GOVERNANCE
+Oversight
+Review of Economic, Environmental and Social Topics and 
+Communicating Critical Concerns
+  GRI 102-31, GRI 102-33, GRI 102-34
+Dow's reputation and license to operate are impacted by economic, environmental and societal events and 
+developments over time and across geographies. We work to proactively identify trends and their impact, 
+to establish enterprise-wide competencies and infrastructure, and to engage the appropriate internal and 
+external expertise needed to minimize the impact of issues and events on Dow's reputation or business 
+results. 
+Throughout the year, management reviews any critical concerns and actual results compared to the 
+strategic plan with the Board and relevant committee(s). Executive management also is available to 
+discuss company strategy, plans, results and issues with the committees and the Board. The independent 
+Directors meet in executive session in connection with each regularly scheduled meeting of the Board, and 
+at other times as they may determine appropriate, and the committees typically meet in executive session 
+in connection with every committee meeting. In addition, the Audit Committee holds separate executive 
+sessions with the lead client service partner of the independent registered public accounting firm, internal 
+auditor, general counsel and other management as appropriate. 
+The Board and members of the management team continued extensive outreach to stockholders throughout 
+the year, engaging with investors who collectively held more than 50% of outstanding shares of common 
+stock of the company. Through this outreach, the management team updated investors on a range of 
+topics, including the separation with DowDuPont, the overall business strategy, current business conditions, 
+corporate citizenship and sustainability, corporate governance practices and executive compensation. 
+They also gained an understanding of the perspectives and concerns of each investor. The Board and 
+management team carefully consider the feedback from these meetings when reviewing the business, 
+corporate governance and executive compensation profiles.
+77
+GOVERNANCE
+Defined 
+Benefit Plan 
+Obligations
+Defined Benefit Plan Obligations and Other  Detailed disclosure about pension plans and other post-retirement 
+benefits can be found in the 2019 10-K. Updates to the 2020 
+Retirement Plans 
+GRI 201-3
+contribution estimates can be found within the Dow 1Q2020 10-Q.
+We have both funded and unfunded defined benefit pension plans 
+Restatements of Information 
+that cover employees in the United States and a number of other 
+GRI 102-48 
+countries. The U.S. qualified plan is the largest plan. Benefits for 
+Applicable values in the Financial Highlights table on page 11 values 
+employees hired before January 1, 2008, are based on length of 
+for 2018 have been updated in accordance with the Current Report 
+service and the employee’s three highest consecutive years of 
+on Form 8-K for Dow Inc. and TDCC, filed with the U.S. Securities 
+compensation. Employees hired after January 1, 2008, earn benefits 
+and Exchange Commission on July 25, 2019 (“Form 8-K”), which 
+that are based on a set percentage of annual pay plus interest.
+recast portions of the TDCC Annual Report on Form 10-K for the 
+Our funding policy is to contribute to the plans when pension laws  year ended December 31, 2018 (“2018 10-K”) to reflect the results 
+and/or economics either require or encourage funding. of Dow and its consolidated subsidiaries, after giving effect to the 
+distribution to DowDuPont of TDCC’s agricultural sciences business 
+• In 2019, 2018 and 2017, we contributed $261 million, $1,651 
+and specialty products business and the receipt of DuPont's 
+million and $1,672 million, respectively, to our continuing 
+ethylene and ethylene copolymers businesses (other than its 
+operations pension plans, including contributions to fund benefit 
+ethylene acrylic elastomers business) from the closing of the Merger 
+payment for our non-qualified pension plans ($266 million, $1,656 
+on August 31, 2017. The information included in the Form 8-K is not 
+million and $1,676 million, including contributions to plans of 
+an amendment to or restatement of the 2018 10-K.
+discontinued operations).
+Environmental metrics reported over several years have been 
+• In the third quarter of 2018, we made a $1,100 million discretionary 
+recalculated to reflect the scale of the organization following 
+contribution to our principal U.S. pension plan, which is included 
+separation from DowDuPont. The restatements of data can be seen 
+in the 2018 contribution amount above. The discretionary 
+by comparing the summary chart on page 27 with the corresponding 
+contribution was primarily based on our funding policy, which 
+summary chart on page 83 of the 2018 Dow Sustainability Report 
+permits contributions to defined benefit pension plans when 
+and comparing charts throughout the Environmental Impacts section 
+economics encourage funding, and reflected considerations 
+of this report on pages 28 through 40 with pages 86 through 95 of 
+relating to tax deductibility and capital structure.
+the 2018 Dow Sustainability Report.
+• The Company expects to contribute approximately $290 million to 
+its pension plans in 2020.
+78
+GOVERNANCE
+Risk 
+Management
+Managing Key Impacts, Risks and Opportunities 
+ GRI 102-29, GRI-102-30
+Did You 
+To deliver value to our customers, employees, communities and shareholders, we must understand and 
+Know?
+manage the impacts, risks and opportunities faced across our entire enterprise. We use a number of 
+tools to identify and prioritize risks and opportunities, including a sustainability materiality assessment, a 
+stakeholder engagement process and our Enterprise Risk Management process.
+Risk management is a strategic activity within Dow, and our ability to manage risk creates opportunity 
+Because 
+as well. Corporate-level identification and management of risk is systematically accomplished using 
+96%
+an integrated Enterprise Risk Management approach. The Board of Directors oversees the overall risk 
+ of all  management process. Responsibility for managing risk rests with executive management. Potential 
+manufactured goods  risks include the impact of weather-related events, access to credit, effect of foreign currency exchange 
+rate movements, and volatility in purchased feedstock and energy costs. Risk management results are 
+are directly touched 
+regularly communicated to the chief financial officer. The Audit Committee is responsible for overseeing 
+by the business of 
+that management implements and follows this risk management process and for coordinating the 
+chemistry, our industry 
+outcome of reviews by the other committees in their respective risk areas, including the Environment, 
+has a significant role  Health, Safety & Technology Committee for risk relating to safety, health or the environment. This includes 
+to play in addressing  regulatory developments, sustainability trends, intellectual property protection and significant operational 
+events, among others. A formal review of Enterprise Risk Management is conducted annually by the Audit 
+sustainable issues such 
+Committee and the Board.
+as climate change and 
+food waste.
+79
+GOVERNANCE
+Risk 
+Management
+Risk factors that have been determined to be financially material to the company related to sustainability 
+include:  
+GRI 102-15
+A complete statement of risk factors can be found on 
+page 17 of the 2019 10-K, which can be downloaded 
+here.
+80
+Safer Materials 
+GRI 416-1
+GOVERNANCE All products are assessed in an appropriate manner – depending upon EH&S profile, application and 
+exposure potential – for improvement opportunities as part of Dow’s EH&S management approach at each 
+Risk  stage of the product life cycle.
+Management
+Risk 
+Business Risk  Engaging 
+Characterization 
+Review Process Stakeholders
+Tool
+Precautionary Principle or Approach 
+ GRI 102-11
+As a responsible corporate citizen, Dow continues to use a well-defined process for assessing and managing 
+risks in the face of uncertainty. This process is science-based, ensuring decision-making includes an 
+appropriate evaluation of risk and benefits. It applies to current products as well as those under development.
+We support a precautionary approach as set out in Principle 15 of the Rio Declaration on Environment and 
+Development and view the precautionary principle as an application of the principles of risk assessment and 
+risk management. Risk assessment includes hazard identification, characterization, exposure assessment 
+and risk assessment. Risk management encompasses the identification, selection and implementation of 
+alternative actions for addressing risk through the control of identified hazards(s) and/or exposure.
+We believe that approaches should be risk-based and cost-effective. Additionally, the selected chemical 
+management approach should be:
+•  Proportional to the objective being pursued.
+•  Provisional.
+•  The least burdensome option that provides adequate protection from the risk.
+81
+Climate Change Risks and Opportunities 
+GRI 201-2
+GOVERNANCE In order to evaluate risks and opportunities associated with climate change, we have analyzed various 
+climate change scenarios. Four boundary scenarios have been considered in evaluating the impacts of 
+Risk  climate change and the impacts to Dow:
+Management Climate Change Scenarios
+Hot Air Pollution Mitigation Carbon Cap Carbon Tax
+n • World energy grows at  • China: aggressive coal  • Temp increase below 2°C • U.S. implements a $40/ton 
+o
+pti historic rate and with the  reduction and NG growth • Global cap on carbon  CO2 wellhead tax
+ri same fuel mix • Less polluting fossil  emissions • Import tariff retaliation 
+c
+es • Temp increase of 6°C  fuels in residential and  • Digital and technological  from EU – China
+D
+above pre-industrial levels transportation innovation • Global policies fractured
+RenewOabt3hle%esr H2y%dro B11io%mass RenewOabt6hle%esr H5y%dro Biomass RenO1e2twh%aebrles H4y%dro RenewOabt4hle%esr H3%ydro Biomass
+& Waste 10%
+Nuclear 11%
+4%
+x Nuclear Nuclear
+Mi 2O8%il Oil 5% Bi2o0m%ass Oil 9%
+  25% Oil 29 %
+el Natural 21%
+Fu Gas Natural N1u1c%lear Natural
+  24% Gas Gas
+0 Coal Coal 26% Coal Natural Coal 23%
+4 28% 22% 12% Gas 22%
+0
+2 20%
+Demand: 840 EJ Demand: 840 EJ Demand: 620 EJ Demand: 790 EJ
+Energy  40% 40% 10% 33%
+Demand 
+Growth
+Sources for fuel mix: • Carbon Tax: MIT Joint Program on the Science and Policy of Global 
+• Hot Air: International Energy Agency, Energy Technology Perspectives 2015  Change.
+– https://www.iea.org/etp/etp2015/ – 6D Scenario.  • Carbon Cap: International Energy Agency, Energy Technology Perspectives 
+• Pollution Mitigation: Dow analysis. 2015 – https://www.iea.org/etp/etp2015/ – 2D Scenario. 
+Climate-Related Risk Management
+The potential implications of our climate-related issues on a regulatory front include but are not limited to an 
+increased cost of purchased energy, additional capital costs for installation of GHG-emitting equipment, and 
+direct costs associated with GHG emissions. We proactively incorporate a carbon price into our business 
+planning and risk management strategies, even in jurisdictions without existing carbon legislation. We 
+also have a dedicated commercial group to handle energy contracts and purchases, including managing 
+emissions. Operationally, climate change may result in severe weather events, such as storms and droughts, 
+which can disrupt operations. We have engineered our susceptible facilities, particularly on the U.S. Gulf 
+Coast, to better withstand severe weather and rising sea levels, and we continue to study the long-term 
+implications of changing climate parameters on water availability, plant siting issues and other impacts.
+82
+GOVERNANCE
+Materiality
+2019 Materiality Assessment
+  GRI 102-46
+As a result of the team’s 
+After completing our separation from DowDuPont, Dow conducted a comprehensive update to our materiality assessment in 
+assessment, four topics 
+2019 to determine topics that are material for disclosure based on their impact on economies, the environment, society and 
+were added to Dow’s  our stakeholders. 
+prior list of material 
+A team of subject matter experts who provided the voice of stakeholders were asked to describe each potential material 
+topics: 
+GRI 102-49 topic as it relates to Dow’s products and activities, including where the impacts occur. Questions included:
+•  How do Dow’s products and activities impact economies?
+•  How do Dow’s products and activities impact the environment?
+•  How do Dow’s products and activities impact society?
+•  How do Dow’s products and activities impact the decisions of our stakeholders?*
+Team Representation Expertise Stakeholder Voice Represented
+Sustainability Directors and  Sustainability context, frequent external engagement on  Employees, customers, suppliers, community/
+Managers sustainability topics and the impact of Dow and the industry society, regulators, shareholders/investors
+VP of Investor Relations ESG as a driver of investment decisions Shareholders/investors
+Energy and Climate Change  Energy and climate policy, impact of Dow  Suppliers, customers, regulators, community/
+Directors and Managers society
+Corporate Reporting Manager External disclosure requirements,   Regulators, shareholders/investors
+corporate reputation
+We will assess our 
+Finance Director Financial impact of Dow’s activities Community/society, shareholders/investors
+ability to report on the 
+Enterprise Risk Management  Integrated risk management process Community, regulators, shareholders/investors
+required disclosures  Manager
+through 2020. Commercial and Customer  How sustainability topics relate to Dow’s business unit  Customers
+Experience Director decisions
+Environmental Directors Environmental regulations, impacts Regulators, customers, community/society
+2025 Sustainability Goal Team  Impact of Dow’s activities Community/society, employees
+Leaders
+*Including suppliers, employees, customers, community/society, regulators, shareholders/investors
+83
+GOVERNANCE
+Materiality
+Assessing Our Material Impacts 
+GRI 102-44, GRI 102-46, GRI 102-47
+The chart below indicates the scale of impact of Dow’s products and activities on economies, the environment and society, and the scale of 
+influence on the assessments and decisions of our stakeholders for each of our identified material topics.
+Impact of Dow’s products and activities on   Impact of Dow’s products and activities on the assessments and 
+For each topic, the scale of impact 
+the economy, environment and society decisions of our stakeholders
+is indicated as low, medium, or high 
+/
+baTsoasspeeisdcs omne inntp tueta omf .the materiality  Economy Environment Society Suppliers Employees Customers Community/Society Regulators Shareholdersnvestors
+I
+Safe chemistry
+Low impact
+Circular economy
+Plastic waste in the environment
+Economic performance Medium impact
+Materials
+Energy
+High impact
+Water and effluents
+Biodiversity*
+Emissions
+Effluents and waste
+Environmental compliance
+Supplier environment assessment*
+Employment
+Occupational health and safety
+Training and education*
+Diversity and equal opportunity *Topics determined to be 
+material for inclusion in Dow’s 
+Local communities
+sustainability reporting for the 
+Supplier social assessment*
+first time in 2019.
+Customer health and safety
+84
+GOVERNANCE
+Stakeholder 
+Engagement
+Engaging Our Stakeholders
+Did You 
+Engaging stakeholders and establishing collaborative partnerships is an essential element of our 
+Know?
+sustainability strategy. By engaging with a wide variety of stakeholders on a regular basis, we build a clearer 
+understanding of complex global challenges and of the local conditions in the countries where we do 
+business. 
+When launched in 1992, 
+The fundamental principles of Dow’s ongoing engagement strategy are:
+Dow’s Sustainability 
+External Advisory Council  • Information sharing and disclosure
+(SEAC) was the first of its 
+• Participating in active dialogue
+kind in the petrochemical 
+• Collaborating on issues of mutual interest
+industry.
+The overall purpose of engagement is to advance business objectives while building Dow’s reputation.  
+GRI 102-42, GRI 102-43
+Stakeholder Group  Mechanism and Frequency of Engagement
+GRI 102-40
+Customers Customers are engaged frequently throughout the year through events, meetings, emails, surveys 
+and social media. Dow’s commercial and sustainability functions work together to provide appropriate 
+engagement to customers on sustainability topics.
+Suppliers Suppliers are engaged frequently throughout the year through calls, emails and surveys.
+Employees (and prospective  Employees are engaged frequently throughout the year through surveys, emails, internet postings, individual 
+Highlight
+employees) conversations, meetings, training and others. Numerous opportunities are provided for employees at all 
+levels to provide input to sustainability practices and strategy. 
+Community/Society Communities are engaged regularly through meetings and other communication with groups including 
+In 2019, we implemented a 
+Community Advisory Panels, United Way, Habitat for Humanity, Keep America Beautiful and others. 
+company-wide employee  Wider communication with communities is through social media.
+listening strategy to gather 
+Regulators Regulators are engaged as part of normal operations for Dow teams through meetings, emails and calls.  
+more frequent and relevant  These engagements can be standard sharing of information or more detailed conversations about 
+particular regulatory issues of interest.
+feedback from employees.
+Shareholders/Investors Shareholders and investors are engaged regularly through meetings, conferences and the media. Dow’s 
+Investor Relations function works to deliver relevant information about Dow’s activities and collect 
+information about shareholder and investor sustainability priorities and strategies. 
+The key topics of interest to each stakeholder group are mapped to material sustainability topics here.
+85
+GOVERNANCE
+Stakeholder 
+Engagement
+3
+> 8 CAPs in Dow  Engaging Communities 
+GRI 413-103, GRI 413-1, GRI 413-2
+communities
+At Dow, we believe our decision-making processes are improved when we involve the community. With 
+sites in 31 countries, Dow has a daily presence in small towns and cities around the world as a neighbor, 
+REPRESENTING:
+community leader, employer and manufacturer. Understanding the needs of the communities where Dow 
+has locations, and responding in a constructive and appropriate way, is part of our role as a community 
+member and one to which we are deeply committed.
+Healthcare Business Community Advisory Panels (CAPs)
+Dow has been an industry leader in establishing and using CAPs in the communities where we have 
+operations. Dow’s CAPs represent a broad cross-section of local interests, including healthcare, education, 
+civic engagement, law enforcement and local business. The CAPs operate in more than 38 of our global 
+Education Nonprofits
+manufacturing communities and help us engage in ongoing and open communication regarding Dow’s 
+operations, safety programs, environmental conditions, community interaction and other aspects of the 
+company and plant.
+Law Enforcement Feedback from CAPs enables Dow to be responsive in addressing a community’s quality of life needs and 
+helps identify where the company can have the greatest impact. Dow continually refreshes its CAPs to 
+maximize value for both Dow and the community. To find new ways to expand their reach, CAP members 
+PROVIDING FEEDBACK FOR: also engage other community residents by inviting them to Dow-hosted events. This results in greater 
+feedback by residents and more awareness-building about Dow within the community.
+Community Surveys
+Dow’s  Safety Dow also measures its impact as a corporate citizen and identifies concerns through periodic community 
+Operations
+assessment surveys at select sites. These surveys generate feedback related to quality of life issues, Dow’s 
+“rightful role” in a community and also provide direct recommendations on opportunities where Dow can 
+have a positive impact. We address these and many more issues through our local site Community Success 
+Environmental  Community  Plans.
+Priorities Involvement
+86
+Engaging Globally
+GOVERNANCE
+Our collaborations help expand the impact of our actions and take an innovative approach to the challenges 
+facing our industry and the world. 
+Stakeholder 
+External Initiatives 
+GRI 102-12
+Engagement
+Responsible Care   Voluntary initiative of the global chemical industry, a requirement of membership in the American 
+Management System Chemistry Council.
+United Nations Global  Voluntary participant since 2007. Requires commitment to meet fundamental responsibilities 
+Compact (UNGC) and report progress in four areas: human rights, labor, environment and anti-corruption. Caring 
+for Climate signatory.
+Sustainable Packaging  Founding partner. Helped initiate a store drop-off program for hard-to-recycle plastics.
+Coalition
+Trash Free Seas Alliance  Founding member of this voluntary, by-invitation alliance in 2012. The Alliance unites industry, 
+(TFSA) science and conservation leaders who share a common goal for a healthy ocean free of trash. 
+The Alliance provides a constructive forum focused on identifying opportunities for cross-sector 
+solutions that drive action and foster innovation.
+Keep America Beautiful  Voluntary corporate partner. Greg Jozwiak, corporate vice president of Integrated Supply Chain, 
+(KAB) is a board member. Howard Ungerleider, chief financial officer, is honorary chair.
+CEO Water Mandate Voluntary participant since 2008. The CEO Water Mandate mobilizes a critical mass of business 
+leaders to address global water challenges through corporate water stewardship, in partnership 
+with the United Nations, governments, civil society organizations and other stakeholders.
+Ellen MacArthur  Voluntary member of the Circular Economy 100 (CE100) since 2016. The CE100 network 
+Foundation (EMF) facilitates market-making by providing collaborative and pre-competitive opportunities that bring 
+together business, innovators, cities and governments, universities and thought leaders.
+Operation Clean Sweep  Pledged partner in this initiative of the American Chemistry Council designed to prevent and 
+(OCS) help keep plastic out of the marine environment.
+Alliance to End Plastic  Founding member of organization with the goal to develop and scale solutions that manage 
+Waste (AEPW) plastic waste and promote post-use solutions of plastic.
+Circulate Capital Founding investor in effort to incubate and finance companies and infrastructure that prevent 
+waste in oceans.
+Task Force on Climate- In June 2017, Dow committed to implement the recommendations of the Task Force to 
+Related Financial   be transparent about risks due to climate change and our corporate response.  Our chief 
+Disclosures (TCFD) sustainability officer serves as a member of the Task Force.
+World Business Council for  WBCSD is a global, CEO-led organization of over 200 leading businesses working together to 
+Sustainable Development  accelerate the transition to a sustainable world.  Dow experts participate on numerous WBCSD 
+(WBCSD) work groups.
+87
+ADDITIONAL 
+INFORMATION
+Report 
+Information
+Significant Changes to the Organization and its Supply Chain 
+GRI 102-10
+On April 1, 2019, DowDuPont Inc. (“DowDuPont” and effective June 3, 2019, n/k/a DuPont de Nemours, Inc. 
+or “DuPont”) completed the separation of its materials science business and Dow Inc. became the direct 
+parent company of TDCC and its consolidated subsidiaries.
+The separation was contemplated by the merger of equals transaction effective August 31, 2017, under the 
+Agreement and Plan of Merger, dated as of December 11, 2015, as amended on March 31, 2017. TDCC 
+and E.I. du Pont de Nemours and Company and its consolidated subsidiaries (“Historical DuPont”) each 
+merged with subsidiaries of DowDuPont and, as a result, TDCC and Historical DuPont became subsidiaries 
+of DowDuPont (the “Merger”). Subsequent to the Merger, TDCC and Historical DuPont engaged in a series 
+of internal reorganization and realignment steps to realign their businesses into three subgroups: agricultural 
+sciences, materials science and specialty products. Dow Inc. was formed as a wholly owned subsidiary of 
+DowDuPont to serve as the holding company for the materials science business.
+Basis of Presentation
+The information in this Report reflects the activities conducted by the materials science business of Dow 
+and its consolidated subsidiaries for the full reporting period from January 1 to December 31, 2019, after 
+giving effect to the distribution to DowDuPont of TDCC’s agricultural sciences business and specialty 
+products business and the receipt of Historical DuPont’s ethylene and ethylene copolymers business (other 
+than its ethylene acrylic elastomers business).
+Additional details can be found in the 2019 Dow Form 10-K and the 2020 Proxy Statement.
+88
+ADDITIONAL 
+INFORMATION
+Independent 
+Assurance 
+Statement
+Independent Assurance Statement to Dow Inc 
+GRI 102-56
+Dow Inc (Dow) engaged ERM Certification and Verification Services (ERM CVS) to provide limited assurance in relation to the Dow 2019 
+Sustainability Report (the Report), as set out below.
+Engagement summary
+Scope of our assurance  Whether Dow has prepared the Report in accordance with the GRI Standards: Comprehensive option.
+engagement  Whether Dow’s reported progress against its 2025 Sustainability Goals is fairly presented, in all material respects, in accordance with its internal reporting criteria.
+GRI Standards (2016) except for GRI 403 (2018): Occupational Health and Safety and GRI 303 (2018): Water and Effluents.
+Reporting criteria 
+Dow Chemical 2025 Sustainability Goals.
+Assurance standard ERM CVS’ assurance methodology, based on the International Standard on Assurance Engagements ISAE 3000 (Revised).
+Assurance level Limited assurance.
+Dow is responsible for preparing the Report and for the collection and presentation of the information within it.
+Respective responsibilities
+ERM CVS’s responsibility is to provide conclusions on the agreed scope based on the assurance activities performed and exercising our professional judgement.
+Our conclusions • Webex and conference calls with Dow corporate employees to:
+Based on our activities, as described below:
+– Interview management representatives in order to understand 
+• Nothing has come to our attention to indicate that the report  Dow’s sustainability strategy, policies and management systems 
+has not been prepared in accordance with the GRI Standards:  for the relevant disclosures;
+Comprehensive option;
+– Interview 2025 Sustainability Goal project teams in order to 
+• Nothing has come to our attention to indicate that reported  understand the current status and progress of the goals and the 
+progress against Dow’s 2025 Sustainability Goals is not fairly  basis on which performance is determined;
+presented, in all material respects, in accordance with internal 
+– Review internal reporting guidelines, including reporting 
+reporting criteria.
+databases as well as any associated conversion factors used;
+Our assurance activities 
+– Review the completeness of data reported by all sites and the 
+We planned and performed our work to obtain all the information and 
+effectiveness of the internal review (QA/QC processes), including 
+explanations that we believe were necessary to provide a basis for our 
+the consolidation process;
+assurance conclusions. A multi-disciplinary team of sustainability and 
+assurance specialists performed the following assurance procedures: – Review performance during the reporting period against the 2025 
+Sustainability Goals; and 89
+ADDITIONAL 
+INFORMATION
+Independent 
+Assurance 
+Statement
+– Review a sample of qualitative and quantitative evidence  During our assurance engagement, travel restrictions were imposed 
+supporting the reported information; following the outbreak of COVID-19. As a result of this we replaced 
+the planned ‘in person’ head office visit with a ‘virtual’ visit via video 
+• Checking consistency of financial data and other information with 
+calls for this year’s assurance engagement. 
+Dow’s 2019 10K report;
+• Confirming the consistency of the reported information with 
+our understanding of Dow’s business, operations, sustainability 
+strategy and prior reporting;
+• Reviewing external media reporting relating to Dow to identify 
+      
+relevant sustainability issues in the reporting period;
+• Reviewing the report content and GRI Content Index for  Jennifer Iansen-Rogers
+completeness and accuracy against the criteria for ‘in accordance 
+Head of Corporate Assurance
+with GRI Standards: Comprehensive option’; and
+ 
+• Checking the presentation of the information relevant to the scope 
+16 June 2020
+of our work in the Report to ensure consistency with our findings. 
+The limitations of our engagement
+ERM Certification and Verification Services, London
+The reliability of the assured data is subject to inherent uncertainties, 
+www.ermcvs.com; email: post@ermcvs.com
+given the available methods for determining, calculating or 
+estimating the underlying information. We did not undertake 
+ERM CVS is a member of the ERM Group. The work that ERM CVS conducts for clients is 
+source data verification at any operated facilities. It is important to  solely related to independent assurance activities and auditor training. Our processes are 
+designed and implemented to ensure that the work we undertake with clients is free from bias 
+understand our assurance conclusions in this context.
+and conflict of interest. ERM CVS staff that have undertaken this engagement have provided 
+no consultancy related services to Dow in any respect.
+Our independent assurance statement provides no assurance on 
+statements in the report regarding future performance or on whether 
+Dow will achieve its stated goals.
+90
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+GRI Content Index
+We prepared this report in accordance with the Global Reporting Initiative (GRI) Standards Comprehensive option. This Index of Content 
+serves as a navigation tool for the GRI standards. 
+GRI 102-55 
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+1. Organizational Profile 
+102-1 Name of the organization 10  
+102-2 Activities, brands, products, and services 13-16   RT-CH-000
+102-3 Location of headquarters 12  
+102-4 Location of operations 12
+102-5 Ownership and legal form 10  
+102-6 Markets served 13-16  
+Confidentiality constraints. In the interest 
+of confidentiality and competitiveness, 
+102-7 Scale of the organization 10-11
+Dow does not report quantity of products 
+or services provided.
+102-8 Information on employees and other workers 45  
+102-9 Supply chain 66  
+Significant changes to the organization and its 
+102-10 88, 66  
+supply chain
+102-11 Precautionary principle or approach 81  
+102-12 External initiatives 87  
+102-13 Membership of associations 87  
+2. Strategy
+102-14 Statement from key decision-maker 5-8  
+102-15 Key impacts, risks, and opportunities 79, 80  
+3. Ethics and Integrity
+Values, principles, standards and norms of 
+102-16 74  
+behavior
+102-17 Mechanisms for advice and concerns about ethics 75  
+91
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+4. Governance
+The governance structure of the organization, including 
+committee responsibility is described at https://investors.dow.
+com/en/corporate-governance/default.aspx. The Environment, 
+Health, Safety & Technology Committee of the Board assists 
+102-18 Governance structure
+the Board of Directors in fulfilling its oversight responsibilities 
+with respect to environment, health, safety, corporate social 
+responsibility, public policy, philanthropy, corporate reputation, 
+and science and technology as described in its charter.
+102-19 Delegating authority 76  
+Mary Draves, chief sustainability officer and vice president 
+of Environment, Health & Safety (EH&S), is responsible for 
+Executive-level responsibility for economic, 
+102-20 EH&S and leading the definition and implementation of the 
+environmental and social topics
+Company’s sustainability strategy. Draves reports directly to 
+Jim Fitterling, chairman and chief executive officer.
+Refer to Page 6 of the 2020 Dow Proxy Statement which can be 
+Consulting stakeholders on economic, environmental 
+102-21 downloaded here: https://investors.dow.com/en/financial-reporting/
+and social topics
+default.aspx#sec-filings.
+The composition of the Board and its Committees can be found 
+at https://investors.dow.com/en/corporate-governance/default.
+Composition of the highest governance body and its 
+102-22 aspx and summarized starting on page 2 of the 2020 Dow Proxy 
+committees
+Statement which can be downloaded here: https://investors.dow.
+com/en/financial-reporting/default.aspx#sec-filings.
+Prior to the separation from DowDuPont, Jeff M. Fettig served as 
+non-employee executive chairman of the board of DowDuPont 
+while Dow operated as the Materials Science Division of 
+DowDuPont. From April 1, 2019, Jeff M. Fettig served as the 
+non-employee executive chairman of the board of Dow. Jim 
+102-23 Chair of the highest governance body Fitterling was appointed Chairman of the Board in addition to his 
+role as chief executive officer on April 9, 2020. At that time, the 
+independent Directors elected Jeff M. Fettig as Lead Director with 
+significant responsibilities detailed on page  2 of the Corporate 
+Governance Guidelines which can be downloaded at https://
+investors.dow.com/en/corporate-governance/default.aspx.
+Refer to the Dow Corporate Governance Guidelines and 
+Nominating and selecting the highest governance 
+102-24 Bylaws which can be downloaded at https://investors.dow.
+body
+com/en/corporate-governance/default.aspx.
+92
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+102-25 Conflicts of interest 76
+Refer to the Dow Corporate Governance Guidelines, page 1, The 
+Role of highest governance body in setting purpose, 
+102-26 Role of the Board, which can be downloaded at https://investors.
+values and strategy
+dow.com/en/corporate-governance/default.aspx.
+Biographies of Directors can be found at https://investors.
+dow.com/en/corporate-governance/board-of-directors/default.
+aspx. Refer to the Corporate Governance Guidelines, page 
+102-27 Collective knowledge of the highest governance body
+5, Director Orientation and Continuing Education which can 
+be downloaded at https://investors.dow.com/en/corporate-
+governance/default.aspx.
+Refer to the Corporate Governance Guidelines, page 4, Board 
+Evaluating the highest governance body's 
+102-28 Self-Evaluation which can be downloaded at https://investors.
+performance
+dow.com/en/corporate-governance/default.aspx.
+Identifying and managing economic, environmental 
+102-29 79
+and social impacts
+102-30 Effectiveness of risk-management processes 79
+102-31 Review of economic, environmental and social topics 77
+Highest governance body's role in sustainability 
+102-32 3
+reporting
+102-33 Communicating critical concerns 77
+Information unavailable. While we are able 
+to describe our mechanism to address 
+102-34 Nature and total number of critical concerns 77
+and resolve concerns, we do not track a 
+number of critical concerns.
+Refer to 2020 Dow Proxy Statement which can be downloaded 
+here: https://investors.dow.com/en/financial-reporting/default.
+102-35 Remuneration policies
+aspx#sec-filings, the section titled “Compensation Discussion & 
+Analysis” on pages 21-42.
+Refer to 2020 Dow Proxy Statement which can be downloaded 
+here: https://investors.dow.com/en/financial-reporting/default.
+102-36 Process for determining remuneration
+aspx#sec-filings, the section titled “Compensation Discussion & 
+Analysis” on pages 21-42.
+Refer to 2020 Dow Proxy Statement which can be downloaded 
+here: https://investors.dow.com/en/financial-reporting/default.
+102-37 Stakeholders' involvement in remuneration
+aspx#sec-filings, the section titled “Compensation Discussion & 
+Analysis” on pages 21-42.
+93
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Confidentiality constraints. In the interest 
+of confidentiality and competitiveness, 
+102-38 Annual total compensation ratio 47 Dow does not report ratios based on 
+individual compensation at the country 
+level.
+Data unavailable. Since this is the first 
+year of reporting compensation ratios 
+Percentage increase in annual total compensation 
+102-39 as Dow following the separation from 
+ratio
+DowDuPont, we are unable to report 
+change.
+5. Stakeholder Engagement 
+102-40 List of stakeholder groups 85  
+102-41 Collective bargaining agreements 46  
+102-42 Identifying and selecting stakeholders 85  
+102-43 Approach to stakeholder engagement 85  
+102-44 Key topics and concerns raised 84  
+6. Reporting Practice 
+The complete list of entities included in Dow’s consolidated 
+Entities included in the consolidated financial 
+102-45 financial statements can be found as Exhibit 21 to the 2019 10-K,   
+statements
+starting on page 262. None of these are not covered by this report.
+102-46 Defining report content and topic boundaries 84
+102-47 List of material topics 84  
+102-48 Restatements of information 78
+102-49 Changes in reporting 83  
+102-50 Reporting period 3  
+102-51 Date of most recent report 3  
+102-52 Reporting cycle 3  
+102-53 Contact point for questions regarding the report 3  
+Claims of reporting in accordance with the GRI 
+102-54 3  
+Standards
+102-55 GRI Content Index 91-100  
+102-56 External assurance 89 - 90  
+94
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Economic Performance 
+201-103  Management Approach 10
+201-1 Direct economic value generated and distributed 11
+Financial implications and other risks and 
+201-2 82 RT-CH-110a.2
+opportunities due to climate change
+Defined benefit plan obligations and other retirement 
+201-3 78
+plans
+Confidentiality constraints. We disclosed 
+grants information. However, tax 
+related information for this disclosure 
+201-4 Financial assistance received from government 87
+is confidential in many instances as we 
+have agreements with governments that 
+include non-disclosure provisions.
+Materials 
+301-103 Management Approach 28
+Not disclosed as aggregate quantity is 
+301-1 Materials used by weight or volume 28 impractical due to multiple purchasing 
+arrangements and delivery mechanisms.
+Information unavailable: Our businesses 
+report estimates of recycled raw 
+materials used and fraction of their 
+portfolio of products that are ultimately 
+recycled as part of our Sustainable 
+301-2 Recycled input materials used 28
+Chemistry Index Survey process. In 2019, 
+businesses reported small percentages 
+for both questions. These results are 
+not aggregated at the corporate level or 
+reported publicly.
+Information unavailable: Our businesses 
+report estimates of recycled raw 
+materials used and fraction of their 
+portfolio of products that are ultimately 
+recycled as part of our Sustainable 
+301-3 Reclaimed products and their packaging materials 28
+Chemistry Index Survey process. In 2019, 
+businesses reported small percentages 
+for both questions. These results are 
+not aggregated at the corporate level or 
+95
+reported publicly.
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Energy 
+302-103 Management Approach 30
+302-1 Energy consumption within the organization 30 RT-CH-13a.1
+302-2 Energy consumption outside of the organization 30
+302-3 Energy intensity 30
+302-4 Reduction of energy consumption 33
+Reductions in energy requirements of products and  Not applicable. Virtually all Dow products 
+302-5
+services do not require energy in use.
+Water and Effluents 
+303-103 Management Approach 35 RT-CH-140a.3
+303-1 Interactions with water as a shared resource 36
+303-2 Management of water discharge-related impacts 38
+303-3 Water withdrawal 37 RT-CH-140a.1
+Disclosed to GRI 306-1 (2016) as 
+we transition to the new 3030 water 
+303-4 Water discharge
+disclosure, which is required for reports 
+published on or after Jan. 1, 2021.
+Disclosed to GRI 306-1 (2016) as 
+we transition to the new 3030 water 
+303-5 Water consumption
+disclosure, which is required for reports 
+published on or after Jan. 1, 2021.
+Biodiversity
+Information unavailable. This topic was 
+identified as material for reporting for the 
+first time in 2019. We will develop our 
+304-103 Management Approach
+capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Information unavailable. This topic was 
+identified as material for reporting for the 
+Operational sites owned, leased, managed in, or 
+first time in 2019. We will develop our 
+304-1 adjacent to, protected areas and areas of high 
+capability to disclose through 2020 and 
+biodiversity value outside protected areas
+expect to report in the 2020 Sustainability 
+Report.
+96
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Information unavailable. This topic was 
+identified as material for reporting for the 
+Significant impacts of activities, products and services  first time in 2019. We will develop our 
+304-2
+on biodiversity capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Information unavailable. This topic was 
+identified as material for reporting for the 
+first time in 2019. We will develop our 
+304-3 Hobitats protected or restored
+capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Information unavailable. This topic was 
+identified as material for reporting for the 
+IUCN Red List species and national conservation list  first time in 2019. We will develop our 
+304-4
+species with habitats in areas affected by operations. capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Emissions  
+305-103 Management Approach 26
+305-1 Direct (Scope 1) GHG emissions 32   RT-CH-110a.1
+305-2 Energy indirect (Scope 2) GHG emissions 32  
+305-3 Other indirect (Scope 3) GHG emissions 33  
+305-4 GHG emissions intensity 32  
+305-5 Reduction of GHG emissions 33  
+305-6 Emissions of ozone-depleting substances (ODS) 34  
+Nitrogen oxides (NOx), sulfur oxides (SOx) and other 
+305-7 34   RT-CH-120a.1
+significant air emissions
+Effluents and Waste 
+306-103 Management Approach 38, 39 150a.1
+306-1 Water discharge by quality and destination 38
+306-2 Waste by type and disposal method 39
+306-3 Significant spills 40 541a.1
+97
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Information unavailable. We will be 
+reviewing ways to address this disclosure 
+on a yearly basis as we define the need to 
+306-4 Transport of hazardous waste
+capture this information. See page 68 for 
+discussion of our Transportation Safety 
+Index.
+Water bodies affected by water discharges and/or 
+306-5 36
+runoff
+Environmental Compliance  
+307-103 Management Approach 26
+Non-compliance with environmental laws and  Report by reference to the 2019 Dow 10-K, pages 21-22, Item 3, 
+307-1 RT-CH-140a.2
+regulations Legal Proceedings.
+Supplier Environmental Assessment 
+Information unavailable. This topic was 
+identified as material for reporting for the 
+first time in 2019. We will develop our 
+308-103 Management Approach
+capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Information unavailable. This topic was 
+identified as material for reporting for the 
+New suppliers that were screened using  first time in 2019. We will develop our 
+308-1
+environmental criteria capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Information unavailable. This topic was 
+identified as material for reporting for the 
+Negative environmental impacts in the supply chain  first time in 2019. We will develop our 
+308-2
+and actions taken capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Employment  
+401-103 Management Approach 41
+401-1 New employee hires and employee turnover 44, 51
+Benefits provided to full-time employees that are not 
+401-2 46
+provided to temporary or part-time employees
+98
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Due to the transfer to Workday, our 
+Human Capital Management system, 
+401-3 Parental leave 46 in 2019, the reporting was not available 
+for retention after 12 months following 
+parental leave.
+Labor/Management Relations – Occupational Health and Safety 
+403-103 Management Approach 52
+403-1 Occupational health and safety management system 52
+Hazard identification, risk assessment and incident 
+403-2 53
+investigation
+403-3 Occupational health services 55
+Worker participation, consultation and communication 
+403-4 56
+on occupational health and safety
+403-5 Worker training on occupational health and safety 56
+403-6 Promotion of worker health 57
+Reference the narrative on Safer Materials on page 82 for 
+Prevention and mitigation of occupational health  prevention of occupational health and safety impact of our 
+403-7 and safety impacts directly linked by business  products. Refer to page 68 for the discussion of transportation  320a.2
+relationships stewardship for prevention of safety impact of our transportation 
+operations.
+Workers covered by an occupational health and safety 
+403-8 54
+management system
+403-9 Work-related injuries 59 320a.1
+403-10 Work-related ill health 59
+Training and Education 
+404-103 Management Approach 48
+Information unavailable. We are unable to 
+produce breakdown of training hours by 
+gender or employee category. We will be 
+404-1 Average hours of training per year per employee 48
+reviewing ways to address this disclosure 
+on a yearly basis as we define the need to 
+capture this information.
+Programs for upgrading employee skills and transition 
+404-2 49, 51
+assistance programs
+Percentage of employees receiving regular 
+404-3 50
+performance and career development reviews
+99
+ADDITIONAL 
+INFORMATION
+GRI Content 
+Index
+Corresponding SASB 
+ GRI Standard/Disclosure Page Number(s)/Location  Omission
+Disclosure
+Diversity and Equal Opportunity 
+405-103 Management Approach 43
+405-1 Diversity of governance bodies and employees 43
+Ratio of basic salary and remuneration of women to 
+405-2 47
+men
+Local Communities 
+413-103 Management Approach 85
+Operations with local community engagement, impact 
+413-1 86 210a.1
+assessments and development programs
+Operations with significant actual and potential 
+413-2 86
+negative impacts on local communities
+ Supplier Social Assessment
+Information unavailable. This topic was 
+identified as material for reporting for 
+the first time in 2019. We will develop 
+414-103 Management Approach
+our capability to disclose through 
+2020 and expect to report in the 2020 
+Sustainability Report.
+Information unavailable. This topic was 
+identified as material for reporting for the 
+first time in 2019. We will develop our 
+414-1 New suppliers that were screened using social criteria
+capability to disclose through 2020 and 
+expect to report in the 2020 Sustainability 
+Report.
+Information unavailable. This topic was 
+identified as material for reporting for 
+Negative social impacts in the supply chain and  the first time in 2019. We will develop 
+414-2
+actions taken our capability to disclose through 
+2020 and expect to report in the 2020 
+Sustainability Report.
+Customer Health and Safety 
+416-103 Management Approach
+Assessment of the health and safety impacts of 
+416-1 83, 84
+product and service categories
+Incidents of non-compliance concerning the health 
+416-2
+and safety impacts of products and services
+100
+®™Trademark of The Dow Chemical Company or an affiliate company

@@ -1,0 +1,809 @@
+
+Willis Towers Watson’s Funds
+Sustainable Investment 
+Report 2021
+“We’ve committed to doubling our   “We’re targeting net zero greenhouse 
+exposure to climate solutions by 2030” gas emissions by 2050”
+At least 
+50% 
+“The acquisition of Acclimatise and  reduction in  
+Climate Policy Initiative’s Energy  
+GHG emissions 
+Finance team will help strengthen our 
+climate modelling and data capabilities”
+between 2015 and 2030
+“We believe diversity in decision  “We believe culture directly impacts 
+making groups can ultimately lead  a manager’s ability to maintain a 
+to better investment outcomes” sustainable competitive advantage”
+We have done over  
+200
+ 
+ 
+“We face systemic risks that need 
+engagements
+to be addressed together, through 
+ 
+ 
+70 managers
+collaboration, we can change  with over   on 
+investment for the better” sustainability issues in 2020
+1
+willistowerswatson.com Sustainable investment report 2021   
+Sustainable Investment Report 2021
+Table of contents
+Our 2021 report builds on last year’s report and 
+includes three core sections reflecting what we believe  A word form our CIO .......................................................................................3 
+our clients expect to see us report:
+Integration ...........................................................................................................4
+Climate risk ..................................................................................................5
+ How sustainable investment is integrated into our 
+Culture, and inclusion & diversity ........................................................8
+philosophy, process and portfolios, with a focus on 
+Stewardship .......................................................................................................9
+climate-related risks as well as culture and inclusion 
+and diversity Manager research ...................................................................................10
+EOS at Federated Hermes ....................................................................11
+ How we carry out effective stewardship over the 
+Willis Towers Watson collaborations ................................................13
+investments we make on our clients’ behalf
+Future plans......................................................................................................14
+ Our future plans in the sustainable investment space
+A spotlight on ‘S’ ......................................................................................14
+Getting into the detail on climate ......................................................14
+We present a core report covering three main areas  
+Stewarding financial risk .......................................................................15
+of sustainable investment, supported by active links 
+within the text and a wealth of further material in   Disclaimers .......................................................................................................16
+the appendices.
+Sustainability reporting is an evolving area, with 
+expectations varying across the globe. With improving 
+data, greater transparency and changing regulatory 
+requirements, we expect our reports to evolve over time.
+2
+willistowerswatson.com Sustainable investment report 2021   
+A word from our CIO
+Over the course of 2020, the impact of the coronavirus  Our commitment to addressing climate risks within 
+pandemic on our lives was momentous and reverberated  our investment strategies is further illustrated by our 
+in all corners of the world: loved ones were lost, families  announcement in April this year that we are targeting net 
+separated, livelihoods destroyed. Few were spared  zero greenhouse gas emissions by 2050 at the latest, with 
+heartache and grief; many were left feeling stressed,  at least a 50% reduction by 20301, in our fully discretionary 
+helpless and vulnerable, impacting general wellbeing and  delegated investment portfolios, including our TWIM Funds. 
+mental health. Being strategically ahead of a net zero transition will, in our 
+opinion, significantly improve risk-adjusted returns for our 
+In the early part of the year, there was the prospect of  clients. This will come from two sources – ‘better beta’ due 
+sustainability being sidelined, with everyone’s attention  to more effective stewardship and ‘alpha’ as the mispricing 
+on coping with the pandemic. Instead many issues were  of climate issues is resolved. We think that understanding 
+brought to the fore, such as inequality within our society,  this transition will be one of the biggest sources of alpha 
+declining biodiversity, the impact of globalisation and the  across all asset classes and that this alpha opportunity is 
+fragile interconnectivity of our world. Movements such as  likely to be greatest in the next few years. You can read 
+Black Lives Matter took centre stage over the year, bringing  more about our pledge on our website.
+to light the injustices faced by so many and highlighting 
+police brutality and racially motivated violence. As we look  Sustainability and in particular climate risk, is also at 
+to the future, the importance of inclusion and diversity (I&D),  the heart of the research agenda of our think tank, the 
+corporate culture, purpose, values and beliefs resonate  Thinking Ahead Institute (TAI), as well as the Coalition for 
+more than ever.  Climate Resilient Investment (CCRI) which we launched 
+with the World Economic Forum in late 2019. I’m delighted 
+Within Willis Towers Watson, we have done a lot of  to see these initiatives continue to grow in membership, 
+thinking about our purpose, values and obligation to all  influence, and impact, and would highlight TAI’s December 
+our stakeholders. Our purpose is investing today for a  Sustainability Summit in particular, which set out a 
+more sustainable tomorrow. We take our role in changing  compelling roadmap for the industry to follow.
+investments for the better very seriously. And our values 
+of client focus, emphasis on teamwork, integrity, respect  This year’s report builds on last year’s sustainable 
+and excellence, are more than words. They frame our  investment (SI) report in which we provided some more 
+approaches and ways of working, define our organisational  detailed explanations on how we look at sustainability and 
+culture and influence how we behave, act and seek to lead  environmental, social and governance (ESG) risks, and 
+at all levels.  opportunities within our processes and strategies. This 
+year we discuss the evolution since last year and provide 
+Another key topic for us this year has been climate change.  a deeper dive into two themes that are pivotal to our 
+We believe climate, and a just transition to net zero, is a  approach – climate risk and I&D. We hope you will find this 
+systemic and urgent global challenge that demands action  an interesting read. And whilst we look to the rest of 2021 
+from governments, corporates and investors. For our part,  with more hope and optimism, we trust that you and your 
+we have spent the year evolving our thinking, analysis and  loved ones are keeping safe. 
+tools and looking at how we can assist our many clients in 
+their journey towards more climate-resilient investments. 
+This includes, in November 2020, our acquisition of 
+Acclimatise, a market leader in climate change adaptation, 
+advisory and analytics services, specialising in physical 
+climate risk analytics. In December 2020 we also 
+announced the integration of the Climate Policy Initiative’s 
+Energy Finance team. The team will bring their leading 
+modelling and data solutions to deliver low carbon transition 
+analytics. These acquisitions bolster our existing skillsets, 
+Craig Baker 
+analytics and capabilities in climate scenario stress tests, 
+Chief Investment Officer
+sustainability and climate risk portfolio lenses and carbon 
+journey planning, allowing us to further strengthen our 
+efforts in addressing climate risks and resilience within our 
+portfolio construction approach. 
+1  T his represents a halving of emissions compared to a 2015 baseline, consistent with the goals of 
+the Paris Agreement. If we started managing the portfolio on a fully discretionary basis after that 
+date or there was a significant change in the nature of the mandate subsequent to 2015, then an 
+appropriate allowance for the shortened timeframe would be made.
+3
+willistowerswatson.com Sustainable Investment Report 2021   
+Integration
+We believe sustainable investment (SI) is central to  Our portfolio managers 
+successful long-term investment outcomes and that  at TWIM use research 
+SI considerations can materially improve risk and /  from our capital markets 
+or return for our portfolios. As such, sustainability  and manager research 
+and a focus on ESG risks and opportunities are fully  teams to build diversified 
+integrated across all aspects of what we do, including: exposures for our clients, 
+and to manage these 
+■■ Capital markets research: Our asset research  dynamically over time. 
+team forms capital market and economic views,  They engage with these 
+including on sustainability risks and opportunities,  teams to understand 
+long-term themes and trends, and current market  SDeluegsattead Ininveastmbenlet S eIrnvicvees stment Policy and incorporate their 
+pricing dynamics. Sustainability and climate risk 
+research of sustainability, 
+scenario analysis is integrated within asset allocation  Find out more about  
+to help our portfolios 
+frameworks and capital market forecasts.  our SI policy here
+integrate SI effectively 
+■■ Manager research: Our manager research team  and enable opportunities 
+explicitly and formally includes an assessment of a  to be identified in a timely manner. This helps us to 
+manager’s approach to SI, and that assessment is  build robust, diversified portfolios that aim to meet 
+reflected within our overall rating. The team engages  our clients’ risk and return requirements and looks 
+with asset managers not only to evaluate their  to ensure our portfolios are resilient to a range of 
+current capabilities, but also their plans and desired 
+sustainability-related issues and / or able to take 
+outcomes in the future and ways of achieving them.
+advantage of sustainability-related opportunities.
+■■ Portfolio construction and management: Towers 
+Watson Investment Management’s (TWIM) portfolio  Although all aspects of ESG are looked at within our 
+construction process focuses on maximising portfolio  Total Portfolio Approach, in this year’s report we  
+quality and managing risks, as evaluated through a  focus on climate risk and I&D as they form key pillars  
+number of ‘lenses’, including sustainability.  of our approach.
+We believe sustainable investment (SI) is 
+central to successful long-term investment 
+outcomes and that SI considerations can 
+materially improve risk and / or return for  
+our portfolios.
+4
+willistowerswatson.com Sustainable Investment Report 2021   
+Climate risk  A changing regulatory landscape
+We have identified climate change as a critical and  Regulation is increasingly a driver of SI. The European 
+systemic priority, given the risks it presents to our clients’  Union’s Sustainable Finance Disclosure Regulation  
+investments, the ongoing resilience of the savings universe,  (SFDR1), the UK’s Stewardship Code, Canada’s Ontario  
+and the planet as a whole. ESG disclosure in investment policies and Australia’s 
+Modern Slavery Act are just a few examples of the 
+Our approach combines deep research, proprietary  plethora of new regulatory changes we have seen in 
+portfolio management tools and analysis, effective  recent years, and we expect more to come in the future. 
+stewardship and industry collaboration. Improving  The push by regulators to ensure the industry provides 
+investment outcomes is the mainstay of every   more transparency and measurable targets should, over 
+decision we make and incorporating sustainability and   the longer term, lead to a convergence of metrics and 
+evaluating climate related-risks are fully embedded in   targets and allow for more informed decision making. We 
+our fund solutions.  are dedicated to ensuring that we enhance the disclosure 
+available to our client base, and we committed our support 
+Each fund solution incorporates the climate risk lens in  to the Task Force on Climate Related Financial Disclosure 
+different ways. In some cases, it is about capturing the  (TCFD) in 2017. In terms of the SFDR, the majority of our 
+opportunities and having an impact through, for instance,  funds are being classified as Article 8 Products – products 
+direct investments in real assets. In other cases, it is about  that promote an environmental or social characteristic by 
+managing the risk and seeking to ensure the portfolios  taking ESG criteria into account in the investment process 
+are resilient to various climate scenarios. We invite you to  – which helps illustrate our commitment to the integration 
+listen to our podcast, The weird and wonderful to provide  of ESG risks and opportunities, and our desire to provide 
+an illustration of how climate risk considerations have been  transparency around what we do and how we do it.
+incorporated into some of our multi-asset solutions. 
+Our Podfolio series
+The push by regulators to ensure the industry 
+provides more transparency and measurable 
+A podcast series on the latest developments  targets should, over the longer term, lead to a 
+across global markets, and hot topics that matter to 
+convergence of metrics and targets and allow 
+institutional investors and their portfolios. Below are 
+for more informed decision making.
+links to some of the podcasts specific to sustainability 
+and culture-related issues:
+ The role of culture in asset management
+ The weird and wonderful (part 1 – climate change)
+ The weird and wonderful (part 2 – technology and 
+social impact)
+1   The European Union’s Sustainable Finance Disclosure Regulation (SFDR) imposes new 
+ Inclusion and diversity – a frank discussion
+transparency obligations and periodic reporting requirements on investment management firms 
+at both a product and manager level. The disclosure regime applies to all products marketed into 
+ Sustainability (part 1 – lessons from Covid)
+Europe, including those managed by non-EU firms. SFDR applies specific types of disclosures for 
+different types of product categories: 
+ Sustainability (part 2 – carbon journey plan)
+ Article 9 - Products that have sustainable investment as their objective (known as 
+“Dark Green” funds)
+ Article 8 - Products that promote an environmental or social characteristic, by taking 
+ESG criteria into account in the investment process, despite it not explicitly forming part 
+of their objective (known as “Light Green” funds)
+ Article 6 - Products that do not promote any kind of ESG objective (note disclosure 
+requirements in Art 6 also applies to Art 8 & 9 products)
+  A  ll products, including products that do not purport to promote any ESG factors, must be 
+accompanied with a pre-contractual disclosure that sets out the manner in which sustainability 
+risks are integrated into investment decisions and the likely impacts of sustainability risks, such 
+as environmental events, on the returns of the product. Products that come under the scope 
+of Article 8 and Article 9 are subjected to additional pre-contractual disclosure and periodic 
+reporting requirements.
+  The majority of the disclosure requirements are effective 10 March 2021.
+5
+willistowerswatson.com Sustainable Investment Report 2021   
+Partnering with fund managers course of 2020, enhanced the disclosures expected  
+from our fund managers. This enables us to drill down 
+In our work with fund managers, we encourage and 
+into more detail when engaging with the managers 
+expect them to have a demonstrable process in place 
+and evaluating their strategies, and provide improved 
+that identifies and assesses material ESG factors, such as 
+disclosures to our clients. 
+climate risk and the impact on their investment strategy and 
+end portfolio. We also expect them to be good stewards 
+Our aim is to identify investment opportunities with an 
+of capital. Where appropriate, we steer the fund managers 
+attractive risk adjusted return, and partner with some of  
+towards better practices. Our manager research explicitly 
+our highly rated asset managers to develop innovative 
+and formally includes an assessment of a manager’s 
+products that suit our clients’ needs.
+approach to SI, with a detailed SI report produced for our 
+highest rated managers’ strategies. We have, during the 
+Our manager research explicitly and formally 
+includes an assessment of a manager’s 
+approach to SI.
+6
+willistowerswatson.com Sustainable Investment Report 2021   
+Portfolio analytics to stress-test portfolios, identify concentrations of risk and 
+areas for opportunity, and help us build robust and resilient 
+On a portfolio level, we have continued to develop our 
+portfolios for our clients. These scenarios are underpinned 
+sustainability risk and resiliency tools, including our 
+by four models – a climate model using Representative 
+sustainability lens. We use data from a variety of sources to 
+Concentration Pathways (RCPs); a socioeconomic model 
+identify the sustainability issues that are most material and 
+that uses Shared Socioeconomic Pathways (SSPs); a 
+map the exposure of securities and asset classes in the 
+model of global climate change policy; and an asset model 
+portfolio to these risks. We also analyse whether individual 
+to translate the impact of the other models into a portfolio 
+assets and the total portfolio are positively or negatively 
+context. These scenarios span from a climate emergency 
+exposed to these issues. A fund or portfolio achieving a 
+response to one of business-as-usual, combining macro 
+high resilience score should be less impacted by disruptive 
+and micro insights that together provide a valuable input to 
+sustainability trends, such as climate risk, over the long 
+asset allocation and portfolio construction.
+term, where resilience can be evaluated in absolute terms 
+or relative to a benchmark or peer group.
+In addition to the materiality and resiliency analysis, we 
+carry out top down climate scenario analysis that helps us 
+We use data from a variety of sources to 
+evaluate the impact on our portfolios of potential physical 
+identify the sustainability issues that are  
+and transition risks, including the risks to business models 
+most material and map the exposure of 
+and asset valuations of changing regulation, technology, 
+securities and asset classes in the portfolio  
+carbon pricing, etc. To support better understanding and 
+to these risks.
+management of climate risks and opportunities, we have 
+developed a set of four climate scenarios that can be used 
+Figure 1: Sustainability lens
+Magnitude
+Materiality + Magnitude = portfolio 
+  Determine portfolio 
+resilience to sustainability-related risks
+exposures to key 
+Prior belief: the neutral starting point for portfolio 
+industries
+strategy is to hold a portfolio that is resilient  
+(i.e. return invariant as possible) to the     Map ESG ratings  
+range of outcomes from the different   data to key 
+potential sustainability scenarios   sustainability issues
+that might occur in the future.
+  Derive portfolio 
+exposure to material 
+sustainability issues 
+from ESG ratings data
+  Physical climate risk 
+Materiality Sustainability  analysis for real assets
+  Determine what  ‘lens’
+sustainability issues  Other aspects
+are financially material 
+  Incorporation of 
+for different industries
+sustainability in chosen 
+  Triangulate multiple  implementation routes
+data sources to  
+  Exposure to 
+avoid over-reliance  
+sustainability-related 
+on a particular 
+opportunities
+approach / view.
+7
+willistowerswatson.com Sustainable Investment Report 2021   
+Culture, and inclusion & diversity active attempts to ensure diversity across this group 
+(seniority, gender, geographical location, education, 
+Various research indicates the importance of culture 
+work function, etc.), we believe this process benefits all 
+and leadership in all enterprises, but particularly in 
+colleagues and ensures that we maintain a culture of 
+people businesses such as our own. We define culture 
+robust and fair challenge. 
+as the collective influence from shared values and 
+beliefs on the way an organisation thinks and behaves. 
+On a corporate level, Willis Towers Watson has many 
+We believe that a good corporate culture, one where 
+initiatives to enhance our culture, sense of purpose 
+you can see alignment and consistency of employee 
+and to improve diversity and inclusion within our teams. 
+behaviours; the alignment of culture with strategy; and 
+An inclusive culture – one that embraces diverse 
+the leadership actions embedding culture; is critical in 
+backgrounds, ideas, perspectives and voice – is critical 
+helping investment teams deliver better performance 
+to our ongoing, collective success. 
+and create more value. In the competitive world of 
+generating alpha, we believe culture is a unique 
+We maintain a positive and innovative workplace where 
+ingredient and the bedrock on which a competitive 
+colleagues respect each other’s unique cultures, 
+advantage is sustained over the long term.
+backgrounds and beliefs. Developing and retaining our 
+talent is critical to our business strategy. Our employee 
+Our global not-for-profit research and innovation hub, 
+resource groups (inclusion networks) and Inclusion & 
+the Thinking Ahead Institute, has done extensive 
+Diversity Councils work in each region to engage and 
+research into effective culture in investment 
+inspire employees in each office, every day. We have 
+organisations, undertaking a global peer study on 
+inclusion networks established across the globe that 
+investment culture, leadership and diversity. You can 
+include Gender Equity, LGBT+, Multicultural, Workability 
+find their conclusions as well as interesting articles, 
+and Young Professionals. Our inclusion networks are 
+podcasts and videos on their website.
+sponsored by a member of our Operating Committee 
+or senior leader within the geography in which they 
+Within culture, we strongly believe that diversity in 
+operate to ensure representation, engagement and 
+decision-making groups can ultimately lead to better 
+participation and to engage in reverse mentoring to 
+investment outcomes. Our own investment processes 
+better understand the experiences of our diverse 
+ensure that everyone has an ability to express their 
+employees. Click here for more information.
+opinion and be heard, having input into decision 
+making. Whilst TWIM has named portfolio managers 
+for our funds, we operate to ensure that decisions 
+and knowledge are shared by the wider team. Within 
+Within culture, we strongly believe that 
+our Investment Committees across each fund, we 
+diversity in decision-making groups can 
+specifically ensure diversity of experience and 
+ultimately lead to better investment 
+thought is taken into account in every major decision. 
+outcomes. Our own investment processes 
+Furthermore, within our manager research process, a 
+ensure that everyone has an ability to 
+devil’s advocate meeting is also typically conducted 
+express their opinion and be heard, having 
+as a final phase in order to welcome further challenge 
+input into decision making.
+from all team members and provide a constructive 
+debate on the research that has been done. With 
+8
+willistowerswatson.com Sustainable Investment Report 2021   
+Stewardship
+We believe exercising stewardship rights and  majority share in the assets they hold with few formal 
+responsibilities is a powerful way to protect and  votes taken. Where there are formal votes, typically 
+enhance the value of assets for beneficiaries, the  these are via Investor Advisory Committees (IACs) 
+economy and society, and is central to the success of  which are generally made up of larger investors and 
+any long-term investment programme. Find out more in  represent the interests of all investors in the fund. 
+our recent 2020 UK Stewardship Code report and via  Accordingly, we ensure that, where possible, we have 
+some of our research on this topic as well. representation on IACs for the funds in which we 
+invest, and we play an active role in these committees, 
+We apply stewardship through a number of  advocating for best practice in all matters relating to 
+mechanisms, including as part of our manager research  ESG, including climate risk and diversity and inclusion. 
+and ongoing engagement, via a specialist stewardship  We currently hold over 60 seats on IACs and are also 
+overlay with EOS at Federated Hermes (EOS), and via  on the INREV ESG Committee, the INREV I&D sub-
+collaborative initiatives and advocacy. Within private  committee, and the RICS Taskforce on sustainability in 
+markets, the underlying fund managers typically own a  real estate in Europe.
+9
+willistowerswatson.com Sustainable Investment Report 2021   
+Manager research   Moreover, as described in the previous section, we believe 
+The goals of our manager research process are: culture directly impacts a manager’s ability to maintain a 
+sustainable competitive advantage. Corporate culture is 
+ To find the best asset managers capable of delivering  a key element in an asset manager’s long-term success, 
+superior outcomes to our clients and cognitive diversity, through the inclusion of people with 
+different ways of thinking, viewpoints and skillsets within a 
+ To work with them to explore ways to better meet our 
+team, enhances that success. To help elevate our research 
+clients’ evolving needs
+efforts in this area we ask our preferred asset managers to 
+reveal (or formulate) their plans to improve diversity within 
+Each of our asset manager appointments is seen as a 
+their teams. 
+long-term partnership with an institution we highly rate. 
+Our manager research team practises asset manager 
+We acknowledge that the industry has a long way to go to 
+engagement in the same manner that we ourselves expect 
+improve in this space and we actively engage on the topic 
+asset managers to engage in a constructive dialogue with 
+with our managers and the industry at large, to encourage 
+the businesses they own.
+them to take action. We believe this will help bring about 
+positive change for end savers and, thus, is in all our 
+The three main areas that dominate our asset manager 
+interests to devote the requisite time and effort as shown by 
+engagement are SI, with a focus on climate risks, 
+our strong support of the Diversity Project. 
+organisational culture, and I&D. What constitutes best 
+practice in these three areas has been rapidly evolving and, 
+as a result, we engage with asset managers not only to 
+To find out more about our research into diversity 
+evaluate their current capabilities, but also their plans and 
+and inclusion within the asset management industry, 
+desired outcomes in the future and ways of achieving them. 
+please refer to our research paper ‘Diversity in the 
+Asset Management Industry’ where we cover:
+As part of our ongoing research and contact with 
+managers, we identify areas of concern and will highlight 
+ Our beliefs around 
+these to the manager, alongside the rationale for our 
+the importance of  IDnvesitmventesrsity in the Asset 
+concerns and suggestions of actions they can take to  Management Industry
+diversity as a key 
+alleviate our concerns. We encourage the manager to 
+ingredient of success 
+resolve these issues within a reasonable window, typically 
+for asset managers
+around 12 months. Should there be little or no change, we 
+will engage with them further to understand the rationale   The importance 
+for the lack of progress and may take steps to review our  of looking beyond 
+rating for the strategy in question which may, in turn, impact  asset management 
+our client investment portfolios. ownership to 
+understand diversity 
+and what really drives 
+performance
+ Our approach to 
+measuring diversity and asset management 
+Over the course of 2020  
+culture and how we are engaging with the asset 
+we undertook over
+management industry
+200  The initial findings of our assessment of diversity 
+  and the positive link to performance outcomes
+ 
+ The tools we have developed to assess and assist 
+engagements
+asset managers and asset owners to help bring 
+ 
+  about change in the area of diversity 
+70 managers
+with over   on
+In addition you can listen to our podcast on the  
+sustainability issues topic here.
+10
+willistowerswatson.com Sustainable Investment Report 2021   
+EOS at Federated Hermes (EOS) is a highly regarded  It is worth mentioning that one of our preferred asset 
+specialist stewardship provider that engages with and  managers set up a subsidiary venture capital fund 
+provides voting advice on companies held in our public equity  called Oxford Sciences Innovation (OSI). OSI invested in 
+portfolios. EOS also carries out public policy engagement  Vaccitech, who, in collaboration with AstraZeneca, was 
+and advocacy on behalf of all of our clients. Its influence and  able to develop an easily distributed and effective vaccine, 
+scale, representing $1.3tr of assets under advice1, provides  offering the global potential to save lives in the fight against 
+significant leverage during engagement activities. COVID-19 and having a clear positive impact for society. 
+We have been working closely with EOS for many years, 
+For further details on EOS, its corporate engagements, 
+and currently chair its Client Advisory Board. We engage 
+voting advice and public policy work, please visit  
+with EOS to help shape and influence the key engagement 
+its website. 
+planning and prioritisation, and input into its voting policies. 
+This means we have been able to have some influence in the 
+formulation of its recent 2021-2023 plan for example, which 
+can be explored further here.
+Within TWIM’s public equity funds, we delegate voting rights 
+and the execution of those rights to our managers for the 
+securities they hold. Many of our managers also actively 
+engage with the companies in which they invest. To add 
+additional insights and rigour to the stewardship activities, 
+we have appointed EOS to provide voting advice to the 
+asset managers and to engage with the companies in the 
+portfolios, in addition to the activities undertaken by the 
+managers themselves. 
+We believe credit engagement is also very important but 
+currently under-done by the industry. Stewardship in fixed 
+income calls for investors to reflect and use the significant 
+influence that borrowers can have. Strengthening our 
+activities here, we are expanding the remit of our relationship 
+with EOS to include coverage of our credit strategies.
+An example of the important engagement work EOS 
+undertakes is their work with the pharmaceutical industry  
+on fair access to medicine, which is especially topical in 
+light of the coronavirus pandemic and concerns around fair 
+access to vaccines. 
+1  As at 31 December 2020
+11
+willistowerswatson.com Sustainable Investment Report 2021   
+Collaboration
+Collaborative initiatives and activities are very important  
+to give the investment industry a more powerful and 
+effective voice. We encourage managers to participate in 
+these initiatives.
+One example is Climate Action 100+, an investor initiative 
+aiming to ensure the world’s largest corporate greenhouse 
+gas emitters take necessary action on climate change. It 
+targets 167 companies globally. EOS is among over 575 
+investors, totalling $54tn under management, who have 
+signed up to the initiative. EOS is leading or co-leading the 
+engagement on 27 companies and collaborating with other 
+investors on another 14 companies as part of this initiative. 
+EOS case study: Engagement Climate Action 100+1 
+CA100+ oil and gas call on   capital expenditure. Subsequently, EOS had a call with 
+benchmarking methodology investors to discuss feedback around the benchmarking 
+methodology. It emphasised the need for alignment of 
+In Q3 2020, EOS had a multi-stakeholder call with all the 
+capital expenditure with the goals of the Paris Agreement 
+major European oil and gas companies along with the 
+to take a dominant role within the methodology, as it 
+leads for the Climate Action 100+ engagements. They 
+could apply to multiple different strategies. It expects 
+ran through the proposed benchmarking methodology. 
+this to be core to the methodology, with supplementary 
+Concerns were raised around the boundary for Scope 3 
+assessment criteria for those companies looking to 
+emissions, and regarding the limitations around actions 
+transition. EOS encouraged greater clarification around 
+that oil and gas companies could take in mitigating 
+Scope 3 boundaries and a need for more specificity on 
+value chain emissions. EOS noted the need for an 
+the expectations for a just transition.
+enhanced focus on positive lobbying, so that oil and gas 
+companies can play a role in the low carbon transition. 
+It raised concerns around leakage of emissions from  1  T his is not a recommendation to buy or sell specific securities, there is no assurance 
+the sector through divestment of assets and the need  that the securities discussed will remain in the portfolio, the securities discussed do not 
+represent the entire portfolio and may only represent a small portion of the portfolio, and 
+for clear disclosure around organic versus inorganic  it should not be assumed that the securities discussed were or will be profitable or that 
+capital expenditure and divestiture. It encouraged  recommendations made in the future will be profitable. 
+    T his is a sample representation of our work with an investment manager. Reduced fees 
+greater clarification around the capital expenditure 
+may be attributed to other factors besides our buying power, including asset allocations 
+methodology. Concerns were raised around the carbon  to lower fee asset classes or passive management. Outcomes will vary and there is no 
+guarantee that we can achieve savings with any particular manager in any particular  
+budget boundary used to measure the alignment of  asset class.
+12
+willistowerswatson.com Sustainable Investment Report 2021   
+Willis Towers Watson collaborations  Transition Pathway Initiative (TPI) – we are official 
+supporters of this global investor initiative that assesses 
+We believe that promoting resilient and well-functioning 
+companies’ preparedness for transition to a low carbon 
+economic and investment markets is consistent with our 
+economy. Led by asset owners and academic research 
+fiduciary duty and with our aim of changing investment for 
+from the Grantham Research Institute and London 
+the better. As covered in our 2020 report, we do this in a 
+School of Economics, TPI is supported by more than 100 
+number of ways by engaging in a dialogue with regulators 
+investors globally with combined assets over $25 trillion 
+and policymakers, and participating in the work of industry 
+(as at April 2021).
+bodies and collaborative investor initiatives.
+ Institutional Investors Group on Climate Change (IIGCC) 
+Below are a few examples of some of the many internal and  – we are members of this investor collaboration with a 
+external initiatives and partnerships in which Willis Towers  mission to mobilise capital for the low carbon transition.  
+Watson is engaged to achieve long-term SI: It has more than 300 members, across 22 countries,  
+with over €37 trillion in assets under management  
+ The Thinking Ahead Institute (TAI) – a global not-for- (as at April 2021).
+profit innovation hub, which aims to mobilise capital 
+ Coalition for Climate Resilient Investment (CCRI) – we 
+for a sustainable future. Its membership includes over 
+founded a public / private coalition, together with the 
+45 institutional asset owners and service providers 
+World Economic Forum and launched it at the UN Climate 
+committed to changing and improving the investment 
+Summit in September 2019. CCRI aims to create a more 
+industry for the benefit of the end saver. 
+climate resilient global financial industry in which key 
+ The Willis Research Network (WRN) – a collaboration  incentive structures foster an accurate pricing of physical 
+between academia and our insurance and reinsurance  climate risks in investment decision-making, resulting in 
+experts that currently involves over 60 science partners  more resilient economies and communities across the 
+worldwide. WRN seeks to integrate public science  world. Its membership and collaborative relationships 
+with the risk management community to enhance our  have grown to over 75 supporting institutions since its 
+collective ability to understand, evaluate and manage  launch. Find out more here. 
+climate risk (including extreme natural catastrophes, 
+climate variability and emerging risks) and to provide  Over the course of 2020, we continued to work with, and 
+credible scientific expertise to improve decision-making  in many cases spearhead, a number of initiatives, and also 
+across the industry.  expanded the number we work with to include:
+ Principles for Responsible Investment (PRI) – we are 
+ Investment Consultants Sustainability Working Group, 
+a signatory to the PRI, and have been selected as a 
+a collaboration that we co-founded between 17 UK 
+member of the PRI Stewardship Advisory Committee. 
+consulting firms with the aim of seeking to improve 
+Further information and our annual Transparency Report 
+sustainable investment practices across the  
+can be found at www.unpri.org. 
+investment industry.
+ UK Stewardship Code – we currently remain a Tier 1 
+ Joining both the Asian Investor Group on Climate Change 
+signatory of the 2012 version of the Code, and have 
+and the Investor Group on Climate Change (Australasia) 
+recently published our first 2020 UK Stewardship Code 
+to supplement our ongoing work with the Institutional 
+annual report with the aim of being included in the first 
+Investor Group on Climate Change in Europe
+wave of signatories to the 2020 Code. Our report can 
+be accessed here. We encourage and help our clients to   Taking up roles as a member of the PRI Stewardship 
+adhere to its principles and guidelines; further information  Advisory Committee, the chair of the EOS Client Advisory 
+can be found at www.frc.org.uk.  Board, a member of the recently formed IA and PLSA 
+Stewardship Steering Group, and membership of the 
+ The Diversity Project – we are founder members of this 
+Wellington Management Sustainability Client Advisory 
+investment industry initiative which aims to attract and 
+Council, in addition to continuing roles on the board of 
+retain diverse talent in the industry. 
+the Investor Forum and as the chair of the CFA Future of 
+Finance advisory council.
+Click here for more details of the many initiatives in 
+which Willis Towers Watson is involved. 
+13
+willistowerswatson.com Sustainable Investment Report 2021   
+Future plans
+ 
+As we look ahead, we can certainly hope for a better  Getting into the detail on climate
+year for society in 2021. There are plenty of reasons to 
+Whilst easier to separate E, S and G for the sake of 
+be optimistic, not least the roll out of vaccines. However, 
+an acronym, these areas are obviously closely tied. 
+the issues that surfaced and deteriorated last year will 
+Perhaps this is no more evident than in climate, where 
+not go away on their own. We need to learn and change 
+we must have a just transition for there to be any 
+– particularly in our relationship with people and planet. 
+transition at all.
+A spotlight on ‘S’
+We are very excited at having the expertise and 
+The ‘S’ of ESG had perhaps received the least focus  analytical power of Acclimatise and the Climate Policy 
+of the three letters historically, but this is hard to  Initiative’s Energy Finance team now within Willis 
+see lasting. 2020 was a watershed moment for  Towers Watson. Our central Climate and Resilience 
+many investors in appreciating the ‘social’ part of the  Hub has more than tripled in size to around 70 people, 
+sustainability equation – from the large scale crisis of  recognising the vital importance of getting into the 
+inequality to the specific violations in corporate supply  detail with climate. In order to really understand, 
+chains and destruction of culturally important land. quantify and act on climate risks and opportunities, 
+investors must get granular – examining company and 
+We, alongside our partners and collaborators in the  asset-specific data. We have seen a lot of strategic 
+investment industry, will elevate our focus on human  engagement with climate thus far as investors realise 
+rights in particular, recognising the must-have minimum  the extent and magnitude of the crisis, but to enable 
+standards across labour rights, modern slavery and  proper risk management and for investors to make 
+others. Whilst this will target the most severe violations  well-informed and accurate decisions, it is critical to 
+and raise standards, the quest for equality and  have detailed, bottom-up analytics and insights. And 
+inclusion extends more broadly. We have talked of our  this is precisely why we have invested in our climate 
+commitments in I&D, and our work here will span both  capabilities and data.
+how we invest and how we act ourselves.
+14
+willistowerswatson.com Sustainable Investment Report 2021   
+Stewarding financial risk
+What climate also teaches us though is that we face 
+systemic risks that affect all investors and that we 
+must all address together. This transition to becoming 
+true stewards of the financial system, rather than just  The Thinking Ahead Institute (TAI) is a global not-
+stewarding individual assets in a portfolio, is nascent  for-profit group whose mission is to mobilise capital 
+but essential. for a sustainable future. Its members comprise 
+asset owners, asset managers and other groups 
+We have long believed in the power of collaboration  motivated to influence the industry for the good 
+and the importance of addressing systemic issues. Our  of savers worldwide. It has 48 members with 
+Thinking Ahead Institute (TAI) and the Willis Research  combined responsibility for over US$12 trillion 
+Network are testament to this commitment, as well  and is an outgrowth of Willis Towers Watson 
+as our founding of the Coalition for Climate Resilient  Investments’ Thinking Ahead Group. 
+Investment (CCRI), and active participation in many 
+other major initiatives. The TAI research and innovation hub connects 
+its members from around the investment world to 
+TAI’s 2021 research agenda is an excellent summary  harness the power of collective thought leadership 
+of where we see foundations for future investment  and bring these ideas to life. 
+success– in 3D investment mandates (where ‘impact’ 
+sits alongside risk and return), in the Total Portfolio  Sustainability is becoming an ever-more-important 
+Approach, and in the power of culture. TAI members  theme for the investment industry – indeed, the 
+describe themselves as ‘systems thinkers’ and we  ‘slow but unstoppable’ sustainability train has 
+believe it is critical that we all harness this systems  now left the station, and is picking up speed. 
+perspective and become ‘systems stewards’ so that   Sustainability is a subject close to the heart of the 
+our investments and industry can best serve people   Thinking Ahead Institute and it has worked on a 
+and the planet in the future. number of related initiatives since its beginnings 
+in 2015. Much of the work focuses on equipping 
+investment organisations to have a holistic and 
+actionable understanding of sustainable investing 
+and how they create value for wider stakeholders 
+This transition to becoming true stewards  such as society and the planet. TAI does this 
+of the financial system, rather than just  through providing easy to navigate tools and 
+stewarding individuals assets in a portfolio,  guidelines, enabling better alignment of mission  
+is nascent but essential. and broadening the focus of measurement.
+During 2020, TAI research centred around two 
+major workstreams that benefitted from over 20 
+member organisations actively contributing – the 
+“Duty of Ownership”1 and the “1.5°C portfolio”2. 
+In addition, a major mid-year virtual summit was 
+held in 2020 – The Climb to the New View – along 
+with a two-day sustainability summit “Closing the 
+gaps” which explored gaps around skills, data, 
+1  T he Duty of ownership working group explored how to leverage ownership and investor 
+collaboration to drive system-level and real-world impacts collaboration and purpose, and a roadmap for  
+2  T he 1.5°C portfolio group worked towards the next generation 3-D investing mandate, that  the industry.
+emphasises the links between return, risk and impact
+15
+willistowerswatson.com Sustainable Investment Report 2021   
+Disclaimers
+Willis Towers Watson, has prepared this document for  Towers Watson Investment Management Limited 
+information only.  is the appointed Investment Manager to the 
+Alternative Credit Fund, Core Diversified Credit Fund, 
+No action should be taken based on this document as  Diversifying Strategies Fund, Hedge Advantage 
+it does not include any detailed analysis into your own  Fund, Core Diversified Fund and Partners Fund. The 
+scheme specifics. In preparing this report we have  Alternative Credit Fund, Core Diversified Credit Fund, 
+relied upon data supplied to us by third parties. While  Diversifying Strategies Fund, Hedge Advantage 
+reasonable care has been taken to gauge the reliability  Fund, Core Diversified Fund and Partners Fund are 
+of this data, this report therefore carries no guarantee  each a Qualifying Investor Alternative Investment 
+of accuracy or completeness and Willis Towers Watson  Fund organised as an Investment Company in Ireland 
+cannot be held accountable for the misrepresentation  approved by the Central Bank of Ireland. 
+of data by third parties involved.
+Towers Watson Investment Management Limited is the 
+This document is provided to the recipients solely  appointed Investment Manager to the Towers Watson 
+for their use, for the specific purpose indicated.  Global Equity Focus Fund and Towers Watson Secure 
+This document is based on information available to  Income Fund. The Towers Watson Global Equity Focus 
+Willis Towers Watson at the date of the document  Fund and Towers Watson Secure Income Fund are 
+and takes no account of subsequent developments  sub-funds of the Towers Watson Common Contractual 
+after that date. It may not be modified or provided to  Fund, an open-ended umbrella common contractual 
+any other party without Willis Towers Watson’s prior  fund with segregated liability between its sub-funds, 
+written permission. It may also not be disclosed to  which is authorised by the Central Bank of Ireland 
+any other party without Willis Towers Watson’s prior  pursuant to the Investment Funds, Companies and 
+written permission except as may be required by law.  Miscellaneous Provisions Act 2005, as amended. 
+In the absence of our express written agreement 
+to the contrary, Willis Towers Watson accepts no  The Portfolio Management Company is Towers Watson 
+responsibility for any consequences arising from any  Investment Management Ireland Limited, Willis Towers 
+third party relying on this document or the opinions   Watson House, Elm Park, Merrion Road, Dublin 4, 
+we have expressed. This document is not intended by  register number 528835, authorised and regulated by 
+Willis Towers Watson to form a basis of any decision   the Central Bank of Ireland. Anyone who is not legally 
+by a third party to do or omit to do anything. able to receive this information should return it. None 
+of the information contained within this communication 
+This material may incorporate information and data  should be construed as giving investment advice within 
+made available by certain third parties, including  or outside the United Kingdom. This document in no 
+(but not limited to): Bloomberg L.P.; CRSP; MSCI;  way constitutes an invitation to subscribe to the fund 
+FactSet; FTSE; FTSE NAREIT; FTSE RAFI; Hedge  mentioned herein. Any reference to underlying funds 
+Fund Research Inc.; ICE Benchmark Administration  within the portfolio is only for illustrative purposes 
+(LIBOR); JP Morgan; Markit Group Limited; Russell;  and opinions expressed herein may be changed 
+and, Standard & Poor’s Financial Services LLC (each  without notice at any time. Towers Watson Investment 
+a “Third Party”). Details of the disclaimers and / or  Management Limited does not warrant the accuracy, 
+attribution relating to each relevant Third Party can be  adequacy or completeness of the information and 
+found at this link. data, some of which has been provided by third parties, 
+contained herein and expressly disclaims liability for 
+Towers Watson Investment Management Limited is  errors or omissions in this information and data. No 
+authorised and regulated by the Financial Conduct  warranty of any kind, implied, expressed or statutory,  
+Authority and has approved and issued this  is given in conjunction with the information and data 
+communication for use by Professional Clients only.  here presented.
+16
+willistowerswatson.com Sustainable Investment Report 2021   
+About Willis Towers Watson
+Willis Towers Watson is a leading global advisory, 
+broking and solutions company that helps clients 
+around the realize their path for growth. With roots 
+dating to 1828, Willis Towers Watson has 45,000 
+employees serving more than 140 countries and 
+markets. We design and deliver solutions that manage 
+risk, optimize benefits, cultivate talent and expand the 
+power of capital to protect and strengthen institutions 
+and individuals. Our unique perspective allows us to 
+see the critical intersections between talent, assets 
+and ideas – the dynamic formula that drives business 
+performance. Together, we unlock potential. Learn more 
+at willistowerswatson.com.
+17
+willistowerswatson.com Sustainable Investment Report 2021   
+About Willis Towers Watson
+Willis Towers Watson (NASDAQ: WLTW) is a leading global advisory, broking and  
+solutions company that helps clients around the world turn risk into a path for growth.  
+With roots dating to 1828, Willis Towers Watson has 45,000 employees serving more 
+than 140 countries and markets. We design and deliver solutions that manage risk, 
+optimise benefits, cultivate talent, and expand the power of capital to protect and 
+strengthen institutions and individuals. Our unique perspective allows us to see the critical 
+intersections between talent, assets and ideas — the dynamic formula that drives business 
+performance. Together, we unlock potential. Learn more at willistowerswatson.com.
+     
+willistowerswatson.com/social-media
+Copyright © 2021 Willis Towers Watson. All rights reserved.
+WTW-05-2021
+willistowerswatson.com

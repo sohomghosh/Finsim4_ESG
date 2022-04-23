@@ -1,0 +1,778 @@
+
+ 
+2020 
+ANNUAL 
+SUSTAINABILITY 
+REPORT 
+ 
+QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com 
+   
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+      
+     
+   
+ 
+ 
+ 
+ 
+    CONTENTS 
+     
+Disclaimer .............................................................................................................................. 2 
+A reflection on sustainable investments in 2020 ............................................................. 4 
+1. The transformation at QUAERO CAPITAL ....................................................................... 5 
+2. Our responsible investment approach ........................................................................... 9 
+3. Our funds .......................................................................................................................... 12 
+4. Other public commitments ............................................................................................ 16 
+5. Corporate Social Responsibility at QUAERO CAPITAL .............................................. 17 
+ 
+     
+ 
+ 
+    For any question, please contact info@quaerocapital.com. 
+   
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  1 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+DISCLAIMER 
+     
+    This report includes information regarding Quaero Capital SA (together with its affiliates, 
+“QUAERO CAPITAL”) and its efforts on environmental, social, and governance performance. 
+No part of this report constitutes investment, legal, tax, regulatory, accounting, or other 
+advice of any kind. This document is confidential and is intended only for the use of the 
+person(s) to whom it was delivered. It is neither directed to, nor intended for distribution or 
+use by, any person or entity who is a citizen or resident of or located in any locality, state, 
+country or jurisdiction where such distribution, publication, availability or use would be 
+contrary to law or regulation. By receiving these materials, recipients agree to maintain all 
+information contained herein strictly confidential and not to disclose the information to 
+anyone, except within the recipient’s organization and limited to those who need to know 
+such information and who are bound by duties of confidentiality or as otherwise required by 
+law. The information presented and contained herein may not be reproduced or redistributed 
+for any other purposes without the prior written permission of QUAERO CAPITAL. 
+ 
+This document does not constitute an offer to sell or a solicitation of an offer to purchase any 
+security of any fund or any other investment vehicle or product sponsored or managed by 
+QUAERO CAPITAL. Any offer to purchase or buy securities or other financial instruments will 
+only be made pursuant to an offering document and the subscription documents, which will 
+be  furnished  to  qualified  investors  on  a  confidential  basis  at  their  request  for  their 
+consideration in connection with any such offering. The prospectus, KIID, articles, annual and 
+semi-annual reports (the "Legal Documents") may be obtained free of charge at the address 
+mentioned below. Any investment decision in connection with Quaero Capital Funds (Lux), 
+Quaero Capital Funds (Ireland) Plc and/or Quaero Capital Funds (CH) (collectively, the 
+"Quaero Funds") should be based on the information contained in the Legal Documents. 
+ 
+Unless specified, any views, including any general discussions regarding the market or market 
+conditions, reflected herein are those solely of QUAERO CAPITAL, dated as of December 31, 
+2019, and are subject to change without notice. Neither QUAERO CAPITAL nor any of its 
+affiliates are under any obligation to update or keep current the information contained 
+herein. The reported impact of initiatives is based on internal analysis of QUAERO CAPITAL 
+and information provided by the applicable portfolio company. Impacts of such initiatives are 
+estimates that have not been verified by a third party and are not necessarily reported 
+according to established voluntary standards or protocols. QUAERO CAPITAL does not 
+guarantee the accuracy, adequacy, or completeness of such information. They may also 
+reflect  the  influence  of  external  factors  such  as  macro-economic  or  industry  trends. 
+Additionally, certain information contained in this presentation constitutes “forward-looking 
+statements”. Due to various risks and uncertainties, actual events or results or the actual 
+performance of any QUAERO CAPITAL investment may differ materially from those reflected 
+or contemplated in such forward-looking statements. 
+ 
+There is no guarantee that results shown will be replicated in the future and actual results 
+may be better or worse in future years. Past performance is not indicative of future results. 
+Any information provided in this report about past investments is provided solely to illustrate 
+the  investment  process  and  strategies  previously  used  by  QUAERO  CAPITAL.  No 
+representation is being made that any investment or transaction will or is likely to achieve 
+profits or losses similar to those achieved in the past or that significant losses will be avoided. 
+Investment professionals and portfolio managers may use some or all of the techniques 
+and/or processes described herein. The specific securities and portfolio companies identified 
+and described in this report do not represent all of the securities or portfolio companies 
+purchased, sold or recommended by QUAERO CAPITAL. The reader should not assume that 
+investments in the securities and portfolio companies identified and discussed were or will 
+be profitable. 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  2 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+ESG/ investing strategies aim to consider and in some instances integrate the analysis of 
+environmental,  social  and  governance  (ESG)  factors  into  the  investment  process  and 
+portfolio. Strategies across geographies and styles approach ESG analysis and incorporate the 
+findings in a variety of ways. Incorporating ESG factors may inhibit the portfolio manager’s 
+ability to participate in certain investment opportunities that otherwise would be consistent 
+with its investment objective and other principal investment strategies. The returns on a 
+portfolio consisting primarily of ESG or sustainable investments may be lower or higher than 
+a portfolio where such factors are not considered by the portfolio manager. Because 
+sustainability criteria can exclude some investments, investors may not be able to take 
+advantage of the same opportunities or market trends as investors that do not use such 
+criteria. Companies may not necessarily meet high performance standards on all aspects of 
+ESG or sustainable investing issues; there is also no guarantee that any company will meet 
+expectations  in  connection  with  corporate  responsibility,  sustainability,  and/or  impact 
+performance. 
+ 
+Notice for Swiss investors: The Legal Documents may be obtained free of charge in French 
+from the Swiss representative of the Fund. Swiss representative: FundPartner Solutions 
+(Suisse) S.A., route des Acacias 60, CH-1211 Geneva, Switzerland. Swiss paying agent: Banque 
+Pictet & Cie S.A. route des Acacias 60, CH-1211 Geneva, Switzerland. Latest prices are 
+available on www.swissfunddata.ch. Notice for UK investors: This document has been issued 
+in the United Kingdom by Quaero Capital LLP (authorized and regulated aby the Financial 
+Conduct Authority with registration number 434203)The Legal Documents may be obtained 
+free of charge in English at the registered office of Quaero Capital LLP, 2-4 King Street, London 
+SW1Y 6QL. Notice for other investors: The Legal documents may be obtained free of charge 
+in English at the registered office of the Fund 15, avenue J.F. Kennedy L-1855 Luxembourg. 
+ 
+Although  QUAERO  CAPITAL’S  information  providers,  including  without  limitation, 
+MSCI  ESG  Research  LLC  and  its  affiliates  (the  “ESG  Parties”),  obtain  information  (the 
+“Information”) from sources they consider reliable, none of the ESG Parties warrants or 
+guarantees the originality, accuracy and/or completeness, of any data herein and expressly 
+disclaim all express or implied warranties, including those of merchantability and fitness for 
+a particular purpose. The Information may only be used for your internal use, may not be 
+reproduced or redisseminated in any form and may not be used as a basis for, or a component 
+of, any financial instruments or products or indices. Further, none of the Information can in 
+and of itself be used to determine which securities to buy or sell or when to buy or sell them. 
+None of the ESG Parties shall have any liability for any errors or omissions in connection with 
+any data herein, or any liability for any direct, indirect, special, punitive, consequential or any 
+other damages (including lost profits) even if notified of the possibility of such damages. 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  3 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+A REFLECTION ON SUSTAINABLE INVESTMENTS IN 2020 
+ 
+2020 was a key year for responsible investing and ESG funds. As the pandemic raged for most of the year and investors remained 
+cautious, sustainable investing became mainstream as it managed to grow by over 50% in an otherwise subdued fund market1. 
+Whether this rate of growth will repeat itself in the coming years remains to be seen, but we can clearly see a paradigm shift in asset 
+owners’ attitude towards responsible investing. The superposition of 3 global problems – climate change, rising inequalities and 
+corporate governance – with an increased realisation that finance has a massive responsibility in tackling these very pressing issues 
+have initiated a Copernican revolution in the role that saving plays in shaping tomorrow’s world. This change has percolated at every 
+level: the political and regulatory environment, the financial industry and the savers who no longer ignore the impact that their 
+collective pool of assets can have in defining the future. 
+In Europe, this change has given birth to the new regulations that are aiming at creating both common standards and a level playing 
+field for responsible investing. The introduction of the Regulation (EU) 2019/2088 of the European Parliament and of the Council of 
+27 November 2019 on sustainability-related disclosures in the financial services sector (SFDR) and several other national initiatives 
+should help investors navigate through the maze of claims made by the investment management industry. It is clearly only a beginning, 
+and it is easy to be critical of the first step in trying to regulate any claim that is being made by financial service firms. However, the 
+direction of travel is now very clear, and we foresee a much healthier environment, where claims of adherence to ESG standards are 
+now set in a clear framework and funds are classified according to their degree of commitment to integrating ESG criteria in their 
+investment policy. 
+For boutique players like QUAERO CAPITAL, this has been a most welcome development. The asset management industry’s role is to 
+manage saving and maximize risk adjusted after fee returns for the savers. At the same time, we are also committed to key investment 
+principles that are grounded in our core belief that our industry must have a positive contribution to some of the world’s most pressing 
+issues. Such principles drive our exclusion policy and our conviction for the need for good corporate governance. As a firm, we are 
+also striving to improve on some metrics, such as carbon footprint and climate change. In 2020, we were very pleased to be awarded 
+A+ in our PRI assessment for Strategy & Governance, reflecting the strong commitment and investment made in recent years to 
+responsible investment. 
+At the same time, we have also made strong commitment to strategies and projects that have a meaningful impact on climate change 
+and responsible investing. The QUAERO CAPITAL European infrastructure strategy has committed substantial capital to several clean 
+energy projects and monitors closely the impact its target investments have towards the achievement of the UN SDG. Equally, the 
+QCF (Lux) - Accessible Clean Energy has seen strong growth in 2020 and we are pleased that it meets the “article 9” criteria of the new 
+SFDR regulations in Europe. 
+During this unusual year we managed to maintain a Business Continuity Plan in order to stay close to our clients and employees. Our 
+IT infrastructure has always been designed to cope with such disruptions and allowed us to a smooth flexible working adaptation. We 
+are thankful to our teams for the great work during the pandemic and we are proud of the resilience that our employees have shown 
+during this difficult period. 
+ 
+ 
+Jean Keller   
+QUAERO CAPITAL 
+Chief Executive Officer 
+ 
+   
+ 
+1 Source: “Greenwashing in finance: Europe’s push to police ESG investing”, Financial Times, 10.03.2021. 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  4 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+1. THE TRANSFORMATION AT QUAERO CAPITAL 
+     
+Milestones from 2015 to 2020   
+ 
+Graph 1: Our history in responsible investment  
+Our history with responsible investment dates back a couple of years with the launch of the 
+European Infrastructure strategy in 2015, a fund with a significant portfolio of renewable 
+energy assets. As the responsible investment market has developed at an extraordinary pace 
+since then, so too have we made great changes at QUAERO CAPITAL in both our investment 
+processes and our own operations.  
+     
+   
+ 
+    Graph 2: Critical campaigns are changing the face of the business 
+     
+    The last few years has seen major movements which are changing not just society and values 
+but also affecting confidence in the shareholder capitalist model. The understanding and 
+appreciation of the growing threats of climate change are fundamentally altering major 
+industries far beyond previous expectations. Discussions around the role of business are 
+evolving, incorporating sustainability into the responsibility of business as well as society and 
+individuals. The interconnected threats of biodiversity loss, as well as developing science 
+regarding changing weather patterns such as the weakening of the gulf stream could have 
+even further impact that we currently understand. 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  5 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+     
+    In the face of these changes, we recognise the fundamental importance of considering 
+sustainability risks in our investment processes alongside emerging opportunities.  
+The challenge for us is that our philosophy to invest away from the crowds leads us to areas 
+of the market that are under appreciated and under covered by the market; by nature, 
+companies that are not rated by ESG agencies.  
+In addition, our significant investments in small to mid-cap companies and emerging markets 
+has meant less company disclosure of valuable ESG insights and data. We therefore recruited 
+an in-house ESG team who could develop knowledge and expertise beyond what was known 
+in the market. This led us to a bottom-up process for ESG analysis, leveraging our relationships 
+with companies and combining it with extensive desk research across multiple sources, in line 
+with our core philosophy for active, qualitative stock selection. 
+Through our active and long-term approach to investment, sustainability has always formed 
+part of our analysis, but over the past five years we have built strong and specific expertise in 
+responsible investment. This includes industry leading expertise in investments in the energy 
+transition through the combination of experiences in the QUAERO CAPITAL European 
+infrastructure strategy and in the teams behind the QCF (Lux) – Accessible Clean Energy and 
+QCF (Lux) – Infrastructure Securities, all of which have a significant focus on the green energy 
+transition and immense experience and knowledge.  
+As the company grows, and the variety of funds and asset classes increases, it is important 
+that we develop our approach to responsible investment in a consistent and coordinated way. 
+Thus, QUAERO CAPITAL has in place a dedicated ESG Committee which includes several senior 
+partners of the company. The ESG Committee has oversight and responsibility for the 
+development and integration of the ESG policy and for driving progress. 
+     
+QUAERO CAPITAL’s 2020   
+Achievements 
+ 
+     
+PRI Assessment    QUAERO CAPITAL scored an ‘A+’ rating for ‘Strategy & Governance’ in the 2020 PRI Annual 
+Assessment Report, reflecting the commitment and investment made in recent years to 
+responsible investment. All modules in the annual assessment saw an improvement since last 
+year. In particular, QUAERO CAPITAL achieved an ‘A’ rating for its active ownership and for 
+the incorporation of ESG criteria in its listed equities strategies. Moreover, QUAERO CAPITAL’s 
+infrastructure strategy obtained an ‘A+’ score. 
+     
+Fund Successes    We are delighted to see three of our funds stand out as best-in-class funds on sustainability 
+metrics in 20202.  
+ 
+2 Sources: Conser performs a quarterly sustainability check on each equity portfolio. Conser uses the intelligence of the sustainability market to rate each holding in 
+the portfolio, aggregated to a portfolio score between A+ and D-. More information on the scores and methodology is available on request. https://www.conser.ch/en/ 
+(scores as of 31.12.2020). 
+© 2021 Morningstar. All Rights Reserved. The information contained herein: (1) is proprietary to Morningstar and/or its content providers; (2) may not be copied or 
+distributed; and (3) is not warranted to be accurate, complete or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising 
+from any use of this information. Past performance is no guarantee of future results (scores as of 31.12.2020). 
+©2021 MSCI ESG Research LLC. Reproduced by permission (scores as of 31.12.2020). 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  6 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+ 
+Graph 3: ESG scores for QUAERO CAPITAL funds 
+ 
+These high recognitions are reflected by the funds specific objectives to allocate capital to 
+companies that either demonstrate superior sustainability characteristics or actively pursue 
+impact objectives. We are immensely proud of our early commitment to these funds and their 
+subsequent success. 
+     
+The launch of our new Climate policy   In 2020, we have implemented a climate policy to reflect our commitment to the clean energy 
+end of 2020  transition. QUAERO CAPITAL acknowledges the responsibility of the asset management 
+industry in the fight against climate change and takes climate issues into account as an 
+integral part of its responsible investment policy.  
+We see the integration of climate risk as a core part of our fiduciary duty to clients. We also 
+believe that the climate transition provides great opportunity for enhanced financial returns 
+as well as positive impact, and as such continue to innovate and develop opportunities for 
+clients in this sphere. 
+We recognise the Paris Agreement ambition to keep global temperatures to 2 degrees above 
+pre-industrial  levels,  and  the  further  ambition  to  limit  warming  to  1.5  degrees  as 
+fundamentally important for society as well as our own investments.  
+We have signed the statement of support for the Financial Stability Board’s Task Force on 
+Climate-related Financial Disclosures (TCFD).  
+One element of this policy is our new climate exclusion list, which excludes companies that 
+continue to have a significant part of their business exposed to coal mining and coal powered 
+energy without any public plans to significantly reduce this reliance to meet the 2-degree 
+scenario. We have set this limit at 20% revenue exposure from coal mining and/ or coal 
+thermal power generation. 
+     
+Our Portfolios     As part of the climate policy we will be measuring, monitoring and reporting the carbon 
+footprint of each of our public equity and fixed income funds. With the active integration of 
+ESG analysis into all fund processes we actively avoid those companies with most exposure 
+to climate change mitigation and therefore, with only one exception, report lower carbon 
+intensity than relevant benchmarks.   
+The data reflects the different carbon intensities of industries, and the exposure to these 
+industries in different geographies and benchmarks. For example, there are many carbon-
+heavy oil and gas companies and carbon intensive energy producers in Eastern Europe. For 
+our QCF (Lux) – New Europe, we invest only in those that have made a commitment to reduce 
+carbon intensity in line with the Paris agreement.   
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  7 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+It is important to highlight the carbon intensity of the QCF (Lux) – Accessible Clean Energy and 
+its clean energy benchmark. This is due to the inclusion of certain developers who, despite 
+major investments in renewable energy and commitments to a zero-carbon future, are still 
+divesting and/or retiring fossil fuel powered energy plants. We consider potential avoided 
+emissions i.e. the future impact of these renewable energy investments a more important 
+metric for this fund, alongside % green revenue.  
+     
+ 
+QUAERO CAPITAL Funds   Weighted  Benchmark3  Benchmark carbon intensity  
+average carbon  (tco2 / USDm sales) 
+intensity (tco2 / 
+USDm sales) 
+QCF (Lux) - Accessible Clean Energy   224.6  IShares Global Clean Energy ETF  233.8 
+QCF (Lux) - Infrastructure Securities  523.6  S&P Infrastructure  983.0 
+QCF (Lux) - Cullen ESG US Value   75.6  Russell Value 1000  249.0 
+QCF (Lux) - Argonaut  81.8  MSCI Europe Mid  196.7 
+QCF (Lux) - Bamboo  148.1  MSCI AC Asia Pacific  127.5 
+QCF (Lux) - China  42.4  MSCI China  141.0 
+QCF (Lux) - New Europe  490.0  MSCI Eastern Europe  652.3 
+QCF (CH) - Swiss Small& Mid Cap  24.8  SPI Extra  116.0 
+QCF (Lux) - Taiko Japan  64.6  Topix  75.0 
+QCF (Lux) - Global Convertible Bonds   82.1  Refinitiv GCB ETF  135.8 
+ 
+Table 1: QUAERO CAPITAL funds carbon intensity – data as of 31.03.2021 
+   
+ 
+3 Note: the term “Benchmark” used in this report does not refer to the index benchmark used for investment purposes and measures. 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  8 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+2. OUR RESPONSIBLE INVESTMENT APPROACH 
+     
+QUAERO CAPITAL Responsible    As a reminder, during 2018 we designed and implemented responsible investment policies 
+Investment Framework  to provide a framework in our ESG approach for our UCITS funds. This continues to be the 
+framework we apply to UCITS funds4. 
+ 
+ 
+ 
+Graph 4: QUAERO CAPITAL ESG approach  
+ 
+Dialogue & engagement    Our engagement and dialogue opportunities vary by investment strategy, but our policy 
+supports the pursuit of active dialogue with company management where possible in line 
+with our commitment to sustainability. This may mean making sure that we ask questions 
+about a company’s approach to key sustainability risks during management meetings and 
+that we ensure companies’ management teams are aware of our broad commitment to 
+sustainable,  long-term  investment.  Disclosure  and  transparency  of  sustainability  risk 
+management are a central theme to these conversations. If we can be one of many voices 
+repeating the same message, we believe executives will increasingly take notice. 
+We welcome opportunities to collaborate. We are a signatory to the IIGCC and co-sign their 
+engagement letters to governments and companies on climate change issues. 
+ 
+4 Note: this applies to all funds investing in listed securities except Quaero Capital Funds (Lux) – Yield Opportunities and Quaero Capital Funds (Lux) – World 
+Opportunities which are sub-managed by asset managers outside of the QUAERO CAPITAL Group. 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  9 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+ 
+We started working with CDP (formerly Carbon Disclosure Project) in 2018. We recognise 
+climate risk and impact as the most important issue for most industries and consider this a 
+priority for our engagement across the group. 
+ 
+ 
+For two years, we have taken the role of lead investor and co-signatory, engaging with 
+companies designated as those in industries with significant carbon risk profiles.  
+We request that companies start to disclose to CDP the full details of their climate strategy, 
+including an assessment of climate risks and opportunities, a description of the structure of 
+accountability and importantly Scope 1 – 3 carbon emissions. This information enables us and 
+other investors to better understand the profile of the investment from a climate risk 
+perspective. 
+We know this to be an important step in encouraging companies to take further steps forward 
+in their management of the issue. According to CDP, in the first year of disclosure only 38% 
+of companies have an emissions reduction target. By the third year of disclosure, that figure 
+is up to 69%5. The process of addressing the risk, measuring the footprint and disclosing the 
+strategy should ultimately result in targets to reduce and manage climate risk and footprint. 
+For our small cap funds, to date we have initiated a dialogue with 13 companies, resulting in 
+five companies replying to the CDP for the first time. We continue to see this campaign as 
+highly valuable and a project through which we can have real influence on companies and 
+their climate strategy. 
+We participate to these campaigns also with our larger funds often as co-signatory, and up to 
+now, we have signed more than 20 engagement letters.  
+     
+Voting    We consider the voting process essential to responsible investment, paying a key role in the 
+development and direction of the company, and influencing important corporate governance 
+structure. 
+In late 2019, we invested in our voting process, enrolling Glass Lewis not to make our voting 
+decisions for us, but to assist us with research which adds a great amount of value to our 
+internal voting process.  
+This information included comparison with country and industry peers, in depths analysis of 
+the balance of skills of a corporate board, and evaluation of compensation plans. Voting 
+decisions are made by fund managers, assisted by the ESG team. 
+ 
+ 
+     
+ 
+5 Source: CDP’s disclosure platform 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  10 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+Funds  Total votes  % of votes  % against/  Reasoning 
+made  absentee 
+QCF (Lux) - Accessible Clean Energy  507  100%  5.7%  Against proposals shareholder dilution and about: 
+audit/financials, board related, capital 
+management, changes to company statutes, 
+compensation elements 
+QCF (Lux) - Argonaut  904  97%  12.2%  Against proposals shareholder dilution and about: 
+audit/financials, board related, capital 
+management, compensation, and meeting 
+administration elements 
+Atlantis Japan Growth Fund Limited  42  100%  11.9%  Against proposal about: board related, and 
+compensation elements 
+QCF (Lux) - Bamboo  89  91%  11.1%  Against proposal about: board, changes to 
+company statutes, and compensation elements 
+QCF (Lux) - China*  1  100%  0%  - 
+Essor Japan Opportunities  50  100%  10%  Against proposals about: board, and 
+compensation elements 
+QCF (Lux) - Infrastructure Securities  375  100%  7.5%  Against proposals about: board, capital 
+management, compensation, governance 
+element, and social elements 
+QCF (Lux) - New Europe  391  100%  14.1%  Against proposals about: audits/financials, board, 
+capital management, changes to company 
+statutes, meeting administration elements 
+QCF (Lux) - Smaller European  785  100%  11.1%  Against proposals about: audit/financials, board 
+Companies**  related, capital management, and compensation 
+elements 
+QCF (CH) - Swiss Small& Mid Cap  712  96.2%  12.4%  Against proposals about: board related, capital 
+management, compensation elements 
+QCF (Lux) - Taiko Japan***  26  100%  3.8%  Against proposals about: board related elements 
+QCF (Lux) - Cullen ESG US Value ****  408  100%  7%  Against S/H Proposal on corporate governance 
+Table 2: QUAERO CAPITAL voting record 2020 
+ 
+*  QCF (Lux) - China was launched in November 2020 
+** QCF (Lux) - Smaller European Companies merged with QCF (Lux) - Argonaut on 22 February 2021 
+*** The fund transitioned to a new platform during the year, resulting in some missed votes 
+****Funds not covered by QUAERO CAPITAL voting guidelines. Proxy voting is managed by the investment manager 
+     
+ 
+   
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  11 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+3. OUR FUNDS 
+     
+    The Sustainable Finance Disclosure Regulation (SFDR), one of the first elements of the 
+European Commission’s Action Plan on financing sustainable growth, came into practice on 
+10 March 2021. This regulation includes transparency requirements and integration of 
+sustainability risks for all funds. The SFDR requires that funds declare themselves to be either 
+funds with a sustainable objective (article 9), funds that promote ESG characteristics (article 
+8), or ‘standard’ funds (article 6) and disclose sufficient information about the investment 
+process for investors to understand how this is met, as well as additional disclosures about 
+the impact of investments on sustainable objectives at organisation level. 
+     
+Article 8    Two of our funds, QCF (Lux) – Infrastructure Securities and QCF (Lux) – Cullen ESG US Value, 
+have been classified Article 8 funds.  
+These are funds that are committed to invest in companies that demonstrate a real 
+appreciation and commitment to sustainability throughout their operations. Both funds aim 
+to invest in companies with strong ESG profiles, meaning they manage ESG risks but also have 
+more serious sustainability commitments in place than their peers and competitors. This may 
+be  down  to  the  impact  of  their  business  on  the  environment  and  society,  or  their 
+consideration of other stakeholders such as clients, employees, or suppliers.  
+Fundamental to this approach is management for the long-term, and alignment of the 
+executive team with that time horizon.  
+The ESG commitment is demonstrated through exclusion of companies with low ESG ratings 
+(i.e. below BBB) according to MSCI, as well as the bottom-up analysis by our ESG team which 
+is integrated by the portfolio managers. In addition, industries or markets where business 
+practice is controversial, and confidence is low in adherence to sustainability principles are 
+underweighted or avoided.   
+     
+QCF (Lux) - Infrastructure Securities   Infrastructure  investments  are  intrinsically  environmentally  challenging  in  terms  of 
+greenhouse  gas  emissions,  environmental  pollution,  habitat  destruction  and  species 
+extinction. Current announced infrastructure spending plans make it the number one sector 
+for global capital investment over the next ten years. Consequently, there is an immense 
+challenge to promote responsible investment in this sector.    
+The fund aims to support only those companies which are focusing on continuing their 
+investments and activities in a sustainable way, reflected in the ESG best-in-class approach. 
+These are companies that demonstrate good standards of governance, take into account and 
+make effort to minimise negative externalities and who operate with social responsibility. We 
+believe these companies have superior prospects for financial out-performance. 
+     
+QCF (Lux) – Cullen ESG US Value     The QCF (Lux) – Cullen ESG US Value is unique in the market in its combination of a value-
+driven approach and prioritization of ESG principles. Portfolio holdings include high-quality 
+companies for which market valuations do not accurately reflect long-term fundamentals. 
+We  aim  to  take  advantage  of  market  dislocations,  namely  times  when  the  market 
+undervalues a company’s sustainable position and long-term earnings growth potential. The 
+ESG analysis is an important part of our quality assessment, identifying companies with strong 
+governance,  stable  and  responsible  stewardship  and  consistent  management  of 
+environmental and social risks. 
+ 
+ 
+ 
+ 
+     
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  12 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+Article 9    Funds that pursue a sustainability objective are regulated as Article 9 funds. These are funds 
+that are committed to allocate capital to companies that have a meaningfully positive impact 
+on a sustainability objective, aligned with the UN Sustainable Development Goals (SDGs). 
+     
+QCF (Lux) – Accessible Clean Energy   The fund has been classified as an Article 9 fund. As the name suggests, the fund has a clear 
+sustainable objective from launch – to allocate capital to companies that will make clean 
+energy accessible to all and meaningfully contribute to climate change mitigation. This is 
+achieved by investing in companies that have proven clean technology. 
+The impact of this fund can be monitored by measuring the revenue exposure to green 
+revenues involved in climate change mitigation – through industries such as renewable 
+energy developers, battery technology, de-centralised grid management, energy efficiency 
+and electric vehicle components. 
+ 
+    76% of holdings have > 50% of revenue exposed to green activities6 
+ 
+     
+    100% of holdings in the portfolio have a clear vision and strategy in line with 
+zero carbon future. 
+     
+Small Cap Funds    A  key  part  of  the  team’s  investment  process  is  getting  out  and  meeting  companies, 
+competitors and suppliers. Forming a long-term relationship with company management 
+ensures we fully understand the company and has allowed us to influence holding companies 
+in various ways. 
+This includes recommendations on capital structure, introducing management to brokers to 
+help improve the financial market coverage, and encouraging a simplification of over-
+complex businesses to release value. 
+Increasingly we are encouraging companies to make sustainability a priority in company 
+strategy, requesting greater disclosure of key ESG risks and metrics, communicating the 
+growing priority this has become for QUAERO CAPITAL, and assisting the company as they 
+embark on major improvements. 
+It has been surprising to hear during many of our engagements with companies that we are 
+the first investor to raise these issues with the company. Some companies have welcomed 
+this interaction, recognising that investor support is fundamental to enact real change. Others 
+have been more reluctant, and we must work harder to press the issue at each meeting.  
+As we invest for the long term, our time horizon to influence change is also long. 
+Over the past two years we have sought to influence companies along three main themes – 
+management of climate risk, transparency of ESG issues, and adaptation of strategies 
+involving significant E&S risks. We have logged 34 engagements in total. 
+We are particularly proud of our engagement with CDP. We believe we differ from many 
+other investors in doing so: we do not send an email to investor relations as part of a big 
+group of investors as others may do, but instead send emails directly to the CEO or CFO with 
+whom we often have a good relationship. 
+ 
+6 Green activities are understood as primary business that lies along the clean energy value chain including (i) clean energy technology development and production 
+including solar, wind, bioenergy, hydraulic, geothermal energy; (ii) renewable energy transmission and distribution; (iii) smart grid management; (iv) energy storage 
+technologies including hydrogen and batteries; (v) carbon capture and renewable energy services; (vi) raw materials used in the clean energy value chain; (vii) and 
+energy efficiency including energy efficient products, systems and processes. (% green revenue as of 31.03.2021).  
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  13 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+For most of these engagements, we receive a prompt direct reply, which usually results in 
+further dialogue between our Head of Sustainability, our fund managers and the company. 
+     
+Private Equity Funds    The investment time horizon for our investments in real assets is long, and our influence on 
+projects is considerable as we usually take majority ownership positions.  
+ESG analysis is a key part of our due diligence process, and an assessment of the impact of 
+these assets on key sustainability objectives is important.  
+KPIs are collected on an annual basis for projects, using the Sustainable Development Goal 
+(SDG) framework to identify those that are most material, and objectives are agreed over 
+time to align the projects to contribute towards the achievement of the SDGs more 
+meaningfully. 
+     
+European Infrastructure Strategies    The  team  strives  to  incorporate  ESG  considerations  into  their  decision-making  and 
+management practices.  
+To date, the team has selected investments in renewable energy, social infrastructure such 
+as hospitals and universities, optic fibre, data centres and water efficiency projects.  
+A framework based on the SDGs is used to measure the positive contribution of the strategy. 
+     
+    > 604’089 medical treatments for patients in Spain and Italy in 2020 
+ 
+     
+    102 wind turbines and 5 hydro turbines built and in operation. 
+452’856 MWh clean energy generated (wind and hydro) in 2020 
+ 
+     
+    213 new jobs created in 2020 
+7’364 jobs across all projects, directly and indirectly 
+ 
+     
+    EUR 369m Capex invested in 2020 
+More than EUR 278m of local tax contribution over project lifetimes 
+ 
+     
+Real Estate     QUAERO CAPITAL French Real Estate follows the evolution of working methods to offer new 
+generation office buildings, but also real estate services whose needs are growing, such as 
+nurseries, post-secondary schools and nursing homes7. 
+The fund has the following objectives: 
+     
+ 
+7 We plan to report specific KPIs by next year. 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  14 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+    Improve the technical quality of buildings 
+     
+    Ensure access to quality buildings and services for all 
+     
+    Improve energy and carbon performance through proactive 
+improvements 
+     
+    Engage stakeholders, including tenants and suppliers, in a collaborative 
+approach 
+ 
+   
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  15 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+4. OTHER PUBLIC COMMITMENTS 
+     
+    Over the recent years, QUAERO CAPITAL has become signatory or a member of various 
+organisation and associations.  
+     
+  2015 – UN Principles for Responsible Investment (PRI)    
+ 
+       
+  2016 – France Invest   
+ 
+       
+  2018 – The Carbon Disclosure Project (CDP)    
+ 
+       
+  2018 – The Institutional Investor Group against Climate Change (IIGCC)   
+ 
+       
+  2018 – Sustainable Finance Geneva    
+ 
+       
+  2018 – Swiss Sustainable Finance    
+ 
+       
+  2020 – Task Force for Climate-related Financial Disclosures. We have publicly pledged our   
+  support to the aims of the TCFD  
+     
+ 
+   
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  16 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+5. CORPORATE SOCIAL RESPONSIBILITY AT QUAERO CAPITAL 
+     
+Our Offices    At QUAERO CAPITAL we hold ourselves accountable for making every effort to ensure that 
+our  business  positively  impacts  society,  while  simultaneously  achieving  our  business 
+objectives. 
+In 2020, we continued and solidified the policies we have put in place in 2018 in our offices – 
+in Geneva, Zurich, Luxembourg, London, and Paris – to offer comfort to our teams as well as 
+features that help us improve our environmental efficiency. 
+•  Eliminate our use of unnecessary single-use plastics. We no longer offer staff and 
+client drinking water in plastic bottles. We instead provide each employee with a 
+glass bottle that they can refill as often as they like at filtered water sources in our 
+offices. We estimate that by eliminating single-use water bottles, we have reduced 
+our global output by about 500 plastic bottles a week. 
+•  Promote recycling. We ask our staff to recycle all material possible across our offices, 
+including (but not limited to) paper, plastics, aluminium, glass, and ink cartridges. 
+•  Use renewable energy. Our Geneva headquarters runs on 100% renewable energy, 
+and we are looking to implement the same in our other offices and we plan to do 
+the same for our office in London by 2021. 
+•  Limit business travel. We actively encourage our employees to participate in video 
+conferences as an alternative to business travel wherever possible. To this end, we 
+have invested in video conferencing technology for every office. 
+•  Reduce our carbon footprint. In line with our climate policy recently launched, in 
+2020, we undertook an extensive process of mapping our principal carbon emissions 
+in line with the GHG protocol. This includes scope 2 emissions (electricity used in 
+offices) and scope 3 emissions (business travel and employee commutes). For the 
+coming years, the priority is to reduce our footprint through minimising business 
+travel  emission  where  possible,  encourage  employees  to  commute  by  public 
+transport and bicycle and maximise energy efficiency in office building. Alongside 
+these efforts we commit to offset remaining carbon emissions through carbon offset 
+projects. We believe this is a valuable and meaningful tool only if it is with fully 
+audited and verified programs to ensure the projects are additive, meaningful, and 
+permanent. 
+     
+Our Staff    We recognise that we can deliver positive value for our investors thanks to the dedication of 
+our team, and therefore it is our responsibility as an employer to create a positive and 
+supportive environment for our staff in which they can thrive. 
+The diversity of our workforce is very important at QUAERO CAPITAL, and our continued 
+success is influenced by the wide variety of experiences and capabilities our staff bring to our 
+business.  
+We work to ensure that QUAERO CAPITAL provides equal opportunities to all our employees 
+and job applicants regardless of (amongst others) their gender, religion, race, nationality, age 
+or sexual orientation.   
+•  In 2019, we implemented a paternity leave policy offering 2 weeks of paternity leave 
+to our employees in the year following the birth of the child. We continue to review 
+these policies, with an aim of supporting both men and women in the workplace.  
+•  In 2020, just before the pandemic started, we put in place a flexible working policy 
+where employees can work from home one day per week. 
+     
+ 
+ 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  17 
+ANNUAL SUSTAINABILITY REPORT 2020 
+    May 2021 
+ 
+ 
+ 
+Charity    We donate annually to: 
+•  The EPIC Foundation, which works with disadvantaged youths globally. 
+•  SOS Enfants, which provides free psychological and educational support to children, 
+adolescents and their parents. 
+•  Fondation Dr Henri Dubois-Ferrière Dinu Lipatti, which contributes to scientific 
+research on leukaemia and other blood diseases. 
+QUAERO CAPITAL on behalf of its infrastructure projects supports local community by 
+sponsoring charity projects in various leisure programs. We strongly believe that it is 
+important to participate to the economic as well as social development of communities in 
+which we operate. 
+     
+ 
+ 
+  QUAERO CAPITAL | info@quaerocapital.com | quaerocapital.com  18 
