@@ -1,4 +1,5 @@
+Google sheets: https://docs.google.com/spreadsheets/d/10NhblR7VT_GVcGA2QvK-is6ry2oyg2T2dAZ-FexxYHY/edit#gid=1632169541
 TO-DO
 1) Try to gather hierarchhy in ESG Taxonomy
-2) 25 Concepts mwntioned here seems to be independent
+2) 25 Concepts mwntioned here seems to be independent: No hierarchy
 3) 
