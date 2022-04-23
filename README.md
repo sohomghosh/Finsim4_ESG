@@ -1,3 +1,10 @@
+The starter codes, data, meta-data has been provided by the organizers of [FinSim 2022](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022/shared-task-finsim4-esg). More details about this shared task is availabe [here](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022/shared-task-finsim4-esg).
+
+
+The raw dataset are released under the CC BY-NC-ND license. More details are available [here](https://drive.google.com/file/d/1uLt-2WlCz9YE43DLXoQQOowhomBEnSTs/view). You can obtain the raw datasets from this [link](https://drive.google.com/drive/folders/16B5hSyvmtPGuGzV9ek3td2gPiCthVBMf?usp=sharing) if you fulfill the terms and conditions.
+
+We have extracted texts from pdfs provided by the organizers and placed them in the folder data/txt_data. The pdfplumber Python library was used for this.
+
 # FinSim 2022 official toolkit and datasets for ESG related tasks
 
 Any issue using this repository can be reported to the organizers at *fin.sim.task@gmail.com*.
