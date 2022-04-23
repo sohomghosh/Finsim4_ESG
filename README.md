@@ -5,6 +5,8 @@ The raw dataset are released under the CC BY-NC-ND license. More details are ava
 
 We have extracted texts from pdfs provided by the organizers and placed them in the folder data/txt_data. The pdfplumber Python library was used for this.
 
+Taxonomy can be downloaded from [here](https://ec.europa.eu/sustainable-finance-taxonomy/tool/index_en.htm).
+
 # FinSim 2022 official toolkit and datasets for ESG related tasks
 
 Any issue using this repository can be reported to the organizers at *fin.sim.task@gmail.com*.
