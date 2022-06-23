@@ -5,6 +5,22 @@ The starter codes, data, meta-data has been provided by the organizers of [FinSi
 
 The raw dataset are released under the CC BY-NC-ND license. More details are available [here](https://drive.google.com/file/d/1uLt-2WlCz9YE43DLXoQQOowhomBEnSTs/view). You can obtain the raw datasets by reaching out to the organizers if you fulfill the terms and conditions.
 
+Our work can be cited as follows:
+
+```bibtex 
+@inproceedings{ghosh-2022-finsim-esg,
+    title = "Ranking Environment, Social And Governance Related Concepts And Assessing Sustainability Aspect Of Financial Texts",
+    author={Ghosh, Sohom and Naskar, Sudip Kumar},
+    booktitle = "Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP@IJCAI-ECAI 2022)",
+    month = "July" ,
+    year = "2022",
+    address = "Vienna, Austria",
+    publisher = "-",
+    url = "https://mx.nthu.edu.tw/~chungchichen/FinNLP2022_IJCAI/14.pdf",
+    pages = "87--92",
+}
+
+```
 Anything below this has been authored by the FinSim-4 organizers.
 
 # FinSim 2022 official toolkit and datasets for ESG related tasks
