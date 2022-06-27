@@ -5,6 +5,8 @@ The starter codes, data, meta-data has been provided by the organizers of [FinSi
 
 The raw dataset are released under the CC BY-NC-ND license. More details are available [here](https://drive.google.com/file/d/1uLt-2WlCz9YE43DLXoQQOowhomBEnSTs/view). You can obtain the raw datasets by reaching out to the organizers if you fulfill the terms and conditions.
 
+You can access our model from [Hugging Face](https://huggingface.co/sohomghosh/LIPI_FinSim4_ESG_task2).
+
 Our work can be cited as follows:
 
 ```bibtex 
